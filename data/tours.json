@@ -1,0 +1,239 @@
+{
+ "lastUpdated": "2026-11-02",
+ "timezone": "America/Los_Angeles",
+ "priceNotice": "票价为价格快照，不是秒级行情，各条目标注了各自的快照日期与费用口径。官方面价未公布时会明确留空；转售价格均标明来源与查询日期。",
+ "distanceNotice": "这些场次都在西雅图，但研究快照没有可靠的距离数据，因此没有伪造公里数或“离你最近”排序。",
+ "_schema": {
+  "start": "本地开演时间，西雅图时间（America/Los_Angeles），格式 YYYY-MM-DDTHH:mm",
+  "durationMinutes": "可选；官方未公布结束时间时用于 .ics 的估算时长",
+  "onsale": "可选。presale / general 各为 {label, start(PT, YYYY-MM-DDTHH:mm，可省略), url, note}。只填能从官方来源核实的时间；不确定就不要填。status: on_sale 表示已开售但开票时间未核实。没有 onsale 字段 = 显示‘开票时间待公布’"
+ },
+ "upcoming": [
+  {
+   "id": "boynextdoor-20261115",
+   "artist": "BOYNEXTDOOR",
+   "title": "KNOCK ON Vol.2",
+   "tag": "KNOCK ON VOL.2",
+   "status": {
+    "text": "已核实",
+    "ok": true
+   },
+   "verified": true,
+   "start": "2026-11-15T19:30",
+   "doors": "18:30",
+   "durationMinutes": 180,
+   "venue": {
+    "name": "Showbox SoDo",
+    "address": "1700 1st Ave S, Seattle, WA 98134"
+   },
+   "ticketUrl": "https://www.showboxpresents.com/events/detail/1477898",
+   "rows": [
+    {
+     "label": "官方面价",
+     "value": "未公布"
+    },
+    {
+     "label": "转售起售价",
+     "value": "约 $89 起",
+     "note": "转售价（非官方面价），2026-10-29 快照"
+    }
+   ],
+   "onsale": {
+    "status": "on_sale",
+    "note": "官方巡演站与场馆页标注 On sale now；原始开票时间未核实，因此不设提醒。",
+    "general": {
+     "label": "公开发售 · Showbox 官方票务页",
+     "url": "https://www.showboxpresents.com/events/detail/1477898"
+    }
+   },
+   "search": "BOYNEXTDOOR KNOCK ON Vol.2 Showbox SoDo ConcertFix resale",
+   "sources": [
+    {
+     "label": "场馆官方页（Showbox）",
+     "url": "https://www.showboxpresents.com/events/detail/1477898"
+    },
+    {
+     "label": "ConcertFix 场次页",
+     "url": "https://concertfix.com/tours/boynextdoor+showbox-sodo+seattle-wa"
+    },
+    {
+     "label": "Vivid Seats 转售页",
+     "url": "https://www.vividseats.com/boynextdoor-tickets/performer/427592"
+    }
+   ]
+  },
+  {
+   "id": "katseye-20261117",
+   "artist": "KATSEYE",
+   "title": "WILDWORLD TOUR",
+   "tag": "WILDWORLD TOUR",
+   "status": {
+    "text": "已核实",
+    "ok": true
+   },
+   "verified": true,
+   "start": "2026-11-17T20:00",
+   "durationMinutes": 180,
+   "venue": {
+    "name": "Climate Pledge Arena",
+    "address": "334 1st Ave N, Seattle, WA 98109"
+   },
+   "ticketUrl": "https://www.ticketmaster.com/event/0F0064A9D030C333",
+   "rows": [
+    {
+     "label": "转售市场起售价",
+     "value": "约 $251 起",
+     "note": "二手市场快照价（非官方票面价），SeatGeek 2026-11-02 快照"
+    },
+    {
+     "label": "本次巡演阵容",
+     "value": "4 人",
+     "note": "Manon、Sophia 休养缺席"
+    }
+   ],
+   "onsale": {
+    "status": "on_sale",
+    "note": "来源：Climate Pledge Arena 官方公告（2026-05-13）。katseye.world 预售同日 15:00 PT。",
+    "presale": {
+     "label": "Weverse 艺人预售（付费会员）",
+     "start": "2026-05-20T11:00",
+     "url": "https://climatepledgearena.com/katseye-announces-2026-headline-arena-tour-of-uk-eu-and-north-america/"
+    },
+    "general": {
+     "label": "公开发售（Ticketmaster）",
+     "start": "2026-05-21T15:00",
+     "url": "https://www.ticketmaster.com/event/0F0064A9D030C333"
+    }
+   },
+   "search": "KATSEYE WILDWORLD TOUR Climate Pledge Arena resale",
+   "sources": [
+    {
+     "label": "场馆官方公告（Climate Pledge Arena）",
+     "url": "https://climatepledgearena.com/katseye-announces-2026-headline-arena-tour-of-uk-eu-and-north-america/"
+    },
+    {
+     "label": "NYPost 报道",
+     "url": "https://nypost.com/2026/09/25/ticket-sales/what-do-tickets-cost-to-see-snl-musical-guest-katseye-on-tour/"
+    },
+    {
+     "label": "SeatGeek 巡演页",
+     "url": "https://seatgeek.com/katseye-tickets"
+    },
+    {
+     "label": "TixTracer 转售页",
+     "url": "https://tixtracer.com/tickets/katseye"
+    }
+   ]
+  },
+  {
+   "id": "oneus-20261206",
+   "artist": "ONEUS",
+   "title": "2026 World Tour: Full Moon",
+   "tag": "FULL MOON",
+   "status": {
+    "text": "官方在售",
+    "ok": true
+   },
+   "verified": true,
+   "start": "2026-12-06T19:30",
+   "durationMinutes": 180,
+   "venue": {
+    "name": "Showbox SoDo",
+    "address": "1700 1st Ave S, Seattle, WA 98134"
+   },
+   "ticketUrl": "https://www.axs.com/events/1593480/2026-oneus-world-tour-full-moon-tickets?cid=usaffdostuff",
+   "rows": [
+    {
+     "label": "官方面价",
+     "value": "未公布",
+     "note": "AXS 在售"
+    },
+    {
+     "label": "转售起售价",
+     "value": "约 $85 起",
+     "note": "转售价（非官方面价），2026-10-29 快照"
+    }
+   ],
+   "onsale": {
+    "status": "on_sale",
+    "note": "AXS 官方场次页在售；原始开票时间未核实，因此不设提醒。",
+    "general": {
+     "label": "公开发售 · AXS 官方场次页",
+     "url": "https://www.axs.com/events/1593480/2026-oneus-world-tour-full-moon-tickets?cid=usaffdostuff"
+    }
+   },
+   "search": "ONEUS World Tour Full Moon Showbox SoDo AXS resale",
+   "sources": [
+    {
+     "label": "AXS 官方场次页",
+     "url": "https://www.axs.com/events/1593480/2026-oneus-world-tour-full-moon-tickets?cid=usaffdostuff"
+    },
+    {
+     "label": "场馆官方页（Showbox）",
+     "url": "https://www.showboxpresents.com/events/detail/1593480"
+    },
+    {
+     "label": "转售页",
+     "url": "https://www.etickets.com/concerts/pop-rock/oneus-seattle-wa-12-06-2026/8272843/t"
+    },
+    {
+     "label": "Vivid Seats 转售页",
+     "url": "https://www.vividseats.com/oneus-tickets/performer/117881"
+    }
+   ]
+  }
+ ],
+ "past": [
+  {
+   "title": "aespa · 10/10",
+   "text": "西雅图场次已结束。",
+   "links": []
+  },
+  {
+   "title": "Epik High · 10/22 · Neptune Theatre",
+   "text": "第一场已结束；原记录为 20:00 开演，AXS 官方票售罄，转售约 $64 起。",
+   "links": []
+  },
+  {
+   "title": "MONSTA X · 10/24 · WAMU Theater",
+   "text": "2026 MONSTA X WORLD TOUR [THE X : NEXUS] 西雅图场已结束；原记录为 20:00 开演，官方标准票 $49.50 起。",
+   "links": []
+  },
+  {
+   "title": "ARTMS · 10/25 · Showbox SoDo",
+   "text": "西雅图场已结束；原记录为 19:00 开演、18:00 开门，转售 $84.67 起。",
+   "links": []
+  },
+  {
+   "title": "Epik High · 10/25 · Neptune Theatre",
+   "text": "第二场已结束；原记录为 20:00 开演，官方标准票 $65.60。",
+   "links": []
+  },
+  {
+   "title": "TEN · 10/17 · Moore Theatre",
+   "text": "US Showcase Tour 已结束；原记录为 20:00 开演、19:00 开门，第三方列示约 $72.60 起。",
+   "links": []
+  },
+  {
+   "title": "UAU · 10/11 · El Corazon",
+   "text": "FANCON [Playlist #Your Youth] 已结束；原记录为 19:00 开演、18:00 开门，GA $50 起（不含手续费）。",
+   "links": []
+  },
+  {
+   "title": "TAEMIN · K-ERA Fest 2026 · 10/25",
+   "text": "Climate Pledge Arena 场次已取消：因美方签证延误取消，门票按原购买渠道全额退款；Bell Harbor 的 K-culture 展览延期至 2027 年春季。",
+   "links": [
+    {
+     "label": "场馆公告",
+     "url": "https://climatepledgearena.com/event/taemin-k-era-fest-26/"
+    },
+    {
+     "label": "allkpop 报道",
+     "url": "https://lab.allkpop.com/article/2026/10/shinees-taemins-canceled-seattle-concert-pushes-back-k-culture-festival-featuring-31-korean-brands-to-2027"
+    }
+   ],
+   "cancelled": true
+  }
+ ],
+ "pastSummary": "已结束 / 已取消 · aespa 10/10、UAU 10/11、TEN 10/17、Epik High 10/22、MONSTA X 10/24、ARTMS 10/25、Epik High 10/25、TAEMIN 10/25"
+}

@@ -1,0 +1,417 @@
+{
+ "lastUpdated": "2026-11-02",
+ "sections": [
+  {
+   "id": "month",
+   "title": "过去一个月的舞台",
+   "range": "2026-09-23 – 10-23",
+   "note": "说明：窗口为 2026-09-23 至 2026-10-23；9 月下旬韩国周打歌节目因中秋 / 亚运会停播较多，实际收录舞台从 10 月 1 日起算。",
+   "items": [
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-10-23",
+     "title": "MEOVV《GO HARD》",
+     "basisLabel": null,
+     "note": "第二周舞台，完整两周宣传收官。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=TUXeTwi2KqM"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-10-23",
+     "title": "JxJ（SEVENTEEN Jeonghan × Joshua）《12 o'clock》",
+     "basisLabel": null,
+     "note": "首周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=3oMikOjl0EI"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-10-23",
+     "title": "A2O LITE《NEON》",
+     "basisLabel": null,
+     "note": "三冠后舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=oUYySJyuHKQ"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-10-23",
+     "title": "NMIXX《Birthday Wish》",
+     "basisLabel": null,
+     "note": "首周舞台（《Strange Muse》是 EP 名，主打为 Birthday Wish）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=K_jRuAwEBS8"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-10-23",
+     "title": "IVE《Looks Can Kill》",
+     "basisLabel": null,
+     "note": "本周第二场放送舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=SYiFA6Qu0mc"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-22",
+     "title": "MEOVV《GO HARD》",
+     "basisLabel": null,
+     "note": "第二周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=l5R9WxB-4Yk"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-22",
+     "title": "NCT WISH《I SPY》",
+     "basisLabel": null,
+     "note": "第二周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=E8qv5k5IXIY"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-22",
+     "title": "JxJ（SEVENTEEN Jeonghan × Joshua）《12 o'clock》",
+     "basisLabel": null,
+     "note": "首周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=UL4eQD0hX5Y"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-22",
+     "title": "NMIXX《Birthday Wish》",
+     "basisLabel": null,
+     "note": "首周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=2et9-4peX1M"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-22",
+     "title": "IVE《Looks Can Kill》",
+     "basisLabel": null,
+     "note": "首个放送打歌舞台（10/19 为先行曲，完整 EP 10/26 发）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=Z4WghmCMk1o"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-22",
+     "title": "A2O LITE《NEON》",
+     "basisLabel": null,
+     "note": "三天三冠（6,866 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=IkPNSIWP1oc"
+     }
+    },
+    {
+     "program": "SHOW CHAMPION",
+     "date": "2026-10-21",
+     "title": "A2O LITE《NEON》",
+     "basisLabel": null,
+     "note": "第二冠（6,317 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=UAo11PQf5DA"
+     }
+    },
+    {
+     "program": "THE SHOW",
+     "date": "2026-10-20",
+     "title": "A2O LITE《NEON》",
+     "basisLabel": "注意：链接为获奖 + 安可片段，不是完整表演。",
+     "note": "出道 7 天首个一位（7,331 分）。",
+     "link": {
+      "label": "看获奖 + 安可片段",
+      "url": "https://www.youtube.com/watch?v=c7REvlMKFro"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-10-17",
+     "title": "Onew × Zico《Tic Tac Toe》",
+     "basisLabel": "注意：链接为获奖公布片段，不是完整表演。",
+     "note": "首个一位（7,054 分）。",
+     "link": {
+      "label": "看获奖公布片段",
+      "url": "https://www.youtube.com/watch?v=8wT5APwAy0s"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-10-17",
+     "title": "NCT WISH《I SPY》",
+     "basisLabel": null,
+     "note": "首周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=-EPhQBWs07U"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-10-17",
+     "title": "MEOVV《GO HARD》",
+     "basisLabel": null,
+     "note": "首周音中舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=eVMG8-unO9w"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-15",
+     "title": "NCT WISH《I SPY》",
+     "basisLabel": null,
+     "note": "首周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=-dQ6Xgdg990"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-15",
+     "title": "A2O LITE《NEON》",
+     "basisLabel": null,
+     "note": "首个周打歌舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=XAU5AtvpnRM"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-15",
+     "title": "MEOVV《GO HARD》",
+     "basisLabel": null,
+     "note": "首个打歌舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=CIGGsxPhokA"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-10-10",
+     "title": "NiziU《Sour Grapes》",
+     "basisLabel": null,
+     "note": "末期舞台，初动个人最佳 226,532 张。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=wAQkxUzNfws"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-08",
+     "title": "BOYNEXTDOOR《ANIMAL》",
+     "basisLabel": null,
+     "note": "首个一位（6,453 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=LbneflBy1q4"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-08",
+     "title": "NiziU《Sour Grapes》",
+     "basisLabel": null,
+     "note": "第二周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=J5lRZLuqsNg"
+     }
+    },
+    {
+     "program": "SHOW CHAMPION",
+     "date": "2026-10-07",
+     "title": "NiziU《Sour Grapes》",
+     "basisLabel": null,
+     "note": "首个一位（5,444 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=G420S1pwVqo"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hot",
+   "title": "过去三个月很火的舞台",
+   "range": "2026-07-23 – 10-23",
+   "note": "只收有可核实热度证据的舞台，每条都注明热度依据；来不及追直播时从这里往回补。",
+   "items": [
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-22",
+     "title": "A2O LITE《NEON》",
+     "basisLabel": "热度依据：",
+     "note": "出道单曲 29 小时登顶 Melon TOP100、Circle 数字榜一位、三天三冠。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=IkPNSIWP1oc"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-22",
+     "title": "IVE《Looks Can Kill》",
+     "basisLabel": "热度依据：",
+     "note": "MV 上线即登顶 YouTube 全球 MV 趋势榜、6 国/地区榜首、34 国/地区上榜。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=Z4WghmCMk1o"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-22",
+     "title": "MEOVV《GO HARD》",
+     "basisLabel": "热度依据：",
+     "note": "MV 次日 591 万播放。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=l5R9WxB-4Yk"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-10-22",
+     "title": "NMIXX《Birthday Wish》",
+     "basisLabel": "热度依据：",
+     "note": "凭 2026 THE FACT MUSIC AWARDS 首个大赏势头回归；截至 10/23 该曲尚未拿一位，热度来自大赏与回归本身。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=2et9-4peX1M"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-10-11",
+     "title": "CLOSE YOUR EYES《Drop That!》",
+     "basisLabel": "热度依据：",
+     "note": "Music Bank 10/9 首冠 9,020 分。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=pLn9Qa6FDfM"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-10-11",
+     "title": "BOYNEXTDOOR《ANIMAL》",
+     "basisLabel": "热度依据：",
+     "note": "M Countdown 10/8 一位 6,453 分。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=4JQovgH-lb0"
+     }
+    },
+    {
+     "program": "SHOW CHAMPION",
+     "date": "2026-10-07",
+     "title": "NiziU《Sour Grapes》",
+     "basisLabel": "热度依据：",
+     "note": "首冠，三张韩语作品全部拿一位。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=G420S1pwVqo"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-09-20",
+     "title": "Soyeon《I'm gonna TOESA》",
+     "basisLabel": "热度依据：",
+     "note": "后续 Perfect All-Kill、共 4 个一位；9/20 为已核实的表演舞台，后续一位时她未登台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=BtP1ETwei9g"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-09-17",
+     "title": "LE SSERAFIM《Made My Night》",
+     "basisLabel": "热度依据：",
+     "note": "首个韩国打歌舞台；Billboard Bubbling Under 第 14 名。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=zySDGaOsj_g"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-09-06",
+     "title": "MONSTA X《MAGIC》",
+     "basisLabel": "热度依据：",
+     "note": "Music Bank 9/11 一位 5,045 分。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=tDLaCEKDiyk"
+     }
+    },
+    {
+     "program": "M COUNTDOWN",
+     "date": "2026-08-27",
+     "title": "ENHYPEN《Bloody Paradise》",
+     "basisLabel": "热度依据：",
+     "note": "共 7 冠、五台大满贯 + M Countdown 三冠。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=Pr-4Nze0OyQ"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-08-14",
+     "title": "Stray Kids《This & That》",
+     "basisLabel": "热度依据：",
+     "note": "10 天 6 冠，该场 12,779 分。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=aqXUT1z9Dt8"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-08-14",
+     "title": "KISS OF LIFE《SWEAT》",
+     "basisLabel": "热度依据：",
+     "note": "The Show 8/11 一位；MV 7 天破 3000 万。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=lGkihjlLDCg"
+     }
+    }
+   ]
+  }
+ ]
+}

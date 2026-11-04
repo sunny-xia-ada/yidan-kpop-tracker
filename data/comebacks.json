@@ -1,0 +1,2053 @@
+{
+ "lastUpdated": "2026-11-02",
+ "trackedArtists": {
+  "note": "名单仅为参考：回归按每月新闻收集，没有固定名单；以后可在此维护固定追踪名单。",
+  "groups": [
+   {
+    "label": "男团 · BOY GROUPS",
+    "artists": [
+     "BTS",
+     "ENHYPEN",
+     "SEVENTEEN",
+     "Stray Kids",
+     "TXT",
+     "ATEEZ",
+     "NCT DREAM",
+     "TWS",
+     "NCT WISH",
+     "Cortis"
+    ]
+   },
+   {
+    "label": "女团 · GIRL GROUPS",
+    "artists": [
+     "BLACKPINK",
+     "ITZY",
+     "NewJeans",
+     "aespa",
+     "IVE",
+     "NMIXX",
+     "LE SSERAFIM",
+     "(G)I-DLE",
+     "TWICE",
+     "KISS OF LIFE",
+     "XG",
+     "izna",
+     "MEOVV",
+     "BABYMONSTER",
+     "SAY MY NAME",
+     "A2O LITE"
+    ]
+   },
+   {
+    "label": "SOLO",
+    "artists": [
+     "IU",
+     "Taeyeon",
+     "Jungkook",
+     "V",
+     "Lisa",
+     "BIBI"
+    ]
+   },
+   {
+    "label": "CO-ED",
+    "artists": [
+     "All Day Project"
+    ]
+   }
+  ]
+ },
+ "notice": "官方 MV 链接：研究快照没有提供可复用 URL，所以这一版不猜链接；有确认链接后再补。",
+ "items": [
+  {
+   "artist": "AMPERS&ONE",
+   "title": "首张正规专辑《PATHFINDER》",
+   "sortKey": "2026-11-17T18:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-01"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-17 · 18:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "首张正规专辑"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "主打序列视频《WE ARE UNCROWNED》于 11 月 1 日公开，并公布回归日期。",
+   "search": "AMPERS&ONE PATHFINDER WE ARE UNCROWNED first full album 首张正规专辑",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1883212wpp/watch-ampersone-announces-comeback-date-with-main-sequence-for-pathfinder"
+    }
+   ],
+   "id": "cb-01"
+  },
+  {
+   "artist": "H1-KEY",
+   "title": "数字单曲《Unbelievable》",
+   "sortKey": "2026-11-13T18:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-19"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-13 · 18:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "Digital single"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "时隔约八个月的首次回归。",
+   "search": "H1-KEY Unbelievable digital single comeback",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1879499wpp/h1-key-announces-november-comeback-with-new-single-unbelievable"
+    }
+   ],
+   "id": "cb-02"
+  },
+  {
+   "artist": "Kyuhyun（Super Junior）",
+   "title": "Solo EP《CONTINUE》",
+   "sortKey": "2026-11-11T18:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-20"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-11 · 18:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "Solo EP"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": null,
+   "search": "Kyuhyun Super Junior CONTINUE solo EP 圭贤",
+   "sources": [
+    {
+     "label": "Korea JoongAng Daily 报道",
+     "url": "https://www.koreajoongangdaily.com/entertainment/kyuhyun-to-return-with-solo-ep-continue/12929348"
+    }
+   ],
+   "id": "cb-03"
+  },
+  {
+   "artist": "A2O SOUL",
+   "title": "出道 EP《SUPERSTAR》",
+   "sortKey": "2026-11-09T18:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团 · 出道",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-21"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-09 · 18:00 KST"
+    },
+    {
+     "label": "曲目",
+     "value": "共 5 首"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "15 人男团出道作，收录先行曲《Superstar》与第二主打《Dancing in the Dark》。",
+   "search": "A2O SOUL SUPERSTAR debut EP Dancing in the Dark 李秀满 boy group",
+   "sources": [
+    {
+     "label": "Hype Malaysia 报道",
+     "url": "https://hype.my/the-wait-is-over-lee-soo-mans-highly-anticipated-boy-group-a2o-soul-debuts-nov-9/"
+    }
+   ],
+   "id": "cb-04"
+  },
+  {
+   "artist": "RESCENE",
+   "title": "第 4 张迷你专辑《PULSE》",
+   "sortKey": "2026-11-03T18:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-11-03 · 18:00 KST"
+    },
+    {
+     "label": "主打",
+     "value": "《With》"
+    },
+    {
+     "label": "类型",
+     "value": "4th mini album"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "Highlight medley 已于 2026-10-26 公开。",
+   "search": "RESCENE PULSE fourth mini album With highlight medley",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/10/rescene-preview-title-track-with-and-more-in-highlight-medley-for-4th-mini-album-pulse"
+    }
+   ],
+   "id": "cb-05"
+  },
+  {
+   "artist": "xikers",
+   "title": "第 8 张迷你专辑《ROUTE ZERO : The CALLING》",
+   "sortKey": "2026-11-02T18:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-11-02 · 18:00 KST"
+    },
+    {
+     "label": "主打",
+     "value": "《DIENAMITE》"
+    },
+    {
+     "label": "类型",
+     "value": "8th mini album"
+    },
+    {
+     "label": "状态",
+     "value": "已发行"
+    }
+   ],
+   "note": "此前漏收的发行，本次补录。",
+   "search": "xikers ROUTE ZERO The CALLING DIENAMITE eighth mini album 第 8 张迷你专辑",
+   "sources": [
+    {
+     "label": "StarNews Korea 报道",
+     "url": "https://www.starnewskorea.com/en/music/2026/11/02/2026110208082680562"
+    }
+   ],
+   "id": "cb-06"
+  },
+  {
+   "artist": "XLOV",
+   "title": "第 3 张迷你专辑《i=!》",
+   "sortKey": "2026-10-28T18:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-28 · 18:00 KST"
+    },
+    {
+     "label": "双主打",
+     "value": "《HUSH》、《Tooth Gem Chiwawa》"
+    },
+    {
+     "label": "类型",
+     "value": "3rd mini album"
+    },
+    {
+     "label": "状态",
+     "value": "已发行"
+    }
+   ],
+   "note": null,
+   "search": "XLOV i=! third mini album HUSH Tooth Gem Chiwawa double title",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.Allkpop.Com/article/2026/10/xlov-return-with-double-title-tracks-hush-and-tooth-gem-chiwawa-on-third-mini-album-i"
+    }
+   ],
+   "id": "cb-07"
+  },
+  {
+   "artist": "ENHYPEN",
+   "title": "衍生单曲《THE SIN : PARALLEL WORLD》",
+   "sortKey": "2026-10-26T23:59",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-26（KST）"
+    },
+    {
+     "label": "数字发行",
+     "value": "2026-11-20 · 14:00 KST",
+     "note": "美国限定单曲 CD 同日发售"
+    },
+    {
+     "label": "实体专辑",
+     "value": "2026-11-23"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "《THE SIN》系列的收官之作。",
+   "search": "ENHYPEN THE SIN PARALLEL WORLD spinoff single THE SIN series",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1881313wpp/enhypen-announces-november-comeback-with-spinoff-single-the-sin-parallel-world"
+    }
+   ],
+   "id": "cb-08"
+  },
+  {
+   "artist": "Baby DONT Cry",
+   "title": "数字单曲《Replay》",
+   "sortKey": "2026-10-26T23:58",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-26"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-04",
+     "note": "韩国与日本同步发行"
+    },
+    {
+     "label": "后续发行",
+     "value": "日本出道迷你专辑《DAYBREAK/Replay》",
+     "note": "2027-01-20"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": null,
+   "search": "Baby DONT Cry Replay digital single DAYBREAK Japanese debut",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/10/baby-dont-cry-to-release-replay-in-korea-and-japan-on-november-4-ahead-of-japanese-debut"
+    }
+   ],
+   "id": "cb-09"
+  },
+  {
+   "artist": "ZEROBASEONE 小分队 EMP",
+   "title": "先行单曲《RUN》＋ 首张数字单曲《OFF script》",
+   "sortKey": "2026-10-26T23:57",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团 · 小分队",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "成员",
+     "value": "Seok Matthew、Park Gunwook"
+    },
+    {
+     "label": "先行单曲",
+     "value": "《RUN》（with Dynamicduo）",
+     "note": "2026-11-04 · 18:00 KST"
+    },
+    {
+     "label": "首张数字单曲",
+     "value": "《OFF script》",
+     "note": "2026-11-10 · 18:00 KST"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "预告 2026-10-24 公开，发行细节 2026-10-26 公布。",
+   "search": "ZEROBASEONE EMP Seok Matthew Park Gunwook RUN Dynamicduo OFF script unit",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1881061wpp/zerobaseone-unit-emp-announces-digital-single-run-with-dynamicduo"
+    }
+   ],
+   "id": "cb-10"
+  },
+  {
+   "artist": "Jisoo（BLACKPINK）",
+   "title": "数字单曲《ADDICTED》",
+   "sortKey": "2026-10-24T00:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-24"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-10-30 · 08:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "Digital single"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": null,
+   "search": "Jisoo BLACKPINK ADDICTED digital single solo",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1881082wpp/watch-blackpinks-jisoo-drops-teasers-for-new-single-addicted"
+    }
+   ],
+   "id": "cb-11"
+  },
+  {
+   "artist": "Nayeon（TWICE）",
+   "title": "Solo 单曲《NA-sty》",
+   "sortKey": "2026-10-23T23:59",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "预告公开",
+     "value": "2026-10-23"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-20 · 14:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "Solo single"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "自 2024 年 6 月 EP《NA》以来首次 solo 发行。",
+   "search": "Nayeon TWICE NA-sty solo single NA EP",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1881049wpp/watch-twices-nayeon-gears-up-for-solo-comeback-with-teaser-for-new-single-na-sty"
+    }
+   ],
+   "id": "cb-12"
+  },
+  {
+   "artist": "ATEEZ",
+   "title": "第 15 张迷你专辑《GOLDEN HOUR : Part.6》",
+   "sortKey": "2026-10-08T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-08"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-13 · 14:00 KST"
+    },
+    {
+     "label": "主打",
+     "value": "《UP》",
+     "note": "先行单曲《DRIP》已于 2026-10-23 发布；曲目表 2026-10-26 公开"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": null,
+   "search": "ATEEZ GOLDEN HOUR Part.6 UP DRIP 15th mini album tracklist",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1881329wpp/ateez-reveals-track-list-for-golden-hour-part-6"
+    }
+   ],
+   "id": "cb-13"
+  },
+  {
+   "artist": "TXT（TOMORROW X TOGETHER）",
+   "title": "第 9 张迷你专辑《PERFECT STORM》",
+   "sortKey": "2026-09-28T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-09-28"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-16"
+    },
+    {
+     "label": "曲目",
+     "value": "共 6 首"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": null,
+   "search": "TXT TOMORROW X TOGETHER PERFECT STORM 9th mini album",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1873466wpp/txt-announces-comeback-date-and-details-for-return-with-perfect-storm"
+    }
+   ],
+   "id": "cb-14"
+  },
+  {
+   "artist": "UNCHILD",
+   "title": "第 2 张数字单曲 'TiNG TiNG'",
+   "sortKey": "2026-10-22T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-22"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-05"
+    },
+    {
+     "label": "类型",
+     "value": "2nd digital single"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "本次回归原定 9 月 2 日，后延期；回归排程将于 10 月 23 日公开。",
+   "search": "UNCHILD TiNG TiNG second digital single comeback postponed",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1880609wpp/unchild-announces-new-comeback-plans"
+    },
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/10/unchild-set-comeback-for-november-5-with-ting-ting-about-two-months-after-sudden-postponement"
+    }
+   ],
+   "id": "cb-15"
+  },
+  {
+   "artist": "ALPHA DRIVE ONE",
+   "title": "数字单曲 'Talk to me'",
+   "sortKey": "2026-10-21T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-21"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-10-22 · 18:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "Digital single"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": "《UNBREAKABLE : 少年BEAST》收录的 B-side 曲，MV 于发行当日公开。",
+   "search": "ALPHA DRIVE ONE Talk to me digital single UNBREAKABLE music video",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1880176wpp/alpha-drive-one-drops-teasers-for-new-digital-single-talk-to-me"
+    }
+   ],
+   "id": "cb-16"
+  },
+  {
+   "artist": "P1Harmony",
+   "title": "迷你专辑 'BLOW UP'",
+   "sortKey": "2026-10-20T23:59",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-20"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-06 · 14:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "Mini album"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": null,
+   "search": "P1Harmony BLOW UP mini album comeback trailer",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1880133wpp/watch-p1harmony-announces-comeback-date-with-epic-final-mission-complete-trailer"
+    }
+   ],
+   "id": "cb-17"
+  },
+  {
+   "artist": "Onew（SHINee）",
+   "title": "单曲专辑 'Chakgak'（착각）",
+   "sortKey": "2026-10-20T23:58",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-20 · 18:00 KST"
+    },
+    {
+     "label": "主打",
+     "value": "'Chakgak'、'Mind Games'、'Tic Tac Toe'",
+     "note": "三首主打"
+    },
+    {
+     "label": "类型",
+     "value": "Single album"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "Onew SHINee Chakgak 착각 Mind Games Tic Tac Toe single album solo",
+   "sources": [
+    {
+     "label": "KStarTrend 报道",
+     "url": "https://www.kstartrend.com/2026/10/13/shinees-onew-confirms-new-solo-release-for-october-20"
+    }
+   ],
+   "id": "cb-18"
+  },
+  {
+   "artist": "WOODZ",
+   "title": "数字单曲 'Come into my world!'",
+   "sortKey": "2026-10-20T23:57",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-20 · 18:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "Digital single"
+    },
+    {
+     "label": "作品",
+     "value": "'Come into my world!'"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "WOODZ Come into my world digital single solo",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1877012wpp/woodz-announces-return-with-new-single-come-into-my-world"
+    }
+   ],
+   "id": "cb-19"
+  },
+  {
+   "artist": "Changmin（TVXQ）",
+   "title": "第 3 张迷你专辑 'All of My Life'",
+   "sortKey": "2026-10-19T23:56",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-19 · 18:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "3rd mini album"
+    },
+    {
+     "label": "作品",
+     "value": "'All of My Life'"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "Changmin TVXQ All of My Life third mini album solo comeback MV",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1879758wpp/watch-tvxqs-changmin-transforms-into-a-hero-with-an-uplifting-message-in-all-of-my-life-comeback-mv"
+    }
+   ],
+   "id": "cb-20"
+  },
+  {
+   "artist": "RIIZE",
+   "title": "数字单曲 'Insomnia'",
+   "sortKey": "2026-10-19T23:59",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-19"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-10-26 · 00:00 KST",
+     "note": "西雅图：10/25 周日 08:00 PDT"
+    },
+    {
+     "label": "类型",
+     "value": "Digital single"
+    },
+    {
+     "label": "状态",
+     "value": "已发行"
+    }
+   ],
+   "note": "RIIZE 首支原声流行（acoustic pop）单曲，六人体制。",
+   "search": "RIIZE Insomnia digital single acoustic pop SM Seattle PDT 西雅图",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1879349wpp/watch-riize-drops-first-teasers-for-october-comeback-with-insomnia"
+    }
+   ],
+   "id": "cb-21"
+  },
+  {
+   "artist": "Chaeryeong（ITZY）",
+   "title": "Solo 出道迷你专辑 'Lovesick'",
+   "sortKey": "2026-10-19T23:58",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-19"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-09"
+    },
+    {
+     "label": "类型",
+     "value": "Solo debut mini album"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "ITZY 第三位 solo 出道的成员。",
+   "search": "Chaeryeong ITZY Lovesick solo debut mini album",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1879353wpp/watch-itzys-chaeryeong-announces-solo-debut-schedule-with-trailer-and-track-list-for-lovesick"
+    }
+   ],
+   "id": "cb-22"
+  },
+  {
+   "artist": "K/DA",
+   "title": "单曲 'FIRESTARTER' ＋ 同名 EP",
+   "sortKey": "2026-10-19T23:57",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "单曲已发行",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "单曲发行",
+     "value": "2026-10-19"
+    },
+    {
+     "label": "EP 发行",
+     "value": "2026-10-21"
+    },
+    {
+     "label": "主唱",
+     "value": "(G)I-DLE 的 Soyeon 与 Miyeon"
+    },
+    {
+     "label": "状态",
+     "value": "单曲已发行 · EP 待发行"
+    }
+   ],
+   "note": "虚拟女团时隔 6 年回归。",
+   "search": "K/DA FIRESTARTER EP Soyeon Miyeon virtual group League of Legends",
+   "sources": [
+    {
+     "label": "Inven Global 报道",
+     "url": "https://www.invenglobal.com/articles/27340/kda-returns-after-6-years-unveils-new-song-firestarter"
+    }
+   ],
+   "id": "cb-23"
+  },
+  {
+   "artist": "Minnie（(G)I-DLE）",
+   "title": "首张全泰语数字 EP 'i love you to the moon and back'",
+   "sortKey": "2026-10-17T23:59",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-17"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-10-23",
+     "note": "生日当天发行"
+    },
+    {
+     "label": "类型",
+     "value": "Digital EP"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": null,
+   "search": "Minnie (G)I-DLE i love you to the moon and back Thai EP solo",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/10/i-dles-minnie-to-release-first-all-thai-solo-ep-i-love-you-to-the-moon-and-back-on-her-birthday"
+    }
+   ],
+   "id": "cb-24"
+  },
+  {
+   "artist": "NCT DREAM",
+   "title": "第 6 张正规专辑 'DREAM AFTER DREAM'",
+   "sortKey": "2026-10-16T23:59",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-16"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-09"
+    },
+    {
+     "label": "主打",
+     "value": "Boogie Woogie"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "10 周年专辑，共 10 首歌。",
+   "search": "NCT DREAM DREAM AFTER DREAM Boogie Woogie 6th full album 10th anniversary",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1878731wpp/nct-dream-announces-comeback-date-with-dream-after-dream-teaser"
+    }
+   ],
+   "id": "cb-25"
+  },
+  {
+   "artist": "TEEN TOP",
+   "title": "第 11 张迷你专辑 'DON'T STOP'",
+   "sortKey": "2026-10-15T23:59",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-15"
+    },
+    {
+     "label": "类型",
+     "value": "Mini album"
+    },
+    {
+     "label": "作品",
+     "value": "'DON'T STOP'"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "TEEN TOP DON'T STOP 11th mini album",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://lab.allkpop.com/article/2026/10/teen-top-announces-a-comeback-with-their-11th-mini-album-dont-stop"
+    }
+   ],
+   "id": "cb-26"
+  },
+  {
+   "artist": "HYOJUNG（OH MY GIRL）",
+   "title": "首张 solo 迷你专辑 'Lost&Found'",
+   "sortKey": "2026-10-15T23:58",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-15"
+    },
+    {
+     "label": "主打",
+     "value": "Maybe Incomplete"
+    },
+    {
+     "label": "类型",
+     "value": "首张 solo mini album"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "HYOJUNG OH MY GIRL Lost Found Maybe Incomplete solo",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/10/oh-my-girls-hyojung-releases-1st-mini-album-lostfound-and-maybe-incomplete-mv"
+    }
+   ],
+   "id": "cb-27"
+  },
+  {
+   "artist": "Crush × IU",
+   "title": "数字单曲 'seesaw'（feat. IU）",
+   "sortKey": "2026-10-15T23:57",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "COLLAB",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-15"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-10-21"
+    },
+    {
+     "label": "类型",
+     "value": "Digital single"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": null,
+   "search": "Crush IU seesaw digital single featuring",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1878623wpp/watch-crush-drops-teaser-for-digital-single-seesaw-featuring-iu"
+    }
+   ],
+   "id": "cb-28"
+  },
+  {
+   "artist": "BABYMONSTER",
+   "title": "《DESERVE》",
+   "sortKey": "2026-10-23T13:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行时间",
+     "value": "2026-10-23 · 13:00 KST",
+     "note": "西雅图：2026-10-22 周四 21:00 PDT"
+    },
+    {
+     "label": "类型",
+     "value": "Digital single",
+     "note": "流行抒情曲（pop ballad）"
+    },
+    {
+     "label": "状态",
+     "value": "已发行"
+    },
+    {
+     "label": "首个打歌舞台",
+     "value": "10/24 MBC《Show! Music Core》",
+     "note": "已播出 (10/24 Music Core)：官方舞台视频（MBCkpop） · 已播出 (10/25 Inkigayo)：官方舞台视频（SBS Inkigayo），手持麦克风现场演唱"
+    }
+   ],
+   "note": "一首流行抒情曲（pop ballad），突出成员细腻嗓音与成熟表达，带复古合成器氛围；歌词回顾过去的感情、祝福对方幸福。与她们以往高能量嘻哈舞曲路线不同，这次以歌声本身取胜。首个打歌舞台：10 月 24 日 MBC《Show! Music Core》已播出 (10/24 Music Core)，官方舞台视频（MBCkpop）；10 月 25 日 SBS《Inkigayo》已播出 (10/25 Inkigayo)，官方舞台视频（SBS Inkigayo）。",
+   "search": "BABYMONSTER DESERVE pop ballad 流行抒情 已发行 Show Music Core Inkigayo Seattle PDT 西雅图",
+   "sources": [
+    {
+     "label": "allkpop 报道（2026-10-23 核实）",
+     "url": "https://www.allkpop.com/article/2026/10/babymonster-return-with-pop-ballad-deserve-focusing-on-emotion-over-high-notes"
+    },
+    {
+     "label": "Bandwagon 报道（2026-10-23 核实）",
+     "url": "https://www.bandwagon.asia/articles/babymonster-showcase-delicate-vocals-emotional-maturity-on-deserve-watch"
+    }
+   ],
+   "id": "cb-29"
+  },
+  {
+   "artist": "TREASURE",
+   "title": "数字单曲 'SHOCK'",
+   "sortKey": "2026-10-14T23:58",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "YG 公布",
+     "value": "2026-10-14"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-02"
+    },
+    {
+     "label": "类型",
+     "value": "Digital single"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": null,
+   "search": "TREASURE SHOCK digital single YG",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://lab.allkpop.com/article/2026/10/yang-hyun-suk-shares-yg-plans-for-babymonsters-deserve-treasures-shock-and-two-new-groups"
+    }
+   ],
+   "id": "cb-30"
+  },
+  {
+   "artist": "NAM WOOHYUN（INFINITE）",
+   "title": "第二张正规专辑 '2X8'",
+   "sortKey": "2026-10-14T23:57",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-14"
+    },
+    {
+     "label": "主打",
+     "value": "DEVIL"
+    },
+    {
+     "label": "类型",
+     "value": "Full album"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "NAM WOOHYUN INFINITE 2X8 DEVIL second full album",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/10/infinites-nam-woo-hyun-releases-second-full-album-2x8-for-his-10th-solo-anniversary"
+    }
+   ],
+   "id": "cb-31"
+  },
+  {
+   "artist": "YUJU（前 GFRIEND）",
+   "title": "第四张迷你专辑 'file. 07'",
+   "sortKey": "2026-10-14T23:56",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-14"
+    },
+    {
+     "label": "类型",
+     "value": "Mini album"
+    },
+    {
+     "label": "作品",
+     "value": "'file. 07'"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "YUJU GFRIEND file 07 fourth mini album",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/10/gfriends-yuju-returns-with-fourth-mini-album-file-07-themed-around-unresolved-emotions"
+    }
+   ],
+   "id": "cb-32"
+  },
+  {
+   "artist": "FLARE U",
+   "title": "第二张迷你专辑 'LOVEHOOD'",
+   "sortKey": "2026-10-14T23:55",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-14"
+    },
+    {
+     "label": "主打",
+     "value": "Bloom"
+    },
+    {
+     "label": "类型",
+     "value": "Mini album"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "FLARE U LOVEHOOD Bloom second mini album",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/10/flare-u-return-with-second-mini-album-lovehood-and-title-track-bloom"
+    }
+   ],
+   "id": "cb-33"
+  },
+  {
+   "artist": "PLAVE",
+   "title": "第五张迷你专辑 'HYPERDRIVE'",
+   "sortKey": "2026-10-13T23:59",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "数字音源",
+     "value": "2026-10-12"
+    },
+    {
+     "label": "实体发行",
+     "value": "2026-10-13"
+    },
+    {
+     "label": "主打",
+     "value": "Star Trace"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "PLAVE HYPERDRIVE Star Trace fifth mini album",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://lab.allkpop.com/article/2026/10/plave-return-with-5th-mini-album-hyperdrive-and-first-edm-title-track-star-trace"
+    }
+   ],
+   "id": "cb-34"
+  },
+  {
+   "artist": "A2O LITE",
+   "title": "出道单曲《NEON》",
+   "sortKey": "2026-10-13T18:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行时间",
+     "value": "2026-10-13 · 18:00 KST",
+     "note": "西雅图：2026-10-13 周二 02:00 PDT"
+    },
+    {
+     "label": "类型",
+     "value": "Debut digital single"
+    },
+    {
+     "label": "所属",
+     "value": "A2O Entertainment",
+     "note": "李秀满创立 · 9 人女团"
+    },
+    {
+     "label": "成绩",
+     "value": "约 29 小时登顶 Melon TOP100",
+     "note": "Circle 数字榜一位 · 音乐节目四冠：The Show 10/20、Show Champion 10/21、M Countdown 10/22、Inkigayo 10/25（6060 分，对手 Soyeon《I'm gonna TOESA》、NCT WISH《I SPY》）"
+    }
+   ],
+   "note": "李秀满离开 SM 后创立的 A2O Entertainment 推出的 9 人女团，10 月 13 日以出道单曲《NEON》正式出道；音源上线约 29 小时登顶 Melon TOP100、拿下 Circle 数字榜一位，并在出道一周内三天连拿三冠（The Show 10/20、Show Champion 10/21、M Countdown 10/22），随后 10/25 在 SBS《Inkigayo》再夺一位（6060 分，对手为 Soyeon《I'm gonna TOESA》与 NCT WISH《I SPY》），累计音乐节目四冠，是近期最火的新人出道。",
+   "search": "A2O LITE NEON debut single Melon 李秀满 A2O Entertainment 出道 女团 Seattle PDT 西雅图",
+   "sources": [
+    {
+     "label": "Soompi 报道（2026-10-23 核实）",
+     "url": "https://www.soompi.com/article/1878286wpp/lee-soo-mans-new-group-a2o-lite-hits-no-1-on-melon-top-100-just-one-day-after-debut"
+    }
+   ],
+   "id": "cb-35"
+  },
+  {
+   "artist": "NCT WISH",
+   "title": "迷你 4 辑《I SPY》＋同名主打 MV",
+   "sortKey": "2026-10-12T23:59",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "日期",
+     "value": "2026-10-12"
+    },
+    {
+     "label": "巡演同步官宣",
+     "value": "INTO THE WISH : Face Our WISH"
+    },
+    {
+     "label": "首尔启程",
+     "value": "2027-01-15 / 16"
+    },
+    {
+     "label": "场馆",
+     "value": "高尺天空巨蛋"
+    }
+   ],
+   "note": null,
+   "search": "NCT WISH I SPY INTO THE WISH Face Our WISH",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://lab.allkpop.com/article/2026/10/nct-wish-return-with-4th-mini-album-i-spy-and-announce-gocheok-sky-dome-concerts-for-january-2027"
+    }
+   ],
+   "id": "cb-36"
+  },
+  {
+   "artist": "MEOVV",
+   "title": "单曲专辑《GO HARD》",
+   "sortKey": "2026-10-12T02:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "日期",
+     "value": "2026-10-12"
+    },
+    {
+     "label": "韩国时间",
+     "value": "18:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "Single album"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "MEOVV GO HARD single album",
+   "sources": [
+    {
+     "label": "allkpop 10 月回归日历",
+     "url": "https://lab.allkpop.com/article/2026/10/october-2026-k-pop-comebacks-and-debuts-to-watch-out-for"
+    }
+   ],
+   "id": "cb-37"
+  },
+  {
+   "artist": "SUNG HANBIN",
+   "title": "《DEAD:ALIVE》",
+   "sortKey": "2026-10-12T02:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "个人出道",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "日期",
+     "value": "2026-10-12"
+    },
+    {
+     "label": "艺人",
+     "value": "ZEROBASEONE 成韩彬"
+    },
+    {
+     "label": "类型",
+     "value": "Solo debut"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "SUNG HANBIN ZEROBASEONE DEAD ALIVE solo debut",
+   "sources": [
+    {
+     "label": "allkpop 10 月回归日历",
+     "url": "https://lab.allkpop.com/article/2026/10/october-2026-k-pop-comebacks-and-debuts-to-watch-out-for"
+    }
+   ],
+   "id": "cb-38"
+  },
+  {
+   "artist": "Xdinary Heroes",
+   "title": "《Impulse》",
+   "sortKey": "2026-10-12T02:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "BAND",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "日期",
+     "value": "2026-10-12"
+    },
+    {
+     "label": "内容",
+     "value": "新作发行"
+    },
+    {
+     "label": "艺人类型",
+     "value": "Band"
+    },
+    {
+     "label": "状态",
+     "value": "正式发行"
+    }
+   ],
+   "note": null,
+   "search": "Xdinary Heroes Impulse",
+   "sources": [
+    {
+     "label": "allkpop 10 月回归日历",
+     "url": "https://lab.allkpop.com/article/2026/10/october-2026-k-pop-comebacks-and-debuts-to-watch-out-for"
+    }
+   ],
+   "id": "cb-39"
+  },
+  {
+   "artist": "LNGSHOT",
+   "title": "EP《S.W.I.S.H.》",
+   "sortKey": "2026-10-12T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "官宣日期",
+     "value": "2026-10-12"
+    },
+    {
+     "label": "发行时间",
+     "value": "11/10 · 18:00 KST"
+    },
+    {
+     "label": "厂牌",
+     "value": "MORE VISION"
+    },
+    {
+     "label": "类型",
+     "value": "男团 EP"
+    }
+   ],
+   "note": null,
+   "search": "LNGSHOT MORE VISION S.W.I.S.H. Jay Park",
+   "sources": [
+    {
+     "label": "WikiPicky 报道",
+     "url": "https://wikipickymedia.com/2026/10/12/jay-parks-k-pop-boy-group-lngshot-confirms-nov-10-comeback-with-s-w-i-s-h/"
+    }
+   ],
+   "id": "cb-40"
+  },
+  {
+   "artist": "tripleS",
+   "title": "《ASSEMBLE26 'LOVE&POP' pt.2 “Andless”》",
+   "sortKey": "2026-10-11T00:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "官宣日期",
+     "value": "2026-10-11"
+    },
+    {
+     "label": "发行时间",
+     "value": "10/16 · 13:00 KST"
+    },
+    {
+     "label": "阵容",
+     "value": "24 名成员全员"
+    },
+    {
+     "label": "类型",
+     "value": "Single"
+    }
+   ],
+   "note": null,
+   "search": "tripleS ASSEMBLE26 LOVE POP pt.2 Andless 24 members",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1877020wpp/triples-announces-comeback-date-with-teaser-for-assemble26-lovepop-pt-2"
+    }
+   ],
+   "id": "cb-41"
+  },
+  {
+   "artist": "TWS",
+   "title": "单曲 2 辑《TO US》",
+   "sortKey": "2026-10-07T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "官宣日期",
+     "value": "2026-10-07"
+    },
+    {
+     "label": "发行时间",
+     "value": "11/02 · 18:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "Single album"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": null,
+   "search": "TWS TO US single album",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1875834wpp/watch-tws-announces-comeback-date-with-trailer-and-previews-for-to-us"
+    }
+   ],
+   "id": "cb-42"
+  },
+  {
+   "artist": "AND2BLE",
+   "title": "迷你 2 辑《Sequence 02: Attraction》",
+   "sortKey": "2026-10-06T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "官宣日期",
+     "value": "2026-10-06"
+    },
+    {
+     "label": "发行时间",
+     "value": "10/27 · 18:00 KST"
+    },
+    {
+     "label": "里程碑",
+     "value": "出道后首次回归"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": null,
+   "search": "AND2BLE Sequence 02 Attraction comeback",
+   "sources": [
+    {
+     "label": "Soompi 报道",
+     "url": "https://www.soompi.com/article/1875552wpp/and2ble-announces-comeback-with-2nd-mini-album-sequence-02-attraction"
+    }
+   ],
+   "id": "cb-43"
+  },
+  {
+   "artist": "LISA",
+   "title": "EP《PRESS PLAY》",
+   "sortKey": "2026-10-23T00:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-23 周五"
+    },
+    {
+     "label": "类型",
+     "value": "EP · 共 6 首"
+    },
+    {
+     "label": "曲目",
+     "value": "SaWaDiKa、V12、COBRA、TARANTINO、CUT U OFF、SWEAT"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "第二支单曲《Tarantino》随 EP 一同发布。目前仅公布 10 月 23 日日期、未公布具体发行时刻，故只记日期；发行信息于 10 月 22 日晚（PDT）核查。",
+   "search": "LISA PRESS PLAY EP SaWaDiKa V12 COBRA TARANTINO CUT U OFF SWEAT solo",
+   "sources": [],
+   "id": "cb-44"
+  },
+  {
+   "artist": "IVE",
+   "title": "完整 EP《Looks Can Kill》",
+   "sortKey": "2026-10-26T02:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-26 · 18:00 KST",
+     "note": "西雅图：10/26 周一 02:00 PDT"
+    },
+    {
+     "label": "主打歌",
+     "value": "Looks Can Kill",
+     "note": "已于 10/19 先行发布"
+    },
+    {
+     "label": "类型",
+     "value": "EP"
+    },
+    {
+     "label": "状态",
+     "value": "已发行"
+    }
+   ],
+   "note": null,
+   "search": "IVE Looks Can Kill full EP Seattle PDT 西雅图",
+   "sources": [],
+   "id": "cb-45"
+  },
+  {
+   "artist": "ILLIT",
+   "title": "《BREAK EVEN》",
+   "sortKey": "2026-10-26T02:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "发行日期",
+     "value": "2026-10-26 · 18:00 KST",
+     "note": "西雅图：10/26 周一 02:00 PDT"
+    },
+    {
+     "label": "序号",
+     "value": "第 5 张迷你专辑"
+    },
+    {
+     "label": "类型",
+     "value": "Mini album"
+    },
+    {
+     "label": "状态",
+     "value": "已发行"
+    }
+   ],
+   "note": null,
+   "search": "ILLIT BREAK EVEN fifth mini album Seattle PDT 西雅图",
+   "sources": [],
+   "id": "cb-46"
+  }
+ ]
+}

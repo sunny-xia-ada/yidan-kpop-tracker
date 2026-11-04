@@ -1,0 +1,13 @@
+{
+  "name": "yidan-kpop-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "K-pop 追踪：西雅图巡演、官宣回归、舞台回顾、偶像衣橱（静态站，数据在 data/*.json）",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/test.mjs",
+    "serve": "node scripts/build.mjs && npx --yes serve dist"
+  },
+  "engines": { "node": ">=20" }
+}
