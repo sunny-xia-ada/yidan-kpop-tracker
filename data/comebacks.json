@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02",
+ "lastUpdated": "2026-11-05",
  "trackedArtists": {
   "note": "名单仅为参考：回归按每月新闻收集，没有固定名单；以后可在此维护固定追踪名单。",
   "groups": [
@@ -60,6 +60,135 @@
  },
  "notice": "官方 MV 链接：研究快照没有提供可复用 URL，所以这一版不猜链接；有确认链接后再补。",
  "items": [
+  {
+   "artist": "HYUKOH（혁오）",
+   "title": "第 4 张正规专辑《33》",
+   "sortKey": "2026-11-25T18:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-05"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-25 · 18:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "正规专辑"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "乐队时隔约六年的正规专辑。",
+   "search": "HYUKOH（혁오） 第 4 张正规专辑《33》",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/11/hyukoh-announce-first-full-album-in-six-years-33-arriving-november-25"
+    }
+   ],
+   "id": "cb-47"
+  },
+  {
+   "artist": "Kai & Sehun（EXO）",
+   "title": "首张小分队专辑（名称待公布）",
+   "sortKey": "2026-12-01T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-02"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-12 · 具体日期待确认"
+    },
+    {
+     "label": "类型",
+     "value": "Unit album"
+    },
+    {
+     "label": "状态",
+     "value": "待确认"
+    }
+   ],
+   "note": "SM 确认 12 月发行，标题与日期未公布。",
+   "search": "Kai & Sehun（EXO） 首张小分队专辑（名称待公布）",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/11/exos-kai-and-sehun-to-debut-as-new-unit-in-december"
+    }
+   ],
+   "id": "cb-48"
+  },
+  {
+   "artist": "Dragon Pony（드래곤포니）",
+   "title": "新单曲《Calling back》",
+   "sortKey": "2026-11-05T18:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-05"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-05 · 18:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "Single"
+    },
+    {
+     "label": "状态",
+     "value": "今日发行"
+    }
+   ],
+   "note": "成员变动后首张作品；12/5–6 首尔单独演唱会。",
+   "search": "Dragon Pony（드래곤포니） 新单曲《Calling back》",
+   "sources": [
+    {
+     "label": "TenAsia 报道",
+     "url": "https://www.tenasia.co.kr/article/2026110572184"
+    }
+   ],
+   "id": "cb-49"
+  },
   {
    "artist": "AMPERS&ONE",
    "title": "首张正规专辑《PATHFINDER》",
