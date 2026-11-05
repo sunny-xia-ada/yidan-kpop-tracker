@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02",
+ "lastUpdated": "2026-11-05",
  "timezone": "America/Los_Angeles",
  "priceNotice": "票价为价格快照，不是秒级行情，各条目标注了各自的快照日期与费用口径。官方面价未公布时会明确留空；转售价格均标明来源与查询日期。",
  "distanceNotice": "这些场次都在西雅图，但研究快照没有可靠的距离数据，因此没有伪造公里数或“离你最近”排序。",
@@ -122,6 +122,64 @@
     {
      "label": "TixTracer 转售页",
      "url": "https://tixtracer.com/tickets/katseye"
+    }
+   ]
+  },
+  {
+   "id": "hohyun-20261120",
+   "artist": "HOHYUN",
+   "title": "petrichor: the tour",
+   "tag": "PETRICHOR",
+   "status": {
+    "text": "官方在售",
+    "ok": true
+   },
+   "verified": true,
+   "start": "2026-11-20T20:00",
+   "doors": "19:00",
+   "durationMinutes": 180,
+   "venue": {
+    "name": "Baba Yaga",
+    "address": "124 S. Washington St., Seattle, WA 98104"
+   },
+   "ticketUrl": "https://tickets.venuepilot.com/e/hohyun-2026-11-20-baba-yaga-seattle-dc7908",
+   "rows": [
+    {
+     "label": "官方面价",
+     "value": "GA $20 / VIP $60",
+     "note": "含费约 $24.77 / $68.02，VenuePilot 2026-11-05 快照"
+    },
+    {
+     "label": "转售起售价",
+     "value": "待确认",
+     "note": "2026-11-05 未查到转售挂单；场馆条款禁止高于原价转售"
+    },
+    {
+     "label": "嘉宾",
+     "value": "slone"
+    },
+    {
+     "label": "年龄",
+     "value": "All Ages"
+    }
+   ],
+   "onsale": {
+    "status": "on_sale",
+    "note": "VenuePilot 官方票务页在售；原始开票时间未核实，因此不设提醒。",
+    "general": {
+     "label": "公开发售 · VenuePilot 官方票务页",
+     "url": "https://tickets.venuepilot.com/e/hohyun-2026-11-20-baba-yaga-seattle-dc7908"
+    }
+   },
+   "search": "HOHYUN petrichor tour Baba Yaga Seattle",
+   "sources": [
+    {
+     "label": "主办方巡演页（Kohai）",
+     "url": "https://kohai.com/hohyun"
+    },
+    {
+     "label": "官方票务页（VenuePilot）",
+     "url": "https://tickets.venuepilot.com/e/hohyun-2026-11-20-baba-yaga-seattle-dc7908"
     }
    ]
   },
