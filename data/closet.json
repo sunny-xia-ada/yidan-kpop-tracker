@@ -1,7 +1,228 @@
 {
- "lastUpdated": "2026-11-02",
- "issue": "ISSUE 01 / OCT 2026",
+ "lastUpdated": "2026-11-05",
+ "issue": "ISSUE 02 / NOV 2026",
  "lookbooks": [
+  {
+   "id": "jisoo",
+   "artist": "JISOO · ADDICTED",
+   "label": "JISOO",
+   "pages": [
+    {
+     "image": "assets/img-50.jpg",
+     "alt": "Jisoo《ADDICTED》官方 MV 视觉，高领珍珠串珠与羽毛刺绣透视礼服，黑色背景与晶体标题字",
+     "source": "https://www.youtube.com/watch?v=Pksr9T8m_aA",
+     "title": "珍珠羽毛高领礼服",
+     "caption": "官方 MV（2026-10-30）主视觉之一：高领珍珠与银色串珠叠羽毛/花卉刺绣透视礼服，黑底晶体标题字。ELLE HK 时装拆解将同类华丽礼服对应到 Richard Quinn 2026 秋冬等品牌。",
+     "tags": [
+      "ADDICTED",
+      "MV",
+      "华丽礼服"
+     ],
+     "shop": {
+      "lewkin": "pearl high neck embroidered dress",
+      "musinsa": "dress"
+     }
+    },
+    {
+     "image": "assets/img-49.jpg",
+     "alt": "Jisoo《ADDICTED》最终预告近景，齐刘海黑长直发、尖细黑色美甲，星点散景背景",
+     "source": "https://www.allkpop.com/article/2026/10/blackpinks-jisoo-unveils-the-final-teasers-for-her-upcoming-single-addicted",
+     "title": "最终预告 · 冷艳近景",
+     "caption": "最终预告照（2026-10-29 公开）：齐刘海黑长直发、强调眼妆与光泽黑尖甲，暗色星点散景。来源：allkpop / BLISSOO。",
+     "tags": [
+      "预告",
+      "近景素材",
+      "冷艳"
+     ],
+     "shop": {
+      "lewkin": "black strapless evening look",
+      "musinsa": "nails"
+     }
+    },
+    {
+     "image": "assets/img-51.jpg",
+     "alt": "Jisoo《ADDICTED》水下 MV 预告画面，雷电天空与水中舞蹈剪影氛围",
+     "source": "https://www.allkpop.com/article/2026/10/blackpinks-jisoo-unveils-underwater-mv-teaser-for-second-pre-release-single-addicted",
+     "title": "水下 MV 预告氛围",
+     "caption": "MV 预告（2026-10-28）：雷电天空与水下舞蹈段落，光暗交替。时装细节以完整 MV 与 ELLE HK 拆解为准；本页偏氛围素材。",
+     "tags": [
+      "MV 预告",
+      "氛围素材"
+     ],
+     "shop": {
+      "lewkin": "black latex bodysuit",
+      "musinsa": "bodysuit"
+     }
+    },
+    {
+     "image": "assets/img-52.jpg",
+     "alt": "ELLE HK《ADDICTED》时装专题封面图，Jisoo 猫女与多套 MV 造型拼贴方向",
+     "source": "https://www.elle.com.hk/fashion/blackpink-jisoo-addicted-mv-style-file",
+     "title": "ELLE · 猫女与品牌拆解",
+     "caption": "ELLE HK 时装专题：蕾丝猫女造型、Atsuko Kudo 黑色乳胶高领连体衣、Ashish 星星迷你裙配 Saint Laurent 粗跟鞋、David Koma 红色镂空连身衣等。本页为专题封面图，具体品牌见来源文。",
+     "tags": [
+      "时装拆解",
+      "猫女",
+      "品牌"
+     ],
+     "note": "注：品牌对应来自 ELLE HK 2026-10 专题；本站不把未交叉核验的单品写成“同款已确认”。",
+     "shop": {
+      "lewkin": "lace cat ear bodysuit",
+      "musinsa": "bodysuit"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nayeon",
+   "artist": "NAYEON · NA-STY",
+   "label": "NAYEON",
+   "pages": [
+    {
+     "image": "assets/img-53.jpg",
+     "alt": "Nayeon《NA-sty》Intro Film 静帧，电光蓝发齐刘海，黑底传统纹样肩部印花",
+     "source": "https://www.dipe.co.kr/2350350",
+     "title": "Intro Film · 电光蓝发",
+     "caption": "Intro Film（2026-11-05 公开，Dispatch/DIPE）：电光蓝发与齐刘海，“Baby Angel”叙事。发行日 11/20。来源：JYP / DIPE。",
+     "tags": [
+      "Intro Film",
+      "蓝发",
+      "近景素材"
+     ],
+     "shop": {
+      "lewkin": "graphic print black top",
+      "musinsa": "top"
+     }
+    },
+    {
+     "image": "assets/img-54.jpg",
+     "alt": "Nayeon《NA-sty》预告视觉，蓝发与复古数码美学氛围",
+     "source": "https://www.allkpop.com/article/2026/10/twices-nayeon-teases-new-solo-single-na-sty-with-striking-blue-haired-look",
+     "title": "预告 · 蓝发复古数码",
+     "caption": "预告企划（2026-10-30 前后）：蓝发、复古电脑风画面与羽毛元素；媒体点名 Versace 三层厚底高跟鞋与手腕/脚踝处的黑莓式手机道具。来源：allkpop / JYP。",
+     "tags": [
+      "预告",
+      "复古数码",
+      "Versace"
+     ],
+     "shop": {
+      "lewkin": "platform pumps",
+      "musinsa": "heels"
+     }
+    },
+    {
+     "image": "assets/img-55.jpg",
+     "alt": "Nayeon《NA-sty》Visual Film YouTube 缩略图，高跟鞋与手机道具画面",
+     "source": "https://www.youtube.com/watch?v=fw3L_uq1fW4",
+     "title": "Visual Film · 高跟鞋道具",
+     "caption": "Visual Film：先以夸张高跟鞋与缠绕手机的脚步声开场，再切到蓝发 Nayeon 出现在手机屏幕里。全身套装细节待更多官方概念照。",
+     "tags": [
+      "Visual Film",
+      "道具",
+      "局部素材"
+     ],
+     "note": "注：目前公开的仍是预告/影像静帧，完整造型册会在 11/20 前后补概念照。",
+     "shop": {
+      "lewkin": "statement platform heels",
+      "musinsa": "heels"
+     }
+    }
+   ]
+  },
+  {
+   "id": "katseye",
+   "artist": "KATSEYE · WILDWORLD TOUR",
+   "label": "KATSEYE",
+   "pages": [
+    {
+     "image": "assets/img-56.jpg",
+     "alt": "KATSEYE Wildworld Tour 巴黎 Accor Arena 舞台，粉紫蓝闪亮套装与罗马风绑带高跟靴合集",
+     "source": "https://wwd.com/footwear-news/shoe-trends/katseye-wildworld-tour-gladiator-heels-shoes-1239207903/",
+     "title": "巴黎站 · 糖果色罗马靴",
+     "caption": "WWD 报道巴黎 Accor Arena（2026-09-09）：粉/紫/蓝闪亮套装、锥形胸衣与珠宝细节，搭配开口绑带罗马风高跟踝靴与过膝靴；造型师 Katie Qian，创意总监 Humberto León。西雅图站 11/17。",
+     "tags": [
+      "巡演舞台",
+      "罗马靴",
+      "糖果色"
+     ],
+     "shop": {
+      "lewkin": "gladiator lace-up heeled boots",
+      "musinsa": "boots"
+     }
+    },
+    {
+     "image": "assets/img-57.jpg",
+     "alt": "KATSEYE Wildworld Tour 舞台群像，粉紫蓝印花迷你裙套装与渔网袜",
+     "source": "https://wwd.com/footwear-news/shoe-trends/katseye-wildworld-tour-gladiator-heels-shoes-1239207903/",
+     "title": "巡演 · 粉紫蓝群像",
+     "caption": "同巡演造型：成员各自微调剪裁（挖空迷你裙、长袖叠迷你裙等），图案渔网袜延伸到绑带靴，保持统一又突出个人。来源：WWD / Getty。",
+     "tags": [
+      "巡演舞台",
+      "群像",
+      "全身造型"
+     ],
+     "shop": {
+      "lewkin": "sparkle mini dress stage",
+      "musinsa": "skirt"
+     }
+    },
+    {
+     "image": "assets/img-58.jpg",
+     "alt": "KATSEYE Wildworld Tour 北美腿迈阿密开场舞台，绿蓝紫印花短装与毛绒、金属腰带细节",
+     "source": "https://www.yahoo.com/entertainment/music/articles/katseye-describes-powerful-wildworld-tour-110000206.html",
+     "title": "迈阿密 · 北美腿升级造型",
+     "caption": "北美腿开场迈阿密（2026-10-13，People/Yahoo）：绿蓝紫印花短装、毛绒饰边与金属腰带；成员在采访中强调个人点缀（如 Lara 的 bindi、Megan 的翡翠手镯）。来源：People。",
+     "tags": [
+      "北美巡演",
+      "迈阿密",
+      "全身造型"
+     ],
+     "shop": {
+      "lewkin": "graphic print stage set fur trim",
+      "musinsa": "shorts"
+     }
+    }
+   ]
+  },
+  {
+   "id": "a2olite",
+   "artist": "A2O LITE · NEON",
+   "label": "A2O LITE",
+   "pages": [
+    {
+     "image": "assets/img-59.jpg",
+     "alt": "A2O LITE《NEON》舞台/MV 造型，灰黄运动风短款上衣与不对称裙裤、手腕护具",
+     "source": "https://www.marieclairekorea.com/fashion/2026/10/a2o-lite/",
+     "title": "OJOS 定制运动套装",
+     "caption": "Marie Claire Korea：造型师张熙俊（장희준）与品牌 OJOS 合作定制——灵感来自校内生活体育服的运动风两件套，功能面料与剪接线强调群舞线条；手上为 KIMUNE 3D 打印手件，鞋履为 Maison Margiela Future Sneakers。",
+     "tags": [
+      "NEON",
+      "定制舞台服",
+      "全身造型"
+     ],
+     "shop": {
+      "lewkin": "sporty crop top skort set",
+      "musinsa": "sneakers"
+     }
+    },
+    {
+     "image": "assets/img-60.jpg",
+     "alt": "A2O LITE《NEON》THE SHOW 2026-10-20 舞台，白色拉链短上衣与银色拼接工装裤群舞造型",
+     "source": "https://biz.chosun.com/en/en-photo-ent/2026/10/20/YZSQNCXYXBHBTDJZBQ6WLR52YE/",
+     "title": "THE SHOW · 白银工装全身",
+     "caption": "SBS THE SHOW 舞台照片（2026-10-20，OSEN/Chosun Biz）：白色拉链短上衣叠银色拼接工装阔腿裤，紫蓝舞台光。来源：媒体现场图。",
+     "tags": [
+      "打歌舞台",
+      "THE SHOW",
+      "全身造型"
+     ],
+     "shop": {
+      "lewkin": "white zip crop cargo pants",
+      "musinsa": "pants"
+     }
+    }
+   ]
+  },
   {
    "id": "ive",
    "artist": "IVE · LOOKS CAN KILL",
@@ -83,6 +304,38 @@
       "lewkin": "black long sleeve crop top mini skirt set",
       "musinsa": "skirt"
      }
+    },
+    {
+     "image": "assets/img-61.jpg",
+     "alt": "IVE《Looks Can Kill》Music Bank 2026-10-23 舞台，成员穿迷彩短袖上衣与军装风下装，灯泡面板与红帘舞台背景",
+     "source": "https://www.youtube.com/watch?v=d7s-2eLvT8Q",
+     "title": "Music Bank · 迷彩军装全身",
+     "caption": "KBS Music Bank 打歌舞台（2026-10-23）One Take 4K——迷彩短袖 / 卡其上衣、灰色网眼拉链外套、工装短裙或短裤、靴子与护膝；灯泡面板与红帘舞台形成反差。来源：KBS Kpop 官方影像与媒体报道。",
+     "tags": [
+      "打歌舞台",
+      "Music Bank",
+      "迷彩军装"
+     ],
+     "shop": {
+      "lewkin": "camo cargo mini skirt",
+      "musinsa": "camo"
+     }
+    },
+    {
+     "image": "assets/img-62.jpg",
+     "alt": "IVE《Looks Can Kill》MV 时装拆解合集图：英雄风缎面、迷彩街头与高饱和单品拼贴",
+     "source": "https://inkistyle.com/kpop-fashion-ive-looks-can-kill-mv/",
+     "title": "MV 时装拆解合集",
+     "caption": "InkiStyle 对《Looks Can Kill》MV 造型逐件拆解：英雄风缎面短裙、Rick Owens 透视拉链外套叠迷彩热裤、Fanciclub / Poster Girl / BADBLOOD 等品牌单品。本页为合集封面图，具体品牌见来源文。",
+     "tags": [
+      "MV 时装",
+      "品牌拆解"
+     ],
+     "note": "注：品牌信息来自 InkiStyle 2026-10-22 时装拆解文，未在其他来源交叉核验的单品不单独列为事实。",
+     "shop": {
+      "lewkin": "satin mini dress boots",
+      "musinsa": "boots"
+     }
     }
    ],
    "label": "IVE"
@@ -119,6 +372,54 @@
      "shop": {
       "lewkin": "purple cardigan shirt dress",
       "musinsa": "cardigan"
+     }
+    },
+    {
+     "image": "assets/img-63.jpg",
+     "alt": "ILLIT《BREAK EVEN》MAD 概念照，成员金色发型配粉色蕾丝荷叶边连衣裙，粉色房间餐桌前手持彩色塑料叉",
+     "source": "https://www.allkpop.com/article/2026/10/illit-transforms-with-kitsch-blonde-visuals-ahead-of-comeback-with-5th-mini-album-break-even",
+     "title": "MAD · 金发 kitsch 合影",
+     "caption": "《BREAK EVEN》MAD 版概念照（2026-10-15 公开）：金发造型配粉彩蕾丝与荷叶边裙装，粉色空间里用传单与日常物件当“武器”，甜感衣着对照冷淡表情。来源：allkpop / BELIFT LAB。",
+     "tags": [
+      "MAD",
+      "kitsch",
+      "金发"
+     ],
+     "shop": {
+      "lewkin": "lace frill pastel dress",
+      "musinsa": "dress"
+     }
+    },
+    {
+     "image": "assets/img-64.jpg",
+     "alt": "ILLIT《BREAK EVEN》QUIET 概念照，成员穿纯白造型、干净妆容，冷淡无表情气质",
+     "source": "https://www.allkpop.com/article/2026/10/illit-turn-cold-and-composed-in-quiet-version-concept-photos-for-5th-mini-album-break-even",
+     "title": "QUIET · 纯白冷感",
+     "caption": "《BREAK EVEN》QUIET 版概念照（2026-10-12 公开）：纯白服装与干净妆容，表情克制、气场偏冷，与先前 BURNING 版的怒意形成对照。来源：allkpop / BELIFT LAB。",
+     "tags": [
+      "QUIET",
+      "纯白",
+      "冷感"
+     ],
+     "shop": {
+      "lewkin": "white minimal dress",
+      "musinsa": "dress"
+     }
+    },
+    {
+     "image": "assets/img-65.jpg",
+     "alt": "ILLIT《BREAK EVEN》概念造型佩戴 YVMIN 闪钻眼镜与蕾丝配饰近景",
+     "source": "https://www.pap-magazine.com/en/article/illit-yvmin-break-even-accessories",
+     "title": "YVMIN 配饰近景",
+     "caption": "PAP Magazine 报道：ILLIT 在《BREAK EVEN》概念照中选用 YVMIN 配件——满框闪钻眼镜、猫须眼镜与蕾丝蝴蝶结项链，粉调空间叠蕾丝荷叶边衣着。本页为配饰近景。",
+     "tags": [
+      "YVMIN",
+      "配饰",
+      "近景素材"
+     ],
+     "shop": {
+      "lewkin": "rhinestone glasses lace necklace",
+      "musinsa": "glasses"
      }
     }
    ],
@@ -478,310 +779,399 @@
     }
    ],
    "label": "LE SSERAFIM"
-  },
-  {
-   "id": "kiss",
-   "artist": "KISS OF LIFE · SWEAT",
-   "pages": [
-    {
-     "image": "assets/img-04.jpg",
-     "alt": "KISS OF LIFE《SWEAT》日版 MV 雨中群舞，彩色印花吊带、牛仔热裤和系带及膝靴",
-     "source": "https://youtu.be/dsGK0HZZx1k",
-     "title": "雨中群舞",
-     "caption": "彩色印花吊带、牛仔热裤和及膝长靴，在湿发与冷色雨幕里保留夏日热度。",
-     "tags": [
-      "夏日辣妹",
-      "雨中群舞"
-     ],
-     "shop": {
-      "lewkin": "colorful camisole denim shorts",
-      "musinsa": "camisole"
-     }
-    },
-    {
-     "image": "assets/img-12.jpg",
-     "alt": "KISS OF LIFE《SWEAT》概念照，四名成员穿彩色机车街头造型站在摩托车前",
-     "source": "https://kpopping.com/kpics/kiss-of-life-3rd-single-sweat-concept-photos",
-     "title": "机车前群像",
-     "caption": "绿黄镂空连体衣、铆钉灰短裙、粉色抹胸配红短裙与链条腰带，把夏日造型推向机车街头。",
-     "tags": [
-      "机车街头",
-      "链条腰带"
-     ],
-     "shop": {
-      "lewkin": "studded skirt chain belt",
-      "musinsa": "skirt"
-     }
-    },
-    {
-     "image": "assets/img-13.jpg",
-     "alt": "KISS OF LIFE《SWEAT》沙滩派对概念照，四人穿波西米亚印花吊带与流苏裙",
-     "source": "https://WWW.ALLKPOP.COM/article/2026/08/kiss-of-life-embrace-a-beach-party-concept-for-japanese-ep-sweat",
-     "title": "沙滩派对",
-     "caption": "波西米亚印花吊带、流苏裙与彩色凉鞋，四人造型从街头切换到热带庭院。",
-     "tags": [
-      "沙滩派对",
-      "波西米亚"
-     ],
-     "shop": {
-      "lewkin": "boho print fringe skirt",
-      "musinsa": "skirt"
-     }
-    }
-   ],
-   "label": "KISS OF LIFE"
-  },
-  {
-   "id": "soyeon",
-   "artist": "SOYEON · TOESA",
-   "pages": [
-    {
-     "image": "assets/img-35.jpg",
-     "alt": "SOYEON《I am gonna TOESA》办公室概念图，人物背对镜头举起双臂，粉白绶带与办公桌可见",
-     "source": "https://www.mnetplus.world/media/en/videos/6aa28ca295e7cd129e6eaf10",
-     "title": "办公室辞职概念",
-     "caption": "粉白绶带、工位和举臂姿态把“办公室辞职”叙事放进画面；目前不是完整正面全身照。",
-     "tags": [
-      "办公室叛逆",
-      "概念局部"
-     ],
-     "shop": {
-      "lewkin": "pink sash office look",
-      "musinsa": "top"
-     }
-    },
-    {
-     "image": "assets/img-36.jpg",
-     "alt": "SOYEON《I’m gonna TOESA》办公室概念照，穿白裙与粉色绶带站在办公区",
-     "source": "https://www.allkpop.com/upload/2026/09/content/031123/1788449039-image.png",
-     "title": "白裙办公室造型",
-     "caption": "SOYEON《I’m gonna TOESA》概念照 · 白裙配粉色绶带办公室造型",
-     "tags": [
-      "办公室叛逆",
-      "白裙造型"
-     ],
-     "shop": {
-      "lewkin": "white dress pink sash",
-      "musinsa": "dress"
-     }
-    },
-    {
-     "image": "assets/img-37.jpg",
-     "alt": "SOYEON《I’m gonna TOESA》竖构图概念照，完整呈现粉白办公室主题全身造型",
-     "source": "https://www.allkpop.com/upload/2026/09/content/031123/1788449035-image.png",
-     "title": "竖构图全身",
-     "caption": "SOYEON《I’m gonna TOESA》概念照 · 竖构图全身造型",
-     "tags": [
-      "What a Wonderful Life",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "white pink two-piece set",
-      "musinsa": "dress"
-     }
-    },
-    {
-     "image": "assets/img-38.jpg",
-     "alt": "SOYEON TOESA 回归期专访写真，白色长袖连衣裙配黑色波浪滚边、发带与宽手镯、长靴，绿色灯笼光影背景",
-     "source": "https://www.allkpop.com/upload/2026/09/content/070404/1788768249-soyeon-interview-soyeon-green-lanterns.jpg",
-     "title": "绿灯笼专访写真",
-     "caption": "TOESA 回归期专访写真——白色长袖连衣裙配黑色波浪滚边、发带与宽手镯、长靴，绿色灯笼光影背景。",
-     "tags": [
-      "专访写真",
-      "白色连衣裙"
-     ],
-     "shop": {
-      "lewkin": "white dress black trim",
-      "musinsa": "dress"
-     }
-    },
-    {
-     "image": "assets/img-39.jpg",
-     "alt": "SOYEON 2026 年 9 月 TOESA 宣传期舞台造型，浅蓝色短款拉链背心配深蓝色低腰泼墨阔腿牛仔裤与黑色宽腰带，全身完整",
-     "source": "https://withnews.co.kr/wp-content/uploads/2026/09/coach-disena-un-look-exclusivo-para-soyeon-de-gi-dle-en-su-g-es.webp",
-     "title": "浅蓝背心舞台全身",
-     "caption": "2026 年 9 月 TOESA 宣传期舞台造型——浅蓝色短款拉链背心配深蓝色低腰泼墨阔腿牛仔裤、黑色宽腰带，全身造型完整。",
-     "tags": [
-      "舞台造型",
-      "阔腿牛仔裤"
-     ],
-     "shop": {
-      "lewkin": "blue cropped vest jeans",
-      "musinsa": "vest"
-     }
-    }
-   ],
-   "label": "SOYEON"
-  },
-  {
-   "id": "izna",
-   "artist": "izna · DUMB HOT!",
-   "pages": [
-    {
-     "image": "assets/img-06.jpg",
-     "alt": "izna《DUMB HOT!》粉紫房间与绿色田野两组群体全身造型",
-     "source": "https://youtu.be/_kxr2D8-tq8",
-     "title": "两组群体全身造型",
-     "caption": "上半页能看清迷你裙、牛仔短裤和及膝靴，下半页展示白色宽松上衣与牛仔下装的整套比例。",
-     "tags": [
-      "Y2K 清凉辣妹",
-      "全身群像"
-     ],
-     "shop": {
-      "lewkin": "ruffle mini skirt boots",
-      "musinsa": "skirt"
-     }
-    },
-    {
-     "image": "assets/img-08.jpg",
-     "alt": "izna《DUMB HOT!》日本出道概念照，成员穿白衬衫、灰百褶裙与粉色领结的学院风造型",
-     "source": "https://imagedelivery.net/l1Bzo8LRyoaogf5OFVsfnA/423d3ea1-98f8-470e-981a-88b1fb8c4d00/public",
-     "title": "日本出道学院风",
-     "caption": "izna《DUMB HOT!》日本出道概念照 · 白衬衫灰百褶裙粉领结学院风造型",
-     "tags": [
-      "HANDLE WITH CARE",
-      "学院风"
-     ],
-     "shop": {
-      "lewkin": "white shirt pleated skirt",
-      "musinsa": "skirt"
-     }
-    },
-    {
-     "image": "assets/img-09.jpg",
-     "alt": "izna《DUMB HOT!》MV 野外群舞，成员穿白衬衫、灰百褶裙与粉色领结的学院风造型",
-     "source": "https://imagedelivery.net/l1Bzo8LRyoaogf5OFVsfnA/4e546518-d4fa-4663-ce24-3dc5a84ec200/public",
-     "title": "野外学院风群舞",
-     "caption": "izna《DUMB HOT!》MV 画面 · 同款学院风造型野外群舞场景",
-     "tags": [
-      "MV 画面",
-      "野外群舞"
-     ],
-     "shop": {
-      "lewkin": "school uniform pleated skirt",
-      "musinsa": "skirt"
-     }
-    },
-    {
-     "image": "assets/img-10.jpg",
-     "alt": "izna 日本出道 Showcase 现场，6 人穿白衬衫配灰色百褶裙、粉色领带与蝴蝶结的校服风造型，背后大屏公布 WHO DAT GIRL? in JAPAN 巡演信息",
-     "source": "https://img.jj-jj.net/wp-content/uploads/2226/09/08160047/0906-izna-photo-3-1024x683.jpg",
-     "title": "日本出道 Showcase",
-     "caption": "日本出道 Showcase 现场——6 人身穿白衬衫配灰色百褶裙校服风造型（粉色领带/蝴蝶结），背后大屏公布 “WHO DAT GIRL? in JAPAN” 巡演信息，全员手持话筒向观众问候。",
-     "tags": [
-      "校服风",
-      "日本出道"
-     ],
-     "shop": {
-      "lewkin": "white shirt pink necktie",
-      "musinsa": "shirt"
-     }
-    },
-    {
-     "image": "assets/img-11.jpg",
-     "alt": "izna 出道周媒体拍照环节，成员穿牛仔抹胸上衣搭配白色百褶裙、白色长裤与白色长靴挥手致意",
-     "source": "https://s.rbbtoday.com/imgs/p/hDN4m_UJPEFczM0wl2KIHdtO9kFAQ0P9REdG/1038617.jpg?vmode=default",
-     "title": "出道周媒体拍照",
-     "caption": "出道周媒体拍照环节——牛仔抹胸上衣搭配白色百褶裙/白色长裤与白色长靴，全员挥手致意。",
-     "tags": [
-      "牛仔抹胸",
-      "媒体拍照"
-     ],
-     "shop": {
-      "lewkin": "denim tube top skirt",
-      "musinsa": "top"
-     }
-    }
-   ],
-   "label": "izna"
-  },
-  {
-   "id": "kiiikiii",
-   "artist": "KiiiKiii · POP OFF POP OFF",
-   "pages": [
-    {
-     "image": "assets/img-18.jpg",
-     "alt": "KiiiKiii《Pop Off Pop Off》概念照，一名成员穿蓝白条纹上衣与粉色下装，配尖钉帽和翅膀造型",
-     "source": "https://theqoo.net/square/4305166902?%3Bdocument_srl=2747647606&%3Bpage=16&listStyle=viewer&m=1",
-     "title": "蓝粉派对局部",
-     "caption": "蓝白条纹、粉色下装、尖钉帽和翅膀配饰都很清楚；腿部被前景遮挡，所以这页明确标为局部素材。",
-     "tags": [
-      "Y2K 派对",
-      "局部素材"
-     ],
-     "shop": {
-      "lewkin": "stripe top pink skirt",
-      "musinsa": "top"
-     }
-    },
-    {
-     "image": "assets/img-03.jpg",
-     "alt": "KiiiKiii《Pop Off Pop Off》回归期概念照，一名成员蹲在派对空间中，灰粉拼色连衣裙、翅膀配饰与厚底发光鞋从头到脚完整可见",
-     "source": "https://theqoo.net/square/4305166902?%3Bdocument_srl=2747647606&%3Bpage=16&listStyle=viewer&m=1",
-     "title": "派对空间完整造型",
-     "caption": "蹲姿仍完整保留发饰、翅膀、灰粉拼色连衣裙与厚底发光鞋，能从头到脚看清整套搭配。",
-     "tags": [
-      "Y2K 派对",
-      "完整造型"
-     ],
-     "shop": {
-      "lewkin": "colorblock dress platform shoes",
-      "musinsa": "dress"
-     }
-    },
-    {
-     "image": "assets/img-46.jpg",
-     "alt": "KiiiKiii《Pop Off Pop Off》Inkigayo 2026-08-23 舞台，五名成员穿条纹、紫色、海军蓝与粉色 Y2K polo 连衣裙的全身造型",
-     "source": "https://www.youtube.com/watch?v=phQXJ6LAFSA",
-     "title": "Inkigayo 8/23 · Polo 连衣裙全身",
-     "caption": "SBS Inkigayo FullCam（2026-08-23）——Y2K polo 连衣裙造型：条纹、紫色、海军蓝与粉色 polo 连衣裙配彩色绑带与厚底运动鞋，五人全身造型完整。（SBS Kpop FullCam 缩略图，左下角有节目文字）",
-     "tags": [
-      "打歌舞台",
-      "Inkigayo",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "pink polo mini dress",
-      "musinsa": "dress"
-     }
-    },
-    {
-     "image": "assets/img-47.jpg",
-     "alt": "KiiiKiii《Pop Off Pop Off》M Countdown 2026-08-27 舞台，五名成员穿印花 T 恤、短款上衣与迷你裙的全身造型",
-     "source": "https://www.youtube.com/watch?v=VgtQXXpoSxk",
-     "title": "M Countdown 8/27 · 印花 T 恤全身",
-     "caption": "M Countdown（M2 fancam）（2026-08-27）——印花 T 恤造型：字母印花 T 恤与短款上衣配迷你裙、短裤，右侧成员为紫色荷叶边迷你连衣裙，五人全身造型完整。（M2 MPD 直拍缩略图，左下角有节目文字）",
-     "tags": [
-      "打歌舞台",
-      "M Countdown",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "purple ruffled mini dress",
-      "musinsa": "skirt"
-     }
-    },
-    {
-     "image": "assets/img-48.jpg",
-     "alt": "KiiiKiii《Pop Off Pop Off》Inkigayo 2026-08-30 舞台，五名成员穿低腰喇叭牛仔裤与 Y2K 上衣的全身造型",
-     "source": "https://www.youtube.com/watch?v=ksw_m5-TrBg",
-     "title": "Inkigayo 8/30 · 牛仔套装全身",
-     "caption": "SBS Inkigayo FullCam（2026-08-30）——Y2K 牛仔套装造型：低腰喇叭牛仔裤配粉色露肩上衣、浅蓝背心、银色挂脖上衣、豹纹与金色上衣，五人全身造型完整。（SBS Kpop FullCam 缩略图，左下角有节目文字）",
-     "tags": [
-      "打歌舞台",
-      "Inkigayo",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "low-rise flared jeans",
-      "musinsa": "jeans"
-     }
-    }
-   ],
-   "label": "KiiiKiii"
   }
  ],
  "cards": [
+  {
+   "artist": "JISOO",
+   "title": "《ADDICTED》",
+   "date": "2026-10-30",
+   "styles": [
+    "dark",
+    "stage"
+   ],
+   "visual": true,
+   "ribbon": "最新 solo MV",
+   "figure": {
+    "src": "assets/img-50.jpg",
+    "alt": "Jisoo《ADDICTED》官方 MV 视觉，高领珍珠串珠与羽毛刺绣透视礼服",
+    "width": 1280,
+    "height": 720,
+    "caption": "MV LOOK · 珍珠高领与羽毛刺绣礼服"
+   },
+   "swatches": [
+    "#111114",
+    "#e8e0d8",
+    "#c9a0b8",
+    "#7a1f3d"
+   ],
+   "badges": [
+    {
+     "text": "官方 MV + 时装专题已核实",
+     "ok": true
+    },
+    {
+     "text": "10/30",
+     "ok": false
+    }
+   ],
+   "sections": [
+    {
+     "heading": "造型拆解",
+     "paragraphs": [
+      {
+       "text": "暗黑华丽路线：高领珍珠串珠礼服、蕾丝猫女、Atsuko Kudo 黑色乳胶连体衣，以及 Ashish / David Koma 等派对剪裁；短发与渐变发色强化角色感。"
+      }
+     ]
+    },
+    {
+     "heading": "GET THE LOOK",
+     "paragraphs": [
+      {
+       "text": "珍珠高领礼服、蕾丝贴身裙、黑色乳胶连体衣、星星迷你裙、尖头高跟。"
+      },
+      {
+       "label": "提示：",
+       "text": "品牌对应来自 ELLE HK 专题，不等于“已确认同款购买链接”。"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "暗黑华丽",
+    "猫女",
+    "solo"
+   ],
+   "link": {
+    "label": "看《ADDICTED》官方 MV",
+    "url": "https://www.youtube.com/watch?v=Pksr9T8m_aA"
+   },
+   "search": "Jisoo ADDICTED 暗黑 华丽 猫女 珍珠 礼服 乳胶 连体衣 Richard Quinn Atsuko Kudo",
+   "highlight": true,
+   "id": "look-01"
+  },
+  {
+   "artist": "NAYEON",
+   "title": "《NA-sty》预告期",
+   "date": "2026-11-05",
+   "styles": [
+    "y2k"
+   ],
+   "visual": true,
+   "ribbon": "即将发行",
+   "figure": {
+    "src": "assets/img-53.jpg",
+    "alt": "Nayeon《NA-sty》Intro Film 静帧，电光蓝发",
+    "width": 1000,
+    "height": 556,
+    "caption": "INTRO FILM · 电光蓝发；完整造型待 11/20"
+   },
+   "swatches": [
+    "#2f5fff",
+    "#111827",
+    "#f5d0fe",
+    "#fbbf24"
+   ],
+   "badges": [
+    {
+     "text": "官方预告已核实",
+     "ok": true
+    },
+    {
+     "text": "11/20 发行",
+     "ok": false
+    }
+   ],
+   "sections": [
+    {
+     "heading": "造型记录边界",
+     "paragraphs": [
+      {
+       "text": "目前公开的是 Intro / Visual Film 与预告静帧：蓝发、复古数码画面、羽毛元素；媒体提到 Versace 三层厚底高跟鞋与手机道具。完整概念照与打歌服待发行后补。"
+      }
+     ]
+    },
+    {
+     "heading": "同企划风格搜索",
+     "paragraphs": [
+      {
+       "text": "电光蓝假发、厚底恨天高、复古数码印花上衣、羽毛发饰。"
+      },
+      {
+       "label": "提示：",
+       "text": "搜索词来自预告期风格，不等于 11/20 当场同款。"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "蓝发",
+    "复古数码",
+    "预告期"
+   ],
+   "link": {
+    "label": "看 allkpop 预告报道",
+    "url": "https://www.allkpop.com/article/2026/10/twices-nayeon-teases-new-solo-single-na-sty-with-striking-blue-haired-look"
+   },
+   "search": "Nayeon NA-sty 蓝发 复古 数码 Versace 厚底 高跟鞋 羽毛",
+   "highlight": true,
+   "id": "look-02"
+  },
+  {
+   "artist": "KATSEYE",
+   "title": "Wildworld Tour · 西雅图前",
+   "date": "2026-10-13",
+   "styles": [
+    "stage",
+    "y2k"
+   ],
+   "visual": true,
+   "ribbon": "西雅图 11/17",
+   "figure": {
+    "src": "assets/img-58.jpg",
+    "alt": "KATSEYE Wildworld Tour 迈阿密舞台绿蓝紫短装",
+    "width": 1400,
+    "height": 933,
+    "caption": "MIAMI 10/13 · 北美腿巡演造型"
+   },
+   "swatches": [
+    "#22c55e",
+    "#6366f1",
+    "#db2777",
+    "#111827"
+   ],
+   "badges": [
+    {
+     "text": "WWD + People 已核实",
+     "ok": true
+    },
+    {
+     "text": "北美腿",
+     "ok": false
+    }
+   ],
+   "sections": [
+    {
+     "heading": "造型拆解",
+     "paragraphs": [
+      {
+       "text": "欧洲站糖果色闪亮套装配罗马风绑带高跟靴；北美腿升级为绿蓝紫印花短装与毛绒/金属腰带，并保留个人文化点缀（bindi、翡翠手镯等）。"
+      }
+     ]
+    },
+    {
+     "heading": "GET THE LOOK",
+     "paragraphs": [
+      {
+       "text": "闪亮迷你裙套装、开口绑带罗马靴、印花短装、毛绒袖套、金属宽腰带。"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "巡演",
+    "Y2K",
+    "糖果色"
+   ],
+   "link": {
+    "label": "看 WWD 巡演鞋履报道",
+    "url": "https://wwd.com/footwear-news/shoe-trends/katseye-wildworld-tour-gladiator-heels-shoes-1239207903/"
+   },
+   "search": "KATSEYE Wildworld Tour 巡演 闪亮 迷你裙 罗马靴 印花 短装 Y2K",
+   "highlight": true,
+   "id": "look-03"
+  },
+  {
+   "artist": "A2O LITE",
+   "title": "《NEON》",
+   "date": "2026-10-20",
+   "styles": [
+    "stage",
+    "y2k"
+   ],
+   "visual": true,
+   "ribbon": "出道舞台时装",
+   "figure": {
+    "src": "assets/img-59.jpg",
+    "alt": "A2O LITE《NEON》OJOS 定制运动风舞台套装",
+    "width": 1088,
+    "height": 553,
+    "caption": "MARIE CLAIRE · OJOS 定制运动套装"
+   },
+   "swatches": [
+    "#6b7280",
+    "#fde68a",
+    "#f8fafc",
+    "#1e3a5f"
+   ],
+   "badges": [
+    {
+     "text": "Marie Claire 时装专题已核实",
+     "ok": true
+    },
+    {
+     "text": "10/20 THE SHOW",
+     "ok": false
+    }
+   ],
+   "sections": [
+    {
+     "heading": "造型拆解",
+     "paragraphs": [
+      {
+       "text": "校内生活体育服灵感的运动风两件套（OJOS 定制），配 KIMUNE 3D 手件与 Maison Margiela Future Sneakers；打歌舞台另见白银工装向造型。"
+      }
+     ]
+    },
+    {
+     "heading": "GET THE LOOK",
+     "paragraphs": [
+      {
+       "text": "运动风短款上衣、不对称裙裤、机能球鞋、3D/未来感手饰。"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "运动未来感",
+    "出道",
+    "定制"
+   ],
+   "link": {
+    "label": "看 Marie Claire Korea 专题",
+    "url": "https://www.marieclairekorea.com/fashion/2026/10/a2o-lite/"
+   },
+   "search": "A2O LITE NEON OJOS 运动 定制 Margiela Future Sneakers KIMUNE",
+   "highlight": true,
+   "id": "look-04"
+  },
+  {
+   "artist": "IVE",
+   "title": "《Looks Can Kill》· Music Bank 迷彩",
+   "date": "2026-10-23",
+   "styles": [
+    "stage"
+   ],
+   "visual": true,
+   "ribbon": "官方打歌舞台",
+   "figure": {
+    "src": "assets/img-61.jpg",
+    "alt": "IVE Music Bank Looks Can Kill 迷彩舞台",
+    "width": 1280,
+    "height": 720,
+    "caption": "MUSIC BANK 10/23 · 迷彩军装 One Take"
+   },
+   "swatches": [
+    "#4b5320",
+    "#8b7355",
+    "#2f2f2f",
+    "#c4b59a"
+   ],
+   "badges": [
+    {
+     "text": "官方视频已核实",
+     "ok": true
+    },
+    {
+     "text": "MUSIC BANK · 10/23",
+     "ok": false
+    }
+   ],
+   "sections": [
+    {
+     "heading": "舞台造型拆解",
+     "paragraphs": [
+      {
+       "text": "迷彩短袖与卡其上衣、灰色网眼拉链外套、工装短裙/短裤、靴子与护膝；灯泡面板舞台与军装风形成反差。"
+      }
+     ]
+    },
+    {
+     "heading": "GET THE LOOK",
+     "paragraphs": [
+      {
+       "text": "迷彩短袖、工装短裙、网眼拉链外套、军靴、护膝。"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "迷彩",
+    "军装风",
+    "打歌"
+   ],
+   "link": {
+    "label": "看 KBS Kpop One Take",
+    "url": "https://www.youtube.com/watch?v=d7s-2eLvT8Q"
+   },
+   "search": "IVE Looks Can Kill Music Bank 迷彩 军装 工装 短裙 靴子",
+   "highlight": true,
+   "id": "look-05"
+  },
+  {
+   "artist": "ILLIT",
+   "title": "《BREAK EVEN》· MAD",
+   "date": "2026-10-15",
+   "styles": [
+    "preppy",
+    "y2k"
+   ],
+   "visual": true,
+   "ribbon": null,
+   "figure": {
+    "src": "assets/img-63.jpg",
+    "alt": "ILLIT BREAK EVEN MAD 金发 kitsch 概念照",
+    "width": 1000,
+    "height": 668,
+    "caption": "MAD CONCEPT · 金发与粉彩蕾丝"
+   },
+   "swatches": [
+    "#f9a8d4",
+    "#fde68a",
+    "#ffffff",
+    "#7c3aed"
+   ],
+   "badges": [
+    {
+     "text": "依据概念照",
+     "ok": false
+    },
+    {
+     "text": "10/15 MAD",
+     "ok": false
+    }
+   ],
+   "sections": [
+    {
+     "heading": "造型拆解",
+     "paragraphs": [
+      {
+       "text": "金发配粉彩蕾丝荷叶边；YVMIN 闪钻眼镜与蕾丝项链强化 geek-chic × 仙女感。另有 QUIET 纯白冷感与 BURNING 暗黑线。"
+      }
+     ]
+    },
+    {
+     "heading": "GET THE LOOK",
+     "paragraphs": [
+      {
+       "text": "粉彩蕾丝裙、闪钻眼镜、蕾丝蝴蝶结项链、金发造型。"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "kitsch",
+    "蕾丝",
+    "配饰"
+   ],
+   "link": {
+    "label": "看 allkpop MAD 报道",
+    "url": "https://www.allkpop.com/article/2026/10/illit-transforms-with-kitsch-blonde-visuals-ahead-of-comeback-with-5th-mini-album-break-even"
+   },
+   "search": "ILLIT BREAK EVEN MAD QUIET YVMIN 蕾丝 闪钻 眼镜 粉彩",
+   "highlight": false,
+   "id": "look-06"
+  },
   {
    "artist": "NiziU",
    "title": "《Sour Grapes》",
@@ -846,8 +1236,8 @@
     "url": "https://www.youtube.com/watch?v=wAQkxUzNfws"
    },
    "search": "NiziU Sour Grapes Show Music Core MBC 打歌舞台 清新 俏皮 少女",
-   "highlight": true,
-   "id": "look-01"
+   "highlight": false,
+   "id": "look-07"
   },
   {
    "artist": "LE SSERAFIM",
@@ -908,8 +1298,8 @@
     "url": "https://www.youtube.com/watch?v=fDiyXbK2BUo"
    },
    "search": "LE SSERAFIM Made My Night Inkigayo SBS 打歌舞台 未来感 轻快 迪斯科 Y2K",
-   "highlight": true,
-   "id": "look-02"
+   "highlight": false,
+   "id": "look-08"
   },
   {
    "artist": "LE SSERAFIM",
@@ -970,76 +1360,8 @@
     "url": "https://www.youtube.com/watch?v=zySDGaOsj_g"
    },
    "search": "LE SSERAFIM Made My Night M COUNTDOWN Mnet 打歌舞台 未来感 迪斯科 白色",
-   "highlight": true,
-   "id": "look-03"
-  },
-  {
-   "artist": "KiiiKiii",
-   "title": "《Pop Off Pop Off》· EP.942",
-   "date": "2026-08-20",
-   "styles": [
-    "stage",
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": "官方打歌舞台",
-   "figure": {
-    "src": "assets/img-03.jpg",
-    "alt": "KiiiKiii《Pop Off Pop Off》回归期概念照，一名成员蹲在派对空间中，灰粉拼色连衣裙、翅膀配饰与厚底发光鞋从头到脚完整可见",
-    "width": 2000,
-    "height": 1335,
-    "caption": "CONCEPT PHOTO · 同回归期完整造型；非 08/20 舞台截图"
-   },
-   "swatches": [
-    "#ff8cba",
-    "#6dd0d4",
-    "#f2d35d",
-    "#7c72bf"
-   ],
-   "badges": [
-    {
-     "text": "官方视频已核实",
-     "ok": true
-    },
-    {
-     "text": "M COUNTDOWN · 08/20",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型记录边界",
-     "paragraphs": [
-      {
-       "text": "官方回归舞台已确认，但没有文字来源能把该场对应到回归期五套造型中的某一套，因此不擅自指定颜色或单品。"
-      }
-     ]
-    },
-    {
-     "heading": "同回归期风格搜索",
-     "paragraphs": [
-      {
-       "text": "Y2K 度假风套装、彩色短上衣、女团夏日舞台装。"
-      },
-      {
-       "label": "提示：",
-       "text": "搜索词来自该回归期整体风格，不等于 08/20 当场同款。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "Y2K",
-    "彩色",
-    "夏日俏皮"
-   ],
-   "link": {
-    "label": "看 Mnet K-POP 官方舞台",
-    "url": "https://www.youtube.com/watch?v=aK9NB6HS6TI"
-   },
-   "search": "KiiiKiii Pop Off Pop Off M COUNTDOWN 打歌舞台 Y2K 彩色 夏日 俏皮",
-   "highlight": true,
-   "id": "look-04"
+   "highlight": false,
+   "id": "look-09"
   },
   {
    "artist": "NiziU",
@@ -1105,186 +1427,8 @@
     "url": "https://www.youtube.com/watch?v=RiJJfLQ-lJc"
    },
    "search": "NiziU Sour Grapes M COUNTDOWN 打歌舞台 纯白 统一 清新 少女 俏皮 白色 短裙 针织",
-   "highlight": true,
-   "id": "look-05"
-  },
-  {
-   "artist": "KiiiKiii",
-   "title": "《Pop Off Pop Off》",
-   "date": "2026-08-14",
-   "styles": [
-    "stage",
-    "y2k"
-   ],
-   "visual": false,
-   "ribbon": "官方打歌舞台",
-   "figure": null,
-   "swatches": [
-    "#ff86bd",
-    "#5ec6d2",
-    "#f7d34b",
-    "#9a78d0"
-   ],
-   "badges": [
-    {
-     "text": "官方视频已核实",
-     "ok": true
-    },
-    {
-     "text": "MUSIC BANK · 08/14",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "舞台造型拆解",
-     "paragraphs": [
-      {
-       "text": "这场以亮色假发做视觉锚点，搭配彩色、复古俏皮的 Y2K core 氛围。文字资料能确认的是亮色假发与整体风格；具体单品不做品牌推断。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "Y2K 彩色上衣、彩色假发、复古运动套装、糖果色短裙。"
-      },
-      {
-       "label": "通用搜索词：",
-       "text": "“Y2K colorful top” / “color wig” / “retro track set” / “candy color mini skirt”"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "Y2K core",
-    "糖果色",
-    "复古俏皮"
-   ],
-   "link": {
-    "label": "看 KBS Kpop 官方舞台",
-    "url": "https://www.youtube.com/watch?v=bpYdX73przc"
-   },
-   "search": "KiiiKiii Pop Off Pop Off Music Bank 打歌舞台 Y2K 彩色 假发 复古 俏皮 运动 糖果色",
-   "highlight": true,
-   "id": "look-06"
-  },
-  {
-   "artist": "ILLIT",
-   "title": "《BREAK EVEN》",
-   "date": "2026-10-26",
-   "styles": [
-    "dark",
-    "preppy"
-   ],
-   "visual": false,
-   "ribbon": null,
-   "figure": null,
-   "swatches": [
-    "#28242b",
-    "#6f5965",
-    "#8b1935",
-    "#d6cad0"
-   ],
-   "badges": [
-    {
-     "text": "依据概念物料",
-     "ok": false
-    },
-    {
-     "text": "10/26",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "BURNING 版是废墟里的暗黑少女：制服轮廓叠格纹，复古冷色调；GLLIT 版则回到多彩少女感。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "格纹百褶裙、学院风开衫或 oversize 西装外套、闪钻胸针、厚重马丁靴。"
-      },
-      {
-       "label": "站内搜索：",
-       "text": "“tartan pleated skirt” / “preppy cardigan”"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "dark grunge",
-    "preppy 制服"
-   ],
-   "link": {
-    "label": "看 HYBE LABELS 概念片",
-    "url": "https://www.youtube.com/watch?v=JIbxXHEKuVA"
-   },
-   "search": "ILLIT BREAK EVEN BURNING GLLIT dark grunge preppy 制服 格纹 百褶裙 开衫 西装 马丁靴",
    "highlight": false,
-   "id": "look-07"
-  },
-  {
-   "artist": "IVE",
-   "title": "《Looks Can Kill》",
-   "date": "2026-10-26",
-   "styles": [
-    "y2k",
-    "dark"
-   ],
-   "visual": false,
-   "ribbon": null,
-   "figure": null,
-   "swatches": [
-    "#e94a8a",
-    "#f4c900",
-    "#19906c",
-    "#6553b8"
-   ],
-   "badges": [
-    {
-     "text": "依据预告",
-     "ok": false
-    },
-    {
-     "text": "10/19 先行曲 · 10/26 EP",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "六人六色皮衣套装配墨镜：粉、红、黄、绿、蓝、紫像超级英雄集结海报，电影感和高饱和街头感并行。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "彩色皮革或仿皮夹克、皮质束腿裤、骑行皮手套、墨镜、金属宽腰带。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "超级英雄电影",
-    "高饱和 Y2K",
-    "皮衣街头"
-   ],
-   "link": null,
-   "search": "IVE Looks Can Kill 超级英雄 高饱和 Y2K 皮衣 街头 彩色 夹克 墨镜 手套 腰带",
-   "highlight": false,
-   "id": "look-08"
+   "id": "look-10"
   },
   {
    "artist": "LISA",
@@ -1351,7 +1495,7 @@
    },
    "search": "LISA PRESS PLAY SaWaDiKa 泰式高街 拳击 辣妹 华丽暗黑 皮革 拳击短裤 羽毛 金色发饰 Blumarine Maison Ernest",
    "highlight": false,
-   "id": "look-09"
+   "id": "look-11"
   },
   {
    "artist": "NMIXX",
@@ -1410,332 +1554,7 @@
    "link": null,
    "search": "NMIXX Strange Muse 朋克 裁缝 暗黑 浪漫 格纹 学院 红色 百褶裙 针织 背心 链条 马丁靴",
    "highlight": false,
-   "id": "look-10"
-  },
-  {
-   "artist": "MEOVV",
-   "title": "《GO HARD》",
-   "date": "2026-10-12",
-   "styles": [
-    "dark",
-    "preppy"
-   ],
-   "visual": false,
-   "ribbon": null,
-   "figure": null,
-   "swatches": [
-    "#111116",
-    "#f2f0eb",
-    "#5e626b",
-    "#8d1329"
-   ],
-   "badges": [
-    {
-     "text": "依据预告",
-     "ok": false
-    },
-    {
-     "text": "10/12",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "白衬衫、细领带和短款黑西装搭出暗黑校服，贝雷帽叠黑色网纱面纱；另一组用露脐运动上衣、长靴与 oversized 夹克转向街头。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "白色廓形衬衫、黑色细领带、黑色短款西装外套、贝雷帽、网纱面纱发夹。"
-      },
-      {
-       "label": "YesStyle 搜：",
-       "text": "“oversized white shirt” / “black skinny tie” / “cropped blazer” / “beret hat”"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "暗黑校服",
-    "preppy goth",
-    "街头叛逆"
-   ],
-   "link": {
-    "label": "看 THEBLACKLABEL 预告",
-    "url": "https://www.youtube.com/watch?v=tGragtYHmz0"
-   },
-   "search": "MEOVV GO HARD 暗黑 校服 preppy goth 街头 叛逆 白衬衫 领带 西装 贝雷帽 网纱",
-   "highlight": false,
-   "id": "look-11"
-  },
-  {
-   "artist": "KISS OF LIFE",
-   "title": "《SWEAT (Japanese Ver.)》",
-   "date": "2026-09-16",
-   "styles": [
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": null,
-   "figure": {
-    "src": "assets/img-04.jpg",
-    "alt": "KISS OF LIFE《SWEAT》日版 MV 雨中群舞，彩色镂空吊带、牛仔热裤和系带及膝靴",
-    "width": 1280,
-    "height": 720,
-    "caption": "MV STILL · 彩色吊带、热裤与系带长靴"
-   },
-   "swatches": [
-    "#ff755f",
-    "#2d79a3",
-    "#7a4a31",
-    "#f4d935"
-   ],
-   "badges": [
-    {
-     "text": "公开 MV",
-     "ok": true
-    },
-    {
-     "text": "09/16",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "雨中群舞用彩色印花吊带、牛仔热裤和及膝长靴，湿发强化冷感；概念照加入可爱配饰与叠戴手链，靠近 Coachella 音乐节风。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "彩色针织吊带、牛仔热裤、棕色及膝靴、叠戴手链、墨镜。"
-      },
-      {
-       "label": "Musinsa 搜：",
-       "text": "“knit top” / “denim shorts” / “knee high boots”"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "夏日辣妹",
-    "街头性感",
-    "音乐节风"
-   ],
-   "link": {
-    "label": "看 MV",
-    "url": "https://youtu.be/dsGK0HZZx1k"
-   },
-   "search": "KISS OF LIFE SWEAT Japanese 夏日 辣妹 街头 性感 音乐节 吊带 牛仔 热裤 长靴 手链 墨镜",
-   "highlight": false,
    "id": "look-12"
-  },
-  {
-   "artist": "LE SSERAFIM",
-   "title": "《YOU JUST MADE MY NIGHT》",
-   "date": "2026-09-11",
-   "styles": [
-    "y2k",
-    "dark"
-   ],
-   "visual": true,
-   "ribbon": null,
-   "figure": {
-    "src": "assets/img-05.jpg",
-    "alt": "LE SSERAFIM《YOU JUST MADE MY NIGHT》MV 群舞，黑色短装和银色金属光泽连衣裙形成赛博造型",
-    "width": 1280,
-    "height": 720,
-    "caption": "MV STILL · 黑色打底与银色金属光泽"
-   },
-   "swatches": [
-    "#aeb5c5",
-    "#222335",
-    "#df4cc4",
-    "#f5b900"
-   ],
-   "badges": [
-    {
-     "text": "公开 MV / performance",
-     "ok": true
-    },
-    {
-     "text": "09/11",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "MV 用深色打底叠银色金属光泽，紧身露脐上衣配低腰裤或迷你裙和彩色亮片妆；9/18 performance 转为亮片缎面套装、大波浪和红唇的复古 disco。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "金属光泽吊带背心、深色低腰喇叭裤、银色亮片迷你裙、彩色眼影盘。"
-      },
-      {
-       "label": "YesStyle 搜：",
-       "text": "“metallic camisole” / “low rise flare jeans” / “sequin mini skirt”"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "Y2K",
-    "cyber-pop",
-    "disco glam"
-   ],
-   "link": {
-    "label": "看 HYBE Labels MV",
-    "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
-   },
-   "search": "LE SSERAFIM YOU JUST MADE MY NIGHT Y2K cyber pop disco glam 金属 吊带 低腰 喇叭裤 亮片 迷你裙",
-   "highlight": false,
-   "id": "look-13"
-  },
-  {
-   "artist": "SOYEON",
-   "title": "《I'm gonna TOESA》",
-   "date": "2026-09-10",
-   "styles": [
-    "y2k",
-    "preppy"
-   ],
-   "visual": false,
-   "ribbon": null,
-   "figure": null,
-   "swatches": [
-    "#15151a",
-    "#8f1a2b",
-    "#d3b5a4",
-    "#f1e6dd"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台",
-     "ok": true
-    },
-    {
-     "text": "09/10",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "“办公室辞职”概念：黑红格纹连衣裙叠黑色及膝短裤和细腰带，也用碎花迷你裙配细带高跟鞋；工牌与 “I'm quitting” 绶带把办公室元素变成叛逆配件。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "格纹迷你连衣裙、黑色百慕大短裤、细腰带、工牌挂绳、细带高跟凉鞋。"
-      },
-      {
-       "label": "Musinsa / Zigzag 搜：",
-       "text": "“check dress” / “bermuda shorts”"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "办公室叛逆",
-    "复古学院",
-    "Y2K 辣妹"
-   ],
-   "link": {
-    "label": "看 M COUNTDOWN Ep.945",
-    "url": "https://www.mnetplus.world/media/en/videos/6aa28ca295e7cd129e6eaf10"
-   },
-   "search": "Soyeon I am gonna TOESA M COUNTDOWN 办公室 叛逆 学院 Y2K 格纹 连衣裙 百慕大 短裤 腰带 高跟鞋",
-   "highlight": false,
-   "id": "look-14"
-  },
-  {
-   "artist": "izna",
-   "title": "《DUMB HOT!》",
-   "date": "2026-09-02",
-   "styles": [
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": null,
-   "figure": {
-    "src": "assets/img-06.jpg",
-    "alt": "izna《DUMB HOT!》MV 预告拼图，上半为粉紫房间群舞造型，下半为绿色田野中的白色上衣造型",
-    "width": 1000,
-    "height": 1658,
-    "caption": "MV TEASER · 粉紫群舞与田野白色造型双场景"
-   },
-   "swatches": [
-    "#d8a5d8",
-    "#8e78bd",
-    "#547ea4",
-    "#17181e"
-   ],
-   "badges": [
-    {
-     "text": "公开 MV",
-     "ok": true
-    },
-    {
-     "text": "09/02",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "粉紫房间群舞用荷叶边迷你裙、吊带背心和牛仔短裤，统一黑色及膝长靴；绿色田野场景则换成白色宽松 T 恤和牛仔下装。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "白色 oversize T 恤、牛仔热裤、黑色骑士靴、针织吊带背心、碎花迷你裙。"
-      },
-      {
-       "label": "Musinsa 搜：",
-       "text": "“white tee” / “denim shorts” / “knee boots”"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "Y2K 清凉辣妹",
-    "青春电影感"
-   ],
-   "link": {
-    "label": "看 MV",
-    "url": "https://youtu.be/_kxr2D8-tq8"
-   },
-   "search": "izna DUMB HOT HANDLE WITH CARE Y2K 清凉 辣妹 青春 电影 荷叶边 迷你裙 吊带 牛仔短裤 骑士靴",
-   "highlight": false,
-   "id": "look-15"
   }
  ]
 }
