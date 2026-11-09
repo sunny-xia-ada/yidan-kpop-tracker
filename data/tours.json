@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05",
+ "lastUpdated": "2026-11-09",
  "timezone": "America/Los_Angeles",
  "priceNotice": "票价为价格快照，不是秒级行情，各条目标注了各自的快照日期与费用口径。官方面价未公布时会明确留空；转售价格均标明来源与查询日期。",
  "distanceNotice": "这些场次都在西雅图，但研究快照没有可靠的距离数据，因此没有伪造公里数或“离你最近”排序。",
@@ -237,6 +237,60 @@
     {
      "label": "Vivid Seats 转售页",
      "url": "https://www.vividseats.com/oneus-tickets/performer/117881"
+    }
+   ]
+  },
+  {
+   "id": "hyukoh-20270331",
+   "artist": "HYUKOH",
+   "title": "HYUKOH 北美巡演 · 西雅图站",
+   "tag": "HYUKOH",
+   "status": {
+    "text": "即将开售",
+    "ok": true
+   },
+   "verified": true,
+   "start": "2027-03-31T20:00",
+   "doors": "19:00",
+   "durationMinutes": 150,
+   "venue": {
+    "name": "The Showbox",
+    "address": "1426 1st Ave, Seattle, WA 98101"
+   },
+   "ticketUrl": "https://www.showboxpresents.com/events/detail/1690449",
+   "rows": [
+    {
+     "label": "官方面价",
+     "value": "未公布"
+    },
+    {
+     "label": "转售起售价",
+     "value": "待确认",
+     "note": "尚未开售，2026-11-09 无可靠转售价"
+    },
+    {
+     "label": "年龄",
+     "value": "All Ages"
+    }
+   ],
+   "onsale": {
+    "status": "upcoming",
+    "note": "Showbox 官方页标注公开开票 11/12 10:00 AM PT。",
+    "general": {
+     "label": "公开发售 · Showbox 官方票务页",
+     "start": "2026-11-12T10:00",
+     "url": "https://www.showboxpresents.com/events/detail/1690449"
+    }
+   },
+   "search": "HYUKOH Showbox Seattle March 31 2027 tickets",
+   "sources": [
+    {
+     "label": "场馆官方页（Showbox）",
+     "url": "https://www.showboxpresents.com/events/detail/1690449"
+    },
+    {
+     "label": "Go See Shows",
+     "url": "https://goseeshows.com/seattle/shows/2027-03-31-showbox-at-the-market-hyukoh/"
     }
    ]
   }
