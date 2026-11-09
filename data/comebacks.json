@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05",
+ "lastUpdated": "2026-11-09",
  "trackedArtists": {
   "note": "名单仅为参考：回归按每月新闻收集，没有固定名单；以后可在此维护固定追踪名单。",
   "groups": [
@@ -60,6 +60,92 @@
  },
  "notice": "官方 MV 链接：研究快照没有提供可复用 URL，所以这一版不猜链接；有确认链接后再补。",
  "items": [
+  {
+   "artist": "KEYVITUP",
+   "title": "第 2 张迷你专辑《NA-GARI》",
+   "sortKey": "2026-11-09T18:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-19"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-09 · KST"
+    },
+    {
+     "label": "类型",
+     "value": "EP"
+    },
+    {
+     "label": "状态",
+     "value": "今日发行"
+    }
+   ],
+   "note": "出道后首次回归；发行时刻以官方为准。",
+   "search": "KEYVITUP 第 2 张迷你专辑《NA-GARI》",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/10/keyvitup-joins-november-comeback-rush-with-2nd-ep"
+    }
+   ],
+   "id": "cb-51"
+  },
+  {
+   "artist": "GIRLSET",
+   "title": "数字单曲《young and dumb》",
+   "sortKey": "2026-11-12T10:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-02"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-13 · 00:00 KST"
+    },
+    {
+     "label": "类型",
+     "value": "Digital single"
+    },
+    {
+     "label": "状态",
+     "value": "待发行"
+    }
+   ],
+   "note": "JYP 旗下，7 月《CHAT》后的新作。",
+   "search": "GIRLSET 数字单曲《young and dumb》",
+   "sources": [
+    {
+     "label": "allkpop 报道",
+     "url": "https://www.allkpop.com/article/2026/11/girlset-announces-the-upcoming-release-of-their-new-digital-single-young-and-dumb"
+    }
+   ],
+   "id": "cb-50"
+  },
   {
    "artist": "HYUKOH（혁오）",
    "title": "第 4 张正规专辑《33》",
