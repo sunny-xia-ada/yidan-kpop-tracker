@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09",
+ "lastUpdated": "2026-11-11",
  "timezone": "America/Los_Angeles",
  "priceNotice": "票价为价格快照，不是秒级行情，各条目标注了各自的快照日期与费用口径。官方面价未公布时会明确留空；转售价格均标明来源与查询日期。",
  "distanceNotice": "这些场次都在西雅图，但研究快照没有可靠的距离数据，因此没有伪造公里数或“离你最近”排序。",
@@ -241,6 +241,68 @@
    ]
   },
   {
+   "id": "wonho-20270109",
+   "artist": "WONHO",
+   "title": "2027 WORLD TOUR : NOCHE · 西雅图站（北美首站）",
+   "tag": "WONHO",
+   "status": {
+    "text": "预售中",
+    "ok": true
+   },
+   "verified": true,
+   "start": "2027-01-09T20:00",
+   "doors": "19:00",
+   "venue": {
+    "name": "The Moore Theatre",
+    "address": "1932 2nd Ave, Seattle, WA 98101"
+   },
+   "ticketUrl": "https://www.stgpresents.org/events/wonho/",
+   "rows": [
+    {
+     "label": "官方面价",
+     "value": "未公布"
+    },
+    {
+     "label": "转售起售价",
+     "value": "待确认",
+     "note": "公开发售前，2026-11-11 无可靠转售价"
+    },
+    {
+     "label": "座位",
+     "value": "General admission（站票）"
+    },
+    {
+     "label": "年龄",
+     "value": "All Ages"
+    }
+   ],
+   "onsale": {
+    "status": "upcoming",
+    "note": "艺人预售 11/11 10:00 – 11/12 22:00（当地时间，WONHO 官方 X）；公开发售 11/13（周五）10:00 PT（STG 官方页）。",
+    "presale": {
+     "label": "艺人预售（至 11/12 22:00）",
+     "start": "2026-11-11T10:00",
+     "url": "https://www.allkpop.com/article/2026/11/wonho-announces-10-us-cities-for-2027-world-tour-noche"
+    },
+    "general": {
+     "label": "公开发售 · STG 官方票务页",
+     "start": "2026-11-13T10:00",
+     "url": "https://www.stgpresents.org/events/wonho/"
+    }
+   },
+   "search": "WONHO 원호 NOCHE Moore Theatre Seattle January 9 2027 tickets",
+   "sources": [
+    {
+     "label": "场馆官方页（STG）",
+     "url": "https://www.stgpresents.org/events/wonho/"
+    },
+    {
+     "label": "allkpop（含官方日程）",
+     "url": "https://www.allkpop.com/article/2026/11/wonho-announces-10-us-cities-for-2027-world-tour-noche"
+    }
+   ]
+  },
+  {
    "id": "hyukoh-20270331",
    "artist": "HYUKOH",
    "title": "HYUKOH 北美巡演 · 西雅图站",
@@ -291,6 +353,69 @@
     {
      "label": "Go See Shows",
      "url": "https://goseeshows.com/seattle/shows/2027-03-31-showbox-at-the-market-hyukoh/"
+    }
+   ]
+  },
+  {
+   "id": "straykids-20270516",
+   "artist": "Stray Kids",
+   "title": "World Tour ‘RUN IT’ · 西雅图站（北美首站）",
+   "tag": "Stray Kids",
+   "status": {
+    "text": "即将开售",
+    "ok": true
+   },
+   "verified": true,
+   "start": "2027-05-16T19:30",
+   "doors": "17:30",
+   "venue": {
+    "name": "Lumen Field",
+    "address": "800 Occidental Ave S, Seattle, WA 98134"
+   },
+   "ticketUrl": "https://www.lumenfield.com/events/stray-kids-2027",
+   "rows": [
+    {
+     "label": "官方面价",
+     "value": "未公布"
+    },
+    {
+     "label": "转售起售价",
+     "value": "待确认",
+     "note": "尚未开售，2026-11-11 无可靠转售价"
+    },
+    {
+     "label": "阵容",
+     "value": "7 人",
+     "note": "Lee Know 服兵役，不参加北美和欧洲场"
+    },
+    {
+     "label": "年龄",
+     "value": "All Ages（21+ 凭证件购酒）"
+    }
+   ],
+   "onsale": {
+    "status": "upcoming",
+    "note": "艺人预售需在 11/15（周日）12:00 PT 前到 LiveNation.com/StrayKids 登记，艺人预售 11/18 15:00；STAY 会员预售 11/18 11:00；公开发售 11/19（周四）15:00（均为当地时间，Live Nation 官方公告）。",
+    "presale": {
+     "label": "STAY 会员预售（艺人预售同日 15:00）",
+     "start": "2026-11-18T11:00",
+     "url": "https://news.livenationentertainment.com/news/stray-kids-announce-2027-world-tour-run-it-across-north-america-europe-and-the-uk"
+    },
+    "general": {
+     "label": "公开发售 · Live Nation / Ticketmaster",
+     "start": "2026-11-19T15:00",
+     "url": "https://www.lumenfield.com/events/stray-kids-2027"
+    }
+   },
+   "search": "Stray Kids 스트레이키즈 RUN IT Lumen Field Seattle May 16 2027 tickets",
+   "sources": [
+    {
+     "label": "Lumen Field 官方页",
+     "url": "https://www.lumenfield.com/events/stray-kids-2027"
+    },
+    {
+     "label": "Live Nation 官方公告",
+     "url": "https://news.livenationentertainment.com/news/stray-kids-announce-2027-world-tour-run-it-across-north-america-europe-and-the-uk"
     }
    ]
   }

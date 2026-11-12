@@ -495,3 +495,15 @@
     .btn-cal:focus-visible, .inline-link:focus-visible { outline: 3px solid var(--blue); outline-offset: 2px; }
     @media (prefers-reduced-motion: no-preference) { .btn-cal { transition: filter 140ms ease; } }
     @media (max-width: 560px) { .cal-actions .btn-cal { flex: 1 1 100%; } .btn-cal.btn-alarm { margin-left: 0; } }
+
+/* 衣橱：外链图片 / 官方舞台视频内嵌（2026-11） */
+.c16.has-video { cursor: default; }
+.c16 .play-btn { position: absolute; left: 12px; top: 12px; z-index: 2; border: 0; border-radius: 999px; padding: 7px 12px; background: rgba(17,17,20,.78); color: #fff; font: inherit; font-size: 12px; font-weight: 800; cursor: pointer; }
+.c16 .play-btn:hover, .c16 .play-btn:focus-visible { background: #7c3aed; }
+.c16 .yt-embed { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; background: #000; }
+.c16 figcaption .img-credit { display: block; margin-top: 2px; font-size: 10px; font-weight: 600; opacity: .75; }
+.c16.img-failed::before, .c10.img-failed::before { content: '图片暂时加载不了，请点“来源”查看原图'; display: block; padding: 48px 16px; color: #ddd; font-size: 12px; text-align: center; }
+.c06.cat-stage { background: #f3e8ff; color: #6b21a8; }
+.c06.cat-magazine { background: #fde7f3; color: #9d174d; }
+.c06.cat-blogger { background: #e0f2fe; color: #075985; }
+.c06.cat-mv { background: #f1f5f9; color: #334155; }

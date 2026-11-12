@@ -50,8 +50,10 @@ tabs.forEach((tab, index) => {
     tabs[next].focus(); activateTab(tabs[next].getAttribute('data-tab'));
   });
 });
+const TAB_NAMES = ['tour', 'release', 'stage', 'closet'];
 const hashTab = location.hash.slice(1);
-if (['tour', 'release', 'stage', 'closet'].includes(hashTab)) activateTab(hashTab);
+if (TAB_NAMES.includes(hashTab)) activateTab(hashTab);
+window.addEventListener('hashchange', () => { const t = location.hash.slice(1); if (TAB_NAMES.includes(t)) activateTab(t); });
 
 /* ---------- 通用过滤 / 排序 ---------- */
 const states = { tour: { desc: false, verified: false, query: '' }, release: { desc: true, group: 'all', query: '' }, closet: { desc: true, style: 'all', query: '' } };
@@ -211,17 +213,42 @@ function renderStages(data) {
 }
 
 /* ---------- 偶像衣橱 ---------- */
+// 图片一律直接引用来源（官方 YouTube 封面 / 杂志官网），不转存；外链图加载失败时显示来源提示而不是破图。
+const CATEGORY_LABELS = { stage: '打歌舞台', mv: 'MV / 预告', magazine: '杂志', blogger: '博主 · 街拍' };
+const isRemote = (src) => /^https?:\/\//.test(src || '');
+const YT_ID = /^[\w-]{11}$/;
+function remoteImg(attrs) {
+  const img = h('img', Object.assign({ loading: 'lazy', decoding: 'async' }, attrs, isRemote(attrs.src) ? { referrerpolicy: 'no-referrer' } : {}));
+  img.addEventListener('error', () => { img.hidden = true; const f = img.closest('figure'); if (f) f.classList.add('img-failed'); }, { once: true });
+  return img;
+}
+function closetFigure(c) {
+  const f = c.figure;
+  const img = remoteImg({ src: f.src, alt: f.alt, width: f.width, height: f.height });
+  const fig = h('figure', { class: 'c16' + (c.video ? ' has-video' : '') }, img,
+    h('figcaption', null, f.caption, f.credit ? h('small', { class: 'img-credit', text: f.credit }) : null));
+  if (c.video && YT_ID.test(c.video)) {
+    const play = h('button', { class: 'play-btn', type: 'button', 'aria-label': `在这里播放 ${c.artist} ${c.title} 官方舞台视频` }, '▶ 播放舞台');
+    play.addEventListener('click', () => {
+      const frame = h('iframe', { class: 'yt-embed', src: `https://www.youtube-nocookie.com/embed/${c.video}?autoplay=1&rel=0&playsinline=1`, title: `${c.artist} ${c.title}`, allow: 'autoplay; encrypted-media; picture-in-picture; fullscreen', allowfullscreen: true, loading: 'lazy', referrerpolicy: 'strict-origin-when-cross-origin' });
+      img.replaceWith(frame); play.remove();
+    });
+    fig.insertBefore(play, fig.querySelector('figcaption'));
+  }
+  return fig;
+}
 function closetCard(c) {
   const kids = [];
   if (c.ribbon) kids.push(h('span', { class: 'ribbon', text: c.ribbon }));
-  if (c.figure) kids.push(h('figure', { class: 'c16' }, h('img', { src: c.figure.src, alt: c.figure.alt, width: c.figure.width, height: c.figure.height, loading: 'lazy' }), h('figcaption', { text: c.figure.caption })));
+  if (c.figure) kids.push(closetFigure(c));
   kids.push(h('div', { class: 'c18', 'aria-hidden': 'true' }, c.swatches.map(s => h('span', { style: `--swatch:${s}` }))));
   const body = h('div', { class: 'c02' },
-    h('div', { class: 'meta' }, c.badges.map(badge)),
+    h('div', { class: 'meta' }, CATEGORY_LABELS[c.category] ? h('span', { class: 'c06 cat-' + c.category, text: CATEGORY_LABELS[c.category] }) : null, c.badges.map(badge)),
     h('h3', { class: 'artist', text: c.artist }), h('p', { class: 'event', text: c.title }),
     c.sections.map(s => h('div', { class: 'c07' }, h('h4', { text: s.heading }), s.paragraphs.map(p => p.label ? h('p', { class: 'c15' }, h('strong', { text: p.label }), p.text) : h('p', { text: p.text })))),
     c.tags.length ? h('div', { class: 'c13' }, c.tags.map(t => h('span', { class: 'style-tag', text: t }))) : null,
-    c.link ? link(c.link.label, c.link.url, 'c04') : null);
+    c.link ? link(c.link.label, c.link.url, 'c04') : null,
+    sourcesDetails(c.sources));
   kids.push(body);
   return h('article', { class: 'card c14' + (c.highlight ? ' c36' : '') }, kids);
 }
@@ -234,6 +261,13 @@ function renderCloset(data) {
   lists.closet.forEach(e => list.append(e.el));
   refresh('closet');
   initMagazine(data.lookbooks);
+  // 只有主页、没有可核实单帖图片的博主：在翻阅室下方列出主页链接
+  const bloggers = data.cards.filter(c => c.category === 'blogger' && !c.figure && c.link);
+  if (bloggers.length) {
+    const p = h('p', { class: 'c31 blogger-links' }, h('strong', { text: '博主主页推荐：' }));
+    bloggers.forEach((c, i) => { if (i) p.append(' · '); p.append(link(c.artist, c.link.url)); p.append(h('small', { text: '（' + c.title.replace(/^Instagram · /, '') + '）' })); });
+    $('.magazine').append(p);
+  }
 }
 function initMagazine(books) {
   const byId = Object.fromEntries(books.map(b => [b.id, b]));
@@ -242,14 +276,18 @@ function initMagazine(books) {
   books.forEach(b => bar.append(h('button', { class: 'c09', type: 'button', role: 'tab', 'aria-selected': 'false', 'data-mag-book': b.id, text: `${b.label} · ${b.pages.length}` })));
   const el = n => $(`[data-mag-${n}]`);
   const image = el('image'), stage = el('stage');
+  image.addEventListener('error', () => { image.hidden = true; image.closest('figure').classList.add('img-failed'); });
   function render() {
     const book = byId[state.book], page = book.pages[state.page];
+    if (isRemote(page.image)) image.setAttribute('referrerpolicy', 'no-referrer'); else image.removeAttribute('referrerpolicy');
+    image.hidden = false; image.closest('figure').classList.remove('img-failed');
     image.src = page.image; image.alt = page.alt;
     el('kicker').textContent = book.artist; el('title').textContent = page.title; el('caption').textContent = page.caption;
     const note = el('note'); if (page.note) { note.textContent = page.note; note.hidden = false; } else { note.textContent = ''; note.hidden = true; }
     el('folio').textContent = String(state.page + 1).padStart(2, '0');
     el('status').textContent = `${state.page + 1} / ${book.pages.length}`;
     el('source').href = page.source;
+    el('source').textContent = /youtube\.com\/watch/.test(page.source) ? '看官方舞台视频 ↗' : '打开图片来源 ↗';
     el('musinsa').href = 'https://global.musinsa.com/us/search?gender=F&keyword=' + encodeURIComponent(page.shop.musinsa) + '&sortCode=POPULAR';
     el('lewkin').href = 'https://lewkin.com/search?q=' + encodeURIComponent(page.shop.lewkin);
     const tags = el('tags'); tags.replaceChildren(...page.tags.map(t => h('span', { class: 'style-tag', text: t })));

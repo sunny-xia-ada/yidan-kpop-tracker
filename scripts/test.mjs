@@ -76,4 +76,42 @@ const files = new Set(readdirSync(join(root, 'dist/ics')));
 for (const ev of tours.upcoming) for (const k of ['presale', 'general']) {
   const s = ev.onsale?.[k]; if (s?.start) { assert.ok(files.has(`${ev.id}-onsale-${k}.ics`)); assert.ok(s.url, '有开票时间必须带官方链接'); }
 }
+
+// 5) 偶像衣橱：类别、来源链接、外链图片（不转存）、视频 id、本地图存在
+import { existsSync } from 'node:fs';
+const closet = JSON.parse(readFileSync(join(root, 'data/closet.json'), 'utf8'));
+const CATS = new Set(['stage', 'mv', 'magazine', 'blogger']);
+const httpsUrl = (u) => { const x = new URL(u); assert.equal(x.protocol, 'https:', '必须是 https 链接: ' + u); return x; };
+const imgOk = (src) => { if (/^https?:/.test(src)) httpsUrl(src); else assert.ok(existsSync(join(root, 'public', src)), '本地图片不存在: ' + src); };
+const seen = new Set();
+assert.match(closet.lastUpdated, /^\d{4}-\d{2}-\d{2}$/);
+for (const c of closet.cards) {
+  assert.ok(c.id && !seen.has(c.id), '衣橱卡片 id 重复或缺失: ' + c.id); seen.add(c.id);
+  assert.ok(CATS.has(c.category), '未知类别: ' + c.category);
+  assert.match(c.date, /^\d{4}-\d{2}-\d{2}$/);
+  assert.ok(Array.isArray(c.styles) && c.styles.length, '缺 styles');
+  if (c.category === 'magazine' || c.category === 'blogger') assert.ok(c.styles.includes(c.category), '类别要能被筛选按钮选中: ' + c.id);
+  assert.ok(c.link && httpsUrl(c.link.url), '缺原始来源链接: ' + c.id);
+  (c.sources || []).forEach(s => httpsUrl(s.url));
+  if (c.category === 'magazine' || c.category === 'blogger' || c.video) assert.ok(c.sources && c.sources.length, '新素材必须附来源: ' + c.id);
+  if (c.figure) { imgOk(c.figure.src); assert.ok(c.figure.alt, '缺 alt: ' + c.id); }
+  if (c.video) { assert.match(c.video, /^[\w-]{11}$/); assert.ok(c.link.url.includes(c.video), '视频卡片的来源链接要指向同一视频: ' + c.id); }
+  if (c.figure && /i\.ytimg\.com\/vi\//.test(c.figure.src)) assert.ok(c.video && c.figure.src.includes(c.video), 'YouTube 封面必须对应卡片视频: ' + c.id);
+  if (c.category === 'blogger' && /instagram\.com/.test(c.link.url)) assert.ok(!c.figure, 'Instagram 博主不放未核实的帖子图: ' + c.id);
+}
+const bookIds = new Set();
+for (const b of closet.lookbooks) {
+  assert.ok(b.id && !bookIds.has(b.id)); bookIds.add(b.id);
+  assert.ok(b.pages.length > 0, '空造型册: ' + b.id);
+  for (const p of b.pages) { imgOk(p.image); httpsUrl(p.source); assert.ok(p.title && p.alt && p.shop && Array.isArray(p.tags)); }
+}
+// 6) 深链接：#closet 等能直接打开对应标签页
+const appJs = readFileSync(join(root, 'public/assets/app.js'), 'utf8');
+for (const t of ['tour', 'release', 'stage', 'closet']) assert.ok(appJs.includes(`'${t}'`) && readFileSync(join(root, 'public/index.html'), 'utf8').includes(`id="panel-${t}"`), '缺标签页: ' + t);
+assert.ok(/location\.hash/.test(appJs), '需要支持 #标签 深链接');
+// 7) 回归数据：每条有来源、id 唯一
+const cb = JSON.parse(readFileSync(join(root, 'data/comebacks.json'), 'utf8'));
+const cbIds = new Set();
+// 早期两条（IVE / ILLIT 10/26）来源字段为空，待补；新条目（id > cb-46）必须带来源
+for (const it of cb.items) { assert.ok(!cbIds.has(it.id), '回归 id 重复: ' + it.id); cbIds.add(it.id); if (Number(it.id.slice(3)) > 46) assert.ok(it.sources.length, '回归缺来源: ' + it.artist); it.sources.forEach(s => httpsUrl(s.url)); }
 console.log('ok — 全部检查通过');
