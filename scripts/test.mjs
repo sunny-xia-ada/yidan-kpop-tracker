@@ -77,34 +77,45 @@ for (const ev of tours.upcoming) for (const k of ['presale', 'general']) {
   const s = ev.onsale?.[k]; if (s?.start) { assert.ok(files.has(`${ev.id}-onsale-${k}.ics`)); assert.ok(s.url, '有开票时间必须带官方链接'); }
 }
 
-// 5) 偶像衣橱：类别、来源链接、外链图片（不转存）、视频 id、本地图存在
-import { existsSync } from 'node:fs';
+// 5) 偶像衣橱（穿搭杂志版）：竖版全身/半身图、单品拆解、来源链接、外链不转存
 const closet = JSON.parse(readFileSync(join(root, 'data/closet.json'), 'utf8'));
-const CATS = new Set(['stage', 'mv', 'magazine', 'blogger']);
 const httpsUrl = (u) => { const x = new URL(u); assert.equal(x.protocol, 'https:', '必须是 https 链接: ' + u); return x; };
-const imgOk = (src) => { if (/^https?:/.test(src)) httpsUrl(src); else assert.ok(existsSync(join(root, 'public', src)), '本地图片不存在: ' + src); };
 const seen = new Set();
 assert.match(closet.lastUpdated, /^\d{4}-\d{2}-\d{2}$/);
-for (const c of closet.cards) {
-  assert.ok(c.id && !seen.has(c.id), '衣橱卡片 id 重复或缺失: ' + c.id); seen.add(c.id);
-  assert.ok(CATS.has(c.category), '未知类别: ' + c.category);
-  assert.match(c.date, /^\d{4}-\d{2}-\d{2}$/);
-  assert.ok(Array.isArray(c.styles) && c.styles.length, '缺 styles');
-  if (c.category === 'magazine' || c.category === 'blogger') assert.ok(c.styles.includes(c.category), '类别要能被筛选按钮选中: ' + c.id);
-  assert.ok(c.link && httpsUrl(c.link.url), '缺原始来源链接: ' + c.id);
-  (c.sources || []).forEach(s => httpsUrl(s.url));
-  if (c.category === 'magazine' || c.category === 'blogger' || c.video) assert.ok(c.sources && c.sources.length, '新素材必须附来源: ' + c.id);
-  if (c.figure) { imgOk(c.figure.src); assert.ok(c.figure.alt, '缺 alt: ' + c.id); }
-  if (c.video) { assert.match(c.video, /^[\w-]{11}$/); assert.ok(c.link.url.includes(c.video), '视频卡片的来源链接要指向同一视频: ' + c.id); }
-  if (c.figure && /i\.ytimg\.com\/vi\//.test(c.figure.src)) assert.ok(c.video && c.figure.src.includes(c.video), 'YouTube 封面必须对应卡片视频: ' + c.id);
-  if (c.category === 'blogger' && /instagram\.com/.test(c.link.url)) assert.ok(!c.figure, 'Instagram 博主不放未核实的帖子图: ' + c.id);
+assert.ok(Array.isArray(closet.looks) && closet.looks.length >= 6, '衣橱至少要有 6 套');
+assert.ok(!('cards' in closet) && !('lookbooks' in closet), '旧的卡片 / 翻页册结构应已移除');
+for (const l of closet.looks) {
+  assert.ok(l.id && !seen.has(l.id), '衣橱 id 重复或缺失: ' + l.id); seen.add(l.id);
+  assert.ok(['stage', 'magazine'].includes(l.category), '未知类别: ' + l.category);
+  assert.ok(['full', 'half'].includes(l.body), '只收全身或半身图（不收头像特写）: ' + l.id);
+  assert.match(l.date, /^\d{4}-\d{2}-\d{2}$/);
+  assert.ok(l.artist && l.title && l.where && l.point, '缺艺人 / 出处 / 穿搭要点: ' + l.id);
+  // 图片：外链 https、竖版展示
+  const im = l.image; assert.ok(im && im.alt && im.credit, '缺图片 / alt / 图源: ' + l.id);
+  assert.ok(/^https:\/\//.test(im.src), '图片必须外链来源（不转存）: ' + l.id); httpsUrl(im.src);
+  assert.ok(Number.isFinite(im.width) && Number.isFinite(im.height), '缺图片尺寸: ' + l.id);
+  if (im.frame === 'fancam') {
+    // 官方竖屏直拍的自动截帧：不是默认封面（封面多为脸部特写），以 9:16 居中显示
+    assert.match(im.src, /^https:\/\/i\.ytimg\.com\/vi\/[\w-]{11}\/maxres[123]\.jpg$/, '直拍图要用截帧 maxres1-3，不用封面: ' + l.id);
+    assert.ok(l.video && im.src.includes(l.video), '截帧必须对应同一支直拍: ' + l.id);
+    assert.equal(l.body, 'full');
+  } else {
+    assert.equal(im.frame, 'contain', '未知图片展示方式: ' + l.id);
+    assert.ok(im.height > im.width, '杂志图必须是竖版: ' + l.id);
+  }
+  // 单品拆解：上衣 / 下装 / 鞋 / 配饰 / 配色 必填；品牌只在来源写明时填
+  for (const k of ['top', 'bottom', 'shoes', 'accessories', 'palette']) assert.ok(typeof l.breakdown?.[k] === 'string' && l.breakdown[k].trim(), `缺拆解 ${k}: ` + l.id);
+  assert.ok(l.breakdown.brand === null || (typeof l.breakdown.brand === 'string' && l.breakdown.brand.trim()), 'brand 只能是来源写明的品牌或 null: ' + l.id);
+  if (l.category === 'stage') assert.equal(l.breakdown.brand, null, '打歌舞台来源未写品牌，不应填品牌: ' + l.id);
+  // 来源
+  assert.ok(Array.isArray(l.sources) && l.sources.length, '缺来源链接: ' + l.id);
+  l.sources.forEach(s => { assert.ok(s.label); httpsUrl(s.url); });
+  if (l.video) { assert.match(l.video, /^[\w-]{11}$/); assert.ok(l.sources.some(s => s.url.includes(l.video)), '来源要指向同一支视频: ' + l.id); }
+  (l.swatches || []).forEach(c => assert.match(c, /^#[0-9a-f]{6}$/i));
 }
-const bookIds = new Set();
-for (const b of closet.lookbooks) {
-  assert.ok(b.id && !bookIds.has(b.id)); bookIds.add(b.id);
-  assert.ok(b.pages.length > 0, '空造型册: ' + b.id);
-  for (const p of b.pages) { imgOk(p.image); httpsUrl(p.source); assert.ok(p.title && p.alt && p.shop && Array.isArray(p.tags)); }
-}
+const css = readFileSync(join(root, 'public/assets/styles.css'), 'utf8');
+assert.ok(!/#panel-closet\s*>\s*\.grid[^{]*\{[^}]*display:\s*none/.test(css), '衣橱列表不能被 CSS 隐藏');
+assert.ok(/\.frame-fancam\s*\{[^}]*aspect-ratio:\s*9\s*\/\s*16/.test(css) && /\.frame-contain img\s*\{[^}]*object-fit:\s*contain/.test(css), '衣橱图要竖版展示且不裁衣服');
 // 6) 深链接：#closet 等能直接打开对应标签页
 const appJs = readFileSync(join(root, 'public/assets/app.js'), 'utf8');
 for (const t of ['tour', 'release', 'stage', 'closet']) assert.ok(appJs.includes(`'${t}'`) && readFileSync(join(root, 'public/index.html'), 'utf8').includes(`id="panel-${t}"`), '缺标签页: ' + t);

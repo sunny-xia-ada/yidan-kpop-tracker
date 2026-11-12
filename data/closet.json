@@ -1,3028 +1,1047 @@
 {
- "lastUpdated": "2026-11-11",
- "issue": "ISSUE 03 / NOV 2026",
- "lookbooks": [
-  {
-   "id": "illit-arrest",
-   "artist": "ILLIT · YOU’RE UNDER ARREST",
-   "label": "打歌 · ILLIT",
-   "pages": [
+  "lastUpdated": "2026-11-11",
+  "issue": "ISSUE 03 / NOV 2026",
+  "looks": [
     {
-     "image": "https://i.ytimg.com/vi/2w2rqmE-dL8/maxresdefault.jpg",
-     "remote": true,
-     "alt": "ILLIT《You’re Under Arrest（체포하겠어）》KBS2《Music Bank》 11/06 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=2w2rqmE-dL8",
-     "title": "KBS2《Music Bank》 · 11/06",
-     "caption": "黑色运动发带配黑长直，黑底白条纹运动风袖子，手持黄牌道具，呼应“抓捕/裁判”概念。 这一期 ILLIT 拿下该曲首个音乐节目一位（Soompi）。",
-     "tags": [
-      "运动风",
-      "黄牌道具",
-      "发带"
-     ],
-     "note": "图片：KBS Kpop 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "运动风 黄牌道具",
-      "musinsa": "运动风"
-     }
-    },
-    {
-     "image": "https://i.ytimg.com/vi/hvep1LyFrjI/maxresdefault.jpg",
-     "remote": true,
-     "alt": "ILLIT《You’re Under Arrest（체포하겠어）》SBS《人气歌谣 Inkigayo》 11/08 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=hvep1LyFrjI",
-     "title": "SBS《人气歌谣 Inkigayo》 · 11/08",
-     "caption": "星星造型发夹，深色短甲，深蓝白拼色运动风上衣，粉色舞台光下更甜。",
-     "tags": [
-      "星星发夹",
-      "运动风",
-      "甜酷"
-     ],
-     "note": "图片：SBSKPOP X INKIGAYO 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "星星发夹 运动风",
-      "musinsa": "星星发夹"
-     }
-    }
-   ]
-  },
-  {
-   "id": "rescene-with",
-   "artist": "RESCENE · WITH",
-   "label": "打歌 · RESCENE",
-   "pages": [
-    {
-     "image": "https://i.ytimg.com/vi/ECz-M-jwGzQ/maxresdefault.jpg",
-     "remote": true,
-     "alt": "RESCENE《With》KBS2《Music Bank》 11/06 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=ECz-M-jwGzQ",
-     "title": "KBS2《Music Bank》 · 11/06",
-     "caption": "新歌首个打歌舞台：白色系柔软上衣，白色羽毛道具，银色耳饰，整体清透。 iMBC 报道这场是《With》音乐节目首次公开，形容“清纯的视觉”。",
-     "tags": [
-      "清透白",
-      "羽毛",
-      "首舞台"
-     ],
-     "note": "图片：KBS Kpop 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "清透白 羽毛",
-      "musinsa": "清透白"
-     }
-    },
-    {
-     "image": "https://i.ytimg.com/vi/C7vNpNTv7fQ/maxresdefault.jpg",
-     "remote": true,
-     "alt": "RESCENE《百花缭乱（Inside Out）》MBC《Show! 音乐中心》 11/07 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=C7vNpNTv7fQ",
-     "title": "MBC《Show! 音乐中心》 · 11/07",
-     "caption": "白色系上衣，银色耳饰，浅色长甲，配蓝色六边形舞台背景。",
-     "tags": [
-      "白色系",
-      "银饰",
-      "长甲"
-     ],
-     "note": "图片：MBCkpop 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "白色系 银饰",
-      "musinsa": "白色系"
-     }
-    },
-    {
-     "image": "https://i.ytimg.com/vi/EEMdvAl21pQ/maxresdefault.jpg",
-     "remote": true,
-     "alt": "RESCENE《With》MBC M《Show Champion》 11/11 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=EEMdvAl21pQ",
-     "title": "MBC M《Show Champion》 · 11/11",
-     "caption": "栗棕色长直发，裸粉尖甲，米白色系。 这一期 RESCENE 拿下《With》第 2 个一位（Soompi）。",
-     "tags": [
-      "栗棕发",
-      "裸色甲",
-      "温柔系"
-     ],
-     "note": "图片：ALL THE K-POP 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "栗棕发 裸色甲",
-      "musinsa": "栗棕发"
-     }
-    }
-   ]
-  },
-  {
-   "id": "jisoo-stage",
-   "artist": "JISOO · ADDICTED 打歌",
-   "label": "打歌 · JISOO",
-   "pages": [
-    {
-     "image": "https://i.ytimg.com/vi/CEeI4XUeUFo/maxresdefault.jpg",
-     "remote": true,
-     "alt": "JISOO《ADDICTED》SBS《人气歌谣 Inkigayo》 11/08 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=CEeI4XUeUFo",
-     "title": "SBS《人气歌谣 Inkigayo》 · 11/08",
-     "caption": "粉紫色亮片/串珠高领上衣，半扎发，亮片眼妆。",
-     "tags": [
-      "亮片高领",
-      "粉紫",
-      "半扎发"
-     ],
-     "note": "图片：SBSKPOP X INKIGAYO 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "亮片高领 粉紫",
-      "musinsa": "亮片高领"
-     }
-    },
-    {
-     "image": "https://i.ytimg.com/vi/sEfYW7-T3gc/maxresdefault.jpg",
-     "remote": true,
-     "alt": "JISOO《ADDICTED》MBC《Show! 音乐中心》 11/07 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=sEfYW7-T3gc",
-     "title": "MBC《Show! 音乐中心》 · 11/07",
-     "caption": "银色尖爪指套，亮钻项圈，深灰上衣，黑长发。",
-     "tags": [
-      "尖爪指套",
-      "亮钻项圈",
-      "暗黑"
-     ],
-     "note": "图片：MBCkpop 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "尖爪指套 亮钻项圈",
-      "musinsa": "尖爪指套"
-     }
-    }
-   ]
-  },
-  {
-   "id": "how-litit",
-   "artist": "HEART OF WOMAN · LIT IT",
-   "label": "打歌 · HEART OF WOMAN",
-   "pages": [
-    {
-     "image": "https://i.ytimg.com/vi/HJDAgHn8IMk/maxresdefault.jpg",
-     "remote": true,
-     "alt": "HEART OF WOMAN《LIT IT》KBS2《Music Bank》 11/06 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=HJDAgHn8IMk",
-     "title": "KBS2《Music Bank》 · 11/06",
-     "caption": "金发挑染粉/蓝的双马尾，黑色网纱手套，脸上贴钻，黑色上衣。",
-     "tags": [
-      "双马尾",
-      "挑染",
-      "贴钻"
-     ],
-     "note": "图片：KBS Kpop 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "双马尾 挑染",
-      "musinsa": "双马尾"
-     }
-    },
-    {
-     "image": "https://i.ytimg.com/vi/5nEVFDeUI_s/maxresdefault.jpg",
-     "remote": true,
-     "alt": "HEART OF WOMAN《LIT IT》MBC M《Show Champion》 11/11 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=5nEVFDeUI_s",
-     "title": "MBC M《Show Champion》 · 11/11",
-     "caption": "双丸子头，蓝色毛绒猫爪手套（粉色肉垫），银色项链。",
-     "tags": [
-      "丸子头",
-      "猫爪手套",
-      "毛绒"
-     ],
-     "note": "图片：ALL THE K-POP 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "丸子头 猫爪手套",
-      "musinsa": "丸子头"
-     }
-    }
-   ]
-  },
-  {
-   "id": "bdc-replay",
-   "artist": "Baby DONT Cry · REPLAY",
-   "label": "打歌 · Baby DONT Cry",
-   "pages": [
-    {
-     "image": "https://i.ytimg.com/vi/VZN64Y1iKsk/maxresdefault.jpg",
-     "remote": true,
-     "alt": "Baby DONT Cry《Replay》KBS2《Music Bank》 11/06 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=VZN64Y1iKsk",
-     "title": "KBS2《Music Bank》 · 11/06",
-     "caption": "高马尾，黑色发饰，黑白配色，背景是复古画框风布景。",
-     "tags": [
-      "高马尾",
-      "黑白",
-      "复古"
-     ],
-     "note": "图片：KBS Kpop 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "高马尾 黑白",
-      "musinsa": "高马尾"
-     }
-    },
-    {
-     "image": "https://i.ytimg.com/vi/Riw0AKo3Eng/maxresdefault.jpg",
-     "remote": true,
-     "alt": "Baby DONT Cry《Replay》MBC《Show! 音乐中心》 11/07 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=Riw0AKo3Eng",
-     "title": "MBC《Show! 音乐中心》 · 11/07",
-     "caption": "珊瑚粉荷叶袖上衣，镂空/蕾丝领口，粉色背景，甜美系。",
-     "tags": [
-      "珊瑚粉",
-      "荷叶袖",
-      "甜美"
-     ],
-     "note": "图片：MBCkpop 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "珊瑚粉 荷叶袖",
-      "musinsa": "珊瑚粉"
-     }
-    }
-   ]
-  },
-  {
-   "id": "more-stages",
-   "artist": "MORE STAGES · 本周女团打歌",
-   "label": "打歌 · 更多女团",
-   "pages": [
-    {
-     "image": "https://i.ytimg.com/vi/WOyDxbVFkhk/maxresdefault.jpg",
-     "remote": true,
-     "alt": "IS:SUE《New Look（Korean Ver.）》MBC《Show! 音乐中心》 11/07 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=WOyDxbVFkhk",
-     "title": "IS:SUE · MBC《Show! 音乐中心》 · 11/07",
-     "caption": "藏青针织开衫配白衬衫和红色细领带，学院风。",
-     "tags": [
-      "学院风",
-      "开衫",
-      "领带"
-     ],
-     "note": "图片：MBCkpop 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "学院风 开衫",
-      "musinsa": "学院风"
-     }
-    },
-    {
-     "image": "https://i.ytimg.com/vi/cuhjRYlzQ_4/maxresdefault.jpg",
-     "remote": true,
-     "alt": "SAY MY NAME《꾸꾸꾸 + 8llowme》MBC M《Show Champion》 11/11 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=cuhjRYlzQ_4",
-     "title": "SAY MY NAME · MBC M《Show Champion》 · 11/11",
-     "caption": "金发配超大深色蝴蝶结，脸颊彩色亮钻，白色衬衫袖。",
-     "tags": [
-      "大蝴蝶结",
-      "脸部亮钻",
-      "金发"
-     ],
-     "note": "图片：ALL THE K-POP 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "大蝴蝶结 脸部亮钻",
-      "musinsa": "大蝴蝶结"
-     }
-    },
-    {
-     "image": "https://i.ytimg.com/vi/fYD7TD92CGY/maxresdefault.jpg",
-     "remote": true,
-     "alt": "X:IN《ZZIRIT（feat. Luísa Sonza）》SBS《人气歌谣 Inkigayo》 11/08 官方舞台视频画面",
-     "source": "https://www.youtube.com/watch?v=fYD7TD92CGY",
-     "title": "X:IN · SBS《人气歌谣 Inkigayo》 · 11/08",
-     "caption": "橘红色长发，金色链条项链，浅色上衣。",
-     "tags": [
-      "橘红发",
-      "金链",
-      "热辣"
-     ],
-     "note": "图片：SBSKPOP X INKIGAYO 官方 YouTube 视频封面（近景），全身造型请点来源看完整舞台。",
-     "shop": {
-      "lewkin": "橘红发 金链",
-      "musinsa": "橘红发"
-     }
-    }
-   ]
-  },
-  {
-   "id": "mag-nov",
-   "artist": "MAGAZINE · 杂志造型",
-   "label": "杂志 · 11 月",
-   "pages": [
-    {
-     "image": "https://www.wkorea.com/wp_data/w/2026/10/style_6acc379b68d82-scaled-1920x1080.jpg?x=1930&y=1050&ver=1.2.05",
-     "remote": true,
-     "alt": "NINGNING（aespa） W Korea Vol.11（2026 年 11 月号）封面",
-     "source": "https://www.wkorea.com/2026/10/12/%eb%8d%94%eb%b8%94%ec%9c%a0-%ec%bd%94%eb%a6%ac%ec%95%84-vol-11-%ec%bb%a4%eb%b2%84%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%8b%9d%eb%8b%9d/",
-     "title": "NINGNING（aespa） · W KOREA · VOL.11 COVER",
-     "caption": "玫紫色缎面西装外套配黑色 V 领内搭，黑长发侧分遮住一只眼，表情克制。 W Korea 官网介绍：在 16 国 26 城的世界巡演途中拍摄，“比任何时候都大胆”。造型师 임진（Lim Jin）。",
-     "tags": [
-      "缎面西装",
-      "玫紫",
-      "冷艳"
-     ],
-     "note": "图片：W Korea 官网，本站不转存。",
-     "shop": {
-      "lewkin": "satin blazer purple",
-      "musinsa": "blazer"
-     }
-    },
-    {
-     "image": "https://dazedkorea.com/wp-content/uploads/2026/10/KakaoTalk_Photo_2026-10-19-10-47-32-002-768x960.png",
-     "remote": true,
-     "alt": "MINJU & YUNAH（ILLIT） DAZED KOREA 2026 年 11 月号别册封面（FUN ZINE）",
-     "source": "https://dazedkorea.com/2026/10/19/%e3%80%88%eb%8d%b0%ec%9d%b4%ec%a6%88%eb%93%9c%e3%80%89-11%ec%9b%94%ed%98%b8-%eb%b3%84%ec%b1%85/",
-     "title": "MINJU & YUNAH（ILLIT） · DAZED KOREA · NOV 2026 SUPPLEMENT",
-     "caption": "封面印有 DAZED × BALENCIAGA 字样：荧光黄绿色机车包、挂满彩色挂件，配黑长直齐刘海和宽松针织，玩味杂志风。 同期别册还有灰色、粉色包款的封面版本（见来源页）。",
-     "tags": [
-      "Balenciaga",
-      "机车包",
-      "包挂"
-     ],
-     "note": "图片：DAZED KOREA 官网，本站不转存。",
-     "shop": {
-      "lewkin": "bag charm",
-      "musinsa": "bag charm"
-     }
-    },
-    {
-     "image": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/10/23/514a8e90-86b3-4935-a125-21ac554edef2.jpg",
-     "remote": true,
-     "alt": "ANNA（MEOVV） Harper’s BAZAAR Korea × Chloé《Somewhere in Paris》",
-     "source": "https://www.harpersbazaar.co.kr/article/1911873",
-     "title": "ANNA（MEOVV） · BAZAAR KOREA · SOMEWHERE IN PARIS",
-     "caption": "巴黎街头拍摄：红色荷叶边露肩连衣裙配深棕大波浪；其他造型有花朵刺绣蕾丝套装、荷叶边衬衫配层叠裙、针织毛球开衫配条纹衬衫。 BAZAAR 官网标注：全部服装和配饰都是 Chloé（含 Paddington 包、郁金香吊坠项链）。",
-     "tags": [
-      "Chloé",
-      "荷叶边",
-      "巴黎"
-     ],
-     "note": "图片：Harper’s BAZAAR Korea 官网，本站不转存。",
-     "shop": {
-      "lewkin": "ruffle off shoulder dress",
-      "musinsa": "ruffle dress"
-     }
-    },
-    {
-     "image": "https://storage.googleapis.com/nylonjapan/2026/08/gTtzVaPMycwBJr6JKLu4ph0qWqF45PqAV6Ar/02.jpg",
-     "remote": true,
-     "alt": "TSUKI（Billlie） NYLON JAPAN 2026 年 11 月号 guys 封面",
-     "source": "https://www.nylon.jp/270",
-     "title": "TSUKI（Billlie） · NYLON JAPAN · NOV 2026 guys COVER",
-     "caption": "湖蓝色波点挂脖上衣配同色领巾，绿色星星发夹，焦糖棕长卷发，奶黄色背景。 NYLON JAPAN 介绍：她在日本时尚杂志的首个单人封面，内页从梦幻 dreamcore 到大胆的 Y3K“辣妹 TSUKI”。",
-     "tags": [
-      "波点",
-      "星星发夹",
-      "dreamcore"
-     ],
-     "note": "图片：NYLON JAPAN 官网，本站不转存。",
-     "shop": {
-      "lewkin": "polka dot halter top",
-      "musinsa": "halter top"
-     }
-    },
-    {
-     "image": "https://contents.oricon.co.jp/upimg/news/2483000/2482356/20260925_100510_p_o_60294294.jpg",
-     "remote": true,
-     "alt": "MINA（TWICE） ELLE Japon 2026 年 11 月号封面",
-     "source": "https://www.oricon.co.jp/news/2482356/full/",
-     "title": "MINA（TWICE） · ELLE JAPON · NOV 2026 COVER",
-     "caption": "Fendi 黑色流苏连衣裙配假领；内页还有 oversize 夹克和偏酷的丹宁造型。 这是 MINA 第 3 次登上 ELLE Japon 封面（毎日キレイ）。",
-     "tags": [
-      "Fendi",
-      "流苏",
-      "假领"
-     ],
-     "note": "图片：ORICON NEWS 报道配图，本站不转存。",
-     "shop": {
-      "lewkin": "fringe black dress",
-      "musinsa": "fringe dress"
-     }
-    },
-    {
-     "image": "https://biz.chosun.com/resizer/v2/HBSWKM3FHBSDQYJZGQ4DCYLEGI.png?auth=b8d53a2fa3cc83d3ab584127a17b8ecf6526b5d3d1d29f4c8fb522cd75ab6514&width=572&height=300&smart=true",
-     "remote": true,
-     "alt": "JISOO（BLACKPINK） Vogue China（服饰与美容）2026 年 11 月号封面",
-     "source": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MIZDENTDGUYTKOBYGZQTMMRQGY/",
-     "title": "JISOO（BLACKPINK） · VOGUE CHINA · NOV 2026",
-     "caption": "封面是灰色衣服配黑色装饰、红色指甲和拉长眼线，红底金字 Vogue，复古电影感；内页有黑色无袖连衣裙，还有红色伞裙配黑丝袜。 摄影 Leslie Zhang；韩国粉丝形容像《花样年华》海报（朝鲜Biz 11/11）。",
-     "tags": [
-      "复古电影感",
-      "红色",
-      "黑丝"
-     ],
-     "note": "图片：朝鲜Biz 报道配图，本站不转存。",
-     "shop": {
-      "lewkin": "red full skirt",
-      "musinsa": "skirt"
-     }
-    }
-   ]
-  },
-  {
-   "id": "street",
-   "artist": "STREET · 博主街拍",
-   "label": "博主 · 街拍",
-   "pages": [
-    {
-     "image": "https://assets.vogue.com/photos/6a9c779a40c71f2ce6f1c2c6/2:3/w_1000,h_1500,c_limit/seoulfashionweek_SS27_STREETSTYLE_DAY3_youngchulkim_17.jpg",
-     "remote": true,
-     "alt": "2027 春夏首尔时装周 DDP 街拍：砖橘贝雷帽、白色短 T、米白阔腿裤",
-     "source": "https://www.vogue.com/slideshow/the-best-street-style-photos-from-the-spring-2027-shows-in-seoul",
-     "title": "首尔 SS27 街拍 · DDP",
-     "caption": "砖橘色贝雷帽，白色无袖短 T，焦糖色皮带，米白宽腿阔裤，头戴式耳机当配饰，再拎一只黄色小熊包。",
-     "tags": [
-      "阔腿裤",
-      "贝雷帽",
-      "耳机配饰"
-     ],
-     "note": "图片：Vogue.com 街拍图集，本站不转存。",
-     "shop": {
-      "lewkin": "wide leg cotton pants",
-      "musinsa": "wide pants"
-     }
-    }
-   ]
-  },
-  {
-   "id": "jisoo",
-   "artist": "JISOO · ADDICTED",
-   "label": "JISOO",
-   "pages": [
-    {
-     "image": "assets/img-50.jpg",
-     "alt": "Jisoo《ADDICTED》官方 MV 视觉，高领珍珠串珠与羽毛刺绣透视礼服，黑色背景与晶体标题字",
-     "source": "https://www.youtube.com/watch?v=Pksr9T8m_aA",
-     "title": "珍珠羽毛高领礼服",
-     "caption": "官方 MV（2026-10-30）主视觉之一：高领珍珠与银色串珠叠羽毛/花卉刺绣透视礼服，黑底晶体标题字。ELLE HK 时装拆解将同类华丽礼服对应到 Richard Quinn 2026 秋冬等品牌。",
-     "tags": [
-      "ADDICTED",
-      "MV",
-      "华丽礼服"
-     ],
-     "shop": {
-      "lewkin": "pearl high neck embroidered dress",
-      "musinsa": "dress"
-     }
-    },
-    {
-     "image": "assets/img-49.jpg",
-     "alt": "Jisoo《ADDICTED》最终预告近景，齐刘海黑长直发、尖细黑色美甲，星点散景背景",
-     "source": "https://www.allkpop.com/article/2026/10/blackpinks-jisoo-unveils-the-final-teasers-for-her-upcoming-single-addicted",
-     "title": "最终预告 · 冷艳近景",
-     "caption": "最终预告照（2026-10-29 公开）：齐刘海黑长直发、强调眼妆与光泽黑尖甲，暗色星点散景。来源：allkpop / BLISSOO。",
-     "tags": [
-      "预告",
-      "近景素材",
-      "冷艳"
-     ],
-     "shop": {
-      "lewkin": "black strapless evening look",
-      "musinsa": "nails"
-     }
-    },
-    {
-     "image": "assets/img-51.jpg",
-     "alt": "Jisoo《ADDICTED》水下 MV 预告画面，雷电天空与水中舞蹈剪影氛围",
-     "source": "https://www.allkpop.com/article/2026/10/blackpinks-jisoo-unveils-underwater-mv-teaser-for-second-pre-release-single-addicted",
-     "title": "水下 MV 预告氛围",
-     "caption": "MV 预告（2026-10-28）：雷电天空与水下舞蹈段落，光暗交替。时装细节以完整 MV 与 ELLE HK 拆解为准；本页偏氛围素材。",
-     "tags": [
-      "MV 预告",
-      "氛围素材"
-     ],
-     "shop": {
-      "lewkin": "black latex bodysuit",
-      "musinsa": "bodysuit"
-     }
-    },
-    {
-     "image": "assets/img-52.jpg",
-     "alt": "ELLE HK《ADDICTED》时装专题封面图，Jisoo 猫女与多套 MV 造型拼贴方向",
-     "source": "https://www.elle.com.hk/fashion/blackpink-jisoo-addicted-mv-style-file",
-     "title": "ELLE · 猫女与品牌拆解",
-     "caption": "ELLE HK 时装专题：蕾丝猫女造型、Atsuko Kudo 黑色乳胶高领连体衣、Ashish 星星迷你裙配 Saint Laurent 粗跟鞋、David Koma 红色镂空连身衣等。本页为专题封面图，具体品牌见来源文。",
-     "tags": [
-      "时装拆解",
-      "猫女",
-      "品牌"
-     ],
-     "note": "注：品牌对应来自 ELLE HK 2026-10 专题；本站不把未交叉核验的单品写成“同款已确认”。",
-     "shop": {
-      "lewkin": "lace cat ear bodysuit",
-      "musinsa": "bodysuit"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nayeon",
-   "artist": "NAYEON · NA-STY",
-   "label": "NAYEON",
-   "pages": [
-    {
-     "image": "assets/img-53.jpg",
-     "alt": "Nayeon《NA-sty》Intro Film 静帧，电光蓝发齐刘海，黑底传统纹样肩部印花",
-     "source": "https://www.dipe.co.kr/2350350",
-     "title": "Intro Film · 电光蓝发",
-     "caption": "Intro Film（2026-11-05 公开，Dispatch/DIPE）：电光蓝发与齐刘海，“Baby Angel”叙事。发行日 11/20。来源：JYP / DIPE。",
-     "tags": [
-      "Intro Film",
-      "蓝发",
-      "近景素材"
-     ],
-     "shop": {
-      "lewkin": "graphic print black top",
-      "musinsa": "top"
-     }
-    },
-    {
-     "image": "assets/img-54.jpg",
-     "alt": "Nayeon《NA-sty》预告视觉，蓝发与复古数码美学氛围",
-     "source": "https://www.allkpop.com/article/2026/10/twices-nayeon-teases-new-solo-single-na-sty-with-striking-blue-haired-look",
-     "title": "预告 · 蓝发复古数码",
-     "caption": "预告企划（2026-10-30 前后）：蓝发、复古电脑风画面与羽毛元素；媒体点名 Versace 三层厚底高跟鞋与手腕/脚踝处的黑莓式手机道具。来源：allkpop / JYP。",
-     "tags": [
-      "预告",
-      "复古数码",
-      "Versace"
-     ],
-     "shop": {
-      "lewkin": "platform pumps",
-      "musinsa": "heels"
-     }
-    },
-    {
-     "image": "assets/img-55.jpg",
-     "alt": "Nayeon《NA-sty》Visual Film YouTube 缩略图，高跟鞋与手机道具画面",
-     "source": "https://www.youtube.com/watch?v=fw3L_uq1fW4",
-     "title": "Visual Film · 高跟鞋道具",
-     "caption": "Visual Film：先以夸张高跟鞋与缠绕手机的脚步声开场，再切到蓝发 Nayeon 出现在手机屏幕里。全身套装细节待更多官方概念照。",
-     "tags": [
-      "Visual Film",
-      "道具",
-      "局部素材"
-     ],
-     "note": "注：目前公开的仍是预告/影像静帧，完整造型册会在 11/20 前后补概念照。",
-     "shop": {
-      "lewkin": "statement platform heels",
-      "musinsa": "heels"
-     }
-    }
-   ]
-  },
-  {
-   "id": "katseye",
-   "artist": "KATSEYE · WILDWORLD TOUR",
-   "label": "KATSEYE",
-   "pages": [
-    {
-     "image": "assets/img-56.jpg",
-     "alt": "KATSEYE Wildworld Tour 巴黎 Accor Arena 舞台，粉紫蓝闪亮套装与罗马风绑带高跟靴合集",
-     "source": "https://wwd.com/footwear-news/shoe-trends/katseye-wildworld-tour-gladiator-heels-shoes-1239207903/",
-     "title": "巴黎站 · 糖果色罗马靴",
-     "caption": "WWD 报道巴黎 Accor Arena（2026-09-09）：粉/紫/蓝闪亮套装、锥形胸衣与珠宝细节，搭配开口绑带罗马风高跟踝靴与过膝靴；造型师 Katie Qian，创意总监 Humberto León。西雅图站 11/17。",
-     "tags": [
-      "巡演舞台",
-      "罗马靴",
-      "糖果色"
-     ],
-     "shop": {
-      "lewkin": "gladiator lace-up heeled boots",
-      "musinsa": "boots"
-     }
-    },
-    {
-     "image": "assets/img-57.jpg",
-     "alt": "KATSEYE Wildworld Tour 舞台群像，粉紫蓝印花迷你裙套装与渔网袜",
-     "source": "https://wwd.com/footwear-news/shoe-trends/katseye-wildworld-tour-gladiator-heels-shoes-1239207903/",
-     "title": "巡演 · 粉紫蓝群像",
-     "caption": "同巡演造型：成员各自微调剪裁（挖空迷你裙、长袖叠迷你裙等），图案渔网袜延伸到绑带靴，保持统一又突出个人。来源：WWD / Getty。",
-     "tags": [
-      "巡演舞台",
-      "群像",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "sparkle mini dress stage",
-      "musinsa": "skirt"
-     }
-    },
-    {
-     "image": "assets/img-58.jpg",
-     "alt": "KATSEYE Wildworld Tour 北美腿迈阿密开场舞台，绿蓝紫印花短装与毛绒、金属腰带细节",
-     "source": "https://www.yahoo.com/entertainment/music/articles/katseye-describes-powerful-wildworld-tour-110000206.html",
-     "title": "迈阿密 · 北美腿升级造型",
-     "caption": "北美腿开场迈阿密（2026-10-13，People/Yahoo）：绿蓝紫印花短装、毛绒饰边与金属腰带；成员在采访中强调个人点缀（如 Lara 的 bindi、Megan 的翡翠手镯）。来源：People。",
-     "tags": [
-      "北美巡演",
-      "迈阿密",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "graphic print stage set fur trim",
-      "musinsa": "shorts"
-     }
-    }
-   ]
-  },
-  {
-   "id": "a2olite",
-   "artist": "A2O LITE · NEON",
-   "label": "A2O LITE",
-   "pages": [
-    {
-     "image": "assets/img-59.jpg",
-     "alt": "A2O LITE《NEON》舞台/MV 造型，灰黄运动风短款上衣与不对称裙裤、手腕护具",
-     "source": "https://www.marieclairekorea.com/fashion/2026/10/a2o-lite/",
-     "title": "OJOS 定制运动套装",
-     "caption": "Marie Claire Korea：造型师张熙俊（장희준）与品牌 OJOS 合作定制——灵感来自校内生活体育服的运动风两件套，功能面料与剪接线强调群舞线条；手上为 KIMUNE 3D 打印手件，鞋履为 Maison Margiela Future Sneakers。",
-     "tags": [
-      "NEON",
-      "定制舞台服",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "sporty crop top skort set",
-      "musinsa": "sneakers"
-     }
-    },
-    {
-     "image": "assets/img-60.jpg",
-     "alt": "A2O LITE《NEON》THE SHOW 2026-10-20 舞台，白色拉链短上衣与银色拼接工装裤群舞造型",
-     "source": "https://biz.chosun.com/en/en-photo-ent/2026/10/20/YZSQNCXYXBHBTDJZBQ6WLR52YE/",
-     "title": "THE SHOW · 白银工装全身",
-     "caption": "SBS THE SHOW 舞台照片（2026-10-20，OSEN/Chosun Biz）：白色拉链短上衣叠银色拼接工装阔腿裤，紫蓝舞台光。来源：媒体现场图。",
-     "tags": [
-      "打歌舞台",
-      "THE SHOW",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "white zip crop cargo pants",
-      "musinsa": "pants"
-     }
-    }
-   ]
-  },
-  {
-   "id": "ive",
-   "artist": "IVE · LOOKS CAN KILL",
-   "pages": [
-    {
-     "image": "assets/img-31.jpg",
-     "alt": "IVE 三位成员分别戴定制超级英雄面具并穿贴身戏服，置于橙色、黄色和蓝色背景的三联拼图中",
-     "source": "https://www.allkpop.com/upload/2026/10/content/031847/1791067652-image.png",
-     "title": "超级英雄三联拼图",
-     "caption": "本回归期 superhero 概念：三位成员分别佩戴定制面具与贴身戏服，橙、黄、蓝纯色背景强化角色区分。",
-     "tags": [
-      "superhero",
-      "三联拼图"
-     ],
-     "shop": {
-      "lewkin": "superhero mask bodysuit",
-      "musinsa": "bodysuit"
-     }
-    },
-    {
-     "image": "assets/img-32.jpg",
-     "alt": "IVE《Looks Can Kill》Girl Hero 概念照，六人粉色背景群像，各自穿招牌色超级英雄造型、戴面具与长手套",
-     "source": "https://www.allkpop.com/article/2026/10/ive-unveils-vibrant-girl-hero-concept-photos-for-upcoming-looks-can-kill-ep",
-     "title": "Girl Hero 粉幕群像",
-     "caption": "《Looks Can Kill》EP Girl Hero 概念照：六人招牌色超级英雄造型，面具与长手套统一队伍识别，粉色背景六人群像。来源：allkpop 报道。",
-     "tags": [
-      "Girl Hero",
-      "六人群像"
-     ],
-     "shop": {
-      "lewkin": "superhero mask long gloves",
-      "musinsa": "gloves"
-     }
-    },
-    {
-     "image": "assets/img-33.jpg",
-     "alt": "IVE《Looks Can Kill》Girl Hero 概念照，六人白色背景不同站位，成员手持面具，穿招牌色超级英雄造型与长手套",
-     "source": "https://www.allkpop.com/article/2026/10/ive-unveils-vibrant-girl-hero-concept-photos-for-upcoming-looks-can-kill-ep",
-     "title": "Girl Hero 白幕合影",
-     "caption": "《Looks Can Kill》EP Girl Hero 概念照：白色背景不同站位，成员手持面具，招牌色造型与长手套延续超级英雄设定。来源：allkpop 报道。",
-     "tags": [
-      "Girl Hero",
-      "手持面具"
-     ],
-     "shop": {
-      "lewkin": "superhero costume long gloves",
-      "musinsa": "gloves"
-     }
-    },
-    {
-     "image": "assets/img-34.jpg",
-     "alt": "IVE 成员 Liz 的《Looks Can Kill》Hero Comics 造型多格拼贴：黑色短款上衣配宝蓝腰带、黑色阔腿裤与宝蓝腕带，手持叉子道具，背景为靶心与训练场",
-     "source": "https://www.allkpop.com/upload/2026/10/content/150132/1792042379-1.jpg",
-     "title": "Liz · Hero Comics 拼贴",
-     "caption": "Liz — 《Looks Can Kill》“Hero Comics”造型多格拼贴：黑色短款上衣配宝蓝腰带、黑色阔腿裤、宝蓝腕带，叉子道具与靶心背景，英雄学院训练主题（2026-10-14 Starship 公开的 Hero Comics 系列）。",
-     "tags": [
-      "Hero Comics",
-      "Liz",
-      "多格拼贴"
-     ],
-     "note": "注：这张图本身就是一张多格拼贴——同一套造型、多个画面拼成一格，不是单张照片；因此只作为一页完整收录，不拆开裁成多页。",
-     "shop": {
-      "lewkin": "black crop wide pants",
-      "musinsa": "pants"
-     }
-    },
-    {
-     "image": "assets/img-40.jpg",
-     "alt": "IVE《Looks Can Kill》Show! Music Core 2026-10-24 舞台，六名成员穿黑与深灰长袖上衣、迷你裙与过膝靴的全身造型",
-     "source": "https://www.youtube.com/watch?v=gqSZzFjPl2U",
-     "title": "Music Core · 黑灰 Hero 全身",
-     "caption": "Show! Music Core 打歌舞台（2026-10-24）——黑/深灰 hero 风：长袖上衣 + 迷你裙 + 过膝靴，六人造型全身可见。本页图片为 MBCkpop FullCam 缩略图，左下角有文字、底部边缘有观众剪影，但服装全身可见。",
-     "tags": [
-      "打歌舞台",
-      "Music Core",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "black long sleeve crop top mini skirt set",
-      "musinsa": "skirt"
-     }
-    },
-    {
-     "image": "assets/img-61.jpg",
-     "alt": "IVE《Looks Can Kill》Music Bank 2026-10-23 舞台，成员穿迷彩短袖上衣与军装风下装，灯泡面板与红帘舞台背景",
-     "source": "https://www.youtube.com/watch?v=d7s-2eLvT8Q",
-     "title": "Music Bank · 迷彩军装全身",
-     "caption": "KBS Music Bank 打歌舞台（2026-10-23）One Take 4K——迷彩短袖 / 卡其上衣、灰色网眼拉链外套、工装短裙或短裤、靴子与护膝；灯泡面板与红帘舞台形成反差。来源：KBS Kpop 官方影像与媒体报道。",
-     "tags": [
-      "打歌舞台",
-      "Music Bank",
-      "迷彩军装"
-     ],
-     "shop": {
-      "lewkin": "camo cargo mini skirt",
-      "musinsa": "camo"
-     }
-    },
-    {
-     "image": "assets/img-62.jpg",
-     "alt": "IVE《Looks Can Kill》MV 时装拆解合集图：英雄风缎面、迷彩街头与高饱和单品拼贴",
-     "source": "https://inkistyle.com/kpop-fashion-ive-looks-can-kill-mv/",
-     "title": "MV 时装拆解合集",
-     "caption": "InkiStyle 对《Looks Can Kill》MV 造型逐件拆解：英雄风缎面短裙、Rick Owens 透视拉链外套叠迷彩热裤、Fanciclub / Poster Girl / BADBLOOD 等品牌单品。本页为合集封面图，具体品牌见来源文。",
-     "tags": [
-      "MV 时装",
-      "品牌拆解"
-     ],
-     "note": "注：品牌信息来自 InkiStyle 2026-10-22 时装拆解文，未在其他来源交叉核验的单品不单独列为事实。",
-     "shop": {
-      "lewkin": "satin mini dress boots",
-      "musinsa": "boots"
-     }
-    }
-   ],
-   "label": "IVE"
-  },
-  {
-   "id": "illit",
-   "artist": "ILLIT · BREAK EVEN",
-   "pages": [
-    {
-     "image": "assets/img-29.jpg",
-     "alt": "ILLIT《BREAK EVEN》概念片群体近景，四名成员以冷色调学院造型看向镜头",
-     "source": "https://www.youtube.com/watch?v=JIbxXHEKuVA",
-     "title": "冷色学院群像",
-     "caption": "冷色调、格纹与制服轮廓建立 dark grunge × preppy 氛围；这一帧是群体近景。",
-     "tags": [
-      "dark grunge",
-      "群体近景"
-     ],
-     "shop": {
-      "lewkin": "plaid preppy school uniform",
-      "musinsa": "tie"
-     }
-    },
-    {
-     "image": "assets/img-30.jpg",
-     "alt": "ILLIT 的 Yunah、Minju、Wonhee、Iroha 穿紫色开衫、黄绿色衬衫裙与浅蓝外套，在便签白板前拿待办清单和小票道具",
-     "source": "https://imagedelivery.net/l1Bzo8LRyoaogf5OFVsfnA/8e7f7516-3b59-4217-45d2-8c94227e5f00/public",
-     "title": "Admin Night 彩色合影",
-     "caption": "GLLIT 版 Admin Night 概念：紫色开衫、黄绿色衬衫裙和浅蓝外套，搭配待办清单、小票道具与便签白板。",
-     "tags": [
-      "GLLIT 版",
-      "Admin Night"
-     ],
-     "shop": {
-      "lewkin": "purple cardigan shirt dress",
-      "musinsa": "cardigan"
-     }
-    },
-    {
-     "image": "assets/img-63.jpg",
-     "alt": "ILLIT《BREAK EVEN》MAD 概念照，成员金色发型配粉色蕾丝荷叶边连衣裙，粉色房间餐桌前手持彩色塑料叉",
-     "source": "https://www.allkpop.com/article/2026/10/illit-transforms-with-kitsch-blonde-visuals-ahead-of-comeback-with-5th-mini-album-break-even",
-     "title": "MAD · 金发 kitsch 合影",
-     "caption": "《BREAK EVEN》MAD 版概念照（2026-10-15 公开）：金发造型配粉彩蕾丝与荷叶边裙装，粉色空间里用传单与日常物件当“武器”，甜感衣着对照冷淡表情。来源：allkpop / BELIFT LAB。",
-     "tags": [
-      "MAD",
-      "kitsch",
-      "金发"
-     ],
-     "shop": {
-      "lewkin": "lace frill pastel dress",
-      "musinsa": "dress"
-     }
-    },
-    {
-     "image": "assets/img-64.jpg",
-     "alt": "ILLIT《BREAK EVEN》QUIET 概念照，成员穿纯白造型、干净妆容，冷淡无表情气质",
-     "source": "https://www.allkpop.com/article/2026/10/illit-turn-cold-and-composed-in-quiet-version-concept-photos-for-5th-mini-album-break-even",
-     "title": "QUIET · 纯白冷感",
-     "caption": "《BREAK EVEN》QUIET 版概念照（2026-10-12 公开）：纯白服装与干净妆容，表情克制、气场偏冷，与先前 BURNING 版的怒意形成对照。来源：allkpop / BELIFT LAB。",
-     "tags": [
-      "QUIET",
-      "纯白",
-      "冷感"
-     ],
-     "shop": {
-      "lewkin": "white minimal dress",
-      "musinsa": "dress"
-     }
-    },
-    {
-     "image": "assets/img-65.jpg",
-     "alt": "ILLIT《BREAK EVEN》概念造型佩戴 YVMIN 闪钻眼镜与蕾丝配饰近景",
-     "source": "https://www.pap-magazine.com/en/article/illit-yvmin-break-even-accessories",
-     "title": "YVMIN 配饰近景",
-     "caption": "PAP Magazine 报道：ILLIT 在《BREAK EVEN》概念照中选用 YVMIN 配件——满框闪钻眼镜、猫须眼镜与蕾丝蝴蝶结项链，粉调空间叠蕾丝荷叶边衣着。本页为配饰近景。",
-     "tags": [
-      "YVMIN",
-      "配饰",
-      "近景素材"
-     ],
-     "shop": {
-      "lewkin": "rhinestone glasses lace necklace",
-      "musinsa": "glasses"
-     }
-    }
-   ],
-   "label": "ILLIT"
-  },
-  {
-   "id": "meovv",
-   "artist": "MEOVV · GO HARD",
-   "pages": [
-    {
-     "image": "assets/img-23.jpg",
-     "alt": "MEOVV《GO HARD》预告近景，成员佩戴黑色网纱面纱与贝雷帽",
-     "source": "https://www.youtube.com/watch?v=tGragtYHmz0",
-     "title": "网纱面纱近景",
-     "caption": "黑色网纱面纱与贝雷帽能看清暗黑校服概念；这一页是近景素材。",
-     "tags": [
-      "preppy goth",
-      "近景素材"
-     ],
-     "shop": {
-      "lewkin": "black beret veil",
-      "musinsa": "beret"
-     }
-    },
-    {
-     "image": "assets/img-24.jpg",
-     "alt": "MEOVV 成员坐在楼梯上，穿黑色贝雷帽、西装外套、短裙、过膝薄袜与方扣玛丽珍鞋",
-     "source": "https://www.allkpop.com/upload/2026/10/content/071209/1791389392-image.png",
-     "title": "楼梯校服全身",
-     "caption": "2026-10-08 校服概念照：黑色贝雷帽、西装外套与短裙，搭配黑色过膝薄袜和方扣玛丽珍鞋。",
-     "tags": [
-      "暗黑校服",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "black blazer mary janes",
-      "musinsa": "blazer"
-     }
-    },
-    {
-     "image": "assets/img-25.jpg",
-     "alt": "MEOVV 成员立于楼梯扶手旁，穿黑色贝雷帽、西装、白衬衫、领带和蕾丝边褶皱短裙",
-     "source": "https://www.allkpop.com/upload/2026/10/content/071210/1791389403-image.png",
-     "title": "扶手旁学院造型",
-     "caption": "同系列校服概念照：黑色贝雷帽与西装叠白衬衫、黑领带，褶皱短裙以蕾丝边收尾。",
-     "tags": [
-      "preppy goth",
-      "学院造型"
-     ],
-     "shop": {
-      "lewkin": "blazer shirt tie skirt",
-      "musinsa": "blazer"
-     }
-    },
-    {
-     "image": "assets/img-42.jpg",
-     "alt": "MEOVV《GO HARD》Show! Music Core 2026-10-17 舞台，五名成员穿亮片短裤、骑行夹克与长靴的全身造型",
-     "source": "https://www.youtube.com/watch?v=dDp7gAbgFpc",
-     "title": "Music Core 10/17 · 亮片骑行全身",
-     "caption": "Show! Music Core 打歌舞台（2026-10-17）——亮片短裤 + 骑行夹克 + 靴子，五人全身造型完整。（MBCkpop FullCam 缩略图，左下角有节目文字）",
-     "tags": [
-      "打歌舞台",
-      "Music Core",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "rider jacket",
-      "musinsa": "jacket"
-     }
-    },
-    {
-     "image": "assets/img-43.jpg",
-     "alt": "MEOVV《GO HARD》Show! Music Core 2026-10-24 舞台，五名成员穿红黑赛车皮裤与黑色短上衣的全身造型",
-     "source": "https://www.youtube.com/watch?v=xnxW8vUgpSE",
-     "title": "Music Core 10/24 · 红黑赛车全身",
-     "caption": "Show! Music Core 打歌舞台（2026-10-24）——红黑赛车皮裤 + 黑色短上衣，红幕舞台前五人全身造型完整。（MBCkpop FullCam 缩略图，左下角有节目文字）",
-     "tags": [
-      "打歌舞台",
-      "Music Core",
-      "全身造型"
-     ],
-     "shop": {
-      "lewkin": "red leather pants",
-      "musinsa": "pants"
-     }
-    }
-   ],
-   "label": "MEOVV"
-  }
- ],
- "cards": [
-  {
-   "id": "stage-2026-11-06-01",
-   "category": "stage",
-   "artist": "ILLIT",
-   "title": "《You’re Under Arrest（체포하겠어）》· KBS2《Music Bank》",
-   "date": "2026-11-06",
-   "styles": [
-    "stage",
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/2w2rqmE-dL8/maxresdefault.jpg",
-    "alt": "ILLIT《You’re Under Arrest（체포하겠어）》KBS2《Music Bank》 11/06 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "KBS2《Music Bank》 · 11/06",
-    "credit": "图片：KBS Kpop 官方 YouTube 视频封面"
-   },
-   "video": "2w2rqmE-dL8",
-   "swatches": [
-    "#111111",
-    "#f5f5f5",
-    "#f2e600",
-    "#2b5d34"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/06 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "黑色运动发带配黑长直，黑底白条纹运动风袖子，手持黄牌道具，呼应“抓捕/裁判”概念。"
+      "id": "st-yunah-1101",
+      "category": "stage",
+      "artist": "ILLIT",
+      "member": "YUNAH",
+      "title": "체포하겠어 (You're Under Arrest)",
+      "where": "SBS 人气歌谣 · 11/01",
+      "date": "2026-11-01",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/jlL8a1hiSKA/maxres2.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "ILLIT YUNAH《체포하겠어 (You're Under Arrest)》SBS 人气歌谣 直拍画面，全身造型",
+        "credit": "SBSKPOP ZOOM 官方直拍画面"
       },
-      {
-       "text": "这一期 ILLIT 拿下该曲首个音乐节目一位（Soompi）。"
+      "video": "jlL8a1hiSKA",
+      "breakdown": {
+        "top": "白色长袖打底 + 黑色印花短款上衣叠穿",
+        "bottom": "紫白格纹直筒长裤",
+        "shoes": "黑色乐福鞋 / 厚底鞋",
+        "accessories": "双麻花辫",
+        "palette": "黑 · 白 · 紫格纹",
+        "brand": null
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "运动风",
-    "黄牌道具",
-    "发带"
-   ],
-   "link": {
-    "label": "看 KBS Kpop 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=2w2rqmE-dL8"
-   },
-   "sources": [
-    {
-     "label": "KBS Kpop 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=2w2rqmE-dL8"
+      "swatches": [
+        "#1d1b22",
+        "#f4f2f5",
+        "#8c78b8"
+      ],
+      "point": "格纹长裤配短上衣把腰线提高，叠穿白色长袖让黑色不显沉。",
+      "styles": [
+        "y2k",
+        "preppy"
+      ],
+      "sources": [
+        {
+          "label": "SBSKPOP ZOOM：YUNAH 直拍（SBS 人气歌谣 2026-11-01）",
+          "url": "https://www.youtube.com/watch?v=jlL8a1hiSKA"
+        }
+      ]
     },
     {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1884749wpp/watch-nmixx-takes-1st-win-for-birthday-wish-on-music-bank-performances-by-ateez-illit-and-more-2"
-    }
-   ],
-   "search": "ILLIT You’re Under Arrest 逮捕 Music Bank 发带 运动 条纹 黄牌",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-08-02",
-   "category": "stage",
-   "artist": "ILLIT",
-   "title": "《You’re Under Arrest（체포하겠어）》· SBS《人气歌谣 Inkigayo》",
-   "date": "2026-11-08",
-   "styles": [
-    "stage",
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/hvep1LyFrjI/maxresdefault.jpg",
-    "alt": "ILLIT《You’re Under Arrest（체포하겠어）》SBS《人气歌谣 Inkigayo》 11/08 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "SBS《人气歌谣 Inkigayo》 · 11/08",
-    "credit": "图片：SBSKPOP X INKIGAYO 官方 YouTube 视频封面"
-   },
-   "video": "hvep1LyFrjI",
-   "swatches": [
-    "#1f2a44",
-    "#ffffff",
-    "#f6c6dc",
-    "#c0c0c0"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/08 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "星星造型发夹，深色短甲，深蓝白拼色运动风上衣，粉色舞台光下更甜。"
+      "id": "st-wonhee-1107",
+      "category": "stage",
+      "artist": "ILLIT",
+      "member": "WONHEE",
+      "title": "체포하겠어 (You're Under Arrest)",
+      "where": "MBC 音乐中心 · 11/07",
+      "date": "2026-11-07",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/79eFsTF2ETQ/maxres1.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "ILLIT WONHEE《체포하겠어 (You're Under Arrest)》MBC 音乐中心 直拍画面，全身造型",
+        "credit": "MBCkpop 官方直拍画面"
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "星星发夹",
-    "运动风",
-    "甜酷"
-   ],
-   "link": {
-    "label": "看 SBSKPOP X INKIGAYO 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=hvep1LyFrjI"
-   },
-   "sources": [
-    {
-     "label": "SBSKPOP X INKIGAYO 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=hvep1LyFrjI"
-    },
-    {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1885054wpp/watch-a2o-lite-takes-11th-win-and-triple-crown-for-neon-on-inkigayo-performances-by-blackpinks-jisoo-and-more"
-    }
-   ],
-   "search": "ILLIT Inkigayo 星星 发夹 运动 甜酷",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-06-03",
-   "category": "stage",
-   "artist": "RESCENE",
-   "title": "《With》· KBS2《Music Bank》",
-   "date": "2026-11-06",
-   "styles": [
-    "stage"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/ECz-M-jwGzQ/maxresdefault.jpg",
-    "alt": "RESCENE《With》KBS2《Music Bank》 11/06 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "KBS2《Music Bank》 · 11/06",
-    "credit": "图片：KBS Kpop 官方 YouTube 视频封面"
-   },
-   "video": "ECz-M-jwGzQ",
-   "swatches": [
-    "#ffffff",
-    "#e9e4f5",
-    "#c9c3e6",
-    "#b8b8c0"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/06 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "新歌首个打歌舞台：白色系柔软上衣，白色羽毛道具，银色耳饰，整体清透。"
+      "video": "79eFsTF2ETQ",
+      "breakdown": {
+        "top": "敞开的黑色短袖衬衫外套 + 白色背心",
+        "bottom": "黑色高腰喇叭裤，系腰带",
+        "shoes": "黑色尖头鞋",
+        "accessories": "银色长项链、黑色露指手套",
+        "palette": "黑 · 白 · 银",
+        "brand": null
       },
-      {
-       "text": "iMBC 报道这场是《With》音乐节目首次公开，形容“清纯的视觉”。"
+      "swatches": [
+        "#151418",
+        "#f5f5f5",
+        "#b9bcc4"
+      ],
+      "point": "警徽概念：黑白对比 + 喇叭裤拉长腿部线条。",
+      "styles": [
+        "dark"
+      ],
+      "sources": [
+        {
+          "label": "MBCkpop：WONHEE 直拍（MBC 音乐中心 2026-11-07）",
+          "url": "https://www.youtube.com/watch?v=79eFsTF2ETQ"
+        }
+      ]
+    },
+    {
+      "id": "st-minju-1107",
+      "category": "stage",
+      "artist": "ILLIT",
+      "member": "MINJU",
+      "title": "체포하겠어 (You're Under Arrest)",
+      "where": "MBC 音乐中心 · 11/07",
+      "date": "2026-11-07",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/IKxSyyICCI8/maxres1.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "ILLIT MINJU《체포하겠어 (You're Under Arrest)》MBC 音乐中心 直拍画面，全身造型",
+        "credit": "MBCkpop 官方直拍画面"
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "清透白",
-    "羽毛",
-    "首舞台"
-   ],
-   "link": {
-    "label": "看 KBS Kpop 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=ECz-M-jwGzQ"
-   },
-   "sources": [
-    {
-     "label": "KBS Kpop 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=ECz-M-jwGzQ"
-    },
-    {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1884749wpp/watch-nmixx-takes-1st-win-for-birthday-wish-on-music-bank-performances-by-ateez-illit-and-more-2"
-    }
-   ],
-   "search": "RESCENE With Music Bank 首舞台 白色 羽毛 清透",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-07-04",
-   "category": "stage",
-   "artist": "RESCENE",
-   "title": "《百花缭乱（Inside Out）》· MBC《Show! 音乐中心》",
-   "date": "2026-11-07",
-   "styles": [
-    "stage"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/C7vNpNTv7fQ/maxresdefault.jpg",
-    "alt": "RESCENE《百花缭乱（Inside Out）》MBC《Show! 音乐中心》 11/07 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "MBC《Show! 音乐中心》 · 11/07",
-    "credit": "图片：MBCkpop 官方 YouTube 视频封面"
-   },
-   "video": "C7vNpNTv7fQ",
-   "swatches": [
-    "#ffffff",
-    "#1f4fa8",
-    "#c0c0c0",
-    "#f3e6e0"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/07 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "白色系上衣，银色耳饰，浅色长甲，配蓝色六边形舞台背景。"
+      "video": "IKxSyyICCI8",
+      "breakdown": {
+        "top": "黑色短袖衬衫外套 + 白色短款上衣",
+        "bottom": "黑色喇叭裤，银扣黑腰带",
+        "shoes": "黑色鞋",
+        "accessories": "黑色手套",
+        "palette": "黑 · 白 · 银",
+        "brand": null
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "白色系",
-    "银饰",
-    "长甲"
-   ],
-   "link": {
-    "label": "看 MBCkpop 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=C7vNpNTv7fQ"
-   },
-   "sources": [
-    {
-     "label": "MBCkpop 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=C7vNpNTv7fQ"
+      "swatches": [
+        "#141317",
+        "#f3f3f3",
+        "#a9adb5"
+      ],
+      "point": "露一截腰的白色短上衣是全身唯一亮色，腰带把视线收在腰上。",
+      "styles": [
+        "dark"
+      ],
+      "sources": [
+        {
+          "label": "MBCkpop：MINJU 直拍（MBC 音乐中心 2026-11-07）",
+          "url": "https://www.youtube.com/watch?v=IKxSyyICCI8"
+        }
+      ]
     },
     {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more"
-    }
-   ],
-   "search": "RESCENE Inside Out 百花缭乱 Music Core 白色 银饰",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-11-05",
-   "category": "stage",
-   "artist": "RESCENE",
-   "title": "《With》· MBC M《Show Champion》",
-   "date": "2026-11-11",
-   "styles": [
-    "stage"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/EEMdvAl21pQ/maxresdefault.jpg",
-    "alt": "RESCENE《With》MBC M《Show Champion》 11/11 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "MBC M《Show Champion》 · 11/11",
-    "credit": "图片：ALL THE K-POP 官方 YouTube 视频封面"
-   },
-   "video": "EEMdvAl21pQ",
-   "swatches": [
-    "#7a4a2e",
-    "#f1e3d3",
-    "#e8c4c0",
-    "#ffffff"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/11 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "栗棕色长直发，裸粉尖甲，米白色系。"
+      "id": "st-iroha-1101",
+      "category": "stage",
+      "artist": "ILLIT",
+      "member": "IROHA",
+      "title": "체포하겠어 (You're Under Arrest)",
+      "where": "SBS 人气歌谣 · 11/01",
+      "date": "2026-11-01",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/4JdwIW7Tyq0/maxres2.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "ILLIT IROHA《체포하겠어 (You're Under Arrest)》SBS 人气歌谣 直拍画面，全身造型",
+        "credit": "SBSKPOP ZOOM 官方直拍画面"
       },
-      {
-       "text": "这一期 RESCENE 拿下《With》第 2 个一位（Soompi）。"
+      "video": "4JdwIW7Tyq0",
+      "breakdown": {
+        "top": "白衬衫 + 灰色印花领带",
+        "bottom": "黑色百褶短裙",
+        "shoes": "黑色厚底鞋 / 短靴",
+        "accessories": "白色及膝袜",
+        "palette": "黑 · 白 · 灰",
+        "brand": null
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "栗棕发",
-    "裸色甲",
-    "温柔系"
-   ],
-   "link": {
-    "label": "看 ALL THE K-POP 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=EEMdvAl21pQ"
-   },
-   "sources": [
-    {
-     "label": "ALL THE K-POP 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=EEMdvAl21pQ"
+      "swatches": [
+        "#18171b",
+        "#f6f6f6",
+        "#8d8f96"
+      ],
+      "point": "制服感：衬衫 + 领带 + 百褶裙，及膝白袜是学院风关键。",
+      "styles": [
+        "preppy"
+      ],
+      "sources": [
+        {
+          "label": "SBSKPOP ZOOM：IROHA 直拍（SBS 人气歌谣 2026-11-01）",
+          "url": "https://www.youtube.com/watch?v=4JdwIW7Tyq0"
+        }
+      ]
     },
     {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1886056wpp/watch-rescene-takes-2nd-win-for-with-on-show-champion-performances-by-p1harmony-xlov-and-more"
-    }
-   ],
-   "search": "RESCENE With Show Champion 栗棕 裸色 温柔",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-08-06",
-   "category": "stage",
-   "artist": "JISOO",
-   "title": "《ADDICTED》· SBS《人气歌谣 Inkigayo》",
-   "date": "2026-11-08",
-   "styles": [
-    "stage",
-    "dark"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/CEeI4XUeUFo/maxresdefault.jpg",
-    "alt": "JISOO《ADDICTED》SBS《人气歌谣 Inkigayo》 11/08 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "SBS《人气歌谣 Inkigayo》 · 11/08",
-    "credit": "图片：SBSKPOP X INKIGAYO 官方 YouTube 视频封面"
-   },
-   "video": "CEeI4XUeUFo",
-   "swatches": [
-    "#d16fb0",
-    "#8a3f8f",
-    "#f4d6e6",
-    "#111114"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/08 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "粉紫色亮片/串珠高领上衣，半扎发，亮片眼妆。"
+      "id": "st-woni-1106",
+      "category": "stage",
+      "artist": "RESCENE",
+      "member": "WONI",
+      "title": "With",
+      "where": "KBS 音乐银行 · 11/06",
+      "date": "2026-11-06",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/83Dl7MHQJqc/maxres1.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "RESCENE WONI《With》KBS 音乐银行 直拍画面，全身造型",
+        "credit": "KBS Kpop 官方直拍画面"
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "亮片高领",
-    "粉紫",
-    "半扎发"
-   ],
-   "link": {
-    "label": "看 SBSKPOP X INKIGAYO 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=CEeI4XUeUFo"
-   },
-   "sources": [
-    {
-     "label": "SBSKPOP X INKIGAYO 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=CEeI4XUeUFo"
-    },
-    {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1885054wpp/watch-a2o-lite-takes-11th-win-and-triple-crown-for-neon-on-inkigayo-performances-by-blackpinks-jisoo-and-more"
-    }
-   ],
-   "search": "JISOO 지수 ADDICTED Inkigayo 亮片 高领 粉紫",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-07-07",
-   "category": "stage",
-   "artist": "JISOO",
-   "title": "《ADDICTED》· MBC《Show! 音乐中心》",
-   "date": "2026-11-07",
-   "styles": [
-    "stage",
-    "dark"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/sEfYW7-T3gc/maxresdefault.jpg",
-    "alt": "JISOO《ADDICTED》MBC《Show! 音乐中心》 11/07 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "MBC《Show! 音乐中心》 · 11/07",
-    "credit": "图片：MBCkpop 官方 YouTube 视频封面"
-   },
-   "video": "sEfYW7-T3gc",
-   "swatches": [
-    "#3a3a40",
-    "#c0c0c0",
-    "#111114",
-    "#9a7bd0"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/07 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "银色尖爪指套，亮钻项圈，深灰上衣，黑长发。"
+      "video": "83Dl7MHQJqc",
+      "breakdown": {
+        "top": "白色荷叶边层叠连衣裙（上半身）",
+        "bottom": "同一条连衣裙的层叠裙摆",
+        "shoes": "象牙白长靴",
+        "accessories": "白色袖套",
+        "palette": "全白 · 象牙白",
+        "brand": null
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "尖爪指套",
-    "亮钻项圈",
-    "暗黑"
-   ],
-   "link": {
-    "label": "看 MBCkpop 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=sEfYW7-T3gc"
-   },
-   "sources": [
-    {
-     "label": "MBCkpop 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=sEfYW7-T3gc"
+      "swatches": [
+        "#fbfaf7",
+        "#efe9dc"
+      ],
+      "point": "全白但用荷叶边层次和袖套做出变化，靴子同色系拉长比例。",
+      "styles": [
+        "romantic"
+      ],
+      "sources": [
+        {
+          "label": "KBS Kpop：WONI 直拍（KBS 音乐银行 2026-11-06）",
+          "url": "https://www.youtube.com/watch?v=83Dl7MHQJqc"
+        }
+      ]
     },
     {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more"
-    }
-   ],
-   "search": "JISOO 지수 ADDICTED Music Core 指套 项圈 暗黑",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-06-08",
-   "category": "stage",
-   "artist": "Baby DONT Cry",
-   "title": "《Replay》· KBS2《Music Bank》",
-   "date": "2026-11-06",
-   "styles": [
-    "stage",
-    "preppy"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/VZN64Y1iKsk/maxresdefault.jpg",
-    "alt": "Baby DONT Cry《Replay》KBS2《Music Bank》 11/06 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "KBS2《Music Bank》 · 11/06",
-    "credit": "图片：KBS Kpop 官方 YouTube 视频封面"
-   },
-   "video": "VZN64Y1iKsk",
-   "swatches": [
-    "#111111",
-    "#ffffff",
-    "#b07a52",
-    "#c9a7e0"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/06 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "高马尾，黑色发饰，黑白配色，背景是复古画框风布景。"
+      "id": "st-minami-1106",
+      "category": "stage",
+      "artist": "RESCENE",
+      "member": "MINAMI",
+      "title": "With",
+      "where": "KBS 音乐银行 · 11/06",
+      "date": "2026-11-06",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/9MI_8MSwHKY/maxres1.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "RESCENE MINAMI《With》KBS 音乐银行 直拍画面，全身造型",
+        "credit": "KBS Kpop 官方直拍画面"
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "高马尾",
-    "黑白",
-    "复古"
-   ],
-   "link": {
-    "label": "看 KBS Kpop 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=VZN64Y1iKsk"
-   },
-   "sources": [
-    {
-     "label": "KBS Kpop 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=VZN64Y1iKsk"
-    },
-    {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1884749wpp/watch-nmixx-takes-1st-win-for-birthday-wish-on-music-bank-performances-by-ateez-illit-and-more-2"
-    }
-   ],
-   "search": "Baby DONT Cry Replay Music Bank 高马尾 黑白",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-07-09",
-   "category": "stage",
-   "artist": "Baby DONT Cry",
-   "title": "《Replay》· MBC《Show! 音乐中心》",
-   "date": "2026-11-07",
-   "styles": [
-    "stage",
-    "preppy"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/Riw0AKo3Eng/maxresdefault.jpg",
-    "alt": "Baby DONT Cry《Replay》MBC《Show! 音乐中心》 11/07 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "MBC《Show! 音乐中心》 · 11/07",
-    "credit": "图片：MBCkpop 官方 YouTube 视频封面"
-   },
-   "video": "Riw0AKo3Eng",
-   "swatches": [
-    "#f3a38f",
-    "#ffd9cf",
-    "#f7c6d9",
-    "#ffffff"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/07 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "珊瑚粉荷叶袖上衣，镂空/蕾丝领口，粉色背景，甜美系。"
+      "video": "9MI_8MSwHKY",
+      "breakdown": {
+        "top": "白色短款上衣",
+        "bottom": "白色抽褶不对称层叠半裙",
+        "shoes": "象牙白短靴",
+        "accessories": "—（画面中未见明显配饰）",
+        "palette": "全白 · 象牙白",
+        "brand": null
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "珊瑚粉",
-    "荷叶袖",
-    "甜美"
-   ],
-   "link": {
-    "label": "看 MBCkpop 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=Riw0AKo3Eng"
-   },
-   "sources": [
-    {
-     "label": "MBCkpop 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=Riw0AKo3Eng"
+      "swatches": [
+        "#fbfaf7",
+        "#eee8da"
+      ],
+      "point": "同队白色系里靠不对称裙摆做区别，短上衣露腰显比例。",
+      "styles": [
+        "romantic"
+      ],
+      "sources": [
+        {
+          "label": "KBS Kpop：MINAMI 直拍（KBS 音乐银行 2026-11-06）",
+          "url": "https://www.youtube.com/watch?v=9MI_8MSwHKY"
+        }
+      ]
     },
     {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more"
-    }
-   ],
-   "search": "Baby DONT Cry Replay Music Core 珊瑚粉 荷叶袖 蕾丝",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-06-10",
-   "category": "stage",
-   "artist": "HEART OF WOMAN",
-   "title": "《LIT IT》· KBS2《Music Bank》",
-   "date": "2026-11-06",
-   "styles": [
-    "stage",
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/HJDAgHn8IMk/maxresdefault.jpg",
-    "alt": "HEART OF WOMAN《LIT IT》KBS2《Music Bank》 11/06 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "KBS2《Music Bank》 · 11/06",
-    "credit": "图片：KBS Kpop 官方 YouTube 视频封面"
-   },
-   "video": "HJDAgHn8IMk",
-   "swatches": [
-    "#f2e2a0",
-    "#f4a3c4",
-    "#7fc8e8",
-    "#111111"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/06 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "金发挑染粉/蓝的双马尾，黑色网纱手套，脸上贴钻，黑色上衣。"
+      "id": "st-may-with-1107",
+      "category": "stage",
+      "artist": "RESCENE",
+      "member": "MAY",
+      "title": "With",
+      "where": "MBC 音乐中心 · 11/07",
+      "date": "2026-11-07",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/tTNJDUym59c/maxres2.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "RESCENE MAY《With》MBC 音乐中心 直拍画面，全身造型",
+        "credit": "MBCkpop 官方直拍画面"
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "双马尾",
-    "挑染",
-    "贴钻"
-   ],
-   "link": {
-    "label": "看 KBS Kpop 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=HJDAgHn8IMk"
-   },
-   "sources": [
-    {
-     "label": "KBS Kpop 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=HJDAgHn8IMk"
-    },
-    {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1884749wpp/watch-nmixx-takes-1st-win-for-birthday-wish-on-music-bank-performances-by-ateez-illit-and-more-2"
-    }
-   ],
-   "search": "HEART OF WOMAN LIT IT Music Bank 双马尾 挑染 网纱 Y2K",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-11-11",
-   "category": "stage",
-   "artist": "HEART OF WOMAN",
-   "title": "《LIT IT》· MBC M《Show Champion》",
-   "date": "2026-11-11",
-   "styles": [
-    "stage",
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/5nEVFDeUI_s/maxresdefault.jpg",
-    "alt": "HEART OF WOMAN《LIT IT》MBC M《Show Champion》 11/11 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "MBC M《Show Champion》 · 11/11",
-    "credit": "图片：ALL THE K-POP 官方 YouTube 视频封面"
-   },
-   "video": "5nEVFDeUI_s",
-   "swatches": [
-    "#4fb6e8",
-    "#f6b3c8",
-    "#f2e2a0",
-    "#c0c0c0"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/11 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "双丸子头，蓝色毛绒猫爪手套（粉色肉垫），银色项链。"
+      "video": "tTNJDUym59c",
+      "breakdown": {
+        "top": "灰蓝荷叶领衬衫 + 藏青缎面抹胸",
+        "bottom": "藏青纱质短裙",
+        "shoes": "黑色厚底靴",
+        "accessories": "—（画面中未见明显配饰）",
+        "palette": "灰蓝 · 藏青 · 黑",
+        "brand": null
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "丸子头",
-    "猫爪手套",
-    "毛绒"
-   ],
-   "link": {
-    "label": "看 ALL THE K-POP 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=5nEVFDeUI_s"
-   },
-   "sources": [
-    {
-     "label": "ALL THE K-POP 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=5nEVFDeUI_s"
+      "swatches": [
+        "#8fa3bf",
+        "#1f2a4a",
+        "#151418"
+      ],
+      "point": "衬衫外叠抹胸是今年很火的叠穿法，纱裙让藏青不显老气。",
+      "styles": [
+        "romantic"
+      ],
+      "sources": [
+        {
+          "label": "MBCkpop：MAY 直拍（MBC 音乐中心 2026-11-07）",
+          "url": "https://www.youtube.com/watch?v=tTNJDUym59c"
+        }
+      ]
     },
     {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1886056wpp/watch-rescene-takes-2nd-win-for-with-on-show-champion-performances-by-p1harmony-xlov-and-more"
-    }
-   ],
-   "search": "HEART OF WOMAN LIT IT Show Champion 丸子头 猫爪 毛绒",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-07-12",
-   "category": "stage",
-   "artist": "IS:SUE",
-   "title": "《New Look（Korean Ver.）》· MBC《Show! 音乐中心》",
-   "date": "2026-11-07",
-   "styles": [
-    "stage",
-    "preppy"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/WOyDxbVFkhk/maxresdefault.jpg",
-    "alt": "IS:SUE《New Look（Korean Ver.）》MBC《Show! 音乐中心》 11/07 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "MBC《Show! 音乐中心》 · 11/07",
-    "credit": "图片：MBCkpop 官方 YouTube 视频封面"
-   },
-   "video": "WOyDxbVFkhk",
-   "swatches": [
-    "#1f2a52",
-    "#ffffff",
-    "#c1272d",
-    "#111111"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/07 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "藏青针织开衫配白衬衫和红色细领带，学院风。"
+      "id": "st-may-inside-1107",
+      "category": "stage",
+      "artist": "RESCENE",
+      "member": "MAY",
+      "title": "백화요란 (Inside Out)",
+      "where": "MBC 音乐中心 · 11/07",
+      "date": "2026-11-07",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/D_HBEcwFIW8/maxres1.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "RESCENE MAY《백화요란 (Inside Out)》MBC 音乐中心 直拍画面，全身造型",
+        "credit": "MBCkpop 官方直拍画面"
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "学院风",
-    "开衫",
-    "领带"
-   ],
-   "link": {
-    "label": "看 MBCkpop 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=WOyDxbVFkhk"
-   },
-   "sources": [
-    {
-     "label": "MBCkpop 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=WOyDxbVFkhk"
-    },
-    {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more"
-    }
-   ],
-   "search": "IS:SUE New Look Music Core 学院 开衫 领带",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-11-13",
-   "category": "stage",
-   "artist": "SAY MY NAME",
-   "title": "《꾸꾸꾸 + 8llowme》· MBC M《Show Champion》",
-   "date": "2026-11-11",
-   "styles": [
-    "stage",
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/cuhjRYlzQ_4/maxresdefault.jpg",
-    "alt": "SAY MY NAME《꾸꾸꾸 + 8llowme》MBC M《Show Champion》 11/11 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "MBC M《Show Champion》 · 11/11",
-    "credit": "图片：ALL THE K-POP 官方 YouTube 视频封面"
-   },
-   "video": "cuhjRYlzQ_4",
-   "swatches": [
-    "#f2dca0",
-    "#1f2a44",
-    "#ffffff",
-    "#f6a6c8"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/11 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "金发配超大深色蝴蝶结，脸颊彩色亮钻，白色衬衫袖。"
+      "video": "D_HBEcwFIW8",
+      "breakdown": {
+        "top": "白色抹胸上衣",
+        "bottom": "白色高腰阔腿长裤",
+        "shoes": "画面中被阔腿裤遮住",
+        "accessories": "—（画面中未见明显配饰）",
+        "palette": "全白",
+        "brand": null
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "大蝴蝶结",
-    "脸部亮钻",
-    "金发"
-   ],
-   "link": {
-    "label": "看 ALL THE K-POP 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=cuhjRYlzQ_4"
-   },
-   "sources": [
-    {
-     "label": "ALL THE K-POP 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=cuhjRYlzQ_4"
+      "swatches": [
+        "#fbfbf9",
+        "#ecebe6"
+      ],
+      "point": "抹胸 + 高腰阔腿裤的全白组合，露肩显得干净利落。",
+      "styles": [
+        "minimal"
+      ],
+      "sources": [
+        {
+          "label": "MBCkpop：MAY 直拍（MBC 音乐中心 2026-11-07）",
+          "url": "https://www.youtube.com/watch?v=D_HBEcwFIW8"
+        }
+      ]
     },
     {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1886056wpp/watch-rescene-takes-2nd-win-for-with-on-show-champion-performances-by-p1harmony-xlov-and-more"
-    }
-   ],
-   "search": "SAY MY NAME 세이마이네임 Show Champion 蝴蝶结 亮钻",
-   "highlight": false
-  },
-  {
-   "id": "stage-2026-11-08-14",
-   "category": "stage",
-   "artist": "X:IN",
-   "title": "《ZZIRIT（feat. Luísa Sonza）》· SBS《人气歌谣 Inkigayo》",
-   "date": "2026-11-08",
-   "styles": [
-    "stage"
-   ],
-   "visual": true,
-   "ribbon": "本周打歌",
-   "figure": {
-    "src": "https://i.ytimg.com/vi/fYD7TD92CGY/maxresdefault.jpg",
-    "alt": "X:IN《ZZIRIT（feat. Luísa Sonza）》SBS《人气歌谣 Inkigayo》 11/08 官方舞台视频画面",
-    "width": 1280,
-    "height": 720,
-    "caption": "SBS《人气歌谣 Inkigayo》 · 11/08",
-    "credit": "图片：SBSKPOP X INKIGAYO 官方 YouTube 视频封面"
-   },
-   "video": "fYD7TD92CGY",
-   "swatches": [
-    "#d4502a",
-    "#d4af37",
-    "#f5efe6",
-    "#7a1f1f"
-   ],
-   "badges": [
-    {
-     "text": "官方舞台视频已核实",
-     "ok": true
-    },
-    {
-     "text": "11/08 播出",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "打歌造型",
-     "paragraphs": [
-      {
-       "text": "橘红色长发，金色链条项链，浅色上衣。"
+      "id": "st-liv-1107",
+      "category": "stage",
+      "artist": "RESCENE",
+      "member": "LIV",
+      "title": "With",
+      "where": "MBC 音乐中心 · 11/07",
+      "date": "2026-11-07",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/iu4e_PKz6jw/maxres1.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "RESCENE LIV《With》MBC 音乐中心 直拍画面，全身造型",
+        "credit": "MBCkpop 官方直拍画面"
       },
-      {
-       "label": "说明：",
-       "text": "造型描述来自官方舞台视频画面，节目没公布品牌，所以不写品牌。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "橘红发",
-    "金链",
-    "热辣"
-   ],
-   "link": {
-    "label": "看 SBSKPOP X INKIGAYO 官方舞台视频",
-    "url": "https://www.youtube.com/watch?v=fYD7TD92CGY"
-   },
-   "sources": [
-    {
-     "label": "SBSKPOP X INKIGAYO 官方 YouTube",
-     "url": "https://www.youtube.com/watch?v=fYD7TD92CGY"
-    },
-    {
-     "label": "Soompi 当期舞台汇总",
-     "url": "https://www.soompi.com/article/1885054wpp/watch-a2o-lite-takes-11th-win-and-triple-crown-for-neon-on-inkigayo-performances-by-blackpinks-jisoo-and-more"
-    }
-   ],
-   "search": "X:IN 엑신 ZZIRIT Inkigayo 橘红 金链",
-   "highlight": false
-  },
-  {
-   "id": "mag-w-ningning",
-   "category": "magazine",
-   "artist": "NINGNING（aespa）",
-   "title": "W Korea Vol.11（2026 年 11 月号）封面",
-   "date": "2026-10-12",
-   "styles": [
-    "magazine",
-    "dark"
-   ],
-   "visual": true,
-   "figure": {
-    "src": "https://www.wkorea.com/wp_data/w/2026/10/style_6acc379b68d82-scaled-1920x1080.jpg?x=1930&y=1050&ver=1.2.05",
-    "alt": "NINGNING（aespa） W Korea Vol.11（2026 年 11 月号）封面",
-    "width": 1920,
-    "height": 1080,
-    "caption": "W KOREA · VOL.11 COVER",
-    "credit": "图片：W Korea 官网"
-   },
-   "swatches": [
-    "#a23b8f",
-    "#d9a6d6",
-    "#111114",
-    "#f2d4e4"
-   ],
-   "badges": [
-    {
-     "text": "杂志官方来源已核实",
-     "ok": true
-    },
-    {
-     "text": "10/12 公开",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "杂志造型",
-     "paragraphs": [
-      {
-       "text": "玫紫色缎面西装外套配黑色 V 领内搭，黑长发侧分遮住一只眼，表情克制。"
+      "video": "iu4e_PKz6jw",
+      "breakdown": {
+        "top": "黑色短袖紧身上衣",
+        "bottom": "黑色短裤（白色包边），腰间系一件黑色外套",
+        "shoes": "黑色厚底短靴",
+        "accessories": "—（画面中未见明显配饰）",
+        "palette": "黑 · 白",
+        "brand": null
       },
-      {
-       "text": "W Korea 官网介绍：在 16 国 26 城的世界巡演途中拍摄，“比任何时候都大胆”。造型师 임진（Lim Jin）。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "缎面西装",
-    "玫紫",
-    "冷艳"
-   ],
-   "link": {
-    "label": "看 W Korea 官网 原文",
-    "url": "https://www.wkorea.com/2026/10/12/%eb%8d%94%eb%b8%94%ec%9c%a0-%ec%bd%94%eb%a6%ac%ec%95%84-vol-11-%ec%bb%a4%eb%b2%84%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%8b%9d%eb%8b%9d/"
-   },
-   "sources": [
-    {
-     "label": "W Korea 官网",
-     "url": "https://www.wkorea.com/2026/10/12/%eb%8d%94%eb%b8%94%ec%9c%a0-%ec%bd%94%eb%a6%ac%ec%95%84-vol-11-%ec%bb%a4%eb%b2%84%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%8b%9d%eb%8b%9d/"
-    }
-   ],
-   "search": "aespa NINGNING 닝닝 W Korea 西装 缎面 玫紫",
-   "highlight": false
-  },
-  {
-   "id": "mag-dazed-illit",
-   "category": "magazine",
-   "artist": "MINJU & YUNAH（ILLIT）",
-   "title": "DAZED KOREA 2026 年 11 月号别册封面（FUN ZINE）",
-   "date": "2026-10-19",
-   "styles": [
-    "magazine",
-    "y2k"
-   ],
-   "visual": true,
-   "figure": {
-    "src": "https://dazedkorea.com/wp-content/uploads/2026/10/KakaoTalk_Photo_2026-10-19-10-47-32-002-768x960.png",
-    "alt": "MINJU & YUNAH（ILLIT） DAZED KOREA 2026 年 11 月号别册封面（FUN ZINE）",
-    "width": 768,
-    "height": 960,
-    "caption": "DAZED KOREA · NOV 2026 SUPPLEMENT",
-    "credit": "图片：DAZED KOREA 官网"
-   },
-   "swatches": [
-    "#d4e64a",
-    "#111111",
-    "#9a9a9a",
-    "#f4b6cf"
-   ],
-   "badges": [
-    {
-     "text": "杂志官方来源已核实",
-     "ok": true
+      "swatches": [
+        "#141317",
+        "#f1f1f1"
+      ],
+      "point": "腰间系外套做出不对称下摆，短裤 + 厚底短靴很显腿长。",
+      "styles": [
+        "dark"
+      ],
+      "sources": [
+        {
+          "label": "MBCkpop：LIV 直拍（MBC 音乐中心 2026-11-07）",
+          "url": "https://www.youtube.com/watch?v=iu4e_PKz6jw"
+        }
+      ]
     },
     {
-     "text": "10/19 公开",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "杂志造型",
-     "paragraphs": [
-      {
-       "text": "封面印有 DAZED × BALENCIAGA 字样：荧光黄绿色机车包、挂满彩色挂件，配黑长直齐刘海和宽松针织，玩味杂志风。"
+      "id": "st-jisoo-1107",
+      "category": "stage",
+      "artist": "JISOO",
+      "member": "JISOO",
+      "title": "ADDICTED",
+      "where": "MBC 音乐中心 · 11/07",
+      "date": "2026-11-07",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/Rz-wG6ffJjE/maxres2.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "JISOO JISOO《ADDICTED》MBC 音乐中心 直拍画面，全身造型",
+        "credit": "MBCkpop 官方直拍画面"
       },
-      {
-       "text": "同期别册还有灰色、粉色包款的封面版本（见来源页）。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "Balenciaga",
-    "机车包",
-    "包挂"
-   ],
-   "link": {
-    "label": "看 DAZED KOREA 官网 原文",
-    "url": "https://dazedkorea.com/2026/10/19/%e3%80%88%eb%8d%b0%ec%9d%b4%ec%a6%88%eb%93%9c%e3%80%89-11%ec%9b%94%ed%98%b8-%eb%b3%84%ec%b1%85/"
-   },
-   "sources": [
-    {
-     "label": "DAZED KOREA 官网",
-     "url": "https://dazedkorea.com/2026/10/19/%e3%80%88%eb%8d%b0%ec%9d%b4%ec%a6%88%eb%93%9c%e3%80%89-11%ec%9b%94%ed%98%b8-%eb%b3%84%ec%b1%85/"
-    }
-   ],
-   "search": "ILLIT 민주 윤아 Minju Yunah DAZED Balenciaga 机车包 包挂",
-   "highlight": false
-  },
-  {
-   "id": "mag-bazaar-anna",
-   "category": "magazine",
-   "artist": "ANNA（MEOVV）",
-   "title": "Harper’s BAZAAR Korea × Chloé《Somewhere in Paris》",
-   "date": "2026-10-29",
-   "styles": [
-    "magazine"
-   ],
-   "visual": true,
-   "figure": {
-    "src": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/10/23/514a8e90-86b3-4935-a125-21ac554edef2.jpg",
-    "alt": "ANNA（MEOVV） Harper’s BAZAAR Korea × Chloé《Somewhere in Paris》",
-    "width": 800,
-    "height": 421,
-    "caption": "BAZAAR KOREA · SOMEWHERE IN PARIS",
-    "credit": "图片：Harper’s BAZAAR Korea 官网"
-   },
-   "swatches": [
-    "#c0262d",
-    "#f5ead8",
-    "#5a3a2a",
-    "#d9b38c"
-   ],
-   "badges": [
-    {
-     "text": "杂志官方来源已核实",
-     "ok": true
-    },
-    {
-     "text": "10/29 公开",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "杂志造型",
-     "paragraphs": [
-      {
-       "text": "巴黎街头拍摄：红色荷叶边露肩连衣裙配深棕大波浪；其他造型有花朵刺绣蕾丝套装、荷叶边衬衫配层叠裙、针织毛球开衫配条纹衬衫。"
+      "video": "Rz-wG6ffJjE",
+      "breakdown": {
+        "top": "深灰修身长袖上衣",
+        "bottom": "黑色短裤 + 黑色腰带",
+        "shoes": "黑色过膝长靴",
+        "accessories": "黑色腰带",
+        "palette": "深灰 · 黑",
+        "brand": null
       },
-      {
-       "text": "BAZAAR 官网标注：全部服装和配饰都是 Chloé（含 Paddington 包、郁金香吊坠项链）。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "Chloé",
-    "荷叶边",
-    "巴黎"
-   ],
-   "link": {
-    "label": "看 Harper’s BAZAAR Korea 官网 原文",
-    "url": "https://www.harpersbazaar.co.kr/article/1911873"
-   },
-   "sources": [
-    {
-     "label": "Harper’s BAZAAR Korea 官网",
-     "url": "https://www.harpersbazaar.co.kr/article/1911873"
-    }
-   ],
-   "search": "MEOVV ANNA 안나 Bazaar Chloe 克洛伊 荷叶边 露肩 巴黎 Paddington",
-   "highlight": false
-  },
-  {
-   "id": "mag-nylon-tsuki",
-   "category": "magazine",
-   "artist": "TSUKI（Billlie）",
-   "title": "NYLON JAPAN 2026 年 11 月号 guys 封面",
-   "date": "2026-09-28",
-   "styles": [
-    "magazine",
-    "y2k"
-   ],
-   "visual": true,
-   "figure": {
-    "src": "https://storage.googleapis.com/nylonjapan/2026/08/gTtzVaPMycwBJr6JKLu4ph0qWqF45PqAV6Ar/02.jpg",
-    "alt": "TSUKI（Billlie） NYLON JAPAN 2026 年 11 月号 guys 封面",
-    "width": 1346,
-    "height": 1612,
-    "caption": "NYLON JAPAN · NOV 2026 guys COVER",
-    "credit": "图片：NYLON JAPAN 官网"
-   },
-   "swatches": [
-    "#3fb7d6",
-    "#1b3f8b",
-    "#f6efc4",
-    "#4fbf5a"
-   ],
-   "badges": [
-    {
-     "text": "杂志官方来源已核实",
-     "ok": true
+      "swatches": [
+        "#3a3a40",
+        "#121114"
+      ],
+      "point": "短裤 + 过膝靴，只露一小段腿，深灰和黑同色系很高级。",
+      "styles": [
+        "dark",
+        "minimal"
+      ],
+      "sources": [
+        {
+          "label": "MBCkpop：JISOO 直拍（MBC 音乐中心 2026-11-07）",
+          "url": "https://www.youtube.com/watch?v=Rz-wG6ffJjE"
+        }
+      ]
     },
     {
-     "text": "09/28 公开",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "杂志造型",
-     "paragraphs": [
-      {
-       "text": "湖蓝色波点挂脖上衣配同色领巾，绿色星星发夹，焦糖棕长卷发，奶黄色背景。"
+      "id": "st-jisoo-1108",
+      "category": "stage",
+      "artist": "JISOO",
+      "member": "JISOO",
+      "title": "ADDICTED",
+      "where": "SBS 人气歌谣 · 11/08",
+      "date": "2026-11-08",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/7brLQF7qYEI/maxres3.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "JISOO JISOO《ADDICTED》SBS 人气歌谣 直拍画面，全身造型",
+        "credit": "SBSKPOP ZOOM 官方直拍画面"
       },
-      {
-       "text": "NYLON JAPAN 介绍：她在日本时尚杂志的首个单人封面，内页从梦幻 dreamcore 到大胆的 Y3K“辣妹 TSUKI”。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "波点",
-    "星星发夹",
-    "dreamcore"
-   ],
-   "link": {
-    "label": "看 NYLON JAPAN 官网 原文",
-    "url": "https://www.nylon.jp/270"
-   },
-   "sources": [
-    {
-     "label": "NYLON JAPAN 官网",
-     "url": "https://www.nylon.jp/270"
-    }
-   ],
-   "search": "Billlie TSUKI 츠키 NYLON JAPAN 波点 星星 dreamcore Y3K",
-   "highlight": false
-  },
-  {
-   "id": "mag-ellejapon-mina",
-   "category": "magazine",
-   "artist": "MINA（TWICE）",
-   "title": "ELLE Japon 2026 年 11 月号封面",
-   "date": "2026-09-28",
-   "styles": [
-    "magazine",
-    "dark"
-   ],
-   "visual": true,
-   "figure": {
-    "src": "https://contents.oricon.co.jp/upimg/news/2483000/2482356/20260925_100510_p_o_60294294.jpg",
-    "alt": "MINA（TWICE） ELLE Japon 2026 年 11 月号封面",
-    "width": 1200,
-    "height": 1594,
-    "caption": "ELLE JAPON · NOV 2026 COVER",
-    "credit": "图片：ORICON NEWS 报道配图"
-   },
-   "swatches": [
-    "#111111",
-    "#f5f0e6",
-    "#3b4f7a",
-    "#8a8a8a"
-   ],
-   "badges": [
-    {
-     "text": "杂志官方来源已核实",
-     "ok": true
-    },
-    {
-     "text": "09/28 公开",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "杂志造型",
-     "paragraphs": [
-      {
-       "text": "Fendi 黑色流苏连衣裙配假领；内页还有 oversize 夹克和偏酷的丹宁造型。"
+      "video": "7brLQF7qYEI",
+      "breakdown": {
+        "top": "粉色亮片长袖迷你连衣裙，强调肩线",
+        "bottom": "同一条连衣裙（迷你长度）",
+        "shoes": "粉色厚底高跟鞋",
+        "accessories": "—（画面中未见明显配饰）",
+        "palette": "全粉 · 亮片",
+        "brand": null
       },
-      {
-       "text": "这是 MINA 第 3 次登上 ELLE Japon 封面（毎日キレイ）。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "Fendi",
-    "流苏",
-    "假领"
-   ],
-   "link": {
-    "label": "看 ORICON NEWS 原文",
-    "url": "https://www.oricon.co.jp/news/2482356/full/"
-   },
-   "sources": [
-    {
-     "label": "ORICON NEWS",
-     "url": "https://www.oricon.co.jp/news/2482356/full/"
+      "swatches": [
+        "#f4a9c4",
+        "#e57fa6"
+      ],
+      "point": "一条亮片迷你裙 + 同色高跟鞋，单色从头到脚最显高。",
+      "styles": [
+        "glam"
+      ],
+      "sources": [
+        {
+          "label": "SBSKPOP ZOOM：JISOO 直拍（SBS 人气歌谣 2026-11-08）",
+          "url": "https://www.youtube.com/watch?v=7brLQF7qYEI"
+        }
+      ]
     },
     {
-     "label": "毎日キレイ",
-     "url": "https://mainichikirei.jp/article/20260925dog00m100004000a.html"
-    }
-   ],
-   "search": "TWICE MINA 미나 ELLE Japon Fendi 流苏 假领 丹宁",
-   "highlight": false
-  },
-  {
-   "id": "mag-voguechina-jisoo",
-   "category": "magazine",
-   "artist": "JISOO（BLACKPINK）",
-   "title": "Vogue China（服饰与美容）2026 年 11 月号封面",
-   "date": "2026-11-11",
-   "styles": [
-    "magazine",
-    "dark"
-   ],
-   "visual": true,
-   "figure": {
-    "src": "https://biz.chosun.com/resizer/v2/HBSWKM3FHBSDQYJZGQ4DCYLEGI.png?auth=b8d53a2fa3cc83d3ab584127a17b8ecf6526b5d3d1d29f4c8fb522cd75ab6514&width=572&height=300&smart=true",
-    "alt": "JISOO（BLACKPINK） Vogue China（服饰与美容）2026 年 11 月号封面",
-    "width": 572,
-    "height": 300,
-    "caption": "VOGUE CHINA · NOV 2026",
-    "credit": "图片：朝鲜Biz 报道配图"
-   },
-   "swatches": [
-    "#b3202a",
-    "#8a8a8a",
-    "#111114",
-    "#d4af37"
-   ],
-   "badges": [
-    {
-     "text": "杂志官方来源已核实",
-     "ok": true
-    },
-    {
-     "text": "11/11 公开",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "杂志造型",
-     "paragraphs": [
-      {
-       "text": "封面是灰色衣服配黑色装饰、红色指甲和拉长眼线，红底金字 Vogue，复古电影感；内页有黑色无袖连衣裙，还有红色伞裙配黑丝袜。"
+      "id": "st-kumi-1108",
+      "category": "stage",
+      "artist": "Baby DONT Cry",
+      "member": "KUMI",
+      "title": "Replay",
+      "where": "SBS 人气歌谣 · 11/08",
+      "date": "2026-11-08",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/s0dl7KEJY9k/maxres2.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "Baby DONT Cry KUMI《Replay》SBS 人气歌谣 直拍画面，全身造型",
+        "credit": "SBSKPOP ZOOM 官方直拍画面"
       },
-      {
-       "text": "摄影 Leslie Zhang；韩国粉丝形容像《花样年华》海报（朝鲜Biz 11/11）。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "复古电影感",
-    "红色",
-    "黑丝"
-   ],
-   "link": {
-    "label": "看 朝鲜Biz 报道 原文",
-    "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MIZDENTDGUYTKOBYGZQTMMRQGY/"
-   },
-   "sources": [
-    {
-     "label": "朝鲜Biz 报道",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MIZDENTDGUYTKOBYGZQTMMRQGY/"
-    }
-   ],
-   "search": "JISOO 지수 Vogue China 服饰与美容 花样年华 复古 红色",
-   "highlight": false
-  },
-  {
-   "id": "blog-vogue-seoul-ss27",
-   "category": "blogger",
-   "artist": "首尔时装周街拍",
-   "title": "Vogue.com · 2027 春夏首尔时装周街拍（DDP）",
-   "date": "2026-09-04",
-   "styles": [
-    "blogger"
-   ],
-   "visual": true,
-   "figure": {
-    "src": "https://assets.vogue.com/photos/6a9c779a40c71f2ce6f1c2c6/2:3/w_1000,h_1500,c_limit/seoulfashionweek_SS27_STREETSTYLE_DAY3_youngchulkim_17.jpg",
-    "alt": "2027 春夏首尔时装周 DDP 街拍：砖橘贝雷帽、白色短 T、米白阔腿裤",
-    "width": 1000,
-    "height": 1500,
-    "caption": "SEOUL SS27 · STREET STYLE",
-    "credit": "图片：Vogue.com 街拍图集"
-   },
-   "swatches": [
-    "#b8562a",
-    "#ffffff",
-    "#efe6d6",
-    "#a0522d"
-   ],
-   "badges": [
-    {
-     "text": "Vogue 官方图集",
-     "ok": true
-    },
-    {
-     "text": "09/04 公开",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "街拍造型",
-     "paragraphs": [
-      {
-       "text": "砖橘色贝雷帽，白色无袖短 T，焦糖色皮带，米白宽腿阔裤，头戴式耳机当配饰，再拎一只黄色小熊包。"
+      "video": "s0dl7KEJY9k",
+      "breakdown": {
+        "top": "黑色长袖上衣 / 外套",
+        "bottom": "黑色纱裙叠穿黑色紧身裤",
+        "shoes": "黑色运动鞋",
+        "accessories": "—（画面中未见明显配饰）",
+        "palette": "全黑",
+        "brand": null
       },
-      {
-       "text": "Vogue 总结这一季首尔街拍：定制美甲、哥特细节、成套搭配、反穿衣服，以及用领带和链条首饰点缀的极简造型。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "阔腿裤",
-    "贝雷帽",
-    "耳机配饰"
-   ],
-   "link": {
-    "label": "看 Vogue 完整街拍图集",
-    "url": "https://www.vogue.com/slideshow/the-best-street-style-photos-from-the-spring-2027-shows-in-seoul"
-   },
-   "sources": [
-    {
-     "label": "Vogue.com 图集",
-     "url": "https://www.vogue.com/slideshow/the-best-street-style-photos-from-the-spring-2027-shows-in-seoul"
-    }
-   ],
-   "search": "首尔 时装周 街拍 Seoul street style 阔腿裤 贝雷帽 Vogue",
-   "highlight": false
-  },
-  {
-   "id": "blog-ig-fever",
-   "category": "blogger",
-   "artist": "Fever 피버（@feve__r）",
-   "title": "Instagram · 首尔穿搭博主 / FARVEN 主理人",
-   "date": "2026-11-11",
-   "styles": [
-    "blogger"
-   ],
-   "visual": false,
-   "swatches": [
-    "#e8e1d6",
-    "#2b2b2b",
-    "#a68a6d",
-    "#ffffff"
-   ],
-   "badges": [
-    {
-     "text": "Instagram 主页已核实",
-     "ok": true
+      "swatches": [
+        "#121114",
+        "#2a2830"
+      ],
+      "point": "纱裙叠紧身裤，全黑也有材质层次，配运动鞋好跳舞。",
+      "styles": [
+        "dark"
+      ],
+      "sources": [
+        {
+          "label": "SBSKPOP ZOOM：KUMI 直拍（SBS 人气歌谣 2026-11-08）",
+          "url": "https://www.youtube.com/watch?v=s0dl7KEJY9k"
+        }
+      ]
     },
     {
-     "text": "11/11 查看",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "为什么关注",
-     "paragraphs": [
-      {
-       "text": "本名 KIM SUNYOUNG，品牌 FARVEN 的主理人。她的个人穿搭就是品牌风格，可以当作下一季的预告看。2026 年 2 月 FARVEN 入驻 29CM，首场直播 24 小时卖出 10 亿韩元（Musinsa 数据，据 The Korea They Didn’t Subtitle）。"
+      "id": "st-yujin-1031",
+      "category": "stage",
+      "artist": "IVE",
+      "member": "AN YUJIN",
+      "title": "Looks Can Kill",
+      "where": "MBC 音乐中心 · 10/31",
+      "date": "2026-10-31",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/_Iyx2aSnb7M/maxres2.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "IVE AN YUJIN《Looks Can Kill》MBC 音乐中心 直拍画面，全身造型",
+        "credit": "MBCkpop 官方直拍画面"
       },
-      {
-       "label": "说明：",
-       "text": "主页公开可见（11/11 约 71.8 万粉丝）；单条帖子要登录 Instagram 才能看，所以这里不放具体某一套的图。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "首尔博主",
-    "FARVEN",
-    "日常穿搭"
-   ],
-   "link": {
-    "label": "打开 @feve__r 的 Instagram",
-    "url": "https://www.instagram.com/feve__r/"
-   },
-   "sources": [
-    {
-     "label": "Instagram 主页",
-     "url": "https://www.instagram.com/feve__r/"
-    },
-    {
-     "label": "The Korea They Didn’t Subtitle",
-     "url": "https://www.koreanotsubtitled.com/2026/09/korean-fashion-beyond-k-pop-9-seoul.html"
-    }
-   ],
-   "search": "Fever 피버 feve__r FARVEN 首尔 博主 instagram",
-   "highlight": false
-  },
-  {
-   "id": "blog-ig-ginajung",
-   "category": "blogger",
-   "artist": "Gina Jung 지나정（@love.ginajung）",
-   "title": "Instagram · 职业造型师",
-   "date": "2026-11-11",
-   "styles": [
-    "blogger"
-   ],
-   "visual": false,
-   "swatches": [
-    "#3b5a85",
-    "#f2efe8",
-    "#1e1e1e",
-    "#c8b39a"
-   ],
-   "badges": [
-    {
-     "text": "Instagram 主页已核实",
-     "ok": true
-    },
-    {
-     "text": "11/11 查看",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "为什么关注",
-     "paragraphs": [
-      {
-       "text": "在职造型师，主页重点不是“买了什么”，而是专业造型师怎么一步步搭出一套衣服，适合学搭配思路（The Korea They Didn’t Subtitle 推荐）。"
+      "video": "_Iyx2aSnb7M",
+      "breakdown": {
+        "top": "黑色短款背心",
+        "bottom": "黑色短裤",
+        "shoes": "黑色长靴",
+        "accessories": "黑色护腕",
+        "palette": "全黑",
+        "brand": null
       },
-      {
-       "label": "说明：",
-       "text": "主页公开可见（11/11 约 9.7 万粉丝）；单条帖子要登录 Instagram 才能看，所以这里不放具体某一套的图。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "造型师",
-    "搭配思路",
-    "首尔"
-   ],
-   "link": {
-    "label": "打开 @love.ginajung 的 Instagram",
-    "url": "https://www.instagram.com/love.ginajung/"
-   },
-   "sources": [
-    {
-     "label": "Instagram 主页",
-     "url": "https://www.instagram.com/love.ginajung/"
+      "swatches": [
+        "#121114",
+        "#24222a"
+      ],
+      "point": "背心 + 短裤 + 长靴的全黑组合，护腕增加运动感。",
+      "styles": [
+        "dark"
+      ],
+      "sources": [
+        {
+          "label": "MBCkpop：AN YUJIN 直拍（MBC 音乐中心 2026-10-31）",
+          "url": "https://www.youtube.com/watch?v=_Iyx2aSnb7M"
+        }
+      ]
     },
     {
-     "label": "The Korea They Didn’t Subtitle",
-     "url": "https://www.koreanotsubtitled.com/2026/09/korean-fashion-beyond-k-pop-9-seoul.html"
-    }
-   ],
-   "search": "Gina Jung 지나정 love.ginajung 造型师 stylist instagram",
-   "highlight": false
-  },
-  {
-   "artist": "JISOO",
-   "title": "《ADDICTED》",
-   "date": "2026-10-30",
-   "styles": [
-    "dark",
-    "stage"
-   ],
-   "visual": true,
-   "ribbon": "最新 solo MV",
-   "figure": {
-    "src": "assets/img-50.jpg",
-    "alt": "Jisoo《ADDICTED》官方 MV 视觉，高领珍珠串珠与羽毛刺绣透视礼服",
-    "width": 1280,
-    "height": 720,
-    "caption": "MV LOOK · 珍珠高领与羽毛刺绣礼服"
-   },
-   "swatches": [
-    "#111114",
-    "#e8e0d8",
-    "#c9a0b8",
-    "#7a1f3d"
-   ],
-   "badges": [
-    {
-     "text": "官方 MV + 时装专题已核实",
-     "ok": true
-    },
-    {
-     "text": "10/30",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "暗黑华丽路线：高领珍珠串珠礼服、蕾丝猫女、Atsuko Kudo 黑色乳胶连体衣，以及 Ashish / David Koma 等派对剪裁；短发与渐变发色强化角色感。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "珍珠高领礼服、蕾丝贴身裙、黑色乳胶连体衣、星星迷你裙、尖头高跟。"
+      "id": "st-wonyoung-1023",
+      "category": "stage",
+      "artist": "IVE",
+      "member": "JANG WONYOUNG",
+      "title": "Looks Can Kill",
+      "where": "KBS 音乐银行 · 10/23",
+      "date": "2026-10-23",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/q-XN_C8p1VU/maxres2.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "IVE JANG WONYOUNG《Looks Can Kill》KBS 音乐银行 直拍画面，全身造型",
+        "credit": "KBS Kpop 官方直拍画面"
       },
-      {
-       "label": "提示：",
-       "text": "品牌对应来自 ELLE HK 专题，不等于“已确认同款购买链接”。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "暗黑华丽",
-    "猫女",
-    "solo"
-   ],
-   "link": {
-    "label": "看《ADDICTED》官方 MV",
-    "url": "https://www.youtube.com/watch?v=Pksr9T8m_aA"
-   },
-   "search": "Jisoo ADDICTED 暗黑 华丽 猫女 珍珠 礼服 乳胶 连体衣 Richard Quinn Atsuko Kudo",
-   "highlight": true,
-   "id": "look-01",
-   "category": "stage"
-  },
-  {
-   "artist": "NAYEON",
-   "title": "《NA-sty》预告期",
-   "date": "2026-11-05",
-   "styles": [
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": "即将发行",
-   "figure": {
-    "src": "assets/img-53.jpg",
-    "alt": "Nayeon《NA-sty》Intro Film 静帧，电光蓝发",
-    "width": 1000,
-    "height": 556,
-    "caption": "INTRO FILM · 电光蓝发；完整造型待 11/20"
-   },
-   "swatches": [
-    "#2f5fff",
-    "#111827",
-    "#f5d0fe",
-    "#fbbf24"
-   ],
-   "badges": [
-    {
-     "text": "官方预告已核实",
-     "ok": true
-    },
-    {
-     "text": "11/20 发行",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型记录边界",
-     "paragraphs": [
-      {
-       "text": "目前公开的是 Intro / Visual Film 与预告静帧：蓝发、复古数码画面、羽毛元素；媒体提到 Versace 三层厚底高跟鞋与手机道具。完整概念照与打歌服待发行后补。"
-      }
-     ]
-    },
-    {
-     "heading": "同企划风格搜索",
-     "paragraphs": [
-      {
-       "text": "电光蓝假发、厚底恨天高、复古数码印花上衣、羽毛发饰。"
+      "video": "q-XN_C8p1VU",
+      "breakdown": {
+        "top": "迷彩短袖短上衣",
+        "bottom": "迷彩迷你裙",
+        "shoes": "白袜 + 白色运动鞋",
+        "accessories": "黑色腿环",
+        "palette": "迷彩绿 · 黑 · 白",
+        "brand": null
       },
-      {
-       "label": "提示：",
-       "text": "搜索词来自预告期风格，不等于 11/20 当场同款。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "蓝发",
-    "复古数码",
-    "预告期"
-   ],
-   "link": {
-    "label": "看 allkpop 预告报道",
-    "url": "https://www.allkpop.com/article/2026/10/twices-nayeon-teases-new-solo-single-na-sty-with-striking-blue-haired-look"
-   },
-   "search": "Nayeon NA-sty 蓝发 复古 数码 Versace 厚底 高跟鞋 羽毛",
-   "highlight": true,
-   "id": "look-02",
-   "category": "mv"
-  },
-  {
-   "artist": "KATSEYE",
-   "title": "Wildworld Tour · 西雅图前",
-   "date": "2026-10-13",
-   "styles": [
-    "stage",
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": "西雅图 11/17",
-   "figure": {
-    "src": "assets/img-58.jpg",
-    "alt": "KATSEYE Wildworld Tour 迈阿密舞台绿蓝紫短装",
-    "width": 1400,
-    "height": 933,
-    "caption": "MIAMI 10/13 · 北美腿巡演造型"
-   },
-   "swatches": [
-    "#22c55e",
-    "#6366f1",
-    "#db2777",
-    "#111827"
-   ],
-   "badges": [
-    {
-     "text": "WWD + People 已核实",
-     "ok": true
+      "swatches": [
+        "#6b6a4c",
+        "#121114",
+        "#f5f5f5"
+      ],
+      "point": "迷彩上下同套，白袜白鞋把重色压轻，腿环是小心机。",
+      "styles": [
+        "y2k"
+      ],
+      "sources": [
+        {
+          "label": "KBS Kpop：JANG WONYOUNG 直拍（KBS 音乐银行 2026-10-23）",
+          "url": "https://www.youtube.com/watch?v=q-XN_C8p1VU"
+        }
+      ]
     },
     {
-     "text": "北美腿",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "欧洲站糖果色闪亮套装配罗马风绑带高跟靴；北美腿升级为绿蓝紫印花短装与毛绒/金属腰带，并保留个人文化点缀（bindi、翡翠手镯等）。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "闪亮迷你裙套装、开口绑带罗马靴、印花短装、毛绒袖套、金属宽腰带。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "巡演",
-    "Y2K",
-    "糖果色"
-   ],
-   "link": {
-    "label": "看 WWD 巡演鞋履报道",
-    "url": "https://wwd.com/footwear-news/shoe-trends/katseye-wildworld-tour-gladiator-heels-shoes-1239207903/"
-   },
-   "search": "KATSEYE Wildworld Tour 巡演 闪亮 迷你裙 罗马靴 印花 短装 Y2K",
-   "highlight": true,
-   "id": "look-03",
-   "category": "stage"
-  },
-  {
-   "artist": "A2O LITE",
-   "title": "《NEON》",
-   "date": "2026-10-20",
-   "styles": [
-    "stage",
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": "出道舞台时装",
-   "figure": {
-    "src": "assets/img-59.jpg",
-    "alt": "A2O LITE《NEON》OJOS 定制运动风舞台套装",
-    "width": 1088,
-    "height": 553,
-    "caption": "MARIE CLAIRE · OJOS 定制运动套装"
-   },
-   "swatches": [
-    "#6b7280",
-    "#fde68a",
-    "#f8fafc",
-    "#1e3a5f"
-   ],
-   "badges": [
-    {
-     "text": "Marie Claire 时装专题已核实",
-     "ok": true
-    },
-    {
-     "text": "10/20 THE SHOW",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "校内生活体育服灵感的运动风两件套（OJOS 定制），配 KIMUNE 3D 手件与 Maison Margiela Future Sneakers；打歌舞台另见白银工装向造型。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "运动风短款上衣、不对称裙裤、机能球鞋、3D/未来感手饰。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "运动未来感",
-    "出道",
-    "定制"
-   ],
-   "link": {
-    "label": "看 Marie Claire Korea 专题",
-    "url": "https://www.marieclairekorea.com/fashion/2026/10/a2o-lite/"
-   },
-   "search": "A2O LITE NEON OJOS 运动 定制 Margiela Future Sneakers KIMUNE",
-   "highlight": true,
-   "id": "look-04",
-   "category": "stage"
-  },
-  {
-   "artist": "IVE",
-   "title": "《Looks Can Kill》· Music Bank 迷彩",
-   "date": "2026-10-23",
-   "styles": [
-    "stage"
-   ],
-   "visual": true,
-   "ribbon": "官方打歌舞台",
-   "figure": {
-    "src": "assets/img-61.jpg",
-    "alt": "IVE Music Bank Looks Can Kill 迷彩舞台",
-    "width": 1280,
-    "height": 720,
-    "caption": "MUSIC BANK 10/23 · 迷彩军装 One Take"
-   },
-   "swatches": [
-    "#4b5320",
-    "#8b7355",
-    "#2f2f2f",
-    "#c4b59a"
-   ],
-   "badges": [
-    {
-     "text": "官方视频已核实",
-     "ok": true
-    },
-    {
-     "text": "MUSIC BANK · 10/23",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "舞台造型拆解",
-     "paragraphs": [
-      {
-       "text": "迷彩短袖与卡其上衣、灰色网眼拉链外套、工装短裙/短裤、靴子与护膝；灯泡面板舞台与军装风形成反差。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "迷彩短袖、工装短裙、网眼拉链外套、军靴、护膝。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "迷彩",
-    "军装风",
-    "打歌"
-   ],
-   "link": {
-    "label": "看 KBS Kpop One Take",
-    "url": "https://www.youtube.com/watch?v=d7s-2eLvT8Q"
-   },
-   "search": "IVE Looks Can Kill Music Bank 迷彩 军装 工装 短裙 靴子",
-   "highlight": true,
-   "id": "look-05",
-   "category": "stage"
-  },
-  {
-   "artist": "ILLIT",
-   "title": "《BREAK EVEN》· MAD",
-   "date": "2026-10-15",
-   "styles": [
-    "preppy",
-    "y2k"
-   ],
-   "visual": true,
-   "ribbon": null,
-   "figure": {
-    "src": "assets/img-63.jpg",
-    "alt": "ILLIT BREAK EVEN MAD 金发 kitsch 概念照",
-    "width": 1000,
-    "height": 668,
-    "caption": "MAD CONCEPT · 金发与粉彩蕾丝"
-   },
-   "swatches": [
-    "#f9a8d4",
-    "#fde68a",
-    "#ffffff",
-    "#7c3aed"
-   ],
-   "badges": [
-    {
-     "text": "依据概念照",
-     "ok": false
-    },
-    {
-     "text": "10/15 MAD",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "金发配粉彩蕾丝荷叶边；YVMIN 闪钻眼镜与蕾丝项链强化 geek-chic × 仙女感。另有 QUIET 纯白冷感与 BURNING 暗黑线。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "粉彩蕾丝裙、闪钻眼镜、蕾丝蝴蝶结项链、金发造型。"
-      }
-     ]
-    }
-   ],
-   "tags": [
-    "kitsch",
-    "蕾丝",
-    "配饰"
-   ],
-   "link": {
-    "label": "看 allkpop MAD 报道",
-    "url": "https://www.allkpop.com/article/2026/10/illit-transforms-with-kitsch-blonde-visuals-ahead-of-comeback-with-5th-mini-album-break-even"
-   },
-   "search": "ILLIT BREAK EVEN MAD QUIET YVMIN 蕾丝 闪钻 眼镜 粉彩",
-   "highlight": false,
-   "id": "look-06",
-   "category": "mv"
-  },
-  {
-   "artist": "LISA",
-   "title": "《PRESS PLAY》/《SaWaDiKa》",
-   "date": "2026-10-23",
-   "styles": [
-    "dark"
-   ],
-   "visual": true,
-   "ribbon": null,
-   "figure": {
-    "src": "assets/img-01.jpg",
-    "alt": "LISA《SaWaDiKa》MV 造型，红黑皮革连体衣叠水钻拳击短裤与红白系带长靴",
-    "width": 1200,
-    "height": 1600,
-    "caption": "MV LOOK · 红黑皮革、拳击短裤与系带长靴"
-   },
-   "swatches": [
-    "#a40018",
-    "#111114",
-    "#d3a62e",
-    "#eee4da"
-   ],
-   "badges": [
-    {
-     "text": "MV + 媒体明确单品",
-     "ok": true
-    },
-    {
-     "text": "10/23",
-     "ok": false
-    }
-   ],
-   "sections": [
-    {
-     "heading": "造型拆解",
-     "paragraphs": [
-      {
-       "text": "红色皮革侧镂空连体衣叠拳击短裤；黑拳套、红短上衣与浓眼线强调泰拳手概念。另有黑羽毛装、铂金短发与泰式金色头饰。"
-      }
-     ]
-    },
-    {
-     "heading": "GET THE LOOK",
-     "paragraphs": [
-      {
-       "text": "红色皮革短上衣、拳击短裤、水钻字母腰带、羽毛装饰单品、金色发饰。"
+      "id": "st-aijing-1030",
+      "category": "stage",
+      "artist": "A2O LITE",
+      "member": "AIJING",
+      "title": "NEON",
+      "where": "KBS 音乐银行 · 10/30",
+      "date": "2026-10-30",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/yDgIbrUqff8/maxres2.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "A2O LITE AIJING《NEON》KBS 音乐银行 直拍画面，全身造型",
+        "credit": "KBS Kpop 官方直拍画面"
       },
-      {
-       "label": "Musinsa / 29CM 搜：",
-       "text": "“leather top” / “boxing shorts”"
-      }
-     ]
+      "video": "yDgIbrUqff8",
+      "breakdown": {
+        "top": "白色高领短款长袖，珊瑚橙条纹",
+        "bottom": "灰色做旧阔腿长裤，珊瑚橙侧边条",
+        "shoes": "灰色运动鞋",
+        "accessories": "—（画面中未见明显配饰）",
+        "palette": "白 · 灰 · 珊瑚橙",
+        "brand": null
+      },
+      "swatches": [
+        "#f4f4f2",
+        "#9b9ca1",
+        "#f07a2b"
+      ],
+      "point": "运动套装感：上衣和裤子的珊瑚橙条纹互相呼应。",
+      "styles": [
+        "sporty"
+      ],
+      "sources": [
+        {
+          "label": "KBS Kpop：AIJING 直拍（KBS 音乐银行 2026-10-30）",
+          "url": "https://www.youtube.com/watch?v=yDgIbrUqff8"
+        }
+      ]
+    },
+    {
+      "id": "st-oa-1024",
+      "category": "stage",
+      "artist": "A2O LITE",
+      "member": "OA",
+      "title": "NEON",
+      "where": "MBC 音乐中心 · 10/24",
+      "date": "2026-10-24",
+      "body": "full",
+      "image": {
+        "src": "https://i.ytimg.com/vi/c1eoCyLNUIg/maxres2.jpg",
+        "frame": "fancam",
+        "width": 1280,
+        "height": 720,
+        "alt": "A2O LITE OA《NEON》MBC 音乐中心 直拍画面，全身造型",
+        "credit": "MBCkpop 官方直拍画面"
+      },
+      "video": "c1eoCyLNUIg",
+      "breakdown": {
+        "top": "深灰无袖 V 领上衣，白色包边",
+        "bottom": "黑色百褶短裙",
+        "shoes": "灰色运动鞋",
+        "accessories": "白色及膝袜 / 腿套",
+        "palette": "深灰 · 黑 · 白",
+        "brand": null
+      },
+      "swatches": [
+        "#3b3c42",
+        "#141317",
+        "#f3f3f3"
+      ],
+      "point": "无袖上衣 + 百褶裙 + 白色长袜，运动学院风。",
+      "styles": [
+        "sporty",
+        "preppy"
+      ],
+      "sources": [
+        {
+          "label": "MBCkpop：OA 直拍（MBC 音乐中心 2026-10-24）",
+          "url": "https://www.youtube.com/watch?v=c1eoCyLNUIg"
+        }
+      ]
+    },
+    {
+      "id": "mg-anna-red",
+      "category": "magazine",
+      "artist": "MEOVV",
+      "member": "ANNA",
+      "title": "Harper's BAZAAR Korea 巴黎画报",
+      "where": "Harper's BAZAAR Korea · 2026-10-29 线上画报",
+      "date": "2026-10-29",
+      "body": "full",
+      "image": {
+        "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/10/23/8505c970-0b95-461f-8af7-26f1ee998770.jpg",
+        "frame": "contain",
+        "width": 1200,
+        "height": 1500,
+        "alt": "MEOVV ANNA 在巴黎街头，一身红色荷叶边上衣和阔腿裤，手拿黑色手提包，全身照",
+        "credit": "Harper's BAZAAR Korea"
+      },
+      "video": null,
+      "breakdown": {
+        "top": "红色荷叶边露肩上衣",
+        "bottom": "红色蓬松阔腿裤（同色）",
+        "shoes": "红粉色系带高跟鞋",
+        "accessories": "黑色 Paddington 手提包（来源：'스몰 패딩턴' 톱 핸들 백）",
+        "palette": "全红 + 黑色包",
+        "brand": "Chloé（来源写明：上衣、裤、包、丝袜、系带高跟鞋均为 Chloé）"
+      },
+      "swatches": [
+        "#d7262e",
+        "#121114"
+      ],
+      "point": "上下同色红色套装，只用一只黑色包做重点。",
+      "styles": [
+        "romantic",
+        "glam"
+      ],
+      "sources": [
+        {
+          "label": "Harper's BAZAAR Korea：파리에서 만난 미야오 안나（2026-10-29）",
+          "url": "https://www.harpersbazaar.co.kr/article/1911873"
+        }
+      ]
+    },
+    {
+      "id": "mg-anna-eiffel",
+      "category": "magazine",
+      "artist": "MEOVV",
+      "member": "ANNA",
+      "title": "Harper's BAZAAR Korea 巴黎画报",
+      "where": "Harper's BAZAAR Korea · 2026-10-29 线上画报",
+      "date": "2026-10-29",
+      "body": "full",
+      "image": {
+        "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/10/23/dc7c2f45-fe3c-41c2-90a3-b2b267e07cf3.jpg",
+        "frame": "contain",
+        "width": 1200,
+        "height": 1500,
+        "alt": "MEOVV ANNA 在埃菲尔铁塔前，绿色斗篷式外套配荷叶边衬衫和条纹层叠长裙，全身照",
+        "credit": "Harper's BAZAAR Korea"
+      },
+      "video": null,
+      "breakdown": {
+        "top": "浅绿色斗篷细节外套 + 白色荷叶边衬衫",
+        "bottom": "粉绿条纹层叠长裙",
+        "shoes": "靴子（来源写明；画面中只露出一点）",
+        "accessories": "流苏耳坠、戒指、Paddington 托特包（来源：트위드 & 그레인드 패딩턴）",
+        "palette": "浅绿 · 粉 · 白",
+        "brand": "Chloé（来源写明：外套、衬衫、半裙、耳环、戒指、包、靴子均为 Chloé）"
+      },
+      "swatches": [
+        "#a9c3a0",
+        "#d77fa0",
+        "#f4f1ec"
+      ],
+      "point": "正式外套 + 飘逸长裙，波西米亚风也能穿得利落。",
+      "styles": [
+        "romantic"
+      ],
+      "sources": [
+        {
+          "label": "Harper's BAZAAR Korea：파리에서 만난 미야오 안나（2026-10-29）",
+          "url": "https://www.harpersbazaar.co.kr/article/1911873"
+        }
+      ]
+    },
+    {
+      "id": "mg-anna-knit",
+      "category": "magazine",
+      "artist": "MEOVV",
+      "member": "ANNA",
+      "title": "Harper's BAZAAR Korea 巴黎画报",
+      "where": "Harper's BAZAAR Korea · 2026-10-29 线上画报",
+      "date": "2026-10-29",
+      "body": "half",
+      "image": {
+        "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/10/23/4826a4b0-694b-44eb-bbe6-1503231a9357.jpg",
+        "frame": "contain",
+        "width": 1200,
+        "height": 1500,
+        "alt": "MEOVV ANNA 穿白色毛线球装饰开衫和条纹衬衫，系马形扣腰带，半身照",
+        "credit": "Harper's BAZAAR Korea"
+      },
+      "video": null,
+      "breakdown": {
+        "top": "白色立体毛线球开衫 + 浅蓝条纹衬衫",
+        "bottom": "黑色皮裤（来源写明；画面中只到腰下）",
+        "shoes": "画面未拍到",
+        "accessories": "马形装饰腰带",
+        "palette": "奶白 · 浅蓝 · 黑 · 彩色小花",
+        "brand": "Chloé（来源写明：开衫、条纹衬衫、皮裤、马形腰带均为 Chloé）"
+      },
+      "swatches": [
+        "#f6f1e8",
+        "#bcd0ea",
+        "#121114"
+      ],
+      "point": "甜的毛线开衫配硬朗皮裤和大扣腰带，一甜一酷。",
+      "styles": [
+        "preppy"
+      ],
+      "sources": [
+        {
+          "label": "Harper's BAZAAR Korea：파리에서 만난 미야오 안나（2026-10-29）",
+          "url": "https://www.harpersbazaar.co.kr/article/1911873"
+        }
+      ]
+    },
+    {
+      "id": "mg-ningning-full",
+      "category": "magazine",
+      "artist": "aespa",
+      "member": "NINGNING",
+      "title": "W Korea Vol.11 封面",
+      "where": "W Korea Vol.11 · 2026-10-12 公开",
+      "date": "2026-10-12",
+      "body": "full",
+      "image": {
+        "src": "https://www.wkorea.com/wp_data/w/2026/10/style_6acc37b1da9dd-768x1018.jpg",
+        "frame": "contain",
+        "width": 768,
+        "height": 1018,
+        "alt": "aespa NINGNING 在绿幕前，黑红印花衬衫外套配黑色喇叭裤和尖头靴，全身封面",
+        "credit": "W Korea"
+      },
+      "video": null,
+      "breakdown": {
+        "top": "黑底红色印花衬衫外套",
+        "bottom": "黑色喇叭长裤",
+        "shoes": "黑色尖头靴",
+        "accessories": "—（画面中未见明显配饰）",
+        "palette": "黑 · 红",
+        "brand": null
+      },
+      "swatches": [
+        "#121114",
+        "#b0262c"
+      ],
+      "point": "深色印花上衣 + 黑色喇叭裤，上松下长，比例很好学。",
+      "styles": [
+        "dark"
+      ],
+      "sources": [
+        {
+          "label": "W Korea：Vol.11 커버의 주인공, 닝닝（2026-10-12）",
+          "url": "https://www.wkorea.com/2026/10/12/%eb%8d%94%eb%b8%94%ec%9c%a0-%ec%bd%94%eb%a6%ac%ec%95%84-vol-11-%ec%bb%a4%eb%b2%84%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%8b%9d%eb%8b%9d/"
+        }
+      ]
+    },
+    {
+      "id": "mg-ningning-suit",
+      "category": "magazine",
+      "artist": "aespa",
+      "member": "NINGNING",
+      "title": "W Korea Vol.11 封面",
+      "where": "W Korea Vol.11 · 2026-10-12 公开",
+      "date": "2026-10-12",
+      "body": "half",
+      "image": {
+        "src": "https://www.wkorea.com/wp_data/w/2026/10/style_6acc379b68d82-768x1018.jpg",
+        "frame": "contain",
+        "width": 768,
+        "height": 1018,
+        "alt": "aespa NINGNING 穿紫色缎面西装套装，内搭黑色，拍到膝盖附近",
+        "credit": "W Korea"
+      },
+      "video": null,
+      "breakdown": {
+        "top": "紫红色缎面西装外套，内搭黑色",
+        "bottom": "同色缎面西裤",
+        "shoes": "画面未拍到",
+        "accessories": "—（画面中未见明显配饰）",
+        "palette": "紫红缎面 · 黑",
+        "brand": null
+      },
+      "swatches": [
+        "#a23f9a",
+        "#121114"
+      ],
+      "point": "一整套亮面西装，靠缎面光泽撑场，内搭用黑色压一下。",
+      "styles": [
+        "glam"
+      ],
+      "sources": [
+        {
+          "label": "W Korea：Vol.11 커버의 주인공, 닝닝（2026-10-12）",
+          "url": "https://www.wkorea.com/2026/10/12/%eb%8d%94%eb%b8%94%ec%9c%a0-%ec%bd%94%eb%a6%ac%ec%95%84-vol-11-%ec%bb%a4%eb%b2%84%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%8b%9d%eb%8b%9d/"
+        }
+      ]
+    },
+    {
+      "id": "mg-jisoo-umbrella",
+      "category": "magazine",
+      "artist": "JISOO",
+      "member": "JISOO",
+      "title": "Vogue China 2026 年 11 月号",
+      "where": "Vogue China · 2026 年 11 月号",
+      "date": "2026-11-11",
+      "body": "full",
+      "image": {
+        "src": "https://biz.chosun.com/resizer/v2/GY4TMMRYGQ3TAYLBGNRWMNBRMU.png?auth=fc613cd5f8a987469d0920b365974b3ec6f15d5902e233b5bcd0ff2db0952f2a&width=800",
+        "frame": "contain",
+        "width": 800,
+        "height": 1005,
+        "alt": "JISOO 撑红伞，身穿大摆红色外套，黑色丝袜和黑鞋，全身画报",
+        "credit": "Vogue China（经朝鲜 Biz 报道）"
+      },
+      "video": null,
+      "breakdown": {
+        "top": "宽大展开的红色大摆外套",
+        "bottom": "被外套盖住（来源只写了黑色丝袜）",
+        "shoes": "黑色高跟鞋",
+        "accessories": "红色雨伞",
+        "palette": "红 · 黑",
+        "brand": null
+      },
+      "swatches": [
+        "#a3271f",
+        "#121114"
+      ],
+      "point": "来源原话：宽大展开的红色衣服 + 黑色丝袜和鞋；大摆外套单穿就是造型。",
+      "styles": [
+        "romantic"
+      ],
+      "sources": [
+        {
+          "label": "朝鲜 Biz：지수 보그 차이나 11월호 화보（2026-11-11）",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MIZDENTDGUYTKOBYGZQTMMRQGY/"
+        }
+      ]
+    },
+    {
+      "id": "mg-jisoo-black",
+      "category": "magazine",
+      "artist": "JISOO",
+      "member": "JISOO",
+      "title": "Vogue China 2026 年 11 月号",
+      "where": "Vogue China · 2026 年 11 月号",
+      "date": "2026-11-11",
+      "body": "half",
+      "image": {
+        "src": "https://biz.chosun.com/resizer/v2/GNTDKN3DHAYTGODFGJSTGY3BMQ.png?auth=6c837c43646bace43a9c9e5a3ae20e0a2d754a0b67c1ff9b418d95b0830b7079&width=800",
+        "frame": "contain",
+        "width": 800,
+        "height": 1020,
+        "alt": "JISOO 穿黑色无袖连衣裙，站在贴满海报的墙前，半身画报",
+        "credit": "Vogue China（经朝鲜 Biz 报道）"
+      },
+      "video": null,
+      "breakdown": {
+        "top": "黑色无袖连衣裙（来源写明）",
+        "bottom": "同一条连衣裙",
+        "shoes": "画面未拍到",
+        "accessories": "—（画面中未见明显配饰）",
+        "palette": "全黑",
+        "brand": null
+      },
+      "swatches": [
+        "#121114",
+        "#3a302b"
+      ],
+      "point": "一条贴身黑色无袖裙，长发 + 深色眼妆就够。",
+      "styles": [
+        "dark",
+        "minimal"
+      ],
+      "sources": [
+        {
+          "label": "朝鲜 Biz：지수 보그 차이나 11월호 화보（2026-11-11）",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MIZDENTDGUYTKOBYGZQTMMRQGY/"
+        }
+      ]
+    },
+    {
+      "id": "mg-mina-elle",
+      "category": "magazine",
+      "artist": "TWICE",
+      "member": "MINA",
+      "title": "ELLE Japon 2026 年 11 月号封面",
+      "where": "ELLE Japon · 2026 年 11 月号",
+      "date": "2026-09-25",
+      "body": "half",
+      "image": {
+        "src": "https://contents.oricon.co.jp/upimg/news/2483000/2482356/20260925_100510_p_o_60294294.jpg",
+        "frame": "contain",
+        "width": 1200,
+        "height": 1594,
+        "alt": "TWICE MINA 登上 ELLE Japon 11 月号封面，黑色 V 领流苏连衣裙配白色假领，半身",
+        "credit": "ELLE Japon（经 ORICON NEWS 报道）"
+      },
+      "video": null,
+      "breakdown": {
+        "top": "黑色深 V 连衣裙，带流苏装饰",
+        "bottom": "同一条连衣裙",
+        "shoes": "画面未拍到",
+        "accessories": "白色假领（领口饰件）",
+        "palette": "黑 · 白",
+        "brand": "FENDI（来源写明：封面穿 FENDI 黑色连衣裙）"
+      },
+      "swatches": [
+        "#121114",
+        "#f2f0ea"
+      ],
+      "point": "黑裙配白色假领，复古感一下就出来。",
+      "styles": [
+        "minimal"
+      ],
+      "sources": [
+        {
+          "label": "ORICON NEWS：TWICE・MINA『エル・ジャポン』11月号表紙（2026-09-25）",
+          "url": "https://www.oricon.co.jp/news/2482356/full/"
+        }
+      ]
+    },
+    {
+      "id": "mg-tsuki-nylon",
+      "category": "magazine",
+      "artist": "Billlie",
+      "member": "TSUKI",
+      "title": "NYLON guys JAPAN 2026 年 11 月号封面",
+      "where": "NYLON JAPAN 2026 年 11 月号（guys 封面）· 2026-09-28 发售",
+      "date": "2026-09-28",
+      "body": "half",
+      "image": {
+        "src": "https://storage.googleapis.com/nylonjapan/2026/08/gTtzVaPMycwBJr6JKLu4ph0qWqF45PqAV6Ar/02.jpg",
+        "frame": "contain",
+        "width": 1346,
+        "height": 1612,
+        "alt": "Billlie TSUKI 登上 NYLON guys JAPAN 封面，蓝绿色波点挂脖上衣和同款丝巾，半身",
+        "credit": "NYLON JAPAN"
+      },
+      "video": null,
+      "breakdown": {
+        "top": "蓝绿色波点挂脖上衣",
+        "bottom": "画面未拍到",
+        "shoes": "画面未拍到",
+        "accessories": "同款波点丝巾、绿色星星发夹",
+        "palette": "蓝绿 · 白波点 · 绿",
+        "brand": null
+      },
+      "swatches": [
+        "#3fb7c9",
+        "#f4f7f7",
+        "#53c26b"
+      ],
+      "point": "波点上衣 + 同款丝巾 + 星星发夹，全身同一个颜色主题。",
+      "styles": [
+        "y2k"
+      ],
+      "sources": [
+        {
+          "label": "NYLON JAPAN：guys 表紙に Billlie《TSUKI》が単独初登場",
+          "url": "https://www.nylon.jp/270"
+        }
+      ]
     }
-   ],
-   "tags": [
-    "泰式高街",
-    "拳击辣妹",
-    "华丽暗黑"
-   ],
-   "link": {
-    "label": "看《SaWaDiKa》MV",
-    "url": "https://www.youtube.com/watch?v=FyS5dAywkEo"
-   },
-   "search": "LISA PRESS PLAY SaWaDiKa 泰式高街 拳击 辣妹 华丽暗黑 皮革 拳击短裤 羽毛 金色发饰 Blumarine Maison Ernest",
-   "highlight": false,
-   "id": "look-11",
-   "category": "mv"
-  }
- ]
+  ]
 }

@@ -63,11 +63,6 @@ function refresh(type) {
   const entries = lists[type] || [];
   const state = states[type];
   entries.sort((a, b) => {
-    if (type === 'closet') {
-      if (a.data.visual !== b.data.visual) return a.data.visual ? -1 : 1;
-      const as = a.data.styles.includes('stage'), bs = b.data.styles.includes('stage');
-      if (as !== bs) return as ? -1 : 1;
-    }
     const diff = a.key.localeCompare(b.key);
     return state.desc ? -diff : diff;
   }).forEach(e => list.appendChild(e.el));
@@ -81,7 +76,7 @@ function refresh(type) {
     if (ok) visible += 1;
   });
   const count = $(`[data-count-for="${type}"]`);
-  if (count) count.textContent = visible + ' 条';
+  if (count) count.textContent = visible + (type === 'closet' ? ' 套' : ' 条');
   $(`[data-empty="${type}"]`).hidden = visible !== 0;
 }
 function wireTools(type) {
@@ -212,97 +207,56 @@ function renderStages(data) {
   search.addEventListener('input', filter); filter();
 }
 
-/* ---------- 偶像衣橱 ---------- */
-// 图片一律直接引用来源（官方 YouTube 封面 / 杂志官网），不转存；外链图加载失败时显示来源提示而不是破图。
-const CATEGORY_LABELS = { stage: '打歌舞台', mv: 'MV / 预告', magazine: '杂志', blogger: '博主 · 街拍' };
-const isRemote = (src) => /^https?:\/\//.test(src || '');
+/* ---------- 偶像衣橱（穿搭杂志版） ---------- */
+// 每一套都是全身或半身图；图片直接引用来源，不转存。打歌舞台用官方竖屏直拍的自动截帧（1280×720，中间是竖屏画面，两侧是模糊背景），
+// 以 9:16 显示、居中裁掉两侧模糊；杂志图按原比例完整显示（contain），不裁衣服。
+const CATEGORY_LABELS = { stage: '打歌舞台', magazine: '杂志画报' };
+const BODY_LABELS = { full: '全身', half: '半身' };
+const BREAKDOWN = [['top', '上衣'], ['bottom', '下装'], ['shoes', '鞋'], ['accessories', '配饰'], ['palette', '配色'], ['brand', '品牌']];
 const YT_ID = /^[\w-]{11}$/;
-function remoteImg(attrs) {
-  const img = h('img', Object.assign({ loading: 'lazy', decoding: 'async' }, attrs, isRemote(attrs.src) ? { referrerpolicy: 'no-referrer' } : {}));
-  img.addEventListener('error', () => { img.hidden = true; const f = img.closest('figure'); if (f) f.classList.add('img-failed'); }, { once: true });
-  return img;
-}
-function closetFigure(c) {
-  const f = c.figure;
-  const img = remoteImg({ src: f.src, alt: f.alt, width: f.width, height: f.height });
-  const fig = h('figure', { class: 'c16' + (c.video ? ' has-video' : '') }, img,
-    h('figcaption', null, f.caption, f.credit ? h('small', { class: 'img-credit', text: f.credit }) : null));
-  if (c.video && YT_ID.test(c.video)) {
-    const play = h('button', { class: 'play-btn', type: 'button', 'aria-label': `在这里播放 ${c.artist} ${c.title} 官方舞台视频` }, '▶ 播放舞台');
+function lookFigure(l) {
+  const im = l.image;
+  const img = h('img', { src: im.src, alt: im.alt, width: im.width, height: im.height, loading: 'lazy', decoding: 'async', referrerpolicy: 'no-referrer' });
+  const fig = h('figure', { class: 'look-fig frame-' + im.frame }, img,
+    h('span', { class: 'look-body', text: BODY_LABELS[l.body] }),
+    h('figcaption', { class: 'look-credit', text: '图：' + im.credit }));
+  img.addEventListener('error', () => { fig.classList.add('img-failed'); img.hidden = true; fig.prepend(h('p', { class: 'look-fail' }, '图片暂时加载不出来，', link('点这里看原图来源 ↗', l.sources[0].url))); }, { once: true });
+  if (l.video && YT_ID.test(l.video)) {
+    const play = h('button', { class: 'look-play', type: 'button', 'aria-label': `在这里播放 ${l.artist} ${l.member} 官方直拍` }, '▶ 看直拍');
     play.addEventListener('click', () => {
-      const frame = h('iframe', { class: 'yt-embed', src: `https://www.youtube-nocookie.com/embed/${c.video}?autoplay=1&rel=0&playsinline=1`, title: `${c.artist} ${c.title}`, allow: 'autoplay; encrypted-media; picture-in-picture; fullscreen', allowfullscreen: true, loading: 'lazy', referrerpolicy: 'strict-origin-when-cross-origin' });
-      img.replaceWith(frame); play.remove();
+      img.replaceWith(h('iframe', { class: 'look-video', src: `https://www.youtube-nocookie.com/embed/${l.video}?autoplay=1&rel=0&playsinline=1`, title: `${l.artist} ${l.member} ${l.title}`, allow: 'autoplay; encrypted-media; picture-in-picture; fullscreen', allowfullscreen: true, referrerpolicy: 'strict-origin-when-cross-origin' }));
+      play.remove();
     });
-    fig.insertBefore(play, fig.querySelector('figcaption'));
+    fig.append(play);
   }
   return fig;
 }
-function closetCard(c) {
-  const kids = [];
-  if (c.ribbon) kids.push(h('span', { class: 'ribbon', text: c.ribbon }));
-  if (c.figure) kids.push(closetFigure(c));
-  kids.push(h('div', { class: 'c18', 'aria-hidden': 'true' }, c.swatches.map(s => h('span', { style: `--swatch:${s}` }))));
-  const body = h('div', { class: 'c02' },
-    h('div', { class: 'meta' }, CATEGORY_LABELS[c.category] ? h('span', { class: 'c06 cat-' + c.category, text: CATEGORY_LABELS[c.category] }) : null, c.badges.map(badge)),
-    h('h3', { class: 'artist', text: c.artist }), h('p', { class: 'event', text: c.title }),
-    c.sections.map(s => h('div', { class: 'c07' }, h('h4', { text: s.heading }), s.paragraphs.map(p => p.label ? h('p', { class: 'c15' }, h('strong', { text: p.label }), p.text) : h('p', { text: p.text })))),
-    c.tags.length ? h('div', { class: 'c13' }, c.tags.map(t => h('span', { class: 'style-tag', text: t }))) : null,
-    c.link ? link(c.link.label, c.link.url, 'c04') : null,
-    sourcesDetails(c.sources));
-  kids.push(body);
-  return h('article', { class: 'card c14' + (c.highlight ? ' c36' : '') }, kids);
+function lookCard(l, i) {
+  const b = l.breakdown;
+  const rows = BREAKDOWN.map(([k, label]) => {
+    let v = b[k];
+    if (k === 'brand' && !v) v = '来源未写品牌';
+    const dd = h('dd', null, k === 'palette' && l.swatches ? h('span', { class: 'look-sw', 'aria-hidden': 'true' }, l.swatches.map(c => h('i', { style: `--sw:${c}` }))) : null, v);
+    return h('div', { class: 'look-row' + (k === 'brand' && !b.brand ? ' is-empty' : '') }, h('dt', { text: label }), dd);
+  });
+  return h('article', { class: 'look look-' + l.category, id: 'look-' + l.id },
+    lookFigure(l),
+    h('div', { class: 'look-copy' },
+      h('p', { class: 'look-kicker' }, `${CATEGORY_LABELS[l.category]} · ${l.where}`),
+      h('h3', { class: 'look-name' }, l.artist, l.member && l.member !== l.artist ? h('span', { text: ' ' + l.member }) : null),
+      l.category === 'stage' ? h('p', { class: 'look-title', text: `《${l.title}》` }) : null,
+      h('p', { class: 'look-point' }, h('strong', { text: '穿搭要点 ' }), l.point),
+      h('dl', { class: 'look-break' }, rows),
+      h('p', { class: 'look-src' }, '来源：', l.sources.flatMap((s, j) => [j ? ' · ' : null, link(s.label + ' ↗', s.url)]))));
 }
 function renderCloset(data) {
-  $('.c42').textContent = data.issue;
-  const count = $('#panel-closet .c12 .count'); if (count) count.textContent = data.lookbooks.length + ' 本';
-  const kicker = $('.c17 p'); if (kicker) kicker.textContent = `${data.lookbooks.length} LOOKBOOKS · SWIPE EDITION`;
+  const issue = $('[data-closet-issue]'); if (issue) issue.textContent = data.issue;
   const list = $('[data-mount="closet-list"]');
-  lists.closet = data.cards.map(c => ({ el: closetCard(c), data: c, key: c.date, search: (c.search + ' ' + c.artist + ' ' + c.title).toLowerCase() }));
+  const sorted = data.looks.slice().sort((x, y) => y.date.localeCompare(x.date));
+  lists.closet = sorted.map((l, i) => ({ el: lookCard(l, i), data: Object.assign({}, l, { styles: [l.category, l.body].concat(l.styles) }), key: l.date,
+    search: [l.artist, l.member, l.title, l.where, l.point, ...Object.values(l.breakdown).filter(Boolean), ...l.styles].join(' ').toLowerCase() }));
   lists.closet.forEach(e => list.append(e.el));
   refresh('closet');
-  initMagazine(data.lookbooks);
-  // 只有主页、没有可核实单帖图片的博主：在翻阅室下方列出主页链接
-  const bloggers = data.cards.filter(c => c.category === 'blogger' && !c.figure && c.link);
-  if (bloggers.length) {
-    const p = h('p', { class: 'c31 blogger-links' }, h('strong', { text: '博主主页推荐：' }));
-    bloggers.forEach((c, i) => { if (i) p.append(' · '); p.append(link(c.artist, c.link.url)); p.append(h('small', { text: '（' + c.title.replace(/^Instagram · /, '') + '）' })); });
-    $('.magazine').append(p);
-  }
-}
-function initMagazine(books) {
-  const byId = Object.fromEntries(books.map(b => [b.id, b]));
-  const state = { book: books[0].id, page: 0 };
-  const bar = $('.c27');
-  books.forEach(b => bar.append(h('button', { class: 'c09', type: 'button', role: 'tab', 'aria-selected': 'false', 'data-mag-book': b.id, text: `${b.label} · ${b.pages.length}` })));
-  const el = n => $(`[data-mag-${n}]`);
-  const image = el('image'), stage = el('stage');
-  image.addEventListener('error', () => { image.hidden = true; image.closest('figure').classList.add('img-failed'); });
-  function render() {
-    const book = byId[state.book], page = book.pages[state.page];
-    if (isRemote(page.image)) image.setAttribute('referrerpolicy', 'no-referrer'); else image.removeAttribute('referrerpolicy');
-    image.hidden = false; image.closest('figure').classList.remove('img-failed');
-    image.src = page.image; image.alt = page.alt;
-    el('kicker').textContent = book.artist; el('title').textContent = page.title; el('caption').textContent = page.caption;
-    const note = el('note'); if (page.note) { note.textContent = page.note; note.hidden = false; } else { note.textContent = ''; note.hidden = true; }
-    el('folio').textContent = String(state.page + 1).padStart(2, '0');
-    el('status').textContent = `${state.page + 1} / ${book.pages.length}`;
-    el('source').href = page.source;
-    el('source').textContent = /youtube\.com\/watch/.test(page.source) ? '看官方舞台视频 ↗' : '打开图片来源 ↗';
-    el('musinsa').href = 'https://global.musinsa.com/us/search?gender=F&keyword=' + encodeURIComponent(page.shop.musinsa) + '&sortCode=POPULAR';
-    el('lewkin').href = 'https://lewkin.com/search?q=' + encodeURIComponent(page.shop.lewkin);
-    const tags = el('tags'); tags.replaceChildren(...page.tags.map(t => h('span', { class: 'style-tag', text: t })));
-    el('prev').disabled = state.page === 0; el('next').disabled = state.page === book.pages.length - 1;
-    $$('[data-mag-book]').forEach(b => b.setAttribute('aria-selected', b.getAttribute('data-mag-book') === state.book ? 'true' : 'false'));
-  }
-  function turn(d) { const len = byId[state.book].pages.length; state.page = Math.max(0, Math.min(len - 1, state.page + d)); render(); }
-  el('prev').addEventListener('click', () => turn(-1));
-  el('next').addEventListener('click', () => turn(1));
-  $$('[data-mag-book]').forEach(b => b.addEventListener('click', () => { state.book = b.getAttribute('data-mag-book'); state.page = 0; render(); }));
-  stage.addEventListener('keydown', e => { if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') { e.preventDefault(); turn(e.key === 'ArrowRight' ? 1 : -1); } });
-  let x0 = 0;
-  stage.addEventListener('touchstart', e => { x0 = e.changedTouches[0].clientX; }, { passive: true });
-  stage.addEventListener('touchend', e => { const d = e.changedTouches[0].clientX - x0; if (Math.abs(d) > 45) turn(d < 0 ? 1 : -1); }, { passive: true });
-  render();
 }
 
 /* ---------- 启动 ---------- */

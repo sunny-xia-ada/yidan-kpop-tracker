@@ -379,10 +379,6 @@
     .price-snapshot { margin-top: 13px; border-radius: 0; }
     .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
 
-    #panel-closet > .c43,
-    #panel-closet > .grid,
-    #panel-closet > .empty,
-    #panel-closet > .notice { display: none !important; }
     #panel-closet .c12 { margin-bottom: 10px; }
     .c33 { margin-bottom: 10px; padding: 10px 12px; border-top-width: 1px; background: var(--paper); }
     .magazine {
@@ -507,3 +503,50 @@
 .c06.cat-magazine { background: #fde7f3; color: #9d174d; }
 .c06.cat-blogger { background: #e0f2fe; color: #075985; }
 .c06.cat-mv { background: #f1f5f9; color: #334155; }
+
+/* ---------- 偶像衣橱 · 穿搭杂志版 ---------- */
+.lk-mast { position: relative; padding: 18px 0 14px; border-bottom: 3px solid var(--ink); margin-bottom: 14px; }
+.lk-kicker { margin: 0 0 4px; font-size: 11px; letter-spacing: .22em; font-weight: 800; color: var(--pink-deep); }
+.lk-mast h2 { margin: 0; font-family: "Didot", "Bodoni 72", "Playfair Display", Georgia, "Songti SC", serif; font-size: clamp(38px, 9vw, 72px); line-height: .95; letter-spacing: -.02em; }
+.lk-dek { margin: 10px 0 0; max-width: 62ch; color: var(--muted); font-size: 14px; line-height: 1.6; }
+.lk-mast .count { position: absolute; right: 0; top: 18px; }
+.lk-tools { margin-bottom: 16px; }
+.lookbook { column-count: 3; column-gap: 22px; }
+.look { break-inside: avoid; -webkit-column-break-inside: avoid; display: inline-block; width: 100%; margin: 0 0 30px; background: var(--paper); border: 1px solid var(--line); }
+.look[hidden] { display: none; }
+.look-fig { position: relative; margin: 0; background: #0e0d10; overflow: hidden; }
+.look-fig img, .look-video { display: block; width: 100%; height: 100%; border: 0; }
+.frame-fancam { aspect-ratio: 9 / 16; }
+.frame-fancam img { object-fit: cover; object-position: 50% 50%; }
+.frame-contain { aspect-ratio: 3 / 4; background: #f1ece6; }
+.frame-contain img { object-fit: contain; }
+.look-body { position: absolute; left: 10px; top: 10px; padding: 3px 8px; background: #fff; color: #111; font-size: 11px; font-weight: 800; letter-spacing: .12em; }
+.look-credit { position: absolute; left: 0; right: 0; bottom: 0; padding: 18px 10px 7px; font-size: 10.5px; color: #fff; background: linear-gradient(transparent, rgba(0,0,0,.6)); }
+.look-play { position: absolute; right: 10px; top: 10px; padding: 6px 10px; border: 0; border-radius: 999px; background: rgba(0,0,0,.66); color: #fff; font: inherit; font-size: 12px; font-weight: 700; cursor: pointer; }
+.look-fail { position: absolute; inset: 40% 12px auto; color: #fff; font-size: 13px; text-align: center; }
+.look-fail a { color: #ffd0dc; }
+.look-copy { padding: 14px 16px 16px; }
+.look-kicker { margin: 0; font-size: 11px; letter-spacing: .08em; color: var(--muted); font-weight: 700; }
+.look-no { display: inline-block; margin-right: 8px; padding-right: 8px; border-right: 1px solid var(--line); color: var(--pink-deep); font-weight: 900; }
+.look-name { margin: 6px 0 0; font-family: "Didot", "Bodoni 72", "Playfair Display", Georgia, serif; font-size: 26px; line-height: 1.05; }
+.look-name span { font-family: inherit; font-style: italic; color: var(--pink-deep); }
+.look-title { margin: 3px 0 0; font-size: 13px; color: var(--muted); }
+.look-point { margin: 12px 0 10px; padding: 10px 0; border-top: 2px solid var(--ink); border-bottom: 1px solid var(--line); font-size: 14.5px; line-height: 1.55; }
+.look-point strong { color: var(--pink-deep); }
+.look-break { margin: 0; display: grid; gap: 6px; }
+.look-row { display: grid; grid-template-columns: 3.4em 1fr; gap: 8px; font-size: 13px; line-height: 1.5; }
+.look-row dt { font-weight: 800; letter-spacing: .06em; }
+.look-row dd { margin: 0; }
+.look-row.is-empty dd { color: var(--muted); }
+.look-sw { display: inline-flex; gap: 3px; margin-right: 6px; vertical-align: -2px; }
+.look-sw i { width: 13px; height: 13px; border-radius: 50%; background: var(--sw); border: 1px solid rgba(127,127,127,.45); }
+.look-src { margin: 12px 0 0; font-size: 12px; line-height: 1.55; color: var(--muted); overflow-wrap: anywhere; }
+.look-src a { color: var(--blue); }
+.lk-foot { margin: 6px 0 0; font-size: 12px; color: var(--muted); line-height: 1.6; }
+@media (max-width: 1000px) { .lookbook { column-count: 2; } }
+@media (max-width: 640px) {
+  .lookbook { column-count: 1; }
+  .look { margin-bottom: 26px; }
+  .frame-fancam { width: 100%; }
+  .lk-mast .count { position: static; display: inline-block; margin-top: 8px; }
+}
