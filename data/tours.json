@@ -2,11 +2,13 @@
  "lastUpdated": "2026-11-12",
  "timezone": "America/Los_Angeles",
  "priceNotice": "票价为价格快照，不是秒级行情，各条目标注了各自的快照日期与费用口径。官方面价未公布时会明确留空；转售价格均标明来源与查询日期。",
- "distanceNotice": "除 KOYOTE 在塔科马（Tacoma）外，其余场次都在西雅图；研究快照没有可靠的距离数据，因此没有伪造公里数或“离你最近”排序。",
+ "distanceNotice": "西雅图区域包括西雅图、塔科马（Tacoma）和 Eastside（贝尔维尤、雷德蒙德、柯克兰等），以及埃弗里特、肯特等周边场馆。已官宣的远期巡演（含 2027 年及更后）都会收录；场馆、开演时刻或开票未公布的会标「待公布」，不会因此跳过，也不会猜测。研究快照没有可靠的距离数据，因此没有伪造公里数或“离你最近”排序。",
  "_schema": {
-  "start": "本地开演时间，西雅图时间（America/Los_Angeles），格式 YYYY-MM-DDTHH:mm",
+  "start": "本地开演时间，西雅图时间（America/Los_Angeles），格式 YYYY-MM-DDTHH:mm。官方未公布开演时刻时仍用当天 T00:00 仅供排序，并设 timeTbd: true（页面显示“开演时间待公布”，日历为全天事件，不猜测钟点）。",
   "durationMinutes": "可选；官方未公布结束时间时用于 .ics 的估算时长",
-  "onsale": "可选。presale / general 各为 {label, start(PT, YYYY-MM-DDTHH:mm，可省略), url, note}。只填能从官方来源核实的时间；不确定就不要填。status: on_sale 表示已开售但开票时间未核实。没有 onsale 字段 = 显示‘开票时间待公布’"
+  "onsale": "可选。presale / general 各为 {label, start(PT, YYYY-MM-DDTHH:mm，可省略), url, note}。只填能从官方来源核实的时间；不确定就不要填。status: on_sale 表示已开售但开票时间未核实。没有 onsale 字段 = 显示‘开票时间待公布’",
+  "timeTbd": "可选。true 表示开演时刻未官方公布。",
+  "region": "收录范围是西雅图区域：西雅图 + 塔科马 + Eastside（贝尔维尤、雷德蒙德、柯克兰等）及埃弗里特、肯特等周边。不按开票状态、场馆是否公布或演出年份过滤。"
  },
  "upcoming": [
   {
@@ -427,6 +429,55 @@
     {
      "label": "Go See Shows",
      "url": "https://goseeshows.com/seattle/shows/2027-03-31-showbox-at-the-market-hyukoh/"
+    }
+   ]
+  },
+  {
+   "id": "txt-20270504",
+   "artist": "TOMORROW X TOGETHER（TXT）",
+   "title": "WORLD TOUR 〈STEAL THE WIND〉 · 塔科马站（北美首站）",
+   "tag": "STEAL THE WIND",
+   "status": {
+    "text": "场馆待公布",
+    "ok": true
+   },
+   "verified": true,
+   "timeTbd": true,
+   "start": "2027-05-04T00:00",
+   "venue": {
+    "name": "待公布（Tacoma, WA）",
+    "address": "Tacoma, WA"
+   },
+   "ticketUrl": "https://ibighit.com/en/txt/tour/",
+   "rows": [
+    {
+     "label": "官方面价",
+     "value": "待公布"
+    },
+    {
+     "label": "开演时间",
+     "value": "待公布",
+     "note": "官方巡演页目前只公布了日期，未公布开演时刻"
+    },
+    {
+     "label": "开票",
+     "value": "待公布",
+     "note": "官方尚未公布预售或公开发售时间，因此不设开票提醒"
+    }
+   ],
+   "search": "TOMORROW X TOGETHER TXT 투모로우바이투게더 STEAL THE WIND Tacoma 塔科马 2027-05-04",
+   "sources": [
+    {
+     "label": "官方巡演页（BIGHIT MUSIC）",
+     "url": "https://ibighit.com/en/txt/tour/"
+    },
+    {
+     "label": "Weverse 官方公告（2026-08-27）",
+     "url": "https://weverse.io/txt/notice/38684"
+    },
+    {
+     "label": "Consequence 报道",
+     "url": "https://consequence.net/2026/08/tomorrow-x-together-2026-2027-steal-the-wind-world-tour-dates/"
     }
    ]
   },

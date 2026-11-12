@@ -1,5 +1,5 @@
 // K-pop 追踪 · 前端：所有内容来自 data/*.json（改数据即更新页面，无需改代码）
-import { displayDate, eventOutlookLinks, icsPath, onsaleIcsPath, laLocalToUtcMs, pdtLabel, SALE_KINDS } from '../js/calendar.mjs';
+import { displayDate, eventDateLabel, eventOutlookLinks, icsPath, onsaleIcsPath, laLocalToUtcMs, pdtLabel, SALE_KINDS } from '../js/calendar.mjs';
 
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => Array.prototype.slice.call(root.querySelectorAll(sel));
@@ -129,13 +129,13 @@ function saleBlock(ev) {
 }
 function calendarActions(ev) {
   const links = eventOutlookLinks(ev);
-  return h('div', { class: 'cal-actions', role: 'group', 'aria-label': `把 ${ev.artist} 西雅图场加到日历` },
+  return h('div', { class: 'cal-actions', role: 'group', 'aria-label': `把 ${ev.artist} 这场演出加到日历` },
     h('a', { class: 'btn-cal', href: icsPath(ev), type: 'text/calendar', 'aria-label': `${ev.artist} 加到 Outlook 日历：下载 .ics 文件（iPhone、Outlook、Google 日历通用）` }, '一键加到 Outlook 日历', h('small', { text: '.ics · iPhone / Outlook 通用' })),
     h('a', { class: 'btn-cal btn-web', href: links.personal, target: '_blank', rel: 'noopener' }, 'Outlook 网页版', h('small', { text: 'outlook.live.com' })),
     h('a', { class: 'btn-cal btn-web', href: links.work, target: '_blank', rel: 'noopener' }, 'Outlook 网页版', h('small', { text: 'office.com（工作/学校）' })));
 }
 function tourCard(ev) {
-  const rows = [{ label: '日期', value: displayDate(ev.start) }, { label: '场馆', value: ev.venue.name }, ...ev.rows];
+  const rows = [{ label: '日期', value: eventDateLabel(ev) }, { label: '场馆', value: ev.venue.name }, ...ev.rows];
   return h('article', { class: 'card' },
     h('div', { class: 'c02' },
       h('div', { class: 'meta' }, badge(ev.status), h('span', { class: 'c06', text: ev.tag })),
@@ -145,7 +145,7 @@ function tourCard(ev) {
 }
 function renderTours(data) {
   const list = $('[data-mount="tour-list"]');
-  lists.tour = data.upcoming.map(ev => ({ el: tourCard(ev), data: ev, key: ev.start, search: [ev.search, ev.artist, ev.title, ev.venue.name].join(' ').toLowerCase() }));
+  lists.tour = data.upcoming.map(ev => ({ el: tourCard(ev), data: ev, key: ev.start, search: [ev.search, ev.artist, ev.title, ev.venue.name, ev.venue.address].join(' ').toLowerCase() }));
   lists.tour.forEach(e => list.append(e.el));
   const past = h('details', { class: 'c40' }, h('summary', { text: data.pastSummary }),
     h('div', { class: 'c26' }, data.past.map(p => h('div', null, h('h3', { text: p.title }), h('p', null, p.text,

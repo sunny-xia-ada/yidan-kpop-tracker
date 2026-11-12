@@ -1,6 +1,6 @@
 # K-pop 追踪（yidan-kpop-tracker）
 
-西雅图视角的 K-pop 追星页：**巡演（含 Outlook 日历 / 开票提醒）· 官宣回归 · 舞台回顾 · 偶像衣橱**。
+西雅图区域（西雅图 + 塔科马 + Eastside 及周边）视角的 K-pop 追星页：**巡演（含 Outlook 日历 / 开票提醒）· 官宣回归 · 舞台回顾 · 偶像衣橱**。已官宣的远期巡演（含 2027 及更后）都会收录。
 纯静态站（原生 HTML/JS，无框架、无环境变量、无密钥），内容全部在 `data/*.json`，更新内容 = 提交数据。
 
 ## 目录
@@ -8,7 +8,7 @@
 ```
 data/            ← 所有内容（每个文件都有 lastUpdated）
   site.json      页头文案
-  tours.json     西雅图巡演（upcoming / past），含 onsale 开票信息
+  tours.json     西雅图及周边巡演（upcoming / past），含 onsale 开票信息
   comebacks.json 官宣回归 + trackedArtists（参考名单，可留空）
   stages.json    舞台回顾（过去一个月 / 过去三个月热门）
   closet.json    偶像衣橱（lookbooks 杂志册 + cards 卡片）
@@ -45,6 +45,7 @@ npx serve dist                 # 或任意静态服务器；需要 http(s)，不
   "artist": "KATSEYE", "title": "WILDWORLD TOUR", "tag": "WILDWORLD TOUR",
   "status": { "text": "已核实", "ok": true }, "verified": true,
   "start": "2026-11-17T20:00",         // 西雅图本地时间（America/Los_Angeles），自动处理 PST/PDT
+  "timeTbd": false,                    // 官方未公布开演时刻时设 true：页面显示待公布，日历为全天事件，不猜测钟点
   "durationMinutes": 180,              // 官方没给结束时间时的估算
   "doors": "18:30",                    // 可选
   "venue": { "name": "Climate Pledge Arena", "address": "334 1st Ave N, Seattle, WA 98109" },

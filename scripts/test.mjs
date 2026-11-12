@@ -3,7 +3,8 @@ import assert from 'node:assert/strict';
 import { readFileSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
-import { laLocalToUtcMs, buildEventIcs, buildOnsaleIcs, eventOutlookLinks, addMinutesLocal, displayDate } from '../public/js/calendar.mjs';
+import { laLocalToUtcMs, buildEventIcs, buildOnsaleIcs, eventOutlookLinks, addMinutesLocal, addCalendarDays, displayDate, eventDateLabel } from '../public/js/calendar.mjs';
+import { inSeattleRegion } from './region.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const iso = ms => new Date(ms).toISOString();
@@ -15,6 +16,9 @@ assert.equal(iso(laLocalToUtcMs('2026-03-08T12:00')), '2026-03-08T19:00:00.000Z'
 assert.equal(iso(laLocalToUtcMs('2026-11-01T12:00')), '2026-11-01T20:00:00.000Z');   // 夏令时结束当天中午已是 PST
 assert.equal(addMinutesLocal('2026-11-17T23:30', 60), '2026-11-18T00:30');
 assert.equal(displayDate('2026-11-15T19:30'), '11/15 周日 · 19:30');
+assert.equal(displayDate('2027-05-04T00:00', { timeTbd: true }), '05/04 周二 · 开演时间待公布');
+assert.equal(eventDateLabel({ start: '2027-05-04T00:00', timeTbd: true }), '05/04 周二 · 开演时间待公布');
+assert.equal(addCalendarDays('2027-05-04T00:00', 1), '2027-05-05');
 
 // 2) ics 解析
 function parseIcs(text) {
@@ -40,24 +44,47 @@ const toUtcMs = (p) => { const m = /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})
 
 const tours = JSON.parse(readFileSync(join(root, 'data/tours.json'), 'utf8'));
 for (const ev of tours.upcoming) {
+  assert.ok(inSeattleRegion(ev), '非西雅图区域场次不应出现: ' + ev.id);
   const cal = parseIcs(readFileSync(join(root, 'dist/ics', ev.id + '.ics'), 'utf8'));
   assert.equal(cal.type, 'VCALENDAR'); assert.equal(get(cal, 'VERSION').value, '2.0');
   assert.ok(cal.children.some(c => c.type === 'VTIMEZONE'));
   const vev = cal.children.find(c => c.type === 'VEVENT');
-  assert.equal(toUtcMs(get(vev, 'DTSTART')), laLocalToUtcMs(ev.start));
-  assert.equal(toUtcMs(get(vev, 'DTEND')) - toUtcMs(get(vev, 'DTSTART')), (ev.durationMinutes || 180) * 60000);
   assert.ok(unesc(get(vev, 'LOCATION').value).startsWith(ev.venue.name));
-  assert.ok(unesc(get(vev, 'DESCRIPTION').value).includes(ev.ticketUrl), '描述里要有购票链接');
+  assert.ok(unesc(get(vev, 'DESCRIPTION').value).includes(ev.ticketUrl), '描述里要有购票 / 官方页链接');
   assert.equal(get(vev, 'UID').value, ev.id + '@yidan-kpop-tracker');
+  if (ev.timeTbd) {
+    const ds = get(vev, 'DTSTART'); const de = get(vev, 'DTEND');
+    assert.equal(ds.params.VALUE, 'DATE'); assert.equal(de.params.VALUE, 'DATE');
+    assert.ok(!ds.params.TZID && !de.params.TZID, '全天事件不应带 TZID');
+    assert.equal(ds.value, ev.start.slice(0, 10).replace(/-/g, ''));
+    assert.equal(de.value, addCalendarDays(ev.start, 1).replace(/-/g, ''));
+    assert.ok(unesc(get(vev, 'DESCRIPTION').value).includes('开演时间待公布'));
+    assert.ok(!unesc(get(vev, 'DESCRIPTION').value).includes('00:00'), '未公布开演时刻时不要写 00:00');
+  } else {
+    assert.equal(toUtcMs(get(vev, 'DTSTART')), laLocalToUtcMs(ev.start));
+    assert.equal(toUtcMs(get(vev, 'DTEND')) - toUtcMs(get(vev, 'DTSTART')), (ev.durationMinutes || 180) * 60000);
+  }
   const links = eventOutlookLinks(ev);
   for (const [k, host] of [['personal', 'outlook.live.com'], ['work', 'outlook.office.com']]) {
     const u = new URL(links[k]); assert.equal(u.host, host); assert.equal(u.pathname, '/calendar/0/deeplink/compose');
     assert.equal(u.searchParams.get('path'), '/calendar/action/compose'); assert.equal(u.searchParams.get('rru'), 'addevent');
-    assert.equal(new Date(u.searchParams.get('startdt')).getTime(), laLocalToUtcMs(ev.start));
     assert.equal(u.searchParams.get('subject'), `${ev.artist} · ${ev.title}`);
     assert.ok(u.searchParams.get('body').includes(ev.ticketUrl)); assert.ok(u.searchParams.get('location').includes(ev.venue.name));
+    if (ev.timeTbd) {
+      assert.equal(new Date(u.searchParams.get('startdt')).getTime(), laLocalToUtcMs(ev.start.slice(0, 10) + 'T00:00'));
+      assert.ok(u.searchParams.get('body').includes('开演时间待公布'));
+    } else {
+      assert.equal(new Date(u.searchParams.get('startdt')).getTime(), laLocalToUtcMs(ev.start));
+    }
   }
 }
+// 区域与远期：构建/前端不得按城市或日期窗口丢掉场次
+assert.ok(tours.upcoming.some(ev => ev.start >= '2027'), '远期（2027+）场次应被收录，不能按月份窗口丢掉');
+assert.ok(tours.upcoming.some(ev => /Tacoma/i.test([ev.venue.name, ev.venue.address, ev.title, ev.search].join(' '))), '塔科马场次应被收录');
+const buildSrc = readFileSync(join(root, 'scripts/build.mjs'), 'utf8');
+assert.ok(/for \(const ev of tours\.upcoming\)/.test(buildSrc), '构建应遍历全部 upcoming');
+assert.ok(!/maxMonths|onlySeattle|start\.slice\(0,\s*4\)\s*<\s*'2027'/.test(buildSrc), '构建不能按年份或城市过滤');
+
 // 3) 开票提醒（用夹具；线上数据只有真实核实过的时间）
 const fixture = { id: 'demo-20270101', artist: 'DEMO', title: '测试巡演', start: '2027-01-20T20:00', venue: { name: 'Showbox SoDo', address: '1700 1st Ave S, Seattle, WA 98134' },
   onsale: { presale: { label: '会员预售', start: '2026-12-10T10:00', url: 'https://example.com/presale' }, general: { start: '2026-12-12T10:00', url: 'https://example.com/g' } } };
@@ -118,6 +145,8 @@ assert.ok(!/#panel-closet\s*>\s*\.grid[^{]*\{[^}]*display:\s*none/.test(css), '�
 assert.ok(/\.frame-fancam\s*\{[^}]*aspect-ratio:\s*9\s*\/\s*16/.test(css) && /\.frame-contain img\s*\{[^}]*object-fit:\s*contain/.test(css), '衣橱图要竖版展示且不裁衣服');
 // 6) 深链接：#closet 等能直接打开对应标签页
 const appJs = readFileSync(join(root, 'public/assets/app.js'), 'utf8');
+assert.ok(/lists\.tour\s*=\s*data\.upcoming\.map/.test(appJs), '巡演列表要收录全部 upcoming，不能先按城市或日期过滤');
+assert.ok(!/city\s*===\s*['"]Seattle['"]/.test(appJs) && !/maxMonths/.test(appJs), '前端不能只显示西雅图市区或按月份窗口过滤');
 for (const t of ['tour', 'release', 'stage', 'closet']) assert.ok(appJs.includes(`'${t}'`) && readFileSync(join(root, 'public/index.html'), 'utf8').includes(`id="panel-${t}"`), '缺标签页: ' + t);
 assert.ok(/location\.hash/.test(appJs), '需要支持 #标签 深链接');
 // 7) 回归数据：每条有来源、id 唯一

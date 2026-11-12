@@ -72,13 +72,27 @@ function wrapCalendar(veventLines) {
 
 const WEEK = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
 export function weekdayOf(local) { const t = parseLocal(local); return WEEK[new Date(Date.UTC(t.y, t.mo - 1, t.d)).getUTCDay()]; }
-export function displayDate(local) { const t = parseLocal(local); return `${pad(t.mo)}/${pad(t.d)} ${weekdayOf(local)} · ${pad(t.h)}:${pad(t.mi)}`; }
+export function displayDate(local, opts = {}) {
+  const t = parseLocal(local);
+  const day = `${pad(t.mo)}/${pad(t.d)} ${weekdayOf(local)}`;
+  if (opts.timeTbd) return `${day} · 开演时间待公布`;
+  return `${day} · ${pad(t.h)}:${pad(t.mi)}`;
+}
+export function eventDateLabel(ev) { return displayDate(ev.start, { timeTbd: ev.timeTbd }); }
+/** 日历日加一天（用于全天事件的 DTEND，按 RFC 5545 不含结束当天）。 */
+export function addCalendarDays(local, days) {
+  const t = parseLocal(local.includes('T') ? local : local + 'T00:00');
+  const d = new Date(Date.UTC(t.y, t.mo - 1, t.d) + days * 86400000);
+  return `${d.getUTCFullYear()}-${pad(d.getUTCMonth() + 1)}-${pad(d.getUTCDate())}`;
+}
 
 export function eventTitle(ev) { return `${ev.artist} · ${ev.title}`; }
 export function eventLocation(ev) { return ev.venue.address ? `${ev.venue.name}, ${ev.venue.address}` : ev.venue.name; }
 export function eventDescription(ev) {
-  const lines = [`${ev.artist} — ${ev.title}`, `场馆：${eventLocation(ev)}`, `开演：${displayDate(ev.start)}（西雅图时间 ${pdtLabel(ev.start).slice(-3)}）`];
-  if (ev.doors) lines.push(`开门：${ev.doors}（以场馆官方页为准）`);
+  const lines = [`${ev.artist} — ${ev.title}`, `场馆：${eventLocation(ev)}`];
+  if (ev.timeTbd) lines.push(`开演：${eventDateLabel(ev)}（西雅图时间；官方尚未公布具体时刻，此日历事件为全天）`);
+  else lines.push(`开演：${displayDate(ev.start)}（西雅图时间 ${pdtLabel(ev.start).slice(-3)}）`);
+  if (ev.doors && !ev.timeTbd) lines.push(`开门：${ev.doors}（以场馆官方页为准）`);
   if (ev.ticketUrl) lines.push(`购票 / 官方票务页：${ev.ticketUrl}`);
   (ev.rows || []).forEach(r => lines.push(`${r.label}：${r.value}${r.note ? '（' + r.note + '）' : ''}`));
   lines.push('提示：票价为每周一、周四查询的快照，不是实时价格；请以官方票务页为准。');
@@ -87,15 +101,16 @@ export function eventDescription(ev) {
 }
 const dtstamp = (now) => icsUtc(now);
 
-/** 单场演出的 .ics */
+/** 单场演出的 .ics。开演时刻未公布时生成全天事件，不猜测开演时间。 */
 export function buildEventIcs(ev, now = Date.now()) {
-  const end = addMinutesLocal(ev.start, ev.durationMinutes || 180);
+  const startEnd = ev.timeTbd
+    ? [`DTSTART;VALUE=DATE:${ev.start.slice(0, 10).replace(/-/g, '')}`, `DTEND;VALUE=DATE:${addCalendarDays(ev.start, 1).replace(/-/g, '')}`]
+    : [`DTSTART;TZID=${TZ}:${icsLocal(ev.start)}`, `DTEND;TZID=${TZ}:${icsLocal(addMinutesLocal(ev.start, ev.durationMinutes || 180))}`];
   return wrapCalendar([
     'BEGIN:VEVENT',
     `UID:${ev.id}@yidan-kpop-tracker`,
     `DTSTAMP:${dtstamp(now)}`,
-    `DTSTART;TZID=${TZ}:${icsLocal(ev.start)}`,
-    `DTEND;TZID=${TZ}:${icsLocal(end)}`,
+    ...startEnd,
     `SUMMARY:${escapeText(eventTitle(ev))}`,
     `LOCATION:${escapeText(eventLocation(ev))}`,
     `DESCRIPTION:${escapeText(eventDescription(ev))}`,
@@ -148,7 +163,9 @@ export function outlookCompose(host, { subject, startLocal, endLocal, location, 
 }
 export const OUTLOOK_HOSTS = { personal: 'outlook.live.com', work: 'outlook.office.com' };
 export function eventOutlookLinks(ev) {
-  const args = { subject: eventTitle(ev), startLocal: ev.start, endLocal: addMinutesLocal(ev.start, ev.durationMinutes || 180), location: eventLocation(ev), body: eventDescription(ev) };
+  const args = ev.timeTbd
+    ? { subject: eventTitle(ev), startLocal: ev.start.slice(0, 10) + 'T00:00', endLocal: addCalendarDays(ev.start, 1) + 'T00:00', location: eventLocation(ev), body: eventDescription(ev) }
+    : { subject: eventTitle(ev), startLocal: ev.start, endLocal: addMinutesLocal(ev.start, ev.durationMinutes || 180), location: eventLocation(ev), body: eventDescription(ev) };
   return { personal: outlookCompose(OUTLOOK_HOSTS.personal, args), work: outlookCompose(OUTLOOK_HOSTS.work, args) };
 }
 export const icsPath = (ev) => `ics/${ev.id}.ics`;
