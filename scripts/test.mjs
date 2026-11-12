@@ -163,7 +163,13 @@ for (const t of ['tour', 'release', 'stage', 'closet']) assert.ok(appJs.includes
 assert.ok(/location\.hash/.test(appJs), '需要支持 #标签 深链接');
 assert.ok(readFileSync(join(root, 'public/index.html'), 'utf8').includes('data-style="blogger"') && readFileSync(join(root, 'public/index.html'), 'utf8').includes('博主穿搭'), '衣橱要有「博主穿搭」筛选按钮');
 assert.ok(/blogger:\s*'博主穿搭'/.test(appJs), '类别文案要有博主穿搭');
-assert.ok(/hasBlogger/.test(appJs) && /bloggerChip\.hidden\s*=\s*!hasBlogger/.test(appJs), '没有博主条目时要隐藏「博主穿搭」按钮');
+assert.ok(/bloggerChip\.hidden\s*=\s*false/.test(appJs), '「博主穿搭」按钮要一直显示，不能因为没有条目就隐藏');
+assert.ok(appJs.includes('博主穿搭整理中'), '博主分类为空时要显示「博主穿搭整理中」');
+assert.ok(allowedBloggerHandles.has('onnuk_') && !allowedBloggerHandles.has('na_onion'), '名单已改为 onnuk_，不再包含 na_onion');
+for (const l of closet.looks) {
+  const blob = JSON.stringify(l);
+  assert.ok(!/na_onion/i.test(blob), '不应再收录 @na_onion: ' + l.id);
+}
 // 7) 回归数据：每条有来源、id 唯一
 const cb = JSON.parse(readFileSync(join(root, 'data/comebacks.json'), 'utf8'));
 const cbIds = new Set();

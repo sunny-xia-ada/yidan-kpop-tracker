@@ -77,7 +77,11 @@ function refresh(type) {
   });
   const count = $(`[data-count-for="${type}"]`);
   if (count) count.textContent = visible + (type === 'closet' ? ' 套' : ' 条');
-  $(`[data-empty="${type}"]`).hidden = visible !== 0;
+  const empty = $(`[data-empty="${type}"]`);
+  if (empty) {
+    empty.hidden = visible !== 0;
+    if (type === 'closet') empty.textContent = (state.style === 'blogger' && visible === 0) ? '博主穿搭整理中' : '没有符合当前条件的穿搭。';
+  }
 }
 function wireTools(type) {
   const tools = $(`[data-tools="${type}"]`);
@@ -252,9 +256,8 @@ function lookCard(l, i) {
 function renderCloset(data) {
   const issue = $('[data-closet-issue]'); if (issue) issue.textContent = data.issue;
   const list = $('[data-mount="closet-list"]');
-  const hasBlogger = data.looks.some(l => l.category === 'blogger');
   const bloggerChip = $('[data-tools="closet"] [data-style="blogger"]');
-  if (bloggerChip) bloggerChip.hidden = !hasBlogger;
+  if (bloggerChip) bloggerChip.hidden = false;  // 分类要上线：没有条目时按钮仍显示，空态为「博主穿搭整理中」
   const sorted = data.looks.slice().sort((x, y) => y.date.localeCompare(x.date));
   lists.closet = sorted.map((l, i) => ({ el: lookCard(l, i), data: Object.assign({}, l, { styles: [l.category, l.body].concat(l.styles) }), key: l.date,
     search: [l.artist, l.member, l.title, l.where, l.point, ...Object.values(l.breakdown).filter(Boolean), ...l.styles].join(' ').toLowerCase() }));
