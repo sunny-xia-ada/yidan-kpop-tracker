@@ -106,6 +106,9 @@ for (const ev of tours.upcoming) for (const k of ['presale', 'general']) {
 
 // 5) 偶像衣橱（穿搭杂志版）：竖版全身/半身图、单品拆解、来源链接、外链不转存
 const closet = JSON.parse(readFileSync(join(root, 'data/closet.json'), 'utf8'));
+const bloggerAllow = JSON.parse(readFileSync(join(root, 'data/closet-bloggers.json'), 'utf8'));
+const allowedBloggerHandles = new Set((bloggerAllow.handles || []).map(h => String(h).toLowerCase()));
+assert.ok(allowedBloggerHandles.size >= 10, '要有固定的博主名单');
 const httpsUrl = (u) => { const x = new URL(u); assert.equal(x.protocol, 'https:', '必须是 https 链接: ' + u); return x; };
 const seen = new Set();
 assert.match(closet.lastUpdated, /^\d{4}-\d{2}-\d{2}$/);
@@ -139,10 +142,13 @@ for (const l of closet.looks) {
   l.sources.forEach(s => { assert.ok(s.label); httpsUrl(s.url); });
   if (l.video) { assert.match(l.video, /^[\w-]{11}$/); assert.ok(l.sources.some(s => s.url.includes(l.video)), '来源要指向同一支视频: ' + l.id); }
   if (l.category === 'blogger') {
-    assert.ok(/@[\w.]+/.test(l.where) || /@[\w.]+/.test(l.member || '') || /@[\w.]+/.test(l.artist), '博主穿搭要写账号 handle: ' + l.id);
+    const handles = [...(`${l.where} ${l.member || ''} ${l.artist}`).matchAll(/@([A-Za-z0-9._]+)/g)].map(m => m[1].toLowerCase().replace(/\.$/, ''));
+    assert.ok(handles.length, '博主穿搭要写账号 handle: ' + l.id);
+    assert.ok(handles.every(h => allowedBloggerHandles.has(h)), '博主必须来自固定名单，不能收偶像或其他账号: ' + l.id + ' ' + handles.join(','));
     assert.match(l.date, /^\d{4}-\d{2}-\d{2}$/, '博主穿搭要有发布日期: ' + l.id);
-    assert.ok(l.sources.some(s => /^https:\/\//.test(s.url)), '博主穿搭要有原帖 https 链接: ' + l.id);
+    assert.ok(l.sources.some(s => /^https:\/\//.test(s.url)), '博主穿搭要有可打开的 https 来源: ' + l.id);
     assert.notEqual(l.image.frame, 'fancam', '博主穿搭不用打歌直拍截帧: ' + l.id);
+    assert.equal(l.image.frame, 'contain');
   }
   (l.swatches || []).forEach(c => assert.match(c, /^#[0-9a-f]{6}$/i));
 }
