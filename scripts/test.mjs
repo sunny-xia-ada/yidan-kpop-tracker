@@ -113,7 +113,7 @@ assert.ok(Array.isArray(closet.looks) && closet.looks.length >= 6, '衣橱至少
 assert.ok(!('cards' in closet) && !('lookbooks' in closet), '旧的卡片 / 翻页册结构应已移除');
 for (const l of closet.looks) {
   assert.ok(l.id && !seen.has(l.id), '衣橱 id 重复或缺失: ' + l.id); seen.add(l.id);
-  assert.ok(['stage', 'magazine'].includes(l.category), '未知类别: ' + l.category);
+  assert.ok(['stage', 'magazine', 'blogger'].includes(l.category), '未知类别: ' + l.category);
   assert.ok(['full', 'half'].includes(l.body), '只收全身或半身图（不收头像特写）: ' + l.id);
   assert.match(l.date, /^\d{4}-\d{2}-\d{2}$/);
   assert.ok(l.artist && l.title && l.where && l.point, '缺艺人 / 出处 / 穿搭要点: ' + l.id);
@@ -138,6 +138,12 @@ for (const l of closet.looks) {
   assert.ok(Array.isArray(l.sources) && l.sources.length, '缺来源链接: ' + l.id);
   l.sources.forEach(s => { assert.ok(s.label); httpsUrl(s.url); });
   if (l.video) { assert.match(l.video, /^[\w-]{11}$/); assert.ok(l.sources.some(s => s.url.includes(l.video)), '来源要指向同一支视频: ' + l.id); }
+  if (l.category === 'blogger') {
+    assert.ok(/@[\w.]+/.test(l.where) || /@[\w.]+/.test(l.member || '') || /@[\w.]+/.test(l.artist), '博主穿搭要写账号 handle: ' + l.id);
+    assert.match(l.date, /^\d{4}-\d{2}-\d{2}$/, '博主穿搭要有发布日期: ' + l.id);
+    assert.ok(l.sources.some(s => /^https:\/\//.test(s.url)), '博主穿搭要有原帖 https 链接: ' + l.id);
+    assert.notEqual(l.image.frame, 'fancam', '博主穿搭不用打歌直拍截帧: ' + l.id);
+  }
   (l.swatches || []).forEach(c => assert.match(c, /^#[0-9a-f]{6}$/i));
 }
 const css = readFileSync(join(root, 'public/assets/styles.css'), 'utf8');
@@ -149,6 +155,9 @@ assert.ok(/lists\.tour\s*=\s*data\.upcoming\.map/.test(appJs), '巡演列表要�
 assert.ok(!/city\s*===\s*['"]Seattle['"]/.test(appJs) && !/maxMonths/.test(appJs), '前端不能只显示西雅图市区或按月份窗口过滤');
 for (const t of ['tour', 'release', 'stage', 'closet']) assert.ok(appJs.includes(`'${t}'`) && readFileSync(join(root, 'public/index.html'), 'utf8').includes(`id="panel-${t}"`), '缺标签页: ' + t);
 assert.ok(/location\.hash/.test(appJs), '需要支持 #标签 深链接');
+assert.ok(readFileSync(join(root, 'public/index.html'), 'utf8').includes('data-style="blogger"') && readFileSync(join(root, 'public/index.html'), 'utf8').includes('博主穿搭'), '衣橱要有「博主穿搭」筛选按钮');
+assert.ok(/blogger:\s*'博主穿搭'/.test(appJs), '类别文案要有博主穿搭');
+assert.ok(/hasBlogger/.test(appJs) && /bloggerChip\.hidden\s*=\s*!hasBlogger/.test(appJs), '没有博主条目时要隐藏「博主穿搭」按钮');
 // 7) 回归数据：每条有来源、id 唯一
 const cb = JSON.parse(readFileSync(join(root, 'data/comebacks.json'), 'utf8'));
 const cbIds = new Set();

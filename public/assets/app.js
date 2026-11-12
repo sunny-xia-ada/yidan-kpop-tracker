@@ -210,7 +210,7 @@ function renderStages(data) {
 /* ---------- 偶像衣橱（穿搭杂志版） ---------- */
 // 每一套都是全身或半身图；图片直接引用来源，不转存。打歌舞台用官方竖屏直拍的自动截帧（1280×720，中间是竖屏画面，两侧是模糊背景），
 // 以 9:16 显示、居中裁掉两侧模糊；杂志图按原比例完整显示（contain），不裁衣服。
-const CATEGORY_LABELS = { stage: '打歌舞台', magazine: '杂志画报' };
+const CATEGORY_LABELS = { stage: '打歌舞台', magazine: '杂志画报', blogger: '博主穿搭' };
 const BODY_LABELS = { full: '全身', half: '半身' };
 const BREAKDOWN = [['top', '上衣'], ['bottom', '下装'], ['shoes', '鞋'], ['accessories', '配饰'], ['palette', '配色'], ['brand', '品牌']];
 const YT_ID = /^[\w-]{11}$/;
@@ -244,7 +244,7 @@ function lookCard(l, i) {
     h('div', { class: 'look-copy' },
       h('p', { class: 'look-kicker' }, `${CATEGORY_LABELS[l.category]} · ${l.where}`),
       h('h3', { class: 'look-name' }, l.artist, l.member && l.member !== l.artist ? h('span', { text: ' ' + l.member }) : null),
-      l.category === 'stage' ? h('p', { class: 'look-title', text: `《${l.title}》` }) : null,
+      l.category === 'stage' ? h('p', { class: 'look-title', text: `《${l.title}》` }) : (l.title ? h('p', { class: 'look-title', text: l.title }) : null),
       h('p', { class: 'look-point' }, h('strong', { text: '穿搭要点 ' }), l.point),
       h('dl', { class: 'look-break' }, rows),
       h('p', { class: 'look-src' }, '来源：', l.sources.flatMap((s, j) => [j ? ' · ' : null, link(s.label + ' ↗', s.url)]))));
@@ -252,6 +252,9 @@ function lookCard(l, i) {
 function renderCloset(data) {
   const issue = $('[data-closet-issue]'); if (issue) issue.textContent = data.issue;
   const list = $('[data-mount="closet-list"]');
+  const hasBlogger = data.looks.some(l => l.category === 'blogger');
+  const bloggerChip = $('[data-tools="closet"] [data-style="blogger"]');
+  if (bloggerChip) bloggerChip.hidden = !hasBlogger;
   const sorted = data.looks.slice().sort((x, y) => y.date.localeCompare(x.date));
   lists.closet = sorted.map((l, i) => ({ el: lookCard(l, i), data: Object.assign({}, l, { styles: [l.category, l.body].concat(l.styles) }), key: l.date,
     search: [l.artist, l.member, l.title, l.where, l.point, ...Object.values(l.breakdown).filter(Boolean), ...l.styles].join(' ').toLowerCase() }));
