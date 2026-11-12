@@ -1,14 +1,76 @@
 {
- "lastUpdated": "2026-11-11",
+ "lastUpdated": "2026-11-12",
  "timezone": "America/Los_Angeles",
  "priceNotice": "票价为价格快照，不是秒级行情，各条目标注了各自的快照日期与费用口径。官方面价未公布时会明确留空；转售价格均标明来源与查询日期。",
- "distanceNotice": "这些场次都在西雅图，但研究快照没有可靠的距离数据，因此没有伪造公里数或“离你最近”排序。",
+ "distanceNotice": "除 KOYOTE 在塔科马（Tacoma）外，其余场次都在西雅图；研究快照没有可靠的距离数据，因此没有伪造公里数或“离你最近”排序。",
  "_schema": {
   "start": "本地开演时间，西雅图时间（America/Los_Angeles），格式 YYYY-MM-DDTHH:mm",
   "durationMinutes": "可选；官方未公布结束时间时用于 .ics 的估算时长",
   "onsale": "可选。presale / general 各为 {label, start(PT, YYYY-MM-DDTHH:mm，可省略), url, note}。只填能从官方来源核实的时间；不确定就不要填。status: on_sale 表示已开售但开票时间未核实。没有 onsale 字段 = 显示‘开票时间待公布’"
  },
  "upcoming": [
+  {
+   "id": "koyote-20261114",
+   "artist": "KOYOTE（코요태）",
+   "title": "2026 KOYOTE FESTIVAL North America Tour · 塔科马站",
+   "tag": "KOYOTE",
+   "status": {
+    "text": "官方在售",
+    "ok": true
+   },
+   "verified": true,
+   "start": "2026-11-14T19:00",
+   "doors": "18:00",
+   "durationMinutes": 180,
+   "venue": {
+    "name": "Pantages Theater（Tacoma）",
+    "address": "901 Broadway, Tacoma, WA 98402"
+   },
+   "ticketUrl": "https://www.ticketmaster.com/event/0F00651EA1199AA2",
+   "rows": [
+    {
+     "label": "官方面价",
+     "value": "未公布",
+     "note": "场馆官方页未列票价"
+    },
+    {
+     "label": "转售起售价",
+     "value": "约 $194 起",
+     "note": "转售价（非官方面价），TixScape 比价 2026-11-12 快照（Vivid Seats 最低 $194.40）"
+    },
+    {
+     "label": "座位",
+     "value": "对号入座（Reserved Seating）"
+    },
+    {
+     "label": "年龄",
+     "value": "所有人（含婴儿）都需要门票"
+    }
+   ],
+   "onsale": {
+    "status": "on_sale",
+    "note": "Tacoma City Theaters 官方页标注 On Sale Now；原始开票时间未核实，因此不设提醒。另有 Premium Experience 加购（含预留停车等）。",
+    "general": {
+     "label": "公开发售 · Ticketmaster（场馆官方链接）",
+     "url": "https://www.ticketmaster.com/event/0F00651EA1199AA2"
+    }
+   },
+   "search": "KOYOTE 코요태 North America Tour Pantages Theater Tacoma 塔科马",
+   "sources": [
+    {
+     "label": "场馆官方页（Tacoma City Theaters）",
+     "url": "https://www.tacomacitytheaters.org/events/detail/koyote"
+    },
+    {
+     "label": "Live Nation 场次页",
+     "url": "https://www.livenation.com/event/vvG1HZ_oB-k_nx/koyote-north-america-tour"
+    },
+    {
+     "label": "TixScape 转售比价页（2026-11-12 快照）",
+     "url": "https://tixscape.com/s/e/17505587"
+    }
+   ]
+  },
   {
    "id": "boynextdoor-20261115",
    "artist": "BOYNEXTDOOR",
@@ -34,8 +96,8 @@
     },
     {
      "label": "转售起售价",
-     "value": "约 $89 起",
-     "note": "转售价（非官方面价），2026-10-29 快照"
+     "value": "约 $124 起",
+     "note": "转售价（非官方面价），TixScape 比价 2026-11-12 快照（Ticket Network 最低 $124.09）"
     }
    ],
    "onsale": {
@@ -59,6 +121,10 @@
     {
      "label": "Vivid Seats 转售页",
      "url": "https://www.vividseats.com/boynextdoor-tickets/performer/427592"
+    },
+    {
+     "label": "TixScape 转售比价页（2026-11-12 快照）",
+     "url": "https://tixscape.com/s/e/8066359"
     }
    ]
   },
@@ -82,8 +148,8 @@
    "rows": [
     {
      "label": "转售市场起售价",
-     "value": "约 $251 起",
-     "note": "二手市场快照价（非官方票面价），SeatGeek 2026-11-02 快照"
+     "value": "约 $128 起",
+     "note": "二手市场快照价（非官方票面价），TixScape 比价 2026-11-12 快照（Ticket Network 最低 $127.66）"
     },
     {
      "label": "本次巡演阵容",
@@ -122,6 +188,10 @@
     {
      "label": "TixTracer 转售页",
      "url": "https://tixtracer.com/tickets/katseye"
+    },
+    {
+     "label": "TixScape 转售比价页（2026-11-12 快照）",
+     "url": "https://tixscape.com/s/e/7961840"
     }
    ]
   },
@@ -208,8 +278,8 @@
     },
     {
      "label": "转售起售价",
-     "value": "约 $85 起",
-     "note": "转售价（非官方面价），2026-10-29 快照"
+     "value": "约 $108 起",
+     "note": "转售价（非官方面价），TixScape 比价 2026-11-12 快照（Vivid Seats 最低 $108.00）"
     }
    ],
    "onsale": {
@@ -237,6 +307,10 @@
     {
      "label": "Vivid Seats 转售页",
      "url": "https://www.vividseats.com/oneus-tickets/performer/117881"
+    },
+    {
+     "label": "TixScape 转售比价页（2026-11-12 快照）",
+     "url": "https://tixscape.com/s/e/8272843"
     }
    ]
   },
@@ -246,7 +320,7 @@
    "title": "2027 WORLD TOUR : NOCHE · 西雅图站（北美首站）",
    "tag": "WONHO",
    "status": {
-    "text": "预售中",
+    "text": "7 天内开票",
     "ok": true
    },
    "verified": true,
@@ -265,7 +339,7 @@
     {
      "label": "转售起售价",
      "value": "待确认",
-     "note": "公开发售前，2026-11-11 无可靠转售价"
+     "note": "公开发售前，2026-11-12 无可靠转售价"
     },
     {
      "label": "座位",
@@ -308,7 +382,7 @@
    "title": "HYUKOH 北美巡演 · 西雅图站",
    "tag": "HYUKOH",
    "status": {
-    "text": "即将开售",
+    "text": "今日开票",
     "ok": true
    },
    "verified": true,
@@ -328,7 +402,7 @@
     {
      "label": "转售起售价",
      "value": "待确认",
-     "note": "尚未开售，2026-11-09 无可靠转售价"
+     "note": "11/12 10:00 才公开开票，2026-11-12 快照时无可靠转售价"
     },
     {
      "label": "年龄",
@@ -362,7 +436,7 @@
    "title": "World Tour ‘RUN IT’ · 西雅图站（北美首站）",
    "tag": "Stray Kids",
    "status": {
-    "text": "即将开售",
+    "text": "7 天内开票",
     "ok": true
    },
    "verified": true,
@@ -381,7 +455,7 @@
     {
      "label": "转售起售价",
      "value": "待确认",
-     "note": "尚未开售，2026-11-11 无可靠转售价"
+     "note": "尚未公开发售，2026-11-12 只有预售前的投机挂单，不作参考"
     },
     {
      "label": "阵容",

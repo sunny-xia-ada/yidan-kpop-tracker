@@ -1,1047 +1,1218 @@
 {
-  "lastUpdated": "2026-11-11",
-  "issue": "ISSUE 03 / NOV 2026",
-  "looks": [
+ "lastUpdated": "2026-11-12",
+ "issue": "ISSUE 04 / NOV 2026",
+ "looks": [
+  {
+   "id": "st-zena-inside-1111",
+   "category": "stage",
+   "artist": "RESCENE",
+   "member": "ZENA",
+   "title": "백화요란 (Inside Out)",
+   "where": "Show Champion · 11/11",
+   "date": "2026-11-11",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/jpv0Pm12PVc/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "RESCENE ZENA《백화요란 (Inside Out)》Show Champion 直拍画面，坐在椅子上的全身西装造型",
+    "credit": "ALL THE K-POP（Show Champion 官方）直拍画面"
+   },
+   "video": "jpv0Pm12PVc",
+   "breakdown": {
+    "top": "黑色西装外套 + 白衬衫 + 黑色领带",
+    "bottom": "黑色西装长裤",
+    "shoes": "黑色皮鞋",
+    "accessories": "高马尾",
+    "palette": "黑 · 白",
+    "brand": null
+   },
+   "swatches": [
+    "#121114",
+    "#f4f2f5"
+   ],
+   "point": "整套黑西装配白衬衫和窄领带，高马尾让中性西装多一点利落感。",
+   "styles": [
+    "dark",
+    "minimal"
+   ],
+   "sources": [
     {
-      "id": "st-yunah-1101",
-      "category": "stage",
-      "artist": "ILLIT",
-      "member": "YUNAH",
-      "title": "체포하겠어 (You're Under Arrest)",
-      "where": "SBS 人气歌谣 · 11/01",
-      "date": "2026-11-01",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/jlL8a1hiSKA/maxres2.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "ILLIT YUNAH《체포하겠어 (You're Under Arrest)》SBS 人气歌谣 直拍画面，全身造型",
-        "credit": "SBSKPOP ZOOM 官方直拍画面"
-      },
-      "video": "jlL8a1hiSKA",
-      "breakdown": {
-        "top": "白色长袖打底 + 黑色印花短款上衣叠穿",
-        "bottom": "紫白格纹直筒长裤",
-        "shoes": "黑色乐福鞋 / 厚底鞋",
-        "accessories": "双麻花辫",
-        "palette": "黑 · 白 · 紫格纹",
-        "brand": null
-      },
-      "swatches": [
-        "#1d1b22",
-        "#f4f2f5",
-        "#8c78b8"
-      ],
-      "point": "格纹长裤配短上衣把腰线提高，叠穿白色长袖让黑色不显沉。",
-      "styles": [
-        "y2k",
-        "preppy"
-      ],
-      "sources": [
-        {
-          "label": "SBSKPOP ZOOM：YUNAH 直拍（SBS 人气歌谣 2026-11-01）",
-          "url": "https://www.youtube.com/watch?v=jlL8a1hiSKA"
-        }
-      ]
-    },
-    {
-      "id": "st-wonhee-1107",
-      "category": "stage",
-      "artist": "ILLIT",
-      "member": "WONHEE",
-      "title": "체포하겠어 (You're Under Arrest)",
-      "where": "MBC 音乐中心 · 11/07",
-      "date": "2026-11-07",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/79eFsTF2ETQ/maxres1.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "ILLIT WONHEE《체포하겠어 (You're Under Arrest)》MBC 音乐中心 直拍画面，全身造型",
-        "credit": "MBCkpop 官方直拍画面"
-      },
-      "video": "79eFsTF2ETQ",
-      "breakdown": {
-        "top": "敞开的黑色短袖衬衫外套 + 白色背心",
-        "bottom": "黑色高腰喇叭裤，系腰带",
-        "shoes": "黑色尖头鞋",
-        "accessories": "银色长项链、黑色露指手套",
-        "palette": "黑 · 白 · 银",
-        "brand": null
-      },
-      "swatches": [
-        "#151418",
-        "#f5f5f5",
-        "#b9bcc4"
-      ],
-      "point": "警徽概念：黑白对比 + 喇叭裤拉长腿部线条。",
-      "styles": [
-        "dark"
-      ],
-      "sources": [
-        {
-          "label": "MBCkpop：WONHEE 直拍（MBC 音乐中心 2026-11-07）",
-          "url": "https://www.youtube.com/watch?v=79eFsTF2ETQ"
-        }
-      ]
-    },
-    {
-      "id": "st-minju-1107",
-      "category": "stage",
-      "artist": "ILLIT",
-      "member": "MINJU",
-      "title": "체포하겠어 (You're Under Arrest)",
-      "where": "MBC 音乐中心 · 11/07",
-      "date": "2026-11-07",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/IKxSyyICCI8/maxres1.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "ILLIT MINJU《체포하겠어 (You're Under Arrest)》MBC 音乐中心 直拍画面，全身造型",
-        "credit": "MBCkpop 官方直拍画面"
-      },
-      "video": "IKxSyyICCI8",
-      "breakdown": {
-        "top": "黑色短袖衬衫外套 + 白色短款上衣",
-        "bottom": "黑色喇叭裤，银扣黑腰带",
-        "shoes": "黑色鞋",
-        "accessories": "黑色手套",
-        "palette": "黑 · 白 · 银",
-        "brand": null
-      },
-      "swatches": [
-        "#141317",
-        "#f3f3f3",
-        "#a9adb5"
-      ],
-      "point": "露一截腰的白色短上衣是全身唯一亮色，腰带把视线收在腰上。",
-      "styles": [
-        "dark"
-      ],
-      "sources": [
-        {
-          "label": "MBCkpop：MINJU 直拍（MBC 音乐中心 2026-11-07）",
-          "url": "https://www.youtube.com/watch?v=IKxSyyICCI8"
-        }
-      ]
-    },
-    {
-      "id": "st-iroha-1101",
-      "category": "stage",
-      "artist": "ILLIT",
-      "member": "IROHA",
-      "title": "체포하겠어 (You're Under Arrest)",
-      "where": "SBS 人气歌谣 · 11/01",
-      "date": "2026-11-01",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/4JdwIW7Tyq0/maxres2.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "ILLIT IROHA《체포하겠어 (You're Under Arrest)》SBS 人气歌谣 直拍画面，全身造型",
-        "credit": "SBSKPOP ZOOM 官方直拍画面"
-      },
-      "video": "4JdwIW7Tyq0",
-      "breakdown": {
-        "top": "白衬衫 + 灰色印花领带",
-        "bottom": "黑色百褶短裙",
-        "shoes": "黑色厚底鞋 / 短靴",
-        "accessories": "白色及膝袜",
-        "palette": "黑 · 白 · 灰",
-        "brand": null
-      },
-      "swatches": [
-        "#18171b",
-        "#f6f6f6",
-        "#8d8f96"
-      ],
-      "point": "制服感：衬衫 + 领带 + 百褶裙，及膝白袜是学院风关键。",
-      "styles": [
-        "preppy"
-      ],
-      "sources": [
-        {
-          "label": "SBSKPOP ZOOM：IROHA 直拍（SBS 人气歌谣 2026-11-01）",
-          "url": "https://www.youtube.com/watch?v=4JdwIW7Tyq0"
-        }
-      ]
-    },
-    {
-      "id": "st-woni-1106",
-      "category": "stage",
-      "artist": "RESCENE",
-      "member": "WONI",
-      "title": "With",
-      "where": "KBS 音乐银行 · 11/06",
-      "date": "2026-11-06",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/83Dl7MHQJqc/maxres1.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "RESCENE WONI《With》KBS 音乐银行 直拍画面，全身造型",
-        "credit": "KBS Kpop 官方直拍画面"
-      },
-      "video": "83Dl7MHQJqc",
-      "breakdown": {
-        "top": "白色荷叶边层叠连衣裙（上半身）",
-        "bottom": "同一条连衣裙的层叠裙摆",
-        "shoes": "象牙白长靴",
-        "accessories": "白色袖套",
-        "palette": "全白 · 象牙白",
-        "brand": null
-      },
-      "swatches": [
-        "#fbfaf7",
-        "#efe9dc"
-      ],
-      "point": "全白但用荷叶边层次和袖套做出变化，靴子同色系拉长比例。",
-      "styles": [
-        "romantic"
-      ],
-      "sources": [
-        {
-          "label": "KBS Kpop：WONI 直拍（KBS 音乐银行 2026-11-06）",
-          "url": "https://www.youtube.com/watch?v=83Dl7MHQJqc"
-        }
-      ]
-    },
-    {
-      "id": "st-minami-1106",
-      "category": "stage",
-      "artist": "RESCENE",
-      "member": "MINAMI",
-      "title": "With",
-      "where": "KBS 音乐银行 · 11/06",
-      "date": "2026-11-06",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/9MI_8MSwHKY/maxres1.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "RESCENE MINAMI《With》KBS 音乐银行 直拍画面，全身造型",
-        "credit": "KBS Kpop 官方直拍画面"
-      },
-      "video": "9MI_8MSwHKY",
-      "breakdown": {
-        "top": "白色短款上衣",
-        "bottom": "白色抽褶不对称层叠半裙",
-        "shoes": "象牙白短靴",
-        "accessories": "—（画面中未见明显配饰）",
-        "palette": "全白 · 象牙白",
-        "brand": null
-      },
-      "swatches": [
-        "#fbfaf7",
-        "#eee8da"
-      ],
-      "point": "同队白色系里靠不对称裙摆做区别，短上衣露腰显比例。",
-      "styles": [
-        "romantic"
-      ],
-      "sources": [
-        {
-          "label": "KBS Kpop：MINAMI 直拍（KBS 音乐银行 2026-11-06）",
-          "url": "https://www.youtube.com/watch?v=9MI_8MSwHKY"
-        }
-      ]
-    },
-    {
-      "id": "st-may-with-1107",
-      "category": "stage",
-      "artist": "RESCENE",
-      "member": "MAY",
-      "title": "With",
-      "where": "MBC 音乐中心 · 11/07",
-      "date": "2026-11-07",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/tTNJDUym59c/maxres2.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "RESCENE MAY《With》MBC 音乐中心 直拍画面，全身造型",
-        "credit": "MBCkpop 官方直拍画面"
-      },
-      "video": "tTNJDUym59c",
-      "breakdown": {
-        "top": "灰蓝荷叶领衬衫 + 藏青缎面抹胸",
-        "bottom": "藏青纱质短裙",
-        "shoes": "黑色厚底靴",
-        "accessories": "—（画面中未见明显配饰）",
-        "palette": "灰蓝 · 藏青 · 黑",
-        "brand": null
-      },
-      "swatches": [
-        "#8fa3bf",
-        "#1f2a4a",
-        "#151418"
-      ],
-      "point": "衬衫外叠抹胸是今年很火的叠穿法，纱裙让藏青不显老气。",
-      "styles": [
-        "romantic"
-      ],
-      "sources": [
-        {
-          "label": "MBCkpop：MAY 直拍（MBC 音乐中心 2026-11-07）",
-          "url": "https://www.youtube.com/watch?v=tTNJDUym59c"
-        }
-      ]
-    },
-    {
-      "id": "st-may-inside-1107",
-      "category": "stage",
-      "artist": "RESCENE",
-      "member": "MAY",
-      "title": "백화요란 (Inside Out)",
-      "where": "MBC 音乐中心 · 11/07",
-      "date": "2026-11-07",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/D_HBEcwFIW8/maxres1.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "RESCENE MAY《백화요란 (Inside Out)》MBC 音乐中心 直拍画面，全身造型",
-        "credit": "MBCkpop 官方直拍画面"
-      },
-      "video": "D_HBEcwFIW8",
-      "breakdown": {
-        "top": "白色抹胸上衣",
-        "bottom": "白色高腰阔腿长裤",
-        "shoes": "画面中被阔腿裤遮住",
-        "accessories": "—（画面中未见明显配饰）",
-        "palette": "全白",
-        "brand": null
-      },
-      "swatches": [
-        "#fbfbf9",
-        "#ecebe6"
-      ],
-      "point": "抹胸 + 高腰阔腿裤的全白组合，露肩显得干净利落。",
-      "styles": [
-        "minimal"
-      ],
-      "sources": [
-        {
-          "label": "MBCkpop：MAY 直拍（MBC 音乐中心 2026-11-07）",
-          "url": "https://www.youtube.com/watch?v=D_HBEcwFIW8"
-        }
-      ]
-    },
-    {
-      "id": "st-liv-1107",
-      "category": "stage",
-      "artist": "RESCENE",
-      "member": "LIV",
-      "title": "With",
-      "where": "MBC 音乐中心 · 11/07",
-      "date": "2026-11-07",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/iu4e_PKz6jw/maxres1.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "RESCENE LIV《With》MBC 音乐中心 直拍画面，全身造型",
-        "credit": "MBCkpop 官方直拍画面"
-      },
-      "video": "iu4e_PKz6jw",
-      "breakdown": {
-        "top": "黑色短袖紧身上衣",
-        "bottom": "黑色短裤（白色包边），腰间系一件黑色外套",
-        "shoes": "黑色厚底短靴",
-        "accessories": "—（画面中未见明显配饰）",
-        "palette": "黑 · 白",
-        "brand": null
-      },
-      "swatches": [
-        "#141317",
-        "#f1f1f1"
-      ],
-      "point": "腰间系外套做出不对称下摆，短裤 + 厚底短靴很显腿长。",
-      "styles": [
-        "dark"
-      ],
-      "sources": [
-        {
-          "label": "MBCkpop：LIV 直拍（MBC 音乐中心 2026-11-07）",
-          "url": "https://www.youtube.com/watch?v=iu4e_PKz6jw"
-        }
-      ]
-    },
-    {
-      "id": "st-jisoo-1107",
-      "category": "stage",
-      "artist": "JISOO",
-      "member": "JISOO",
-      "title": "ADDICTED",
-      "where": "MBC 音乐中心 · 11/07",
-      "date": "2026-11-07",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/Rz-wG6ffJjE/maxres2.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "JISOO JISOO《ADDICTED》MBC 音乐中心 直拍画面，全身造型",
-        "credit": "MBCkpop 官方直拍画面"
-      },
-      "video": "Rz-wG6ffJjE",
-      "breakdown": {
-        "top": "深灰修身长袖上衣",
-        "bottom": "黑色短裤 + 黑色腰带",
-        "shoes": "黑色过膝长靴",
-        "accessories": "黑色腰带",
-        "palette": "深灰 · 黑",
-        "brand": null
-      },
-      "swatches": [
-        "#3a3a40",
-        "#121114"
-      ],
-      "point": "短裤 + 过膝靴，只露一小段腿，深灰和黑同色系很高级。",
-      "styles": [
-        "dark",
-        "minimal"
-      ],
-      "sources": [
-        {
-          "label": "MBCkpop：JISOO 直拍（MBC 音乐中心 2026-11-07）",
-          "url": "https://www.youtube.com/watch?v=Rz-wG6ffJjE"
-        }
-      ]
-    },
-    {
-      "id": "st-jisoo-1108",
-      "category": "stage",
-      "artist": "JISOO",
-      "member": "JISOO",
-      "title": "ADDICTED",
-      "where": "SBS 人气歌谣 · 11/08",
-      "date": "2026-11-08",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/7brLQF7qYEI/maxres3.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "JISOO JISOO《ADDICTED》SBS 人气歌谣 直拍画面，全身造型",
-        "credit": "SBSKPOP ZOOM 官方直拍画面"
-      },
-      "video": "7brLQF7qYEI",
-      "breakdown": {
-        "top": "粉色亮片长袖迷你连衣裙，强调肩线",
-        "bottom": "同一条连衣裙（迷你长度）",
-        "shoes": "粉色厚底高跟鞋",
-        "accessories": "—（画面中未见明显配饰）",
-        "palette": "全粉 · 亮片",
-        "brand": null
-      },
-      "swatches": [
-        "#f4a9c4",
-        "#e57fa6"
-      ],
-      "point": "一条亮片迷你裙 + 同色高跟鞋，单色从头到脚最显高。",
-      "styles": [
-        "glam"
-      ],
-      "sources": [
-        {
-          "label": "SBSKPOP ZOOM：JISOO 直拍（SBS 人气歌谣 2026-11-08）",
-          "url": "https://www.youtube.com/watch?v=7brLQF7qYEI"
-        }
-      ]
-    },
-    {
-      "id": "st-kumi-1108",
-      "category": "stage",
-      "artist": "Baby DONT Cry",
-      "member": "KUMI",
-      "title": "Replay",
-      "where": "SBS 人气歌谣 · 11/08",
-      "date": "2026-11-08",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/s0dl7KEJY9k/maxres2.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "Baby DONT Cry KUMI《Replay》SBS 人气歌谣 直拍画面，全身造型",
-        "credit": "SBSKPOP ZOOM 官方直拍画面"
-      },
-      "video": "s0dl7KEJY9k",
-      "breakdown": {
-        "top": "黑色长袖上衣 / 外套",
-        "bottom": "黑色纱裙叠穿黑色紧身裤",
-        "shoes": "黑色运动鞋",
-        "accessories": "—（画面中未见明显配饰）",
-        "palette": "全黑",
-        "brand": null
-      },
-      "swatches": [
-        "#121114",
-        "#2a2830"
-      ],
-      "point": "纱裙叠紧身裤，全黑也有材质层次，配运动鞋好跳舞。",
-      "styles": [
-        "dark"
-      ],
-      "sources": [
-        {
-          "label": "SBSKPOP ZOOM：KUMI 直拍（SBS 人气歌谣 2026-11-08）",
-          "url": "https://www.youtube.com/watch?v=s0dl7KEJY9k"
-        }
-      ]
-    },
-    {
-      "id": "st-yujin-1031",
-      "category": "stage",
-      "artist": "IVE",
-      "member": "AN YUJIN",
-      "title": "Looks Can Kill",
-      "where": "MBC 音乐中心 · 10/31",
-      "date": "2026-10-31",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/_Iyx2aSnb7M/maxres2.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "IVE AN YUJIN《Looks Can Kill》MBC 音乐中心 直拍画面，全身造型",
-        "credit": "MBCkpop 官方直拍画面"
-      },
-      "video": "_Iyx2aSnb7M",
-      "breakdown": {
-        "top": "黑色短款背心",
-        "bottom": "黑色短裤",
-        "shoes": "黑色长靴",
-        "accessories": "黑色护腕",
-        "palette": "全黑",
-        "brand": null
-      },
-      "swatches": [
-        "#121114",
-        "#24222a"
-      ],
-      "point": "背心 + 短裤 + 长靴的全黑组合，护腕增加运动感。",
-      "styles": [
-        "dark"
-      ],
-      "sources": [
-        {
-          "label": "MBCkpop：AN YUJIN 直拍（MBC 音乐中心 2026-10-31）",
-          "url": "https://www.youtube.com/watch?v=_Iyx2aSnb7M"
-        }
-      ]
-    },
-    {
-      "id": "st-wonyoung-1023",
-      "category": "stage",
-      "artist": "IVE",
-      "member": "JANG WONYOUNG",
-      "title": "Looks Can Kill",
-      "where": "KBS 音乐银行 · 10/23",
-      "date": "2026-10-23",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/q-XN_C8p1VU/maxres2.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "IVE JANG WONYOUNG《Looks Can Kill》KBS 音乐银行 直拍画面，全身造型",
-        "credit": "KBS Kpop 官方直拍画面"
-      },
-      "video": "q-XN_C8p1VU",
-      "breakdown": {
-        "top": "迷彩短袖短上衣",
-        "bottom": "迷彩迷你裙",
-        "shoes": "白袜 + 白色运动鞋",
-        "accessories": "黑色腿环",
-        "palette": "迷彩绿 · 黑 · 白",
-        "brand": null
-      },
-      "swatches": [
-        "#6b6a4c",
-        "#121114",
-        "#f5f5f5"
-      ],
-      "point": "迷彩上下同套，白袜白鞋把重色压轻，腿环是小心机。",
-      "styles": [
-        "y2k"
-      ],
-      "sources": [
-        {
-          "label": "KBS Kpop：JANG WONYOUNG 直拍（KBS 音乐银行 2026-10-23）",
-          "url": "https://www.youtube.com/watch?v=q-XN_C8p1VU"
-        }
-      ]
-    },
-    {
-      "id": "st-aijing-1030",
-      "category": "stage",
-      "artist": "A2O LITE",
-      "member": "AIJING",
-      "title": "NEON",
-      "where": "KBS 音乐银行 · 10/30",
-      "date": "2026-10-30",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/yDgIbrUqff8/maxres2.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "A2O LITE AIJING《NEON》KBS 音乐银行 直拍画面，全身造型",
-        "credit": "KBS Kpop 官方直拍画面"
-      },
-      "video": "yDgIbrUqff8",
-      "breakdown": {
-        "top": "白色高领短款长袖，珊瑚橙条纹",
-        "bottom": "灰色做旧阔腿长裤，珊瑚橙侧边条",
-        "shoes": "灰色运动鞋",
-        "accessories": "—（画面中未见明显配饰）",
-        "palette": "白 · 灰 · 珊瑚橙",
-        "brand": null
-      },
-      "swatches": [
-        "#f4f4f2",
-        "#9b9ca1",
-        "#f07a2b"
-      ],
-      "point": "运动套装感：上衣和裤子的珊瑚橙条纹互相呼应。",
-      "styles": [
-        "sporty"
-      ],
-      "sources": [
-        {
-          "label": "KBS Kpop：AIJING 直拍（KBS 音乐银行 2026-10-30）",
-          "url": "https://www.youtube.com/watch?v=yDgIbrUqff8"
-        }
-      ]
-    },
-    {
-      "id": "st-oa-1024",
-      "category": "stage",
-      "artist": "A2O LITE",
-      "member": "OA",
-      "title": "NEON",
-      "where": "MBC 音乐中心 · 10/24",
-      "date": "2026-10-24",
-      "body": "full",
-      "image": {
-        "src": "https://i.ytimg.com/vi/c1eoCyLNUIg/maxres2.jpg",
-        "frame": "fancam",
-        "width": 1280,
-        "height": 720,
-        "alt": "A2O LITE OA《NEON》MBC 音乐中心 直拍画面，全身造型",
-        "credit": "MBCkpop 官方直拍画面"
-      },
-      "video": "c1eoCyLNUIg",
-      "breakdown": {
-        "top": "深灰无袖 V 领上衣，白色包边",
-        "bottom": "黑色百褶短裙",
-        "shoes": "灰色运动鞋",
-        "accessories": "白色及膝袜 / 腿套",
-        "palette": "深灰 · 黑 · 白",
-        "brand": null
-      },
-      "swatches": [
-        "#3b3c42",
-        "#141317",
-        "#f3f3f3"
-      ],
-      "point": "无袖上衣 + 百褶裙 + 白色长袜，运动学院风。",
-      "styles": [
-        "sporty",
-        "preppy"
-      ],
-      "sources": [
-        {
-          "label": "MBCkpop：OA 直拍（MBC 音乐中心 2026-10-24）",
-          "url": "https://www.youtube.com/watch?v=c1eoCyLNUIg"
-        }
-      ]
-    },
-    {
-      "id": "mg-anna-red",
-      "category": "magazine",
-      "artist": "MEOVV",
-      "member": "ANNA",
-      "title": "Harper's BAZAAR Korea 巴黎画报",
-      "where": "Harper's BAZAAR Korea · 2026-10-29 线上画报",
-      "date": "2026-10-29",
-      "body": "full",
-      "image": {
-        "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/10/23/8505c970-0b95-461f-8af7-26f1ee998770.jpg",
-        "frame": "contain",
-        "width": 1200,
-        "height": 1500,
-        "alt": "MEOVV ANNA 在巴黎街头，一身红色荷叶边上衣和阔腿裤，手拿黑色手提包，全身照",
-        "credit": "Harper's BAZAAR Korea"
-      },
-      "video": null,
-      "breakdown": {
-        "top": "红色荷叶边露肩上衣",
-        "bottom": "红色蓬松阔腿裤（同色）",
-        "shoes": "红粉色系带高跟鞋",
-        "accessories": "黑色 Paddington 手提包（来源：'스몰 패딩턴' 톱 핸들 백）",
-        "palette": "全红 + 黑色包",
-        "brand": "Chloé（来源写明：上衣、裤、包、丝袜、系带高跟鞋均为 Chloé）"
-      },
-      "swatches": [
-        "#d7262e",
-        "#121114"
-      ],
-      "point": "上下同色红色套装，只用一只黑色包做重点。",
-      "styles": [
-        "romantic",
-        "glam"
-      ],
-      "sources": [
-        {
-          "label": "Harper's BAZAAR Korea：파리에서 만난 미야오 안나（2026-10-29）",
-          "url": "https://www.harpersbazaar.co.kr/article/1911873"
-        }
-      ]
-    },
-    {
-      "id": "mg-anna-eiffel",
-      "category": "magazine",
-      "artist": "MEOVV",
-      "member": "ANNA",
-      "title": "Harper's BAZAAR Korea 巴黎画报",
-      "where": "Harper's BAZAAR Korea · 2026-10-29 线上画报",
-      "date": "2026-10-29",
-      "body": "full",
-      "image": {
-        "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/10/23/dc7c2f45-fe3c-41c2-90a3-b2b267e07cf3.jpg",
-        "frame": "contain",
-        "width": 1200,
-        "height": 1500,
-        "alt": "MEOVV ANNA 在埃菲尔铁塔前，绿色斗篷式外套配荷叶边衬衫和条纹层叠长裙，全身照",
-        "credit": "Harper's BAZAAR Korea"
-      },
-      "video": null,
-      "breakdown": {
-        "top": "浅绿色斗篷细节外套 + 白色荷叶边衬衫",
-        "bottom": "粉绿条纹层叠长裙",
-        "shoes": "靴子（来源写明；画面中只露出一点）",
-        "accessories": "流苏耳坠、戒指、Paddington 托特包（来源：트위드 & 그레인드 패딩턴）",
-        "palette": "浅绿 · 粉 · 白",
-        "brand": "Chloé（来源写明：外套、衬衫、半裙、耳环、戒指、包、靴子均为 Chloé）"
-      },
-      "swatches": [
-        "#a9c3a0",
-        "#d77fa0",
-        "#f4f1ec"
-      ],
-      "point": "正式外套 + 飘逸长裙，波西米亚风也能穿得利落。",
-      "styles": [
-        "romantic"
-      ],
-      "sources": [
-        {
-          "label": "Harper's BAZAAR Korea：파리에서 만난 미야오 안나（2026-10-29）",
-          "url": "https://www.harpersbazaar.co.kr/article/1911873"
-        }
-      ]
-    },
-    {
-      "id": "mg-anna-knit",
-      "category": "magazine",
-      "artist": "MEOVV",
-      "member": "ANNA",
-      "title": "Harper's BAZAAR Korea 巴黎画报",
-      "where": "Harper's BAZAAR Korea · 2026-10-29 线上画报",
-      "date": "2026-10-29",
-      "body": "half",
-      "image": {
-        "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/10/23/4826a4b0-694b-44eb-bbe6-1503231a9357.jpg",
-        "frame": "contain",
-        "width": 1200,
-        "height": 1500,
-        "alt": "MEOVV ANNA 穿白色毛线球装饰开衫和条纹衬衫，系马形扣腰带，半身照",
-        "credit": "Harper's BAZAAR Korea"
-      },
-      "video": null,
-      "breakdown": {
-        "top": "白色立体毛线球开衫 + 浅蓝条纹衬衫",
-        "bottom": "黑色皮裤（来源写明；画面中只到腰下）",
-        "shoes": "画面未拍到",
-        "accessories": "马形装饰腰带",
-        "palette": "奶白 · 浅蓝 · 黑 · 彩色小花",
-        "brand": "Chloé（来源写明：开衫、条纹衬衫、皮裤、马形腰带均为 Chloé）"
-      },
-      "swatches": [
-        "#f6f1e8",
-        "#bcd0ea",
-        "#121114"
-      ],
-      "point": "甜的毛线开衫配硬朗皮裤和大扣腰带，一甜一酷。",
-      "styles": [
-        "preppy"
-      ],
-      "sources": [
-        {
-          "label": "Harper's BAZAAR Korea：파리에서 만난 미야오 안나（2026-10-29）",
-          "url": "https://www.harpersbazaar.co.kr/article/1911873"
-        }
-      ]
-    },
-    {
-      "id": "mg-ningning-full",
-      "category": "magazine",
-      "artist": "aespa",
-      "member": "NINGNING",
-      "title": "W Korea Vol.11 封面",
-      "where": "W Korea Vol.11 · 2026-10-12 公开",
-      "date": "2026-10-12",
-      "body": "full",
-      "image": {
-        "src": "https://www.wkorea.com/wp_data/w/2026/10/style_6acc37b1da9dd-768x1018.jpg",
-        "frame": "contain",
-        "width": 768,
-        "height": 1018,
-        "alt": "aespa NINGNING 在绿幕前，黑红印花衬衫外套配黑色喇叭裤和尖头靴，全身封面",
-        "credit": "W Korea"
-      },
-      "video": null,
-      "breakdown": {
-        "top": "黑底红色印花衬衫外套",
-        "bottom": "黑色喇叭长裤",
-        "shoes": "黑色尖头靴",
-        "accessories": "—（画面中未见明显配饰）",
-        "palette": "黑 · 红",
-        "brand": null
-      },
-      "swatches": [
-        "#121114",
-        "#b0262c"
-      ],
-      "point": "深色印花上衣 + 黑色喇叭裤，上松下长，比例很好学。",
-      "styles": [
-        "dark"
-      ],
-      "sources": [
-        {
-          "label": "W Korea：Vol.11 커버의 주인공, 닝닝（2026-10-12）",
-          "url": "https://www.wkorea.com/2026/10/12/%eb%8d%94%eb%b8%94%ec%9c%a0-%ec%bd%94%eb%a6%ac%ec%95%84-vol-11-%ec%bb%a4%eb%b2%84%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%8b%9d%eb%8b%9d/"
-        }
-      ]
-    },
-    {
-      "id": "mg-ningning-suit",
-      "category": "magazine",
-      "artist": "aespa",
-      "member": "NINGNING",
-      "title": "W Korea Vol.11 封面",
-      "where": "W Korea Vol.11 · 2026-10-12 公开",
-      "date": "2026-10-12",
-      "body": "half",
-      "image": {
-        "src": "https://www.wkorea.com/wp_data/w/2026/10/style_6acc379b68d82-768x1018.jpg",
-        "frame": "contain",
-        "width": 768,
-        "height": 1018,
-        "alt": "aespa NINGNING 穿紫色缎面西装套装，内搭黑色，拍到膝盖附近",
-        "credit": "W Korea"
-      },
-      "video": null,
-      "breakdown": {
-        "top": "紫红色缎面西装外套，内搭黑色",
-        "bottom": "同色缎面西裤",
-        "shoes": "画面未拍到",
-        "accessories": "—（画面中未见明显配饰）",
-        "palette": "紫红缎面 · 黑",
-        "brand": null
-      },
-      "swatches": [
-        "#a23f9a",
-        "#121114"
-      ],
-      "point": "一整套亮面西装，靠缎面光泽撑场，内搭用黑色压一下。",
-      "styles": [
-        "glam"
-      ],
-      "sources": [
-        {
-          "label": "W Korea：Vol.11 커버의 주인공, 닝닝（2026-10-12）",
-          "url": "https://www.wkorea.com/2026/10/12/%eb%8d%94%eb%b8%94%ec%9c%a0-%ec%bd%94%eb%a6%ac%ec%95%84-vol-11-%ec%bb%a4%eb%b2%84%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%8b%9d%eb%8b%9d/"
-        }
-      ]
-    },
-    {
-      "id": "mg-jisoo-umbrella",
-      "category": "magazine",
-      "artist": "JISOO",
-      "member": "JISOO",
-      "title": "Vogue China 2026 年 11 月号",
-      "where": "Vogue China · 2026 年 11 月号",
-      "date": "2026-11-11",
-      "body": "full",
-      "image": {
-        "src": "https://biz.chosun.com/resizer/v2/GY4TMMRYGQ3TAYLBGNRWMNBRMU.png?auth=fc613cd5f8a987469d0920b365974b3ec6f15d5902e233b5bcd0ff2db0952f2a&width=800",
-        "frame": "contain",
-        "width": 800,
-        "height": 1005,
-        "alt": "JISOO 撑红伞，身穿大摆红色外套，黑色丝袜和黑鞋，全身画报",
-        "credit": "Vogue China（经朝鲜 Biz 报道）"
-      },
-      "video": null,
-      "breakdown": {
-        "top": "宽大展开的红色大摆外套",
-        "bottom": "被外套盖住（来源只写了黑色丝袜）",
-        "shoes": "黑色高跟鞋",
-        "accessories": "红色雨伞",
-        "palette": "红 · 黑",
-        "brand": null
-      },
-      "swatches": [
-        "#a3271f",
-        "#121114"
-      ],
-      "point": "来源原话：宽大展开的红色衣服 + 黑色丝袜和鞋；大摆外套单穿就是造型。",
-      "styles": [
-        "romantic"
-      ],
-      "sources": [
-        {
-          "label": "朝鲜 Biz：지수 보그 차이나 11월호 화보（2026-11-11）",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MIZDENTDGUYTKOBYGZQTMMRQGY/"
-        }
-      ]
-    },
-    {
-      "id": "mg-jisoo-black",
-      "category": "magazine",
-      "artist": "JISOO",
-      "member": "JISOO",
-      "title": "Vogue China 2026 年 11 月号",
-      "where": "Vogue China · 2026 年 11 月号",
-      "date": "2026-11-11",
-      "body": "half",
-      "image": {
-        "src": "https://biz.chosun.com/resizer/v2/GNTDKN3DHAYTGODFGJSTGY3BMQ.png?auth=6c837c43646bace43a9c9e5a3ae20e0a2d754a0b67c1ff9b418d95b0830b7079&width=800",
-        "frame": "contain",
-        "width": 800,
-        "height": 1020,
-        "alt": "JISOO 穿黑色无袖连衣裙，站在贴满海报的墙前，半身画报",
-        "credit": "Vogue China（经朝鲜 Biz 报道）"
-      },
-      "video": null,
-      "breakdown": {
-        "top": "黑色无袖连衣裙（来源写明）",
-        "bottom": "同一条连衣裙",
-        "shoes": "画面未拍到",
-        "accessories": "—（画面中未见明显配饰）",
-        "palette": "全黑",
-        "brand": null
-      },
-      "swatches": [
-        "#121114",
-        "#3a302b"
-      ],
-      "point": "一条贴身黑色无袖裙，长发 + 深色眼妆就够。",
-      "styles": [
-        "dark",
-        "minimal"
-      ],
-      "sources": [
-        {
-          "label": "朝鲜 Biz：지수 보그 차이나 11월호 화보（2026-11-11）",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MIZDENTDGUYTKOBYGZQTMMRQGY/"
-        }
-      ]
-    },
-    {
-      "id": "mg-mina-elle",
-      "category": "magazine",
-      "artist": "TWICE",
-      "member": "MINA",
-      "title": "ELLE Japon 2026 年 11 月号封面",
-      "where": "ELLE Japon · 2026 年 11 月号",
-      "date": "2026-09-25",
-      "body": "half",
-      "image": {
-        "src": "https://contents.oricon.co.jp/upimg/news/2483000/2482356/20260925_100510_p_o_60294294.jpg",
-        "frame": "contain",
-        "width": 1200,
-        "height": 1594,
-        "alt": "TWICE MINA 登上 ELLE Japon 11 月号封面，黑色 V 领流苏连衣裙配白色假领，半身",
-        "credit": "ELLE Japon（经 ORICON NEWS 报道）"
-      },
-      "video": null,
-      "breakdown": {
-        "top": "黑色深 V 连衣裙，带流苏装饰",
-        "bottom": "同一条连衣裙",
-        "shoes": "画面未拍到",
-        "accessories": "白色假领（领口饰件）",
-        "palette": "黑 · 白",
-        "brand": "FENDI（来源写明：封面穿 FENDI 黑色连衣裙）"
-      },
-      "swatches": [
-        "#121114",
-        "#f2f0ea"
-      ],
-      "point": "黑裙配白色假领，复古感一下就出来。",
-      "styles": [
-        "minimal"
-      ],
-      "sources": [
-        {
-          "label": "ORICON NEWS：TWICE・MINA『エル・ジャポン』11月号表紙（2026-09-25）",
-          "url": "https://www.oricon.co.jp/news/2482356/full/"
-        }
-      ]
-    },
-    {
-      "id": "mg-tsuki-nylon",
-      "category": "magazine",
-      "artist": "Billlie",
-      "member": "TSUKI",
-      "title": "NYLON guys JAPAN 2026 年 11 月号封面",
-      "where": "NYLON JAPAN 2026 年 11 月号（guys 封面）· 2026-09-28 发售",
-      "date": "2026-09-28",
-      "body": "half",
-      "image": {
-        "src": "https://storage.googleapis.com/nylonjapan/2026/08/gTtzVaPMycwBJr6JKLu4ph0qWqF45PqAV6Ar/02.jpg",
-        "frame": "contain",
-        "width": 1346,
-        "height": 1612,
-        "alt": "Billlie TSUKI 登上 NYLON guys JAPAN 封面，蓝绿色波点挂脖上衣和同款丝巾，半身",
-        "credit": "NYLON JAPAN"
-      },
-      "video": null,
-      "breakdown": {
-        "top": "蓝绿色波点挂脖上衣",
-        "bottom": "画面未拍到",
-        "shoes": "画面未拍到",
-        "accessories": "同款波点丝巾、绿色星星发夹",
-        "palette": "蓝绿 · 白波点 · 绿",
-        "brand": null
-      },
-      "swatches": [
-        "#3fb7c9",
-        "#f4f7f7",
-        "#53c26b"
-      ],
-      "point": "波点上衣 + 同款丝巾 + 星星发夹，全身同一个颜色主题。",
-      "styles": [
-        "y2k"
-      ],
-      "sources": [
-        {
-          "label": "NYLON JAPAN：guys 表紙に Billlie《TSUKI》が単独初登場",
-          "url": "https://www.nylon.jp/270"
-        }
-      ]
+     "label": "ALL THE K-POP：ZENA 直拍（Show Champion EP.618 · 2026-11-11）",
+     "url": "https://www.youtube.com/watch?v=jpv0Pm12PVc"
     }
-  ]
+   ]
+  },
+  {
+   "id": "st-mei-1111",
+   "category": "stage",
+   "artist": "SAY MY NAME",
+   "member": "MEI",
+   "title": "꾸꾸꾸+8llowme",
+   "where": "Show Champion · 11/11",
+   "date": "2026-11-11",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/ng-RtOzplo0/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "SAY MY NAME MEI《꾸꾸꾸+8llowme》Show Champion 直拍画面，浅蓝针织上衣配白色短裤和毛绒袜套，全身",
+    "credit": "ALL THE K-POP（Show Champion 官方）直拍画面"
+   },
+   "video": "ng-RtOzplo0",
+   "breakdown": {
+    "top": "浅蓝色薄针织长袖上衣",
+    "bottom": "白色短裤（腰间叠浅蓝层次）",
+    "shoes": "白色毛绒袜套盖住鞋面（鞋看不清）",
+    "accessories": "金色双麻花辫",
+    "palette": "浅蓝 · 白",
+    "brand": null
+   },
+   "swatches": [
+    "#a9c8e8",
+    "#f6f4f2"
+   ],
+   "point": "浅蓝 + 白一整套很冬日，毛绒袜套是这套最出效果的单品。",
+   "styles": [
+    "y2k",
+    "romantic"
+   ],
+   "sources": [
+    {
+     "label": "ALL THE K-POP：MEI 直拍（Show Champion EP.618 · 2026-11-11）",
+     "url": "https://www.youtube.com/watch?v=ng-RtOzplo0"
+    }
+   ]
+  },
+  {
+   "id": "st-dohee-1111",
+   "category": "stage",
+   "artist": "SAY MY NAME",
+   "member": "DOHEE",
+   "title": "꾸꾸꾸+8llowme",
+   "where": "Show Champion · 11/11",
+   "date": "2026-11-11",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/ZZUqqGZ381U/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "SAY MY NAME DOHEE《꾸꾸꾸+8llowme》Show Champion 直拍画面，浅蓝修身长袖配白色蛋糕裙和毛绒袜套，全身",
+    "credit": "ALL THE K-POP（Show Champion 官方）直拍画面"
+   },
+   "video": "ZZUqqGZ381U",
+   "breakdown": {
+    "top": "浅蓝色修身长袖开衫",
+    "bottom": "白色多层荷叶边蛋糕短裙",
+    "shoes": "白色毛绒袜套（鞋看不清）",
+    "accessories": "耳麦 · 发夹",
+    "palette": "浅蓝 · 白",
+    "brand": null
+   },
+   "swatches": [
+    "#a9c8e8",
+    "#f6f4f2"
+   ],
+   "point": "修身短开衫配蓬蓬蛋糕裙，上紧下松，甜但不显乱。",
+   "styles": [
+    "romantic",
+    "y2k"
+   ],
+   "sources": [
+    {
+     "label": "ALL THE K-POP：DOHEE 直拍（Show Champion EP.618 · 2026-11-11）",
+     "url": "https://www.youtube.com/watch?v=ZZUqqGZ381U"
+    }
+   ]
+  },
+  {
+   "id": "st-ihyun-1111",
+   "category": "stage",
+   "artist": "Baby DONT Cry",
+   "member": "이현",
+   "title": "Replay",
+   "where": "Show Champion · 11/11",
+   "date": "2026-11-11",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/asSL_62L0Jo/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "Baby DONT Cry 이현《Replay》Show Champion 直拍画面，黑色毛线帽、印花背心配黑色蓬蓬短裙，全身",
+    "credit": "ALL THE K-POP（Show Champion 官方）直拍画面"
+   },
+   "video": "asSL_62L0Jo",
+   "breakdown": {
+    "top": "黑色无袖印花上衣",
+    "bottom": "黑色蓬蓬短裙",
+    "shoes": "白色及膝袜 + 黑色鞋",
+    "accessories": "黑色毛线帽",
+    "palette": "全黑 + 白袜",
+    "brand": null
+   },
+   "swatches": [
+    "#121114",
+    "#f4f2f5"
+   ],
+   "point": "全黑里用一双白色长袜断开，毛线帽让舞台装更像日常街头。",
+   "styles": [
+    "dark",
+    "y2k"
+   ],
+   "sources": [
+    {
+     "label": "ALL THE K-POP：이현 直拍（Show Champion EP.618 · 2026-11-11）",
+     "url": "https://www.youtube.com/watch?v=asSL_62L0Jo"
+    }
+   ]
+  },
+  {
+   "id": "st-mia-1111",
+   "category": "stage",
+   "artist": "Baby DONT Cry",
+   "member": "MIA",
+   "title": "Replay",
+   "where": "Show Champion · 11/11",
+   "date": "2026-11-11",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/kOeSbVXL9p8/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "Baby DONT Cry MIA《Replay》Show Champion 直拍画面，星星印花 T 恤、百褶短裙配花纹丝袜和袜套，全身",
+    "credit": "ALL THE K-POP（Show Champion 官方）直拍画面"
+   },
+   "video": "kOeSbVXL9p8",
+   "breakdown": {
+    "top": "黑色星星图案印花短袖 T 恤",
+    "bottom": "黑色百褶短裙",
+    "shoes": "粉白袜套 + 黑色厚底鞋",
+    "accessories": "黑色花纹丝袜",
+    "palette": "黑 · 粉白",
+    "brand": null
+   },
+   "swatches": [
+    "#121114",
+    "#f1d9df"
+   ],
+   "point": "花纹丝袜 + 袜套 + 厚底鞋，腿部层次是这套重点，上身一件印花 T 就够。",
+   "styles": [
+    "dark",
+    "y2k"
+   ],
+   "sources": [
+    {
+     "label": "ALL THE K-POP：MIA 直拍（Show Champion EP.618 · 2026-11-11）",
+     "url": "https://www.youtube.com/watch?v=kOeSbVXL9p8"
+    }
+   ]
+  },
+  {
+   "id": "st-beni-1111",
+   "category": "stage",
+   "artist": "Baby DONT Cry",
+   "member": "BENI",
+   "title": "Replay",
+   "where": "Show Champion · 11/11",
+   "date": "2026-11-11",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/yYAT3YS0kUg/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "Baby DONT Cry BENI《Replay》Show Champion 直拍画面，紫黑格纹吊带上衣配同色百褶短裙和系带短靴，全身",
+    "credit": "ALL THE K-POP（Show Champion 官方）直拍画面"
+   },
+   "video": "yYAT3YS0kUg",
+   "breakdown": {
+    "top": "紫黑格纹吊带短上衣（带星星图案）",
+    "bottom": "同色格纹百褶短裙",
+    "shoes": "黑色系带厚底短靴",
+    "accessories": "—（画面中未见明显配饰）",
+    "palette": "紫 · 黑格纹",
+    "brand": null
+   },
+   "swatches": [
+    "#5b4a7a",
+    "#121114"
+   ],
+   "point": "上下同一块格纹布料做成套装，配黑色短靴压住甜感。",
+   "styles": [
+    "preppy",
+    "dark"
+   ],
+   "sources": [
+    {
+     "label": "ALL THE K-POP：BENI 直拍（Show Champion EP.618 · 2026-11-11）",
+     "url": "https://www.youtube.com/watch?v=yYAT3YS0kUg"
+    }
+   ]
+  },
+  {
+   "id": "mg-minnie-black",
+   "category": "magazine",
+   "artist": "i-dle",
+   "member": "MINNIE",
+   "title": "COSMOPOLITAN Korea × Wilson 画报",
+   "where": "COSMOPOLITAN Korea · 2026-11-02 线上画报",
+   "date": "2026-11-02",
+   "body": "full",
+   "image": {
+    "src": "https://www.cosmopolitan.co.kr/resources/online/online_image/2026/10/30/ef4eb96d-d41e-43e4-9185-038b58775167.jpg",
+    "frame": "contain",
+    "width": 1200,
+    "height": 1600,
+    "alt": "i-dle MINNIE 黑色短款羽绒服配黑色短裤和黑丝袜，手拿橙色网球拍，全身照",
+    "credit": "COSMOPOLITAN Korea"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "黑色轻量短款羽绒服 + 深紫色短款 T 恤",
+    "bottom": "黑色绗缝短裤 + 黑色丝袜",
+    "shoes": "黑色平底运动鞋",
+    "accessories": "橙色网球拍",
+    "palette": "黑 · 深紫 · 橙色点缀",
+    "brand": "Wilson（来源写明：羽绒服、短款 T 恤、绗缝短裤、平底运动鞋、球拍均为 Wilson）"
+   },
+   "swatches": [
+    "#121114",
+    "#3b2f4a",
+    "#e8622c"
+   ],
+   "point": "短羽绒服配短裤 + 黑丝袜，下半身露出腿型，上半身保暖，冬天也能穿出运动感。",
+   "styles": [
+    "sporty",
+    "dark"
+   ],
+   "sources": [
+    {
+     "label": "COSMOPOLITAN Korea：민니, 테니스칠 때 뭐 입어?（2026-11-02）",
+     "url": "https://www.cosmopolitan.co.kr/article/1912343"
+    }
+   ]
+  },
+  {
+   "id": "mg-minnie-white",
+   "category": "magazine",
+   "artist": "i-dle",
+   "member": "MINNIE",
+   "title": "COSMOPOLITAN Korea × Wilson 画报",
+   "where": "COSMOPOLITAN Korea · 2026-11-02 线上画报",
+   "date": "2026-11-02",
+   "body": "full",
+   "image": {
+    "src": "https://www.cosmopolitan.co.kr/resources/online/online_image/2026/10/30/77cfe740-db42-4ec5-b60a-b73fdb71d0f6.jpg",
+    "frame": "contain",
+    "width": 1200,
+    "height": 1600,
+    "alt": "i-dle MINNIE 白色系腰带羽绒服配白色短裙和及膝袜，提着藏青拼棕色网球包，全身照",
+    "credit": "COSMOPOLITAN Korea"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "白色腰带装饰高领羽绒服",
+    "bottom": "白色短裙",
+    "shoes": "白色及膝袜 + 浅灰色平底运动鞋",
+    "accessories": "藏青拼棕色网球包",
+    "palette": "奶白 · 藏青 · 棕",
+    "brand": "Wilson（来源写明：腰带装饰羽绒服、裙子、及膝袜、平底运动鞋、网球包均为 Wilson）"
+   },
+   "swatches": [
+    "#f1ede4",
+    "#2c3354",
+    "#b86a33"
+   ],
+   "point": "羽绒服用腰带收腰，长袜接住短裙，蓬松外套也不显臃肿。",
+   "styles": [
+    "sporty",
+    "preppy"
+   ],
+   "sources": [
+    {
+     "label": "COSMOPOLITAN Korea：민니, 테니스칠 때 뭐 입어?（2026-11-02）",
+     "url": "https://www.cosmopolitan.co.kr/article/1912343"
+    }
+   ]
+  },
+  {
+   "id": "mg-illit-ginza",
+   "category": "magazine",
+   "artist": "ILLIT",
+   "member": "IROHA & WONHEE",
+   "title": "GINZA 2026 年 11 月号",
+   "where": "GINZA（日本）· 2026 年 11 月号 · 网站 2026-10-27 刊出",
+   "date": "2026-10-27",
+   "body": "half",
+   "image": {
+    "src": "https://api.ginzamag.com/wp-content/uploads/2026/10/illit-interview2611-2-1416x1888.jpg",
+    "frame": "contain",
+    "width": 1416,
+    "height": 1888,
+    "alt": "ILLIT IROHA 与 WONHEE 靠墙坐在地上，灰色尼龙外套配宽松裤，WONHEE 戴毛绒雷锋帽，半身以上",
+    "credit": "GINZA（Magazine House）· Photo Kazuhei Kimura"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "IROHA：灰色尼龙外套 + 藏青色内搭；WONHEE：灰色尼龙外套 + 深色内搭",
+    "bottom": "IROHA：橄榄棕色宽松长裤；WONHEE：藏青色宽松长裤",
+    "shoes": "画面看不清（来源列：IROHA 运动鞋、WONHEE 乐福鞋）",
+    "accessories": "WONHEE：驼色毛绒雷锋帽",
+    "palette": "灰 · 藏青 · 橄榄棕 · 驼色",
+    "brand": "MIU MIU（来源写明：两人外套、上衣、裤子、鞋、帽子均为 Miu Miu 预定价格单品）"
+   },
+   "swatches": [
+    "#5d6066",
+    "#2b2f4a",
+    "#5e5440",
+    "#c99a5c"
+   ],
+   "point": "机能尼龙外套配宽裤，加一顶毛绒帽，运动感一下变成可爱的冬日造型。",
+   "styles": [
+    "sporty"
+   ],
+   "sources": [
+    {
+     "label": "GINZA：ILLIT・WONHEE & IROHAにインタビュー（2026-10-27）",
+     "url": "https://ginzamag.com/categories/interview/604569"
+    }
+   ]
+  },
+  {
+   "id": "st-yunah-1101",
+   "category": "stage",
+   "artist": "ILLIT",
+   "member": "YUNAH",
+   "title": "체포하겠어 (You're Under Arrest)",
+   "where": "SBS 人气歌谣 · 11/01",
+   "date": "2026-11-01",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/jlL8a1hiSKA/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "ILLIT YUNAH《체포하겠어 (You're Under Arrest)》SBS 人气歌谣 直拍画面，全身造型",
+    "credit": "SBSKPOP ZOOM 官方直拍画面"
+   },
+   "video": "jlL8a1hiSKA",
+   "breakdown": {
+    "top": "白色长袖打底 + 黑色印花短款上衣叠穿",
+    "bottom": "紫白格纹直筒长裤",
+    "shoes": "黑色乐福鞋 / 厚底鞋",
+    "accessories": "双麻花辫",
+    "palette": "黑 · 白 · 紫格纹",
+    "brand": null
+   },
+   "swatches": [
+    "#1d1b22",
+    "#f4f2f5",
+    "#8c78b8"
+   ],
+   "point": "格纹长裤配短上衣把腰线提高，叠穿白色长袖让黑色不显沉。",
+   "styles": [
+    "y2k",
+    "preppy"
+   ],
+   "sources": [
+    {
+     "label": "SBSKPOP ZOOM：YUNAH 直拍（SBS 人气歌谣 2026-11-01）",
+     "url": "https://www.youtube.com/watch?v=jlL8a1hiSKA"
+    }
+   ]
+  },
+  {
+   "id": "st-wonhee-1107",
+   "category": "stage",
+   "artist": "ILLIT",
+   "member": "WONHEE",
+   "title": "체포하겠어 (You're Under Arrest)",
+   "where": "MBC 音乐中心 · 11/07",
+   "date": "2026-11-07",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/79eFsTF2ETQ/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "ILLIT WONHEE《체포하겠어 (You're Under Arrest)》MBC 音乐中心 直拍画面，全身造型",
+    "credit": "MBCkpop 官方直拍画面"
+   },
+   "video": "79eFsTF2ETQ",
+   "breakdown": {
+    "top": "敞开的黑色短袖衬衫外套 + 白色背心",
+    "bottom": "黑色高腰喇叭裤，系腰带",
+    "shoes": "黑色尖头鞋",
+    "accessories": "银色长项链、黑色露指手套",
+    "palette": "黑 · 白 · 银",
+    "brand": null
+   },
+   "swatches": [
+    "#151418",
+    "#f5f5f5",
+    "#b9bcc4"
+   ],
+   "point": "警徽概念：黑白对比 + 喇叭裤拉长腿部线条。",
+   "styles": [
+    "dark"
+   ],
+   "sources": [
+    {
+     "label": "MBCkpop：WONHEE 直拍（MBC 音乐中心 2026-11-07）",
+     "url": "https://www.youtube.com/watch?v=79eFsTF2ETQ"
+    }
+   ]
+  },
+  {
+   "id": "st-minju-1107",
+   "category": "stage",
+   "artist": "ILLIT",
+   "member": "MINJU",
+   "title": "체포하겠어 (You're Under Arrest)",
+   "where": "MBC 音乐中心 · 11/07",
+   "date": "2026-11-07",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/IKxSyyICCI8/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "ILLIT MINJU《체포하겠어 (You're Under Arrest)》MBC 音乐中心 直拍画面，全身造型",
+    "credit": "MBCkpop 官方直拍画面"
+   },
+   "video": "IKxSyyICCI8",
+   "breakdown": {
+    "top": "黑色短袖衬衫外套 + 白色短款上衣",
+    "bottom": "黑色喇叭裤，银扣黑腰带",
+    "shoes": "黑色鞋",
+    "accessories": "黑色手套",
+    "palette": "黑 · 白 · 银",
+    "brand": null
+   },
+   "swatches": [
+    "#141317",
+    "#f3f3f3",
+    "#a9adb5"
+   ],
+   "point": "露一截腰的白色短上衣是全身唯一亮色，腰带把视线收在腰上。",
+   "styles": [
+    "dark"
+   ],
+   "sources": [
+    {
+     "label": "MBCkpop：MINJU 直拍（MBC 音乐中心 2026-11-07）",
+     "url": "https://www.youtube.com/watch?v=IKxSyyICCI8"
+    }
+   ]
+  },
+  {
+   "id": "st-iroha-1101",
+   "category": "stage",
+   "artist": "ILLIT",
+   "member": "IROHA",
+   "title": "체포하겠어 (You're Under Arrest)",
+   "where": "SBS 人气歌谣 · 11/01",
+   "date": "2026-11-01",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/4JdwIW7Tyq0/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "ILLIT IROHA《체포하겠어 (You're Under Arrest)》SBS 人气歌谣 直拍画面，全身造型",
+    "credit": "SBSKPOP ZOOM 官方直拍画面"
+   },
+   "video": "4JdwIW7Tyq0",
+   "breakdown": {
+    "top": "白衬衫 + 灰色印花领带",
+    "bottom": "黑色百褶短裙",
+    "shoes": "黑色厚底鞋 / 短靴",
+    "accessories": "白色及膝袜",
+    "palette": "黑 · 白 · 灰",
+    "brand": null
+   },
+   "swatches": [
+    "#18171b",
+    "#f6f6f6",
+    "#8d8f96"
+   ],
+   "point": "制服感：衬衫 + 领带 + 百褶裙，及膝白袜是学院风关键。",
+   "styles": [
+    "preppy"
+   ],
+   "sources": [
+    {
+     "label": "SBSKPOP ZOOM：IROHA 直拍（SBS 人气歌谣 2026-11-01）",
+     "url": "https://www.youtube.com/watch?v=4JdwIW7Tyq0"
+    }
+   ]
+  },
+  {
+   "id": "st-woni-1106",
+   "category": "stage",
+   "artist": "RESCENE",
+   "member": "WONI",
+   "title": "With",
+   "where": "KBS 音乐银行 · 11/06",
+   "date": "2026-11-06",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/83Dl7MHQJqc/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "RESCENE WONI《With》KBS 音乐银行 直拍画面，全身造型",
+    "credit": "KBS Kpop 官方直拍画面"
+   },
+   "video": "83Dl7MHQJqc",
+   "breakdown": {
+    "top": "白色荷叶边层叠连衣裙（上半身）",
+    "bottom": "同一条连衣裙的层叠裙摆",
+    "shoes": "象牙白长靴",
+    "accessories": "白色袖套",
+    "palette": "全白 · 象牙白",
+    "brand": null
+   },
+   "swatches": [
+    "#fbfaf7",
+    "#efe9dc"
+   ],
+   "point": "全白但用荷叶边层次和袖套做出变化，靴子同色系拉长比例。",
+   "styles": [
+    "romantic"
+   ],
+   "sources": [
+    {
+     "label": "KBS Kpop：WONI 直拍（KBS 音乐银行 2026-11-06）",
+     "url": "https://www.youtube.com/watch?v=83Dl7MHQJqc"
+    }
+   ]
+  },
+  {
+   "id": "st-minami-1106",
+   "category": "stage",
+   "artist": "RESCENE",
+   "member": "MINAMI",
+   "title": "With",
+   "where": "KBS 音乐银行 · 11/06",
+   "date": "2026-11-06",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/9MI_8MSwHKY/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "RESCENE MINAMI《With》KBS 音乐银行 直拍画面，全身造型",
+    "credit": "KBS Kpop 官方直拍画面"
+   },
+   "video": "9MI_8MSwHKY",
+   "breakdown": {
+    "top": "白色短款上衣",
+    "bottom": "白色抽褶不对称层叠半裙",
+    "shoes": "象牙白短靴",
+    "accessories": "—（画面中未见明显配饰）",
+    "palette": "全白 · 象牙白",
+    "brand": null
+   },
+   "swatches": [
+    "#fbfaf7",
+    "#eee8da"
+   ],
+   "point": "同队白色系里靠不对称裙摆做区别，短上衣露腰显比例。",
+   "styles": [
+    "romantic"
+   ],
+   "sources": [
+    {
+     "label": "KBS Kpop：MINAMI 直拍（KBS 音乐银行 2026-11-06）",
+     "url": "https://www.youtube.com/watch?v=9MI_8MSwHKY"
+    }
+   ]
+  },
+  {
+   "id": "st-may-with-1107",
+   "category": "stage",
+   "artist": "RESCENE",
+   "member": "MAY",
+   "title": "With",
+   "where": "MBC 音乐中心 · 11/07",
+   "date": "2026-11-07",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/tTNJDUym59c/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "RESCENE MAY《With》MBC 音乐中心 直拍画面，全身造型",
+    "credit": "MBCkpop 官方直拍画面"
+   },
+   "video": "tTNJDUym59c",
+   "breakdown": {
+    "top": "灰蓝荷叶领衬衫 + 藏青缎面抹胸",
+    "bottom": "藏青纱质短裙",
+    "shoes": "黑色厚底靴",
+    "accessories": "—（画面中未见明显配饰）",
+    "palette": "灰蓝 · 藏青 · 黑",
+    "brand": null
+   },
+   "swatches": [
+    "#8fa3bf",
+    "#1f2a4a",
+    "#151418"
+   ],
+   "point": "衬衫外叠抹胸是今年很火的叠穿法，纱裙让藏青不显老气。",
+   "styles": [
+    "romantic"
+   ],
+   "sources": [
+    {
+     "label": "MBCkpop：MAY 直拍（MBC 音乐中心 2026-11-07）",
+     "url": "https://www.youtube.com/watch?v=tTNJDUym59c"
+    }
+   ]
+  },
+  {
+   "id": "st-may-inside-1107",
+   "category": "stage",
+   "artist": "RESCENE",
+   "member": "MAY",
+   "title": "백화요란 (Inside Out)",
+   "where": "MBC 音乐中心 · 11/07",
+   "date": "2026-11-07",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/D_HBEcwFIW8/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "RESCENE MAY《백화요란 (Inside Out)》MBC 音乐中心 直拍画面，全身造型",
+    "credit": "MBCkpop 官方直拍画面"
+   },
+   "video": "D_HBEcwFIW8",
+   "breakdown": {
+    "top": "白色抹胸上衣",
+    "bottom": "白色高腰阔腿长裤",
+    "shoes": "画面中被阔腿裤遮住",
+    "accessories": "—（画面中未见明显配饰）",
+    "palette": "全白",
+    "brand": null
+   },
+   "swatches": [
+    "#fbfbf9",
+    "#ecebe6"
+   ],
+   "point": "抹胸 + 高腰阔腿裤的全白组合，露肩显得干净利落。",
+   "styles": [
+    "minimal"
+   ],
+   "sources": [
+    {
+     "label": "MBCkpop：MAY 直拍（MBC 音乐中心 2026-11-07）",
+     "url": "https://www.youtube.com/watch?v=D_HBEcwFIW8"
+    }
+   ]
+  },
+  {
+   "id": "st-liv-1107",
+   "category": "stage",
+   "artist": "RESCENE",
+   "member": "LIV",
+   "title": "With",
+   "where": "MBC 音乐中心 · 11/07",
+   "date": "2026-11-07",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/iu4e_PKz6jw/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "RESCENE LIV《With》MBC 音乐中心 直拍画面，全身造型",
+    "credit": "MBCkpop 官方直拍画面"
+   },
+   "video": "iu4e_PKz6jw",
+   "breakdown": {
+    "top": "黑色短袖紧身上衣",
+    "bottom": "黑色短裤（白色包边），腰间系一件黑色外套",
+    "shoes": "黑色厚底短靴",
+    "accessories": "—（画面中未见明显配饰）",
+    "palette": "黑 · 白",
+    "brand": null
+   },
+   "swatches": [
+    "#141317",
+    "#f1f1f1"
+   ],
+   "point": "腰间系外套做出不对称下摆，短裤 + 厚底短靴很显腿长。",
+   "styles": [
+    "dark"
+   ],
+   "sources": [
+    {
+     "label": "MBCkpop：LIV 直拍（MBC 音乐中心 2026-11-07）",
+     "url": "https://www.youtube.com/watch?v=iu4e_PKz6jw"
+    }
+   ]
+  },
+  {
+   "id": "st-jisoo-1107",
+   "category": "stage",
+   "artist": "JISOO",
+   "member": "JISOO",
+   "title": "ADDICTED",
+   "where": "MBC 音乐中心 · 11/07",
+   "date": "2026-11-07",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/Rz-wG6ffJjE/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "JISOO JISOO《ADDICTED》MBC 音乐中心 直拍画面，全身造型",
+    "credit": "MBCkpop 官方直拍画面"
+   },
+   "video": "Rz-wG6ffJjE",
+   "breakdown": {
+    "top": "深灰修身长袖上衣",
+    "bottom": "黑色短裤 + 黑色腰带",
+    "shoes": "黑色过膝长靴",
+    "accessories": "黑色腰带",
+    "palette": "深灰 · 黑",
+    "brand": null
+   },
+   "swatches": [
+    "#3a3a40",
+    "#121114"
+   ],
+   "point": "短裤 + 过膝靴，只露一小段腿，深灰和黑同色系很高级。",
+   "styles": [
+    "dark",
+    "minimal"
+   ],
+   "sources": [
+    {
+     "label": "MBCkpop：JISOO 直拍（MBC 音乐中心 2026-11-07）",
+     "url": "https://www.youtube.com/watch?v=Rz-wG6ffJjE"
+    }
+   ]
+  },
+  {
+   "id": "st-jisoo-1108",
+   "category": "stage",
+   "artist": "JISOO",
+   "member": "JISOO",
+   "title": "ADDICTED",
+   "where": "SBS 人气歌谣 · 11/08",
+   "date": "2026-11-08",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/7brLQF7qYEI/maxres3.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "JISOO JISOO《ADDICTED》SBS 人气歌谣 直拍画面，全身造型",
+    "credit": "SBSKPOP ZOOM 官方直拍画面"
+   },
+   "video": "7brLQF7qYEI",
+   "breakdown": {
+    "top": "粉色亮片长袖迷你连衣裙，强调肩线",
+    "bottom": "同一条连衣裙（迷你长度）",
+    "shoes": "粉色厚底高跟鞋",
+    "accessories": "—（画面中未见明显配饰）",
+    "palette": "全粉 · 亮片",
+    "brand": null
+   },
+   "swatches": [
+    "#f4a9c4",
+    "#e57fa6"
+   ],
+   "point": "一条亮片迷你裙 + 同色高跟鞋，单色从头到脚最显高。",
+   "styles": [
+    "glam"
+   ],
+   "sources": [
+    {
+     "label": "SBSKPOP ZOOM：JISOO 直拍（SBS 人气歌谣 2026-11-08）",
+     "url": "https://www.youtube.com/watch?v=7brLQF7qYEI"
+    }
+   ]
+  },
+  {
+   "id": "st-kumi-1108",
+   "category": "stage",
+   "artist": "Baby DONT Cry",
+   "member": "KUMI",
+   "title": "Replay",
+   "where": "SBS 人气歌谣 · 11/08",
+   "date": "2026-11-08",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/s0dl7KEJY9k/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "Baby DONT Cry KUMI《Replay》SBS 人气歌谣 直拍画面，全身造型",
+    "credit": "SBSKPOP ZOOM 官方直拍画面"
+   },
+   "video": "s0dl7KEJY9k",
+   "breakdown": {
+    "top": "黑色长袖上衣 / 外套",
+    "bottom": "黑色纱裙叠穿黑色紧身裤",
+    "shoes": "黑色运动鞋",
+    "accessories": "—（画面中未见明显配饰）",
+    "palette": "全黑",
+    "brand": null
+   },
+   "swatches": [
+    "#121114",
+    "#2a2830"
+   ],
+   "point": "纱裙叠紧身裤，全黑也有材质层次，配运动鞋好跳舞。",
+   "styles": [
+    "dark"
+   ],
+   "sources": [
+    {
+     "label": "SBSKPOP ZOOM：KUMI 直拍（SBS 人气歌谣 2026-11-08）",
+     "url": "https://www.youtube.com/watch?v=s0dl7KEJY9k"
+    }
+   ]
+  },
+  {
+   "id": "st-yujin-1031",
+   "category": "stage",
+   "artist": "IVE",
+   "member": "AN YUJIN",
+   "title": "Looks Can Kill",
+   "where": "MBC 音乐中心 · 10/31",
+   "date": "2026-10-31",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/_Iyx2aSnb7M/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "IVE AN YUJIN《Looks Can Kill》MBC 音乐中心 直拍画面，全身造型",
+    "credit": "MBCkpop 官方直拍画面"
+   },
+   "video": "_Iyx2aSnb7M",
+   "breakdown": {
+    "top": "黑色短款背心",
+    "bottom": "黑色短裤",
+    "shoes": "黑色长靴",
+    "accessories": "黑色护腕",
+    "palette": "全黑",
+    "brand": null
+   },
+   "swatches": [
+    "#121114",
+    "#24222a"
+   ],
+   "point": "背心 + 短裤 + 长靴的全黑组合，护腕增加运动感。",
+   "styles": [
+    "dark"
+   ],
+   "sources": [
+    {
+     "label": "MBCkpop：AN YUJIN 直拍（MBC 音乐中心 2026-10-31）",
+     "url": "https://www.youtube.com/watch?v=_Iyx2aSnb7M"
+    }
+   ]
+  },
+  {
+   "id": "mg-anna-red",
+   "category": "magazine",
+   "artist": "MEOVV",
+   "member": "ANNA",
+   "title": "Harper's BAZAAR Korea 巴黎画报",
+   "where": "Harper's BAZAAR Korea · 2026-10-29 线上画报",
+   "date": "2026-10-29",
+   "body": "full",
+   "image": {
+    "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/10/23/8505c970-0b95-461f-8af7-26f1ee998770.jpg",
+    "frame": "contain",
+    "width": 1200,
+    "height": 1500,
+    "alt": "MEOVV ANNA 在巴黎街头，一身红色荷叶边上衣和阔腿裤，手拿黑色手提包，全身照",
+    "credit": "Harper's BAZAAR Korea"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "红色荷叶边露肩上衣",
+    "bottom": "红色蓬松阔腿裤（同色）",
+    "shoes": "红粉色系带高跟鞋",
+    "accessories": "黑色 Paddington 手提包（来源：'스몰 패딩턴' 톱 핸들 백）",
+    "palette": "全红 + 黑色包",
+    "brand": "Chloé（来源写明：上衣、裤、包、丝袜、系带高跟鞋均为 Chloé）"
+   },
+   "swatches": [
+    "#d7262e",
+    "#121114"
+   ],
+   "point": "上下同色红色套装，只用一只黑色包做重点。",
+   "styles": [
+    "romantic",
+    "glam"
+   ],
+   "sources": [
+    {
+     "label": "Harper's BAZAAR Korea：파리에서 만난 미야오 안나（2026-10-29）",
+     "url": "https://www.harpersbazaar.co.kr/article/1911873"
+    }
+   ]
+  },
+  {
+   "id": "mg-anna-eiffel",
+   "category": "magazine",
+   "artist": "MEOVV",
+   "member": "ANNA",
+   "title": "Harper's BAZAAR Korea 巴黎画报",
+   "where": "Harper's BAZAAR Korea · 2026-10-29 线上画报",
+   "date": "2026-10-29",
+   "body": "full",
+   "image": {
+    "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/10/23/dc7c2f45-fe3c-41c2-90a3-b2b267e07cf3.jpg",
+    "frame": "contain",
+    "width": 1200,
+    "height": 1500,
+    "alt": "MEOVV ANNA 在埃菲尔铁塔前，绿色斗篷式外套配荷叶边衬衫和条纹层叠长裙，全身照",
+    "credit": "Harper's BAZAAR Korea"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "浅绿色斗篷细节外套 + 白色荷叶边衬衫",
+    "bottom": "粉绿条纹层叠长裙",
+    "shoes": "靴子（来源写明；画面中只露出一点）",
+    "accessories": "流苏耳坠、戒指、Paddington 托特包（来源：트위드 & 그레인드 패딩턴）",
+    "palette": "浅绿 · 粉 · 白",
+    "brand": "Chloé（来源写明：外套、衬衫、半裙、耳环、戒指、包、靴子均为 Chloé）"
+   },
+   "swatches": [
+    "#a9c3a0",
+    "#d77fa0",
+    "#f4f1ec"
+   ],
+   "point": "正式外套 + 飘逸长裙，波西米亚风也能穿得利落。",
+   "styles": [
+    "romantic"
+   ],
+   "sources": [
+    {
+     "label": "Harper's BAZAAR Korea：파리에서 만난 미야오 안나（2026-10-29）",
+     "url": "https://www.harpersbazaar.co.kr/article/1911873"
+    }
+   ]
+  },
+  {
+   "id": "mg-anna-knit",
+   "category": "magazine",
+   "artist": "MEOVV",
+   "member": "ANNA",
+   "title": "Harper's BAZAAR Korea 巴黎画报",
+   "where": "Harper's BAZAAR Korea · 2026-10-29 线上画报",
+   "date": "2026-10-29",
+   "body": "half",
+   "image": {
+    "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/10/23/4826a4b0-694b-44eb-bbe6-1503231a9357.jpg",
+    "frame": "contain",
+    "width": 1200,
+    "height": 1500,
+    "alt": "MEOVV ANNA 穿白色毛线球装饰开衫和条纹衬衫，系马形扣腰带，半身照",
+    "credit": "Harper's BAZAAR Korea"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "白色立体毛线球开衫 + 浅蓝条纹衬衫",
+    "bottom": "黑色皮裤（来源写明；画面中只到腰下）",
+    "shoes": "画面未拍到",
+    "accessories": "马形装饰腰带",
+    "palette": "奶白 · 浅蓝 · 黑 · 彩色小花",
+    "brand": "Chloé（来源写明：开衫、条纹衬衫、皮裤、马形腰带均为 Chloé）"
+   },
+   "swatches": [
+    "#f6f1e8",
+    "#bcd0ea",
+    "#121114"
+   ],
+   "point": "甜的毛线开衫配硬朗皮裤和大扣腰带，一甜一酷。",
+   "styles": [
+    "preppy"
+   ],
+   "sources": [
+    {
+     "label": "Harper's BAZAAR Korea：파리에서 만난 미야오 안나（2026-10-29）",
+     "url": "https://www.harpersbazaar.co.kr/article/1911873"
+    }
+   ]
+  },
+  {
+   "id": "mg-ningning-full",
+   "category": "magazine",
+   "artist": "aespa",
+   "member": "NINGNING",
+   "title": "W Korea Vol.11 封面",
+   "where": "W Korea Vol.11 · 2026-10-12 公开",
+   "date": "2026-10-12",
+   "body": "full",
+   "image": {
+    "src": "https://www.wkorea.com/wp_data/w/2026/10/style_6acc37b1da9dd-768x1018.jpg",
+    "frame": "contain",
+    "width": 768,
+    "height": 1018,
+    "alt": "aespa NINGNING 在绿幕前，黑红印花衬衫外套配黑色喇叭裤和尖头靴，全身封面",
+    "credit": "W Korea"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "黑底红色印花衬衫外套",
+    "bottom": "黑色喇叭长裤",
+    "shoes": "黑色尖头靴",
+    "accessories": "—（画面中未见明显配饰）",
+    "palette": "黑 · 红",
+    "brand": null
+   },
+   "swatches": [
+    "#121114",
+    "#b0262c"
+   ],
+   "point": "深色印花上衣 + 黑色喇叭裤，上松下长，比例很好学。",
+   "styles": [
+    "dark"
+   ],
+   "sources": [
+    {
+     "label": "W Korea：Vol.11 커버의 주인공, 닝닝（2026-10-12）",
+     "url": "https://www.wkorea.com/2026/10/12/%eb%8d%94%eb%b8%94%ec%9c%a0-%ec%bd%94%eb%a6%ac%ec%95%84-vol-11-%ec%bb%a4%eb%b2%84%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%8b%9d%eb%8b%9d/"
+    }
+   ]
+  },
+  {
+   "id": "mg-ningning-suit",
+   "category": "magazine",
+   "artist": "aespa",
+   "member": "NINGNING",
+   "title": "W Korea Vol.11 封面",
+   "where": "W Korea Vol.11 · 2026-10-12 公开",
+   "date": "2026-10-12",
+   "body": "half",
+   "image": {
+    "src": "https://www.wkorea.com/wp_data/w/2026/10/style_6acc379b68d82-768x1018.jpg",
+    "frame": "contain",
+    "width": 768,
+    "height": 1018,
+    "alt": "aespa NINGNING 穿紫色缎面西装套装，内搭黑色，拍到膝盖附近",
+    "credit": "W Korea"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "紫红色缎面西装外套，内搭黑色",
+    "bottom": "同色缎面西裤",
+    "shoes": "画面未拍到",
+    "accessories": "—（画面中未见明显配饰）",
+    "palette": "紫红缎面 · 黑",
+    "brand": null
+   },
+   "swatches": [
+    "#a23f9a",
+    "#121114"
+   ],
+   "point": "一整套亮面西装，靠缎面光泽撑场，内搭用黑色压一下。",
+   "styles": [
+    "glam"
+   ],
+   "sources": [
+    {
+     "label": "W Korea：Vol.11 커버의 주인공, 닝닝（2026-10-12）",
+     "url": "https://www.wkorea.com/2026/10/12/%eb%8d%94%eb%b8%94%ec%9c%a0-%ec%bd%94%eb%a6%ac%ec%95%84-vol-11-%ec%bb%a4%eb%b2%84%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%8b%9d%eb%8b%9d/"
+    }
+   ]
+  },
+  {
+   "id": "mg-jisoo-umbrella",
+   "category": "magazine",
+   "artist": "JISOO",
+   "member": "JISOO",
+   "title": "Vogue China 2026 年 11 月号",
+   "where": "Vogue China · 2026 年 11 月号",
+   "date": "2026-11-11",
+   "body": "full",
+   "image": {
+    "src": "https://biz.chosun.com/resizer/v2/GY4TMMRYGQ3TAYLBGNRWMNBRMU.png?auth=fc613cd5f8a987469d0920b365974b3ec6f15d5902e233b5bcd0ff2db0952f2a&width=800",
+    "frame": "contain",
+    "width": 800,
+    "height": 1005,
+    "alt": "JISOO 撑红伞，身穿大摆红色外套，黑色丝袜和黑鞋，全身画报",
+    "credit": "Vogue China（经朝鲜 Biz 报道）"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "宽大展开的红色大摆外套",
+    "bottom": "被外套盖住（来源只写了黑色丝袜）",
+    "shoes": "黑色高跟鞋",
+    "accessories": "红色雨伞",
+    "palette": "红 · 黑",
+    "brand": null
+   },
+   "swatches": [
+    "#a3271f",
+    "#121114"
+   ],
+   "point": "来源原话：宽大展开的红色衣服 + 黑色丝袜和鞋；大摆外套单穿就是造型。",
+   "styles": [
+    "romantic"
+   ],
+   "sources": [
+    {
+     "label": "朝鲜 Biz：지수 보그 차이나 11월호 화보（2026-11-11）",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MIZDENTDGUYTKOBYGZQTMMRQGY/"
+    }
+   ]
+  },
+  {
+   "id": "mg-jisoo-black",
+   "category": "magazine",
+   "artist": "JISOO",
+   "member": "JISOO",
+   "title": "Vogue China 2026 年 11 月号",
+   "where": "Vogue China · 2026 年 11 月号",
+   "date": "2026-11-11",
+   "body": "half",
+   "image": {
+    "src": "https://biz.chosun.com/resizer/v2/GNTDKN3DHAYTGODFGJSTGY3BMQ.png?auth=6c837c43646bace43a9c9e5a3ae20e0a2d754a0b67c1ff9b418d95b0830b7079&width=800",
+    "frame": "contain",
+    "width": 800,
+    "height": 1020,
+    "alt": "JISOO 穿黑色无袖连衣裙，站在贴满海报的墙前，半身画报",
+    "credit": "Vogue China（经朝鲜 Biz 报道）"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "黑色无袖连衣裙（来源写明）",
+    "bottom": "同一条连衣裙",
+    "shoes": "画面未拍到",
+    "accessories": "—（画面中未见明显配饰）",
+    "palette": "全黑",
+    "brand": null
+   },
+   "swatches": [
+    "#121114",
+    "#3a302b"
+   ],
+   "point": "一条贴身黑色无袖裙，长发 + 深色眼妆就够。",
+   "styles": [
+    "dark",
+    "minimal"
+   ],
+   "sources": [
+    {
+     "label": "朝鲜 Biz：지수 보그 차이나 11월호 화보（2026-11-11）",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MIZDENTDGUYTKOBYGZQTMMRQGY/"
+    }
+   ]
+  }
+ ]
 }

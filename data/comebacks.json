@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11",
+ "lastUpdated": "2026-11-12",
  "trackedArtists": {
   "note": "名单仅为参考：回归按每月新闻收集，没有固定名单；以后可在此维护固定追踪名单。",
   "groups": [
@@ -61,9 +61,275 @@
  "notice": "官方 MV 链接：研究快照没有提供可复用 URL，所以这一版不猜链接；有确认链接后再补。",
  "items": [
   {
+   "note": "约 6 个月来首次回归；12/13 在台北办首场台湾粉丝见面会。",
+   "id": "cb-61",
+   "artist": "KIIRAS",
+   "title": "第 2 张数字单曲《OVER U》",
+   "sortKey": "2026-11-26T18:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "女团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-12"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-26 18:00 · KST"
+    },
+    {
+     "label": "类型",
+     "value": "数字单曲"
+    },
+    {
+     "label": "状态",
+     "value": "即将发行"
+    }
+   ],
+   "search": "KIIRAS 키라스 OVER U",
+   "sources": [
+    {
+     "label": "allkpop",
+     "url": "https://www.allkpop.com/article/2026/11/kiiras-confirm-comeback-with-new-digital-single-over-u-on-november-26"
+    }
+   ]
+  },
+  {
+   "note": "韩语翻唱大塚爱 2003 年名曲《さくらんぼ》。",
+   "id": "cb-62",
+   "artist": "YENA（崔叡娜）",
+   "title": "翻唱单曲《Sakuranbo》",
+   "sortKey": "2026-11-17T18:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-10-20"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-17 18:00 · KST"
+    },
+    {
+     "label": "类型",
+     "value": "翻唱单曲（J-POP REMAKE 企划）"
+    },
+    {
+     "label": "状态",
+     "value": "即将发行（11/11 已公开 mood film）"
+    }
+   ],
+   "search": "YENA 최예나 Sakuranbo 사쿠란보 大塚爱",
+   "sources": [
+    {
+     "label": "STARNEWS",
+     "url": "https://www.starnewskorea.com/en/star/2026/10/20/2026102007581588904"
+    },
+    {
+     "label": "K-POPIT（mood film）",
+     "url": "https://k-popit.com/articles/2026111218352"
+    }
+   ]
+  },
+  {
+   "note": "收录《Blue Valentine》等日语版；日本官网 11/6 公布发售纪念店铺活动。",
+   "id": "cb-63",
+   "artist": "NMIXX",
+   "title": "日本出道精选专辑《N=MIXX》",
+   "sortKey": "2026-12-09T00:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "日本出道",
+     "ok": true
+    },
+    {
+     "text": "女团 · 日本",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-07-31"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-12-09 · 具体时刻待公布"
+    },
+    {
+     "label": "类型",
+     "value": "日本精选专辑（12 首，含 6 首日语版）"
+    },
+    {
+     "label": "状态",
+     "value": "预购中"
+    }
+   ],
+   "search": "NMIXX 엔믹스 N=MIXX 日本出道 Japan debut",
+   "sources": [
+    {
+     "label": "Warner Music Japan 官方",
+     "url": "https://wmg.jp/nmixx/discography/33588"
+    },
+    {
+     "label": "Korea JoongAng Daily",
+     "url": "https://www.koreajoongangdaily.com/entertainment/nmixx-to-make-japanese-debut-with-bestof-album-in-december/12802563"
+    }
+   ]
+  },
+  {
+   "note": "收录主打《다시!》和《아마 괜찮을 너에게》，曹原相全曲作词作曲编曲。",
+   "id": "cb-64",
+   "artist": "LUCY（루시）",
+   "title": "第 8 张数字单曲《다시!》",
+   "sortKey": "2026-11-12T18:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "乐队",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11（官方预告）"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-12 18:00 · KST"
+    },
+    {
+     "label": "类型",
+     "value": "数字单曲（2 首）"
+    },
+    {
+     "label": "状态",
+     "value": "已发行"
+    }
+   ],
+   "search": "LUCY 루시 다시 Again Dasi",
+   "sources": [
+    {
+     "label": "ChosunBiz（OSEN）",
+     "url": "https://biz.chosun.com/en/en-entertainment/2026/11/12/U4EFOYSIMNCCPH56K5V3MNYY7M/"
+    }
+   ]
+  },
+  {
+   "note": "11/11 公开主海报与团体海报。",
+   "id": "cb-65",
+   "artist": "KEN（VIXX）",
+   "title": "新专辑《1X5》",
+   "sortKey": "2026-11-17T13:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11（官方 SNS）"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-17 13:00 · KST"
+    },
+    {
+     "label": "类型",
+     "value": "KiT 专辑（仅 KiT 形式）"
+    },
+    {
+     "label": "状态",
+     "value": "即将发行"
+    }
+   ],
+   "search": "KEN 켄 VIXX 빅스 1X5",
+   "sources": [
+    {
+     "label": "STARNEWS",
+     "url": "https://www.starnewskorea.com/en/music/2026/11/11/2026111116145753896"
+    }
+   ]
+  },
+  {
+   "note": "冬季抒情专辑；12/24–25 在首尔 COEX 开演唱会。",
+   "id": "cb-66",
+   "artist": "申容在（신용재）",
+   "title": "迷你专辑《GRAVITY》",
+   "sortKey": "2026-11-24T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-04"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-24 · 具体时刻待公布"
+    },
+    {
+     "label": "类型",
+     "value": "迷你专辑"
+    },
+    {
+     "label": "状态",
+     "value": "即将发行"
+    }
+   ],
+   "search": "Shin Yong-jae 신용재 GRAVITY 申容在",
+   "sources": [
+    {
+     "label": "STARNEWS",
+     "url": "https://www.starnewskorea.com/en/music/2026/11/04/2026110411071928785"
+    }
+   ]
+  },
+  {
    "artist": "Taeyeon（少女时代）",
    "title": "第 4 张正规专辑《Unspecial》",
-   "sortKey": "2026-11-30T00:00",
+   "sortKey": "2026-11-30T18:00",
    "group": "girl",
    "badges": [
     {
@@ -82,7 +348,7 @@
     },
     {
      "label": "发行日期",
-     "value": "2026-11-30 · 具体时刻待公布"
+     "value": "2026-11-30 18:00 · KST"
     },
     {
      "label": "类型",
@@ -103,6 +369,10 @@
     {
      "label": "Korea JoongAng Daily",
      "url": "https://www.koreajoongangdaily.com/entertainment/girls-generations-taeyeon-to-release-fulllength-album-unspecial-on-nov-30/12962961"
+    },
+    {
+     "label": "Soompi",
+     "url": "https://www.soompi.com/article/1885057wpp/watch-girls-generations-taeyeon-announces-comeback-date-with-teaser-for-unspecial"
     }
    ],
    "id": "cb-52"
@@ -200,7 +470,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -223,7 +493,7 @@
     },
     {
      "label": "状态",
-     "value": "即将发行"
+     "value": "已发行（MV 已公开）"
     }
    ],
    "note": "歌手 Harim 吹口琴伴奏。",
