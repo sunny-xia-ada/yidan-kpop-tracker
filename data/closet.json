@@ -1,7 +1,269 @@
 {
- "lastUpdated": "2026-11-12",
- "issue": "ISSUE 04 / NOV 2026",
+ "lastUpdated": "2026-11-16",
+ "issue": "ISSUE 05 / NOV 2026",
  "looks": [
+  {
+   "id": "st-chaeryeong-1113",
+   "category": "stage",
+   "artist": "CHAERYEONG（ITZY）",
+   "member": "CHAERYEONG",
+   "title": "Lovesick",
+   "where": "KBS 音乐银行 · 11/13",
+   "date": "2026-11-13",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/kk_g-HzeWmQ/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "CHAERYEONG《Lovesick》音乐银行直拍画面：果绿色无袖迷你连衣裙、格纹长袖套和白色长靴的全身造型",
+    "credit": "KBS Kpop（音乐银行官方）直拍画面"
+   },
+   "video": "kk_g-HzeWmQ",
+   "breakdown": {
+    "top": "果绿色无袖高领迷你连衣裙上身（露肩线）",
+    "bottom": "同色迷你裙摆，腰侧有口袋式工装细节，内搭黑色安全裤",
+    "shoes": "白色及膝长靴",
+    "accessories": "黑粉格纹长款袖套（从手肘到手指）",
+    "palette": "果绿 · 白 · 黑粉格纹",
+    "brand": null
+   },
+   "swatches": [
+    "#8db33a",
+    "#f2f2f0",
+    "#2a2a2a",
+    "#d98fb0"
+   ],
+   "point": "一条亮色迷你裙配白色长靴，再加格纹长袖套，靠一件小配件把甜和酷混在一起。",
+   "styles": [
+    "y2k",
+    "sporty"
+   ],
+   "sources": [
+    {
+     "label": "KBS Kpop：CHAERYEONG 直拍 [K-Fancam]（音乐银行 · 2026-11-13）",
+     "url": "https://www.youtube.com/watch?v=kk_g-HzeWmQ"
+    }
+   ]
+  },
+  {
+   "id": "st-hyeyeon-1114",
+   "category": "stage",
+   "artist": "BESTie",
+   "member": "HYE-YEON（혜연）",
+   "title": "연애의 조건 (Love Options)",
+   "where": "MBC 音乐中心 · 11/14",
+   "date": "2026-11-14",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/5mx5_Y-lVu0/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "BESTie 혜연《연애의 조건》音乐中心直拍画面：白色挂脖领内搭黑色抹胸迷你连体裙、黑色高跟鞋的全身造型",
+    "credit": "MBCkpop（音乐中心官方）直拍画面"
+   },
+   "video": "5mx5_Y-lVu0",
+   "breakdown": {
+    "top": "黑色抹胸上身，内叠白色挂脖小翻领",
+    "bottom": "黑色 A 字迷你裙摆（连体式）",
+    "shoes": "黑色细带高跟鞋",
+    "accessories": "黑色细腰带；胸前小徽标",
+    "palette": "黑 · 白",
+    "brand": null
+   },
+   "swatches": [
+    "#121114",
+    "#f4f2f5"
+   ],
+   "point": "黑色抹胸叠白色挂脖领，像把制服衬衫领换成礼服版，腰带收出高腰线显腿长。",
+   "styles": [
+    "preppy",
+    "dark"
+   ],
+   "sources": [
+    {
+     "label": "MBCkpop：BESTie HYE-YEON 直拍（쇼! 음악중심 · 2026-11-14）",
+     "url": "https://www.youtube.com/watch?v=5mx5_Y-lVu0"
+    }
+   ]
+  },
+  {
+   "id": "st-dahye-1114",
+   "category": "stage",
+   "artist": "BESTie",
+   "member": "DAHYE（다혜）",
+   "title": "연애의 조건 (Love Options)",
+   "where": "MBC 音乐中心 · 11/14",
+   "date": "2026-11-14",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/eA0n38xl_3U/maxres3.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "BESTie 다혜《연애의 조건》音乐中心直拍画面：黑色挂脖百褶迷你连衣裙和紫色金属感高跟鞋的全身造型",
+    "credit": "MBCkpop（音乐中心官方）直拍画面"
+   },
+   "video": "eA0n38xl_3U",
+   "breakdown": {
+    "top": "黑色挂脖修身上身（颈前系带）",
+    "bottom": "黑色百褶迷你裙摆",
+    "shoes": "深紫色金属光泽尖头高跟鞋（脚踝细带）",
+    "accessories": "银色圈形耳环",
+    "palette": "黑 · 深紫",
+    "brand": null
+   },
+   "swatches": [
+    "#121114",
+    "#4b3a6b"
+   ],
+   "point": "全黑挂脖百褶裙很利落，鞋子换成带光泽的深紫色，整身黑也不会闷。",
+   "styles": [
+    "dark",
+    "glam"
+   ],
+   "sources": [
+    {
+     "label": "MBCkpop：BESTie DAHYE 直拍（쇼! 음악중심 · 2026-11-14）",
+     "url": "https://www.youtube.com/watch?v=eA0n38xl_3U"
+    }
+   ]
+  },
+  {
+   "id": "st-haeryung-1114",
+   "category": "stage",
+   "artist": "BESTie",
+   "member": "HAE RYUNG（해령）",
+   "title": "연애의 조건 (Love Options)",
+   "where": "MBC 音乐中心 · 11/14",
+   "date": "2026-11-14",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/3UyRJ7oUyUI/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "BESTie 해령《연애의 조건》音乐中心直拍画面：白色泡泡袖衬衫叠灰色背带迷你裙、黑色丝袜和短靴的全身造型",
+    "credit": "MBCkpop（音乐中心官方）直拍画面"
+   },
+   "video": "3UyRJ7oUyUI",
+   "breakdown": {
+    "top": "白色泡泡袖衬衫，外叠灰色背心式连衣裙上身",
+    "bottom": "灰色迷你裙摆，裙摆下露出白色荷叶边衬裙",
+    "shoes": "黑色短靴",
+    "accessories": "裙摆处黑色皮带配银色方扣；黑色丝袜",
+    "palette": "白 · 灰 · 黑",
+    "brand": null
+   },
+   "swatches": [
+    "#f4f2f5",
+    "#6b6b70",
+    "#121114",
+    "#c8c8c8"
+   ],
+   "point": "白衬衫叠灰色背带裙是学院风基本款，裙摆露一点白荷叶边、再斜挂一条皮带，层次立刻出来。",
+   "styles": [
+    "preppy"
+   ],
+   "sources": [
+    {
+     "label": "MBCkpop：BESTie HAE RYUNG 直拍（쇼! 음악중심 · 2026-11-14）",
+     "url": "https://www.youtube.com/watch?v=3UyRJ7oUyUI"
+    }
+   ]
+  },
+  {
+   "id": "mg-winter-polo",
+   "category": "magazine",
+   "artist": "aespa",
+   "member": "WINTER",
+   "title": "Harper's BAZAAR Korea 2026 年 12 月号 × Polo Ralph Lauren《Winter is Coming》",
+   "where": "Harper's BAZAAR Korea · 2026 年 12 月号 · 2026-11-16 线上公开",
+   "date": "2026-11-16",
+   "body": "full",
+   "image": {
+    "src": "https://cdn.topstarnews.net/news/photo/202611/16277567_2089919_2532.jpg",
+    "frame": "contain",
+    "width": 800,
+    "height": 1000,
+    "alt": "aespa WINTER 坐在椅子上的全身画报：灰色绞花针织羽绒服、黑色背心、黑色垂坠开衩长裙和银色民族风宽腰带，赤脚",
+    "credit": "Harper's BAZAAR Korea（经 톱스타뉴스 刊出的官方画报图）"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "灰色绞花针织面料羽绒服（胸前小马标）披在肩上，内搭黑色圆领背心",
+    "bottom": "黑色垂坠感开衩长裙",
+    "shoes": "画面中赤脚，未穿鞋",
+    "accessories": "银色大圆扣（concho）宽腰带",
+    "palette": "灰 · 黑 · 银",
+    "brand": "Polo Ralph Lauren（来源写明：画报中服装和配饰均为 Polo Ralph Lauren）"
+   },
+   "swatches": [
+    "#7d8790",
+    "#121114",
+    "#b9bcc0"
+   ],
+   "point": "蓬松羽绒服随意披在肩上，里面是黑背心配长裙，一条银扣宽腰带把腰线提出来，冬天的厚外套也能穿出比例感。",
+   "styles": [
+    "minimal",
+    "dark"
+   ],
+   "sources": [
+    {
+     "label": "Harper's BAZAAR Korea：윈터의 계절, 겨울! 폴로 랄프 로렌과 함께한 특별한 홀리데이（2026-11-16）",
+     "url": "https://www.harpersbazaar.co.kr/article/1913096"
+    },
+    {
+     "label": "톱스타뉴스：에스파 윈터, '하퍼스 바자' 12월호서 폴로 랄프 로렌 화보 공개（图源）",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16277567"
+    }
+   ]
+  },
+  {
+   "id": "bg-onnuk-padding-20261111",
+   "category": "blogger",
+   "artist": "오눅 Onnuk（时尚博主）",
+   "member": "@onnuk_",
+   "title": "黑色短羽绒服配灰色卫裤和针织腿套",
+   "where": "COSMOPOLITAN Korea 转载 · @onnuk_ · 2026-11-11 转载（Instagram 原帖日期转载未注明，原帖需登录无法核实）",
+   "date": "2026-11-11",
+   "body": "full",
+   "image": {
+    "src": "https://www.cosmopolitan.co.kr/resources/online/online_image/2026/11/11/8425b0c0-bb83-48e0-b960-ad2cfc4f6568.jpg",
+    "frame": "contain",
+    "width": 1170,
+    "height": 1560,
+    "alt": "时尚博主 @onnuk_ 全身照：黑色立领短羽绒服，灰色宽松卫裤，灰色罗纹针织腿套和银色运动鞋，手拿粉色手机",
+    "credit": "COSMOPOLITAN Korea（转载 @onnuk_）"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "黑色立领短款羽绒服（圆润廓形）",
+    "bottom": "灰色宽松抽绳卫裤",
+    "shoes": "银色运动鞋",
+    "accessories": "灰色罗纹针织腿套（套在卫裤外到脚踝）；大号黑色包；低盘发",
+    "palette": "黑 · 灰 · 银",
+    "brand": null
+   },
+   "swatches": [
+    "#121114",
+    "#a7a7a9",
+    "#7a746e",
+    "#c8c8c8"
+   ],
+   "point": "短羽绒服配宽卫裤，再把针织腿套套在裤子外面，休闲裤也有造型感；银色运动鞋给一身黑灰加一点亮。",
+   "styles": [
+    "sporty",
+    "y2k"
+   ],
+   "sources": [
+    {
+     "label": "COSMOPOLITAN Korea：블랙 숏패딩에 청바지만? 오눅·제니의 색다른 패딩 코디법（2026-11-11，图注 @onnuk_）",
+     "url": "https://www.cosmopolitan.co.kr/article/1912936"
+    }
+   ]
+  },
   {
    "id": "bg-goxnniee-vneck-20260904",
    "category": "blogger",
@@ -1217,88 +1479,6 @@
     {
      "label": "Harper's BAZAAR Korea：파리에서 만난 미야오 안나（2026-10-29）",
      "url": "https://www.harpersbazaar.co.kr/article/1911873"
-    }
-   ]
-  },
-  {
-   "id": "mg-ningning-full",
-   "category": "magazine",
-   "artist": "aespa",
-   "member": "NINGNING",
-   "title": "W Korea Vol.11 封面",
-   "where": "W Korea Vol.11 · 2026-10-12 公开",
-   "date": "2026-10-12",
-   "body": "full",
-   "image": {
-    "src": "https://www.wkorea.com/wp_data/w/2026/10/style_6acc37b1da9dd-768x1018.jpg",
-    "frame": "contain",
-    "width": 768,
-    "height": 1018,
-    "alt": "aespa NINGNING 在绿幕前，黑红印花衬衫外套配黑色喇叭裤和尖头靴，全身封面",
-    "credit": "W Korea"
-   },
-   "video": null,
-   "breakdown": {
-    "top": "黑底红色印花衬衫外套",
-    "bottom": "黑色喇叭长裤",
-    "shoes": "黑色尖头靴",
-    "accessories": "—（画面中未见明显配饰）",
-    "palette": "黑 · 红",
-    "brand": null
-   },
-   "swatches": [
-    "#121114",
-    "#b0262c"
-   ],
-   "point": "深色印花上衣 + 黑色喇叭裤，上松下长，比例很好学。",
-   "styles": [
-    "dark"
-   ],
-   "sources": [
-    {
-     "label": "W Korea：Vol.11 커버의 주인공, 닝닝（2026-10-12）",
-     "url": "https://www.wkorea.com/2026/10/12/%eb%8d%94%eb%b8%94%ec%9c%a0-%ec%bd%94%eb%a6%ac%ec%95%84-vol-11-%ec%bb%a4%eb%b2%84%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%8b%9d%eb%8b%9d/"
-    }
-   ]
-  },
-  {
-   "id": "mg-ningning-suit",
-   "category": "magazine",
-   "artist": "aespa",
-   "member": "NINGNING",
-   "title": "W Korea Vol.11 封面",
-   "where": "W Korea Vol.11 · 2026-10-12 公开",
-   "date": "2026-10-12",
-   "body": "half",
-   "image": {
-    "src": "https://www.wkorea.com/wp_data/w/2026/10/style_6acc379b68d82-768x1018.jpg",
-    "frame": "contain",
-    "width": 768,
-    "height": 1018,
-    "alt": "aespa NINGNING 穿紫色缎面西装套装，内搭黑色，拍到膝盖附近",
-    "credit": "W Korea"
-   },
-   "video": null,
-   "breakdown": {
-    "top": "紫红色缎面西装外套，内搭黑色",
-    "bottom": "同色缎面西裤",
-    "shoes": "画面未拍到",
-    "accessories": "—（画面中未见明显配饰）",
-    "palette": "紫红缎面 · 黑",
-    "brand": null
-   },
-   "swatches": [
-    "#a23f9a",
-    "#121114"
-   ],
-   "point": "一整套亮面西装，靠缎面光泽撑场，内搭用黑色压一下。",
-   "styles": [
-    "glam"
-   ],
-   "sources": [
-    {
-     "label": "W Korea：Vol.11 커버의 주인공, 닝닝（2026-10-12）",
-     "url": "https://www.wkorea.com/2026/10/12/%eb%8d%94%eb%b8%94%ec%9c%a0-%ec%bd%94%eb%a6%ac%ec%95%84-vol-11-%ec%bb%a4%eb%b2%84%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%8b%9d%eb%8b%9d/"
     }
    ]
   },

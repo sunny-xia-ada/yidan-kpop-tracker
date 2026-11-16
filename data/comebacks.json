@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12",
+ "lastUpdated": "2026-11-16",
  "trackedArtists": {
   "note": "名单仅为参考：回归按每月新闻收集，没有固定名单；以后可在此维护固定追踪名单。",
   "groups": [
@@ -60,6 +60,282 @@
  },
  "notice": "官方 MV 链接：研究快照没有提供可复用 URL，所以这一版不猜链接；有确认链接后再补。",
  "items": [
+  {
+   "id": "cb-67",
+   "artist": "CL",
+   "title": "数字单曲《ICONIC》",
+   "sortKey": "2026-11-20T18:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-16（KST）"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-20 18:00 · KST",
+     "note": "西雅图：11/20 周五 01:00 PST"
+    },
+    {
+     "label": "类型",
+     "value": "数字单曲"
+    },
+    {
+     "label": "状态",
+     "value": "即将发行"
+    }
+   ],
+   "note": "加盟 THEBLACKLABEL 后的首支新歌。",
+   "search": "CL 씨엘 ICONIC THEBLACKLABEL",
+   "sources": [
+    {
+     "label": "Soompi",
+     "url": "https://www.soompi.com/article/1887166wpp/watch-cl-announces-comeback-date-with-teaser-for-new-single-iconic"
+    }
+   ]
+  },
+  {
+   "id": "cb-68",
+   "artist": "Fly to the Sky（플라이 투 더 스카이）",
+   "title": "单曲专辑《SOLITUDE》",
+   "sortKey": "2026-11-21T18:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男子组合",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-15"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-21 18:00 · KST",
+     "note": "西雅图：11/21 周六 01:00 PST"
+    },
+    {
+     "label": "类型",
+     "value": "单曲专辑"
+    },
+    {
+     "label": "状态",
+     "value": "即将发行"
+    }
+   ],
+   "note": "约 8 年来首次以二人组合发新歌；12/5 起开全国巡演。",
+   "search": "Fly to the Sky 플라이 투 더 스카이 SOLITUDE 환희 브라이언",
+   "sources": [
+    {
+     "label": "allkpop",
+     "url": "https://www.allkpop.com/article/2026/11/fly-to-the-sky-to-release-first-new-single-in-eight-years-solitude-on-november-21"
+    }
+   ]
+  },
+  {
+   "id": "cb-69",
+   "artist": "LISA",
+   "title": "新单曲《Leave With Me》",
+   "sortKey": "2026-11-18T00:00",
+   "group": "girl",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-10（YouTube 官方公告）"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-18",
+     "note": "发行时刻待公布；与纪录片《Always Lalisa》YouTube Premium 上线同日"
+    },
+    {
+     "label": "类型",
+     "value": "数字单曲（纪录片原声）"
+    },
+    {
+     "label": "状态",
+     "value": "即将发行"
+    }
+   ],
+   "note": "纪录片片尾曲，此前只在影院放映时预听过。",
+   "search": "LISA 리사 Leave With Me Always Lalisa YouTube Premium",
+   "sources": [
+    {
+     "label": "YouTube 官方博客",
+     "url": "https://blog.youtube/culture-and-trends/youtube-premium-always-lalisa-documentary/"
+    },
+    {
+     "label": "Bandwagon",
+     "url": "https://www.bandwagon.asia/articles/blackpink-s-lisa-to-release-always-lalisa-documentary-new-song-leave-with-me-on-18-november"
+    }
+   ]
+  },
+  {
+   "id": "cb-70",
+   "artist": "Big Ocean（빅오션）",
+   "title": "翻唱数字单曲《Make a wish》（原曲 g.o.d《One Candle》）",
+   "sortKey": "2026-11-28T18:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-13"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-28 18:00 · KST",
+     "note": "西雅图：11/28 周六 01:00 PST"
+    },
+    {
+     "label": "类型",
+     "value": "翻唱数字单曲"
+    },
+    {
+     "label": "状态",
+     "value": "即将发行"
+    }
+   ],
+   "note": "手语偶像团体，用歌声和手语重新演绎 g.o.d 经典曲。",
+   "search": "Big Ocean 빅오션 Make a wish 촛불하나 g.o.d",
+   "sources": [
+    {
+     "label": "allkpop",
+     "url": "https://www.allkpop.com/article/2026/11/big-ocean-to-release-god-remake-make-a-wish-on-november-28"
+    }
+   ]
+  },
+  {
+   "id": "cb-71",
+   "artist": "PLAVE × RIIZE",
+   "title": "合作单曲《Lowkey》",
+   "sortKey": "2026-11-30T12:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-16（KST）"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-30 12:00 · KST",
+     "note": "西雅图：11/29 周日 19:00 PST；MV 同步公开"
+    },
+    {
+     "label": "类型",
+     "value": "合作单曲"
+    },
+    {
+     "label": "状态",
+     "value": "即将发行"
+    }
+   ],
+   "note": "11/15 MMA 2026 首次公开的虚拟偶像 × 真人男团合作曲。",
+   "search": "PLAVE RIIZE 플레이브 라이즈 Lowkey",
+   "sources": [
+    {
+     "label": "allkpop",
+     "url": "https://www.allkpop.com/article/2026/11/plave-and-riize-set-november-30-release-date-for-collaboration-track-lowkey"
+    },
+    {
+     "label": "Soompi",
+     "url": "https://www.soompi.com/article/1887390wpp/plave-and-riize-announce-release-date-for-collaboration-track-lowkey"
+    },
+    {
+     "label": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10939050"
+    }
+   ]
+  },
+  {
+   "id": "cb-72",
+   "artist": "MARK（NCT）",
+   "title": "正规专辑《WINDMILL》",
+   "sortKey": "2026-12-04T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已官宣",
+     "ok": true
+    },
+    {
+     "text": "SOLO",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-06"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-12-04",
+     "note": "发行时刻待公布"
+    },
+    {
+     "label": "类型",
+     "value": "正规专辑"
+    },
+    {
+     "label": "状态",
+     "value": "预购中"
+    }
+   ],
+   "note": "11/6 先行单曲《Happiest》同日公布专辑日期。",
+   "search": "MARK LEE 마크 WINDMILL Happiest",
+   "sources": [
+    {
+     "label": "싱글리스트",
+     "url": "https://www.slist.kr/news/articleView.html?idxno=779627"
+    }
+   ]
+  },
   {
    "note": "约 6 个月来首次回归；12/13 在台北办首场台湾粉丝见面会。",
    "id": "cb-61",
@@ -859,13 +1135,13 @@
    "id": "cb-47"
   },
   {
-   "artist": "Kai & Sehun（EXO）",
-   "title": "首张小分队专辑（名称待公布）",
+   "artist": "EXO-KASE（EXO 카이세훈：KAI & SEHUN）",
+   "title": "首张迷你专辑《Waking Up The City》",
    "sortKey": "2026-12-01T00:00",
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已官宣",
      "ok": true
     },
     {
@@ -876,26 +1152,35 @@
    "rows": [
     {
      "label": "公布日期",
-     "value": "2026-11-02"
+     "value": "2026-11-02（12 月发行）；2026-11-11 公布专辑名与日期"
     },
     {
      "label": "发行日期",
-     "value": "12 月，日期待公布"
+     "value": "2026-12-01",
+     "note": "发行时刻待公布"
     },
     {
      "label": "类型",
-     "value": "Unit album"
+     "value": "迷你专辑 · 共 7 首"
     },
     {
      "label": "状态",
-     "value": "待确认"
+     "value": "预购中"
     }
    ],
-   "note": "SM 确认 12 月发行，标题与日期未公布。",
-   "search": "Kai & Sehun（EXO） 首张小分队专辑（名称待公布）",
+   "note": "同名主打为带嘻哈元素的舞曲；2027-01-09 起开亚洲 8 地粉丝演唱会《SILENT CITY》。",
+   "search": "EXO-KASE 엑소 카이세훈 KAI SEHUN Waking Up The City",
    "sources": [
     {
-     "label": "allkpop 报道",
+     "label": "Herald Muse（官方）",
+     "url": "https://www.heraldmuse.com/article/10933087"
+    },
+    {
+     "label": "Special Times",
+     "url": "https://global.specialtimes.co.kr/news/exo-kase-kai-sehun-album-release"
+    },
+    {
+     "label": "allkpop（12 月出道公告）",
      "url": "https://www.allkpop.com/article/2026/11/exos-kai-and-sehun-to-debut-as-new-unit-in-december"
     }
    ],
@@ -1516,7 +1801,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "今日发行",
      "ok": true
     },
     {
@@ -1531,7 +1816,8 @@
     },
     {
      "label": "发行日期",
-     "value": "2026-11-16"
+     "value": "2026-11-16 18:00 · KST",
+     "note": "西雅图：11/16 周一 01:00 PST"
     },
     {
      "label": "曲目",
@@ -1539,7 +1825,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "今日发行"
     }
    ],
    "note": null,
@@ -1548,6 +1834,10 @@
     {
      "label": "Soompi 报道",
      "url": "https://www.soompi.com/article/1873466wpp/txt-announces-comeback-date-and-details-for-return-with-perfect-storm"
+    },
+    {
+     "label": "allkpop（回归日程）",
+     "url": "https://www.allkpop.com/article/2026/10/txt-announces-perfect-storm-comeback-schedule-ahead-of-november-16-release"
     }
    ],
    "id": "cb-14"
