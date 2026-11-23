@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16",
+ "lastUpdated": "2026-11-22",
  "timezone": "America/Los_Angeles",
  "priceNotice": "票价为价格快照，不是秒级行情，各条目标注了各自的快照日期与费用口径。官方面价未公布时会明确留空；转售价格均标明来源与查询日期。",
  "distanceNotice": "西雅图区域包括西雅图、塔科马（Tacoma）和 Eastside（贝尔维尤、雷德蒙德、柯克兰等），以及埃弗里特、肯特等周边场馆。已官宣的远期巡演（含 2027 年及更后）都会收录；场馆、开演时刻或开票未公布的会标「待公布」，不会因此跳过，也不会猜测。研究快照没有可靠的距离数据，因此没有伪造公里数或“离你最近”排序。",
@@ -11,135 +11,6 @@
   "region": "收录范围是西雅图区域：西雅图 + 塔科马 + Eastside（贝尔维尤、雷德蒙德、柯克兰等）及埃弗里特、肯特等周边。不按开票状态、场馆是否公布或演出年份过滤。"
  },
  "upcoming": [
-  {
-   "id": "katseye-20261117",
-   "artist": "KATSEYE",
-   "title": "WILDWORLD TOUR",
-   "tag": "WILDWORLD TOUR",
-   "status": {
-    "text": "已核实",
-    "ok": true
-   },
-   "verified": true,
-   "start": "2026-11-17T20:00",
-   "durationMinutes": 180,
-   "venue": {
-    "name": "Climate Pledge Arena",
-    "address": "334 1st Ave N, Seattle, WA 98109"
-   },
-   "ticketUrl": "https://www.ticketmaster.com/event/0F0064A9D030C333",
-   "rows": [
-    {
-     "label": "转售市场起售价",
-     "value": "约 $112 起",
-     "note": "二手市场快照价（非官方票面价），TixScape 比价 2026-11-16 快照（Ticket Network 最低 $112.48）"
-    },
-    {
-     "label": "本次巡演阵容",
-     "value": "4 人",
-     "note": "Manon、Sophia 休养缺席"
-    }
-   ],
-   "onsale": {
-    "status": "on_sale",
-    "note": "来源：Climate Pledge Arena 官方公告（2026-05-13）。katseye.world 预售同日 15:00 PT。",
-    "presale": {
-     "label": "Weverse 艺人预售（付费会员）",
-     "start": "2026-05-20T11:00",
-     "url": "https://climatepledgearena.com/katseye-announces-2026-headline-arena-tour-of-uk-eu-and-north-america/"
-    },
-    "general": {
-     "label": "公开发售（Ticketmaster）",
-     "start": "2026-05-21T15:00",
-     "url": "https://www.ticketmaster.com/event/0F0064A9D030C333"
-    }
-   },
-   "search": "KATSEYE WILDWORLD TOUR Climate Pledge Arena resale",
-   "sources": [
-    {
-     "label": "场馆官方公告（Climate Pledge Arena）",
-     "url": "https://climatepledgearena.com/katseye-announces-2026-headline-arena-tour-of-uk-eu-and-north-america/"
-    },
-    {
-     "label": "NYPost 报道",
-     "url": "https://nypost.com/2026/09/25/ticket-sales/what-do-tickets-cost-to-see-snl-musical-guest-katseye-on-tour/"
-    },
-    {
-     "label": "SeatGeek 巡演页",
-     "url": "https://seatgeek.com/katseye-tickets"
-    },
-    {
-     "label": "TixTracer 转售页",
-     "url": "https://tixtracer.com/tickets/katseye"
-    },
-    {
-     "label": "TixScape 转售比价页（2026-11-12 快照）",
-     "url": "https://tixscape.com/s/e/7961840"
-    },
-    {
-     "label": "TixScape 转售比价页（2026-11-16 快照）",
-     "url": "https://tixscape.com/s/e/7961840"
-    }
-   ]
-  },
-  {
-   "id": "hohyun-20261120",
-   "artist": "HOHYUN",
-   "title": "petrichor: the tour",
-   "tag": "PETRICHOR",
-   "status": {
-    "text": "官方在售",
-    "ok": true
-   },
-   "verified": true,
-   "start": "2026-11-20T20:00",
-   "doors": "19:00",
-   "durationMinutes": 180,
-   "venue": {
-    "name": "Baba Yaga",
-    "address": "124 S. Washington St., Seattle, WA 98104"
-   },
-   "ticketUrl": "https://tickets.venuepilot.com/e/hohyun-2026-11-20-baba-yaga-seattle-dc7908",
-   "rows": [
-    {
-     "label": "官方面价",
-     "value": "GA $20 / VIP $60",
-     "note": "含费约 $24.77 / $68.02，VenuePilot 2026-11-05 快照"
-    },
-    {
-     "label": "转售起售价",
-     "value": "待确认",
-     "note": "2026-11-16 仍未查到转售挂单；场馆条款禁止高于原价转售"
-    },
-    {
-     "label": "嘉宾",
-     "value": "slone"
-    },
-    {
-     "label": "年龄",
-     "value": "All Ages"
-    }
-   ],
-   "onsale": {
-    "status": "on_sale",
-    "note": "VenuePilot 官方票务页在售；原始开票时间未核实，因此不设提醒。",
-    "general": {
-     "label": "公开发售 · VenuePilot 官方票务页",
-     "url": "https://tickets.venuepilot.com/e/hohyun-2026-11-20-baba-yaga-seattle-dc7908"
-    }
-   },
-   "search": "HOHYUN petrichor tour Baba Yaga Seattle",
-   "sources": [
-    {
-     "label": "主办方巡演页（Kohai）",
-     "url": "https://kohai.com/hohyun"
-    },
-    {
-     "label": "官方票务页（VenuePilot）",
-     "url": "https://tickets.venuepilot.com/e/hohyun-2026-11-20-baba-yaga-seattle-dc7908"
-    }
-   ]
-  },
   {
    "id": "oneus-20261206",
    "artist": "ONEUS",
@@ -165,8 +36,8 @@
     },
     {
      "label": "转售起售价",
-     "value": "约 $91 起",
-     "note": "转售价（非官方面价），TixScape 比价 2026-11-16 快照（Vivid Seats 最低 $91.00）"
+     "value": "约 $98 起",
+     "note": "转售价（非官方面价），TixScape 比价 2026-11-22 快照（SI Tickets 最低 $98.00）"
     }
    ],
    "onsale": {
@@ -196,7 +67,7 @@
      "url": "https://www.vividseats.com/oneus-tickets/performer/117881"
     },
     {
-     "label": "TixScape 转售比价页（2026-11-12 快照）",
+     "label": "TixScape 转售比价页（2026-11-22 快照）",
      "url": "https://tixscape.com/s/e/8272843"
     },
     {
@@ -229,8 +100,8 @@
     },
     {
      "label": "转售起售价",
-     "value": "约 $100 起",
-     "note": "转售价（非官方面价），TixScape 比价 2026-11-16 快照（Ticket Network 最低 $99.98）"
+     "value": "约 $72 起",
+     "note": "转售价（非官方面价），TixScape 比价 2026-11-22 快照（Ticket Network 最低 $72.31）"
     },
     {
      "label": "座位",
@@ -266,7 +137,7 @@
      "url": "https://www.allkpop.com/article/2026/11/wonho-announces-10-us-cities-for-2027-world-tour-noche"
     },
     {
-     "label": "TixScape 转售比价页（2026-11-16 快照）",
+     "label": "TixScape 转售比价页（2026-11-22 快照）",
      "url": "https://tixscape.com/s/e/8364021"
     }
    ]
@@ -296,8 +167,8 @@
     },
     {
      "label": "转售起售价",
-     "value": "约 $54 起",
-     "note": "转售价（非官方面价），TixScape 比价 2026-11-16 快照（Ticket Network 最低 $54.45）"
+     "value": "约 $55 起",
+     "note": "转售价（非官方面价），TixScape 比价 2026-11-22 快照（Ticket Network 最低 $55.34）"
     },
     {
      "label": "年龄",
@@ -324,7 +195,7 @@
      "url": "https://goseeshows.com/seattle/shows/2027-03-31-showbox-at-the-market-hyukoh/"
     },
     {
-     "label": "TixScape 转售比价页（2026-11-16 快照）",
+     "label": "TixScape 转售比价页（2026-11-22 快照）",
      "url": "https://tixscape.com/s/e/8359259"
     }
    ]
@@ -359,7 +230,7 @@
     {
      "label": "开票",
      "value": "待公布",
-     "note": "官方尚未公布预售或公开发售时间，因此不设开票提醒"
+     "note": "2026-11-22 复查官方巡演页，场馆、开演时刻和开票时间仍未公布，因此不设开票提醒"
     }
    ],
    "search": "TOMORROW X TOGETHER TXT 투모로우바이투게더 STEAL THE WIND Tacoma 塔科马 2027-05-04",
@@ -384,7 +255,7 @@
    "title": "World Tour ‘RUN IT’ · 西雅图站（北美首站）",
    "tag": "Stray Kids",
    "status": {
-    "text": "7 天内开票",
+    "text": "官方在售",
     "ok": true
    },
    "verified": true,
@@ -402,8 +273,8 @@
     },
     {
      "label": "转售起售价",
-     "value": "待确认",
-     "note": "尚未公开发售（11/19 15:00 PT 开票），2026-11-16 只有预售前的投机挂单，不作参考"
+     "value": "约 $54 起",
+     "note": "转售价（非官方面价），TixScape 比价 2026-11-22 快照（西雅图 Lumen Field，10 家平台最低 $54.45）"
     },
     {
      "label": "阵容",
@@ -416,8 +287,8 @@
     }
    ],
    "onsale": {
-    "status": "upcoming",
-    "note": "艺人预售需在 11/15（周日）12:00 PT 前到 LiveNation.com/StrayKids 登记，艺人预售 11/18 15:00；STAY 会员预售 11/18 11:00；公开发售 11/19（周四）15:00（均为当地时间，Live Nation 官方公告）。",
+    "status": "on_sale",
+    "note": "公开发售已于 11/19（周四）15:00 PT 开始，Lumen Field 官方页现可购票。STAY 会员预售 11/18 11:00；艺人预售 11/18 15:00（均为当地时间，Live Nation 官方公告）。",
     "presale": {
      "label": "STAY 会员预售（艺人预售同日 15:00）",
      "start": "2026-11-18T11:00",
@@ -438,6 +309,10 @@
     {
      "label": "Live Nation 官方公告",
      "url": "https://news.livenationentertainment.com/news/stray-kids-announce-2027-world-tour-run-it-across-north-america-europe-and-the-uk"
+    },
+    {
+     "label": "TixScape 转售比价页（2026-11-22 快照）",
+     "url": "https://tixscape.com/s/e/8361510"
     }
    ]
   },
@@ -447,7 +322,7 @@
    "title": "Golden World Tour · 塔科马站（两场：14:00 / 19:30）",
    "tag": "KPDH Golden World Tour",
    "status": {
-    "text": "7 天内开票",
+    "text": "官方在售",
     "ok": true
    },
    "verified": true,
@@ -475,12 +350,12 @@
     {
      "label": "转售起售价",
      "value": "待确认",
-     "note": "尚未开票（2026-11-16）"
+     "note": "公开发售已开始；2026-11-22 复查时未查到可靠的转售比价快照，不作猜测。"
     }
    ],
    "onsale": {
-    "status": "upcoming",
-    "note": "Mastercard 预售 11/18（周三）10:00；For the Fans 预售 11/19（周四）10:00（需先在 kpopdemonhunterstour.com 登记）；公开发售 11/20（周五）10:00（均为场馆当地时间，Netflix Tudum 官方说明；Tacoma Dome 官方页标注 11/20 10:00 开售）。",
+    "status": "on_sale",
+    "note": "公开发售已于 11/20（周五）10:00 PT 开始，Tacoma Dome 官方页标注 On Sale Now（下午场 14:00 与晚场 19:30 两场均可购票）。Mastercard 预售 11/18 10:00；For the Fans 预售 11/19 10:00（需先在 kpopdemonhunterstour.com 登记）。",
     "presale": {
      "label": "Mastercard 预售（For the Fans 预售 11/19 10:00）",
      "start": "2026-11-18T10:00",
@@ -510,6 +385,30 @@
   }
  ],
  "past": [
+  {
+   "title": "HOHYUN · 11/20 · Baba Yaga",
+   "text": "petrichor: the tour 西雅图场已结束；原记录为 20:00 开演、19:00 开门，官方面价 GA $20 / VIP $60（VenuePilot 2026-11-05 快照，含费约 $24.77 / $68.02），嘉宾 slone。",
+   "links": [
+    {
+     "label": "官方票务页",
+     "url": "https://tickets.venuepilot.com/e/hohyun-2026-11-20-baba-yaga-seattle-dc7908"
+    }
+   ]
+  },
+  {
+   "title": "KATSEYE · 11/17 · Climate Pledge Arena",
+   "text": "WILDWORLD TOUR 西雅图场已结束；原记录为 20:00 开演，转售约 $112 起（TixScape 2026-11-16 快照，Ticket Network 最低 $112.48）；本次巡演阵容 4 人（Manon、Sophia 休养缺席）。",
+   "links": [
+    {
+     "label": "场馆官方公告",
+     "url": "https://climatepledgearena.com/katseye-announces-2026-headline-arena-tour-of-uk-eu-and-north-america/"
+    },
+    {
+     "label": "Ticketmaster 场次页",
+     "url": "https://www.ticketmaster.com/event/0F0064A9D030C333"
+    }
+   ]
+  },
   {
    "title": "BOYNEXTDOOR · 11/15 · Showbox SoDo",
    "text": "KNOCK ON Vol.2 西雅图场已结束；原记录为 19:30 开演、18:30 开门，转售约 $124 起（2026-11-12 快照）。",
@@ -581,5 +480,5 @@
    "cancelled": true
   }
  ],
- "pastSummary": "已结束 / 已取消 · aespa 10/10、UAU 10/11、TEN 10/17、Epik High 10/22、MONSTA X 10/24、ARTMS 10/25、Epik High 10/25、TAEMIN 10/25（取消）、KOYOTE 11/14、BOYNEXTDOOR 11/15"
+ "pastSummary": "已结束 / 已取消 · aespa 10/10、UAU 10/11、TEN 10/17、Epik High 10/22、MONSTA X 10/24、ARTMS 10/25、Epik High 10/25、TAEMIN 10/25（取消）、KOYOTE 11/14、BOYNEXTDOOR 11/15、KATSEYE 11/17、HOHYUN 11/20"
 }

@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16",
+ "lastUpdated": "2026-11-22",
  "trackedArtists": {
   "note": "名单仅为参考：回归按每月新闻收集，没有固定名单；以后可在此维护固定追踪名单。",
   "groups": [
@@ -61,6 +61,102 @@
  "notice": "官方 MV 链接：研究快照没有提供可复用 URL，所以这一版不猜链接；有确认链接后再补。",
  "items": [
   {
+   "id": "cb-73",
+   "artist": "ZEROBASEONE",
+   "title": "新专辑（标题待公布）",
+   "sortKey": "2027-01-18T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-21",
+     "note": "2026 MAMA Awards（大阪）演出结尾公布"
+    },
+    {
+     "label": "发行日期",
+     "value": "2027-01-18",
+     "note": "发行时刻待公布；专辑标题和曲目表尚未公布"
+    },
+    {
+     "label": "类型",
+     "value": "专辑（标题待公布）"
+    },
+    {
+     "label": "状态",
+     "value": "已官宣"
+    }
+   ],
+   "note": "现为五人体；这是 2026 年 5 月迷你专辑《Ascend-》之后约八个月的首次全员专辑。",
+   "search": "ZEROBASEONE 제베원 2027-01-18 comeback album MAMA",
+   "sources": [
+    {
+     "label": "Korea JoongAng Daily",
+     "url": "https://www.koreajoongangdaily.com/entertainment/new-zerobaseone-album-to-release-in-january/12985455"
+    },
+    {
+     "label": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261123002800315"
+    }
+   ]
+  },
+  {
+   "id": "cb-74",
+   "artist": "BIGBANG",
+   "title": "数字单曲《GiiiRIP》（기립）",
+   "sortKey": "2026-11-20T00:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "已发行",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-20"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-20"
+    },
+    {
+     "label": "类型",
+     "value": "数字单曲"
+    },
+    {
+     "label": "状态",
+     "value": "已发行"
+    }
+   ],
+   "note": "出道 20 周年纪念的惊喜数字单曲，歌名「기립 / GiiiRIP」意为起立。",
+   "search": "BIGBANG 빅뱅 GiiiRIP 기립 digital single 20th anniversary",
+   "sources": [
+    {
+     "label": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261120002151315"
+    },
+    {
+     "label": "Soompi",
+     "url": "https://www.soompi.com/article/1888937wpp/bigbang-surprises-with-teasers-for-new-digital-single"
+    }
+   ]
+  },
+  {
    "id": "cb-67",
    "artist": "CL",
    "title": "数字单曲《ICONIC》",
@@ -68,7 +164,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -92,7 +188,7 @@
     },
     {
      "label": "状态",
-     "value": "即将发行"
+     "value": "已发行"
     }
    ],
    "note": "加盟 THEBLACKLABEL 后的首支新歌。",
@@ -112,7 +208,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -136,7 +232,7 @@
     },
     {
      "label": "状态",
-     "value": "即将发行"
+     "value": "已发行"
     }
    ],
    "note": "约 8 年来首次以二人组合发新歌；12/5 起开全国巡演。",
@@ -156,7 +252,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -180,7 +276,7 @@
     },
     {
      "label": "状态",
-     "value": "即将发行"
+     "value": "已发行"
     }
    ],
    "note": "纪录片片尾曲，此前只在影院放映时预听过。",
@@ -388,7 +484,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -411,7 +507,7 @@
     },
     {
      "label": "状态",
-     "value": "即将发行（11/11 已公开 mood film）"
+     "value": "已发行"
     }
    ],
    "search": "YENA 최예나 Sakuranbo 사쿠란보 大塚爱",
@@ -525,7 +621,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -548,7 +644,7 @@
     },
     {
      "label": "状态",
-     "value": "即将发行"
+     "value": "已发行"
     }
    ],
    "search": "KEN 켄 VIXX 빅스 1X5",
@@ -703,7 +799,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -726,7 +822,7 @@
     },
     {
      "label": "状态",
-     "value": "即将发行"
+     "value": "已发行"
     }
    ],
    "note": "10 月已先行公开《Hysteric》《Adam》。",
@@ -816,7 +912,7 @@
     },
     {
      "label": "状态",
-     "value": "今日发行（MV 已公开）"
+     "value": "已发行（MV 已公开）"
     }
    ],
    "note": null,
@@ -1012,7 +1108,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1035,7 +1131,7 @@
     },
     {
      "label": "状态",
-     "value": "今日发行"
+     "value": "已发行"
     }
    ],
    "note": "出道后首次回归；发行时刻以官方为准。",
@@ -1055,7 +1151,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1078,7 +1174,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": "JYP 旗下，7 月《CHAT》后的新作。",
@@ -1193,7 +1289,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1216,7 +1312,7 @@
     },
     {
      "label": "状态",
-     "value": "今日发行"
+     "value": "已发行"
     }
    ],
    "note": "成员变动后首张作品；12/5–6 首尔单独演唱会。",
@@ -1236,7 +1332,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1259,7 +1355,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": "主打序列视频《WE ARE UNCROWNED》于 11 月 1 日公开，并公布回归日期。",
@@ -1279,7 +1375,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1302,7 +1398,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": "时隔约八个月的首次回归。",
@@ -1322,7 +1418,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1345,7 +1441,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": null,
@@ -1365,7 +1461,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1388,7 +1484,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": "15 人男团出道作，收录先行曲《Superstar》与第二主打《Dancing in the Dark》。",
@@ -1408,7 +1504,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1431,7 +1527,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": "Highlight medley 已于 2026-10-26 公开。",
@@ -1537,7 +1633,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1561,7 +1657,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": "《THE SIN》系列的收官之作。",
@@ -1581,7 +1677,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1606,7 +1702,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "数字单曲已发行 · 日本迷你专辑待发行"
     }
    ],
    "note": null,
@@ -1626,7 +1722,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1651,7 +1747,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": "预告 2026-10-24 公开，发行细节 2026-10-26 公布。",
@@ -1671,7 +1767,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1694,7 +1790,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": null,
@@ -1714,7 +1810,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1737,7 +1833,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": "自 2024 年 6 月 EP《NA》以来首次 solo 发行。",
@@ -1757,7 +1853,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1781,7 +1877,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": null,
@@ -1801,7 +1897,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "今日发行",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1825,7 +1921,7 @@
     },
     {
      "label": "状态",
-     "value": "今日发行"
+     "value": "已发行"
     }
    ],
    "note": null,
@@ -1849,7 +1945,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1872,7 +1968,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": "本次回归原定 9 月 2 日，后延期；回归排程将于 10 月 23 日公开。",
@@ -1939,7 +2035,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -1962,7 +2058,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": null,
@@ -2156,7 +2252,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -2179,7 +2275,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": "ITZY 第三位 solo 出道的成员。",
@@ -2199,7 +2295,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "单曲已发行",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -2222,7 +2318,7 @@
     },
     {
      "label": "状态",
-     "value": "单曲已发行 · EP 待发行"
+     "value": "已发行"
     }
    ],
    "note": "虚拟女团时隔 6 年回归。",
@@ -2242,7 +2338,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -2266,7 +2362,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": null,
@@ -2286,7 +2382,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -2309,7 +2405,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": "10 周年专辑，共 10 首歌。",
@@ -2415,7 +2511,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -2438,7 +2534,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": null,
@@ -2508,7 +2604,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -2531,7 +2627,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": null,
@@ -2750,6 +2846,10 @@
      "label": "成绩",
      "value": "约 29 小时登顶 Melon TOP100",
      "note": "Circle 数字榜一位 · 音乐节目四冠：The Show 10/20、Show Champion 10/21、M Countdown 10/22、Inkigayo 10/25（6060 分，对手 Soyeon《I'm gonna TOESA》、NCT WISH《I SPY》）"
+    },
+    {
+     "label": "状态",
+     "value": "已发行"
     }
    ],
    "note": "李秀满离开 SM 后创立的 A2O Entertainment 推出的 9 人女团，10 月 13 日以出道单曲《NEON》正式出道；音源上线约 29 小时登顶 Melon TOP100、拿下 Circle 数字榜一位，并在出道一周内三天连拿三冠（The Show 10/20、Show Champion 10/21、M Countdown 10/22），随后 10/25 在 SBS《Inkigayo》再夺一位（6060 分，对手为 Soyeon《I'm gonna TOESA》与 NCT WISH《I SPY》），累计音乐节目四冠，是近期最火的新人出道。",
@@ -2941,7 +3041,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -2965,6 +3065,10 @@
     {
      "label": "类型",
      "value": "男团 EP"
+    },
+    {
+     "label": "状态",
+     "value": "已发行"
     }
    ],
    "note": null,
@@ -2984,7 +3088,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -3008,6 +3112,10 @@
     {
      "label": "类型",
      "value": "Single"
+    },
+    {
+     "label": "状态",
+     "value": "已发行"
     }
    ],
    "note": null,
@@ -3027,7 +3135,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "已官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -3050,7 +3158,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": null,
@@ -3070,7 +3178,7 @@
    "group": "boy",
    "badges": [
     {
-     "text": "已官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -3093,7 +3201,7 @@
     },
     {
      "label": "状态",
-     "value": "待发行"
+     "value": "已发行"
     }
    ],
    "note": null,

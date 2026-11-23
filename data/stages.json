@@ -1,12 +1,485 @@
 {
- "lastUpdated": "2026-11-02",
+ "lastUpdated": "2026-11-22",
  "sections": [
   {
    "id": "month",
    "title": "过去一个月的舞台",
-   "range": "2026-09-23 – 10-23",
-   "note": "说明：窗口为 2026-09-23 至 2026-10-23；9 月下旬韩国周打歌节目因中秋 / 亚运会停播较多，实际收录舞台从 10 月 1 日起算。",
+   "range": "2026-10-22 – 11-22",
+   "note": "说明：窗口为 2026-10-22 至 2026-11-22。只收录能核验到电视台官方 YouTube 完整舞台（或已标明的获奖 / 安可片段）的场次。M Countdown 已于 10/22 收官至 2027 年；10/27 The Show 停播；11/18 Show Champion 为回放特辑，没有新舞台。ATEEZ《Drip》只核实到音乐银行 10/30、音中 10/31、人气歌谣 11/01，未见 M Countdown / Show Champion / The Show 舞台。",
    "items": [
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-22",
+     "title": "TXT《Angel Bite》",
+     "basisLabel": null,
+     "note": "专辑发行后首个打歌舞台（人气歌谣首次公开）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=7KdZq505bsM"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-22",
+     "title": "CHAERYEONG（ITZY）《Lovesick》",
+     "basisLabel": null,
+     "note": "第二周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=KDQdwdkyfaA"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-22",
+     "title": "NCT DREAM《Boogie Woogie》",
+     "basisLabel": null,
+     "note": "本周第二场放送舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=NqW1uuttv-E"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-22",
+     "title": "BESTie《연애의 조건 (Love Options)》",
+     "basisLabel": null,
+     "note": "第二周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=z00UvsqpRVw"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-21",
+     "title": "NCT DREAM《Boogie Woogie》",
+     "basisLabel": null,
+     "note": "第三冠（7,254 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=6wYyhULwLoY"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-21",
+     "title": "CHAERYEONG（ITZY）《Lovesick》",
+     "basisLabel": null,
+     "note": "第二周音中舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=G6t5JuC29OE"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-20",
+     "title": "NCT DREAM《Boogie Woogie》",
+     "basisLabel": null,
+     "note": "第二冠（7,239 分）；一位候选人是 CHAERYEONG《Lovesick》（6,643 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=tgs7fIl_s6k"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-20",
+     "title": "CHAERYEONG（ITZY）《Lovesick》",
+     "basisLabel": null,
+     "note": "本周音乐银行舞台，该场一位候选人（6,643 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=tTmxlst2G24"
+     }
+    },
+    {
+     "program": "THE SHOW",
+     "date": "2026-11-17",
+     "title": "A2O SOUL《Dancing in the Dark》",
+     "basisLabel": "注意：链接为获奖 + 安可片段，不是完整表演。",
+     "note": "出道 EP 首个一位（11,660 分）。",
+     "link": {
+      "label": "看获奖 + 安可片段",
+      "url": "https://www.youtube.com/watch?v=e84FIWj4pOk"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-15",
+     "title": "RESCENE《With》",
+     "basisLabel": null,
+     "note": "第四冠（7,361 分）；Minami 因身体不适缺席，成员在感言中提到她。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=xQWsswKhrQo"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-15",
+     "title": "ATEEZ《UP》",
+     "basisLabel": null,
+     "note": "首周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=vvJZldznEPc"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-15",
+     "title": "CHAERYEONG（ITZY）《Lovesick》",
+     "basisLabel": null,
+     "note": "首周人气歌谣舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=WKMhE9fTv8s"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-15",
+     "title": "NCT DREAM《Boogie Woogie》",
+     "basisLabel": null,
+     "note": "首周人气歌谣舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=_PPPSs8FOmo"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-15",
+     "title": "BESTie《연애의 조건 (Love Options)》",
+     "basisLabel": null,
+     "note": "首周人气歌谣舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=kBvCCRnp8ZM"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-14",
+     "title": "RESCENE《With》",
+     "basisLabel": null,
+     "note": "第三冠（8,473 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=RSxusLXRQ80"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-14",
+     "title": "ATEEZ《UP》",
+     "basisLabel": null,
+     "note": "首周音中舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=id9Yihm2MoY"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-14",
+     "title": "CHAERYEONG（ITZY）《Lovesick》",
+     "basisLabel": null,
+     "note": "首周音中舞台（节目标明 Hot Solo Debut）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=BRWdA-1czyE"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-14",
+     "title": "NCT DREAM《Boogie Woogie》",
+     "basisLabel": null,
+     "note": "首周音中舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=w-GJZylcipw"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-14",
+     "title": "BESTie《연애의 조건 (Love Options)》",
+     "basisLabel": null,
+     "note": "首周音中舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=yWuDTKE3gUE"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-13",
+     "title": "TWS《Call My Name》",
+     "basisLabel": null,
+     "note": "该曲首个一位（9,857 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=MhOtnO78nwE"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-13",
+     "title": "ATEEZ《UP》",
+     "basisLabel": null,
+     "note": "专辑发售当天的首个打歌舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=TdIMd4AU_t4"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-13",
+     "title": "CHAERYEONG（ITZY）《Lovesick》",
+     "basisLabel": null,
+     "note": "solo 出道后首个打歌舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=SvMlIwTJdAg"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-13",
+     "title": "JISOO《ADDICTED》",
+     "basisLabel": null,
+     "note": "本周音乐银行舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=gr5OAHg4QnY"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-13",
+     "title": "NCT DREAM《Boogie Woogie》",
+     "basisLabel": null,
+     "note": "首个打歌舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=sz4c8LG8LJU"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-13",
+     "title": "BESTie《연애의 조건 (Love Options)》",
+     "basisLabel": null,
+     "note": "首周音乐银行舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=InaRJ8kI8qE"
+     }
+    },
+    {
+     "program": "SHOW CHAMPION",
+     "date": "2026-11-11",
+     "title": "RESCENE《With》",
+     "basisLabel": null,
+     "note": "第二冠（与 The Show 背靠背）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=EEMdvAl21pQ"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-08",
+     "title": "JISOO《ADDICTED》",
+     "basisLabel": null,
+     "note": "首周人气歌谣舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=CEeI4XUeUFo"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-07",
+     "title": "JISOO《ADDICTED》",
+     "basisLabel": null,
+     "note": "首周音中舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=sEfYW7-T3gc"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-06",
+     "title": "ILLIT《You're Under Arrest》",
+     "basisLabel": null,
+     "note": "该曲首个一位（9,803 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=2w2rqmE-dL8"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-06",
+     "title": "RESCENE《With》",
+     "basisLabel": null,
+     "note": "首周舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=ECz-M-jwGzQ"
+     }
+    },
+    {
+     "program": "SHOW CHAMPION",
+     "date": "2026-11-04",
+     "title": "AND2BLE《French Kissing》",
+     "basisLabel": "注意：链接为获奖 + 安可片段，不是完整表演。",
+     "note": "第二冠（6,159 分）。",
+     "link": {
+      "label": "看获奖 + 安可片段",
+      "url": "https://www.youtube.com/watch?v=KjHicwRSkjo"
+     }
+    },
+    {
+     "program": "THE SHOW",
+     "date": "2026-11-03",
+     "title": "AND2BLE《French Kissing》",
+     "basisLabel": "注意：链接为获奖 + 安可片段，不是完整表演。",
+     "note": "该曲首个一位（11,005 分）。",
+     "link": {
+      "label": "看获奖 + 安可片段",
+      "url": "https://www.youtube.com/watch?v=FpLmlcvx3lw"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-01",
+     "title": "A2O LITE《NEON》",
+     "basisLabel": null,
+     "note": "第八冠（6,576 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=iwOZifCuwOk"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-01",
+     "title": "ATEEZ《Drip》",
+     "basisLabel": null,
+     "note": "先行曲宣传收官舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=kmmyim553mA"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-01",
+     "title": "IVE《Looks Can Kill》",
+     "basisLabel": null,
+     "note": "本周第二场放送舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=8Dwh2BGD8kU"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-10-31",
+     "title": "ATEEZ《Drip》",
+     "basisLabel": null,
+     "note": "先行曲首周音中舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=SN5tdVtehno"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-10-31",
+     "title": "IVE《Looks Can Kill》",
+     "basisLabel": null,
+     "note": "本周音中舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=sGi1FIXia4U"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-10-30",
+     "title": "NMIXX《Birthday Wish》",
+     "basisLabel": null,
+     "note": "该曲首个一位（7,775 分），组合第 24 冠。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=3Kb3dJMykP8"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-10-30",
+     "title": "ATEEZ《Drip》",
+     "basisLabel": null,
+     "note": "先行曲首个打歌舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=UCLLxJXHgoE"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-10-30",
+     "title": "IVE《Looks Can Kill》",
+     "basisLabel": null,
+     "note": "本周音乐银行舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=pUp3VT8koiM"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-10-25",
+     "title": "A2O LITE《NEON》",
+     "basisLabel": null,
+     "note": "第四冠（6,060 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=FqQRRLFr5QA"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-10-25",
+     "title": "IVE《Looks Can Kill》",
+     "basisLabel": null,
+     "note": "首周人气歌谣舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=8vlWbzYKZu8"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-10-24",
+     "title": "IVE《Looks Can Kill》",
+     "basisLabel": null,
+     "note": "首周音中舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=BdsDyqgNkj8"
+     }
+    },
     {
      "program": "MUSIC BANK",
      "date": "2026-10-23",
@@ -127,147 +600,103 @@
       "label": "看舞台",
       "url": "https://www.youtube.com/watch?v=IkPNSIWP1oc"
      }
-    },
-    {
-     "program": "SHOW CHAMPION",
-     "date": "2026-10-21",
-     "title": "A2O LITE《NEON》",
-     "basisLabel": null,
-     "note": "第二冠（6,317 分）。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=UAo11PQf5DA"
-     }
-    },
-    {
-     "program": "THE SHOW",
-     "date": "2026-10-20",
-     "title": "A2O LITE《NEON》",
-     "basisLabel": "注意：链接为获奖 + 安可片段，不是完整表演。",
-     "note": "出道 7 天首个一位（7,331 分）。",
-     "link": {
-      "label": "看获奖 + 安可片段",
-      "url": "https://www.youtube.com/watch?v=c7REvlMKFro"
-     }
-    },
-    {
-     "program": "SHOW! MUSIC CORE",
-     "date": "2026-10-17",
-     "title": "Onew × Zico《Tic Tac Toe》",
-     "basisLabel": "注意：链接为获奖公布片段，不是完整表演。",
-     "note": "首个一位（7,054 分）。",
-     "link": {
-      "label": "看获奖公布片段",
-      "url": "https://www.youtube.com/watch?v=8wT5APwAy0s"
-     }
-    },
-    {
-     "program": "SHOW! MUSIC CORE",
-     "date": "2026-10-17",
-     "title": "NCT WISH《I SPY》",
-     "basisLabel": null,
-     "note": "首周舞台。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=-EPhQBWs07U"
-     }
-    },
-    {
-     "program": "SHOW! MUSIC CORE",
-     "date": "2026-10-17",
-     "title": "MEOVV《GO HARD》",
-     "basisLabel": null,
-     "note": "首周音中舞台。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=eVMG8-unO9w"
-     }
-    },
-    {
-     "program": "M COUNTDOWN",
-     "date": "2026-10-15",
-     "title": "NCT WISH《I SPY》",
-     "basisLabel": null,
-     "note": "首周舞台。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=-dQ6Xgdg990"
-     }
-    },
-    {
-     "program": "M COUNTDOWN",
-     "date": "2026-10-15",
-     "title": "A2O LITE《NEON》",
-     "basisLabel": null,
-     "note": "首个周打歌舞台。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=XAU5AtvpnRM"
-     }
-    },
-    {
-     "program": "M COUNTDOWN",
-     "date": "2026-10-15",
-     "title": "MEOVV《GO HARD》",
-     "basisLabel": null,
-     "note": "首个打歌舞台。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=CIGGsxPhokA"
-     }
-    },
-    {
-     "program": "SHOW! MUSIC CORE",
-     "date": "2026-10-10",
-     "title": "NiziU《Sour Grapes》",
-     "basisLabel": null,
-     "note": "末期舞台，初动个人最佳 226,532 张。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=wAQkxUzNfws"
-     }
-    },
-    {
-     "program": "M COUNTDOWN",
-     "date": "2026-10-08",
-     "title": "BOYNEXTDOOR《ANIMAL》",
-     "basisLabel": null,
-     "note": "首个一位（6,453 分）。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=LbneflBy1q4"
-     }
-    },
-    {
-     "program": "M COUNTDOWN",
-     "date": "2026-10-08",
-     "title": "NiziU《Sour Grapes》",
-     "basisLabel": null,
-     "note": "第二周舞台。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=J5lRZLuqsNg"
-     }
-    },
-    {
-     "program": "SHOW CHAMPION",
-     "date": "2026-10-07",
-     "title": "NiziU《Sour Grapes》",
-     "basisLabel": null,
-     "note": "首个一位（5,444 分）。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=G420S1pwVqo"
-     }
     }
    ]
   },
   {
    "id": "hot",
    "title": "过去三个月很火的舞台",
-   "range": "2026-07-23 – 10-23",
+   "range": "2026-08-22 – 11-22",
    "note": "只收有可核实热度证据的舞台，每条都注明热度依据；来不及追直播时从这里往回补。",
    "items": [
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-21",
+     "title": "NCT DREAM《Boogie Woogie》",
+     "basisLabel": "热度依据：",
+     "note": "11/18 Show Champion 回放特辑首冠后，11/20 音乐银行再拿 7,239 分，本场音中第三冠 7,254 分。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=6wYyhULwLoY"
+     }
+    },
+    {
+     "program": "THE SHOW",
+     "date": "2026-11-17",
+     "title": "A2O SOUL《Dancing in the Dark》",
+     "basisLabel": "热度依据：",
+     "note": "出道 EP 首个一位（11,660 分）。链接为 THE SHOW CHOICE 获奖安可片段，不是完整表演。",
+     "link": {
+      "label": "看获奖 + 安可片段",
+      "url": "https://www.youtube.com/watch?v=e84FIWj4pOk"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-15",
+     "title": "RESCENE《With》",
+     "basisLabel": "热度依据：",
+     "note": "六天四冠：The Show 11/10（8,379 分）、Show Champion 11/11、音中 11/14（8,473 分）、人气歌谣 11/15（7,361 分）；11/22 人气歌谣再拿第五冠（5,221 分，本人未登台）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=xQWsswKhrQo"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-13",
+     "title": "TWS《Call My Name》",
+     "basisLabel": "热度依据：",
+     "note": "该曲首个一位（9,857 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=MhOtnO78nwE"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-11-06",
+     "title": "ILLIT《You're Under Arrest》",
+     "basisLabel": "热度依据：",
+     "note": "该曲首个一位（9,803 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=2w2rqmE-dL8"
+     }
+    },
+    {
+     "program": "THE SHOW",
+     "date": "2026-11-03",
+     "title": "AND2BLE《French Kissing》",
+     "basisLabel": "热度依据：",
+     "note": "该曲首冠 11,005 分，次日 Show Champion 再冠 6,159 分。链接为 THE SHOW CHOICE 获奖安可片段，不是完整表演。",
+     "link": {
+      "label": "看获奖 + 安可片段",
+      "url": "https://www.youtube.com/watch?v=FpLmlcvx3lw"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-01",
+     "title": "A2O LITE《NEON》",
+     "basisLabel": "热度依据：",
+     "note": "出道约两周内第八冠（6,576 分）；11/8 人气歌谣再拿三冠王和第 11 冠（本人未登台）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=iwOZifCuwOk"
+     }
+    },
+    {
+     "program": "MUSIC BANK",
+     "date": "2026-10-30",
+     "title": "NMIXX《Birthday Wish》",
+     "basisLabel": "热度依据：",
+     "note": "该曲首个一位（7,775 分），组合第 24 冠。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=3Kb3dJMykP8"
+     }
+    },
     {
      "program": "M COUNTDOWN",
      "date": "2026-10-22",
@@ -387,28 +816,6 @@
      "link": {
       "label": "看舞台",
       "url": "https://www.youtube.com/watch?v=Pr-4Nze0OyQ"
-     }
-    },
-    {
-     "program": "MUSIC BANK",
-     "date": "2026-08-14",
-     "title": "Stray Kids《This & That》",
-     "basisLabel": "热度依据：",
-     "note": "10 天 6 冠，该场 12,779 分。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=aqXUT1z9Dt8"
-     }
-    },
-    {
-     "program": "MUSIC BANK",
-     "date": "2026-08-14",
-     "title": "KISS OF LIFE《SWEAT》",
-     "basisLabel": "热度依据：",
-     "note": "The Show 8/11 一位；MV 7 天破 3000 万。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=lGkihjlLDCg"
      }
     }
    ]
