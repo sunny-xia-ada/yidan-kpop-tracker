@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-22",
+ "lastUpdated": "2026-11-23",
  "trackedArtists": {
   "note": "名单仅为参考：回归按每月新闻收集，没有固定名单；以后可在此维护固定追踪名单。",
   "groups": [
@@ -60,6 +60,50 @@
  },
  "notice": "官方 MV 链接：研究快照没有提供可复用 URL，所以这一版不猜链接；有确认链接后再补。",
  "items": [
+  {
+   "id": "cb-75",
+   "artist": "UNB（유엔비）",
+   "title": "粉丝歌数字单曲《Flower in the Snow》",
+   "sortKey": "2026-11-29T12:00",
+   "group": "boy",
+   "badges": [
+    {
+     "text": "新官宣",
+     "ok": true
+    },
+    {
+     "text": "男团",
+     "ok": false
+    }
+   ],
+   "rows": [
+    {
+     "label": "公布日期",
+     "value": "2026-11-23（KST）"
+    },
+    {
+     "label": "发行日期",
+     "value": "2026-11-29 12:00 · KST",
+     "note": "西雅图：11/28 周六 19:00 PST"
+    },
+    {
+     "label": "类型",
+     "value": "数字单曲（粉丝歌）"
+    },
+    {
+     "label": "状态",
+     "value": "即将发行"
+    }
+   ],
+   "note": "KBS《偶像重启计划 The Unit》出身的组合，时隔 7 年重聚；本次 6 人参加（服兵役的 Jun、Pil-dok、Chan 不参加）。属于制作人 San Yoon 的合作企划，不是正式专辑。",
+   "search": "UNB 유엔비 Flower in the Snow The Unit reunion fan song",
+   "sources": [
+    {
+     "label": "STARNEWS",
+     "url": "https://www.starnewskorea.com/en/star/2026/11/23/2026112309313173849"
+    }
+   ]
+  },
   {
    "id": "cb-73",
    "artist": "ZEROBASEONE",
@@ -756,7 +800,7 @@
    "group": "girl",
    "badges": [
     {
-     "text": "新官宣",
+     "text": "已发行",
      "ok": true
     },
     {
@@ -771,23 +815,33 @@
     },
     {
      "label": "发行日期",
-     "value": "2026-11-23 18:00 · KST"
+     "value": "2026-11-23 18:00 · KST",
+     "note": "西雅图：11/23 周一 01:00 PST"
+    },
+    {
+     "label": "主打",
+     "value": "《Before Sunrise》",
+     "note": "钢琴为主的中速流行曲"
     },
     {
      "label": "类型",
-     "value": "迷你专辑"
+     "value": "迷你专辑 · 共 6 首"
     },
     {
      "label": "状态",
-     "value": "即将发行"
+     "value": "已发行"
     }
    ],
-   "note": null,
+   "note": "Wendy 参与全部 6 首作词，并参与主打等 3 首作曲；11/22 在圣水洞办了发行前试听会。",
    "search": "Wendy 웬디 Red Velvet Gleam Hour",
    "sources": [
     {
      "label": "Soompi",
      "url": "https://www.soompi.com/article/1885066wpp/red-velvets-wendy-announces-november-comeback-with-schedule-for-gleam-hour"
+    },
+    {
+     "label": "bntnews（发行当日）",
+     "url": "https://www.bntnews.co.kr/article/view/bnt202611230034"
     }
    ],
    "id": "cb-53"
@@ -1233,7 +1287,7 @@
   {
    "artist": "EXO-KASE（EXO 카이세훈：KAI & SEHUN）",
    "title": "首张迷你专辑《Waking Up The City》",
-   "sortKey": "2026-12-01T00:00",
+   "sortKey": "2026-12-01T18:00",
    "group": "boy",
    "badges": [
     {
@@ -1252,8 +1306,8 @@
     },
     {
      "label": "发行日期",
-     "value": "2026-12-01",
-     "note": "发行时刻待公布"
+     "value": "2026-12-01 18:00 · KST",
+     "note": "西雅图：12/1 周二 01:00 PST；专辑、主打同名曲和 MV 同时公开"
     },
     {
      "label": "类型",
@@ -1278,6 +1332,10 @@
     {
      "label": "allkpop（12 月出道公告）",
      "url": "https://www.allkpop.com/article/2026/11/exos-kai-and-sehun-to-debut-as-new-unit-in-december"
+    },
+    {
+     "label": "allkpop（宣传日程）",
+     "url": "https://www.allkpop.com/article/2026/11/exo-kase-unveils-teaser-schedule-for-first-mini-album-waking-up-the-city"
     }
    ],
    "id": "cb-48"

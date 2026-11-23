@@ -1,12 +1,45 @@
 {
- "lastUpdated": "2026-11-22",
+ "lastUpdated": "2026-11-23",
  "sections": [
   {
    "id": "month",
    "title": "过去一个月的舞台",
-   "range": "2026-10-22 – 11-22",
-   "note": "说明：窗口为 2026-10-22 至 2026-11-22。只收录能核验到电视台官方 YouTube 完整舞台（或已标明的获奖 / 安可片段）的场次。M Countdown 已于 10/22 收官至 2027 年；10/27 The Show 停播；11/18 Show Champion 为回放特辑，没有新舞台。ATEEZ《Drip》只核实到音乐银行 10/30、音中 10/31、人气歌谣 11/01，未见 M Countdown / Show Champion / The Show 舞台。",
+   "range": "2026-10-23 – 11-23",
+   "note": "说明：窗口为 2026-10-23 至 2026-11-23。只收录能核验到电视台官方 YouTube 完整舞台（或已标明的获奖 / 安可片段）的场次。M Countdown 已于 10/22 收官至 2027 年；10/27 The Show 停播；11/18 Show Champion 为回放特辑，没有新舞台。11/23 起补收 Arirang TV 新打歌节目 SHOW K-POP（每周一播出，官方频道「SHOW K-POP (쇼케이팝)」）。ATEEZ《Drip》只核实到音乐银行 10/30、音中 10/31、人气歌谣 11/01，未见 M Countdown / Show Champion / The Show 舞台。",
    "items": [
+    {
+     "program": "SHOW K-POP",
+     "date": "2026-11-23",
+     "title": "UNCHILD《팅팅 (TiNG TiNG)》",
+     "basisLabel": null,
+     "note": "Arirang TV 新打歌节目 SHOW K-POP 第 6 期舞台；本周也上了 The Show 11/17、音乐银行 11/20、音中 11/21、人气歌谣 11/22。该期一位为 ILLIT《You're Under Arrest》（8,064 分）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=CMWLxzgOdSE"
+     }
+    },
+    {
+     "program": "SHOW K-POP",
+     "date": "2026-11-23",
+     "title": "KEYVITUP《NAGARI》",
+     "basisLabel": null,
+     "note": "SHOW K-POP 第 6 期舞台；本周也上了 The Show 11/17、音中 11/21、人气歌谣 11/22。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=Gj3MWlS6-QA"
+     }
+    },
+    {
+     "program": "SHOW K-POP",
+     "date": "2026-11-23",
+     "title": "H1-KEY《Unbelievable》",
+     "basisLabel": null,
+     "note": "SHOW K-POP 第 6 期舞台；本周也上了 The Show 11/17、音中 11/21。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=AlcLMU6FhbE"
+     }
+    },
     {
      "program": "INKIGAYO",
      "date": "2026-11-22",
@@ -52,6 +85,39 @@
      }
     },
     {
+     "program": "INKIGAYO",
+     "date": "2026-11-22",
+     "title": "HEART OF WOMAN《LIT IT》",
+     "basisLabel": null,
+     "note": "人气歌谣舞台；本周也上了 The Show 11/17、音乐银行 11/20。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=j9kmEpoL9zM"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-22",
+     "title": "Keyveatz《HAH!》",
+     "basisLabel": null,
+     "note": "回归周舞台（音乐银行 11/20 标注 COMEBACK），本周也上了音中 11/21。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=eEsx6WnCxk0"
+     }
+    },
+    {
+     "program": "INKIGAYO",
+     "date": "2026-11-22",
+     "title": "N.TOP《Silhouette（실루엣）》",
+     "basisLabel": null,
+     "note": "人气歌谣舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=D789-gI3UgE"
+     }
+    },
+    {
      "program": "SHOW! MUSIC CORE",
      "date": "2026-11-21",
      "title": "NCT DREAM《Boogie Woogie》",
@@ -71,6 +137,50 @@
      "link": {
       "label": "看舞台",
       "url": "https://www.youtube.com/watch?v=G6t5JuC29OE"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-21",
+     "title": "A2O SOUL《Dancing in the Dark》",
+     "basisLabel": null,
+     "note": "The Show 11/17 一位后的音中舞台；本周也上了音乐银行 11/20。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=tHnnzxteml8"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-21",
+     "title": "Baby DONT Cry《Replay》",
+     "basisLabel": null,
+     "note": "音中舞台；本周也上了音乐银行 11/20。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=IlZL80sp2VQ"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-21",
+     "title": "AMPERS&ONE《King's Way》",
+     "basisLabel": null,
+     "note": "音中舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=CR0Q0SxH1qM"
+     }
+    },
+    {
+     "program": "SHOW! MUSIC CORE",
+     "date": "2026-11-21",
+     "title": "THEWILDCARDCLUB《Click Flick》",
+     "basisLabel": null,
+     "note": "音中舞台。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=1EbqtvjPffA"
      }
     },
     {
@@ -104,6 +214,17 @@
      "link": {
       "label": "看获奖 + 安可片段",
       "url": "https://www.youtube.com/watch?v=e84FIWj4pOk"
+     }
+    },
+    {
+     "program": "THE SHOW",
+     "date": "2026-11-17",
+     "title": "P1Harmony《BLOW UP》",
+     "basisLabel": null,
+     "note": "The Show 舞台（同期另有收录曲《MOMENTUM》舞台）。",
+     "link": {
+      "label": "看舞台",
+      "url": "https://www.youtube.com/watch?v=IOCo9Liw5lc"
      }
     },
     {
@@ -534,79 +655,13 @@
       "label": "看舞台",
       "url": "https://www.youtube.com/watch?v=SYiFA6Qu0mc"
      }
-    },
-    {
-     "program": "M COUNTDOWN",
-     "date": "2026-10-22",
-     "title": "MEOVV《GO HARD》",
-     "basisLabel": null,
-     "note": "第二周舞台。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=l5R9WxB-4Yk"
-     }
-    },
-    {
-     "program": "M COUNTDOWN",
-     "date": "2026-10-22",
-     "title": "NCT WISH《I SPY》",
-     "basisLabel": null,
-     "note": "第二周舞台。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=E8qv5k5IXIY"
-     }
-    },
-    {
-     "program": "M COUNTDOWN",
-     "date": "2026-10-22",
-     "title": "JxJ（SEVENTEEN Jeonghan × Joshua）《12 o'clock》",
-     "basisLabel": null,
-     "note": "首周舞台。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=UL4eQD0hX5Y"
-     }
-    },
-    {
-     "program": "M COUNTDOWN",
-     "date": "2026-10-22",
-     "title": "NMIXX《Birthday Wish》",
-     "basisLabel": null,
-     "note": "首周舞台。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=2et9-4peX1M"
-     }
-    },
-    {
-     "program": "M COUNTDOWN",
-     "date": "2026-10-22",
-     "title": "IVE《Looks Can Kill》",
-     "basisLabel": null,
-     "note": "首个放送打歌舞台（10/19 为先行曲，完整 EP 10/26 发）。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=Z4WghmCMk1o"
-     }
-    },
-    {
-     "program": "M COUNTDOWN",
-     "date": "2026-10-22",
-     "title": "A2O LITE《NEON》",
-     "basisLabel": null,
-     "note": "三天三冠（6,866 分）。",
-     "link": {
-      "label": "看舞台",
-      "url": "https://www.youtube.com/watch?v=IkPNSIWP1oc"
-     }
     }
    ]
   },
   {
    "id": "hot",
    "title": "过去三个月很火的舞台",
-   "range": "2026-08-22 – 11-22",
+   "range": "2026-08-23 – 11-23",
    "note": "只收有可核实热度证据的舞台，每条都注明热度依据；来不及追直播时从这里往回补。",
    "items": [
     {
@@ -658,7 +713,7 @@
      "date": "2026-11-06",
      "title": "ILLIT《You're Under Arrest》",
      "basisLabel": "热度依据：",
-     "note": "该曲首个一位（9,803 分）。",
+     "note": "该曲首个一位（9,803 分）；11/23 Arirang SHOW K-POP 再拿一位（8,064 分），该节目三冠王、该曲第 4 个音乐节目一位（Soompi）。",
      "link": {
       "label": "看舞台",
       "url": "https://www.youtube.com/watch?v=2w2rqmE-dL8"

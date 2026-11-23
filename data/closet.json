@@ -1,7 +1,348 @@
 {
- "lastUpdated": "2026-11-16",
- "issue": "ISSUE 05 / NOV 2026",
+ "lastUpdated": "2026-11-23",
+ "issue": "ISSUE 06 / NOV 2026",
  "looks": [
+  {
+   "id": "st-yeeun-1123",
+   "category": "stage",
+   "artist": "UNCHILD",
+   "member": "YEEUN（朴艺恩）",
+   "title": "팅팅 (TiNG TiNG)",
+   "where": "Arirang TV SHOW K-POP · 11/23",
+   "date": "2026-11-23",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/QNVIwaGv_Og/maxres2.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "UNCHILD YEEUN《TiNG TiNG》SHOW K-POP 直拍画面：蓝色系带短背心、蓝白斜纹迷你裙和白色及膝长靴的全身造型",
+    "credit": "SHOW K-POP（쇼케이팝）官方频道「캐치캠」直拍画面"
+   },
+   "video": "QNVIwaGv_Og",
+   "breakdown": {
+    "top": "蓝色无袖短款背心，前襟系带，白色内衬滚边，露腰",
+    "bottom": "蓝色迷你裙，带白色斜向拼条，裙下露出白色打底",
+    "shoes": "白色及膝长靴",
+    "accessories": "金色链条项链；手腕蓝白护腕",
+    "palette": "钴蓝 · 白 · 金",
+    "brand": null
+   },
+   "swatches": [
+    "#3d6fd1",
+    "#f2f2f0",
+    "#c9a64a"
+   ],
+   "point": "蓝白两色从上到下重复一遍，短背心露腰、白长靴拉长腿，运动元素用护腕点到为止。",
+   "styles": [
+    "sporty",
+    "y2k"
+   ],
+   "sources": [
+    {
+     "label": "SHOW K-POP：[캐치캠 4K] UNCHILD YEEUN 'TiNG TiNG'（2026-11-23）",
+     "url": "https://www.youtube.com/watch?v=QNVIwaGv_Og"
+    }
+   ]
+  },
+  {
+   "id": "st-uji-1122",
+   "category": "stage",
+   "artist": "BESTie",
+   "member": "U JI",
+   "title": "연애의 조건 (Love Options)",
+   "where": "SBS 人气歌谣 · 11/22",
+   "date": "2026-11-22",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/zVujYDsf7DM/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "BESTie U JI《연애의 조건》人气歌谣直拍画面：灰色短款马甲上衣、白色喇叭裤、黑色尖头高跟鞋和白色毛绒袖口的全身造型",
+    "credit": "SBSKPOP ZOOM（人气歌谣官方）直拍画面"
+   },
+   "video": "zVujYDsf7DM",
+   "breakdown": {
+    "top": "浅灰色无袖短款马甲式上衣，外层叠一片更浅的灰色开襟，露腰",
+    "bottom": "白色微喇长裤",
+    "shoes": "黑色尖头高跟鞋",
+    "accessories": "白色毛绒袖口（手腕）",
+    "palette": "浅灰 · 白 · 黑",
+    "brand": null
+   },
+   "swatches": [
+    "#b9b9bd",
+    "#f4f4f2",
+    "#1c1c1e"
+   ],
+   "point": "灰白低饱和配色，靠短上衣和高腰喇叭裤拉比例，手腕一圈白毛绒是整套的冬季记忆点。",
+   "styles": [
+    "minimal",
+    "romantic"
+   ],
+   "sources": [
+    {
+     "label": "SBSKPOP ZOOM：[Front Row FanCam 4K] BESTie U ji 'Love Options' @SBS Inkigayo（2026-11-22）",
+     "url": "https://www.youtube.com/watch?v=zVujYDsf7DM"
+    }
+   ]
+  },
+  {
+   "id": "st-chaeryeong-1121",
+   "category": "stage",
+   "artist": "CHAERYEONG（ITZY）",
+   "member": "CHAERYEONG",
+   "title": "Lovesick",
+   "where": "MBC 音乐中心 · 11/21",
+   "date": "2026-11-21",
+   "body": "full",
+   "image": {
+    "src": "https://i.ytimg.com/vi/GQOXio2YXI4/maxres1.jpg",
+    "frame": "fancam",
+    "width": 1280,
+    "height": 720,
+    "alt": "CHAERYEONG《Lovesick》音乐中心直拍画面：宝蓝色高领挂脖露背迷你连衣裙，跪坐在舞台上的全身造型",
+    "credit": "MBCkpop（音乐中心官方）直拍画面"
+   },
+   "video": "GQOXio2YXI4",
+   "breakdown": {
+    "top": "宝蓝色高领挂脖连衣裙上身，露肩露背",
+    "bottom": "同色修身迷你裙摆，内搭黑色安全裤",
+    "shoes": "这一帧是跪坐动作，鞋看不清",
+    "accessories": "膝上有一圈细带（看不清材质）；耳麦",
+    "palette": "宝蓝 · 黑",
+    "brand": null
+   },
+   "swatches": [
+    "#2f2fb8",
+    "#141416"
+   ],
+   "point": "第二周换成一整条宝蓝挂脖短裙，比首周的果绿更成熟；单色到底，靠露背和高领做线条。",
+   "styles": [
+    "glam",
+    "dark"
+   ],
+   "sources": [
+    {
+     "label": "MBCkpop：[#음중직캠] CHAERYEONG (채령) – Lovesick FanCam | 쇼! 음악중심 | MBC261121",
+     "url": "https://www.youtube.com/watch?v=GQOXio2YXI4"
+    }
+   ]
+  },
+  {
+   "id": "mg-a2olite-himeki",
+   "category": "magazine",
+   "artist": "A2O LITE",
+   "member": "HIMEKI",
+   "title": "Harper's BAZAAR Korea 2026 年 12 月号别册 × Polo Ralph Lauren《NEON AND BEYOND》",
+   "where": "Harper's BAZAAR Korea · 2026 年 12 月号别册（11/21 发行）· 2026-11-18 线上公开",
+   "date": "2026-11-18",
+   "body": "full",
+   "image": {
+    "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/11/17/0c88945e-e0b2-4e4d-9d45-334edd486eaf.jpg",
+    "frame": "contain",
+    "width": 800,
+    "height": 1000,
+    "alt": "A2O LITE HIMEKI 个人封面全身照：藏青绞花毛衣、银扣西部腰带、米白短裤、灰色袜子和棕色堆堆西部靴，粉色背景",
+    "credit": "Harper's BAZAAR Korea（官方封面图）"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "藏青色绞花针织圆领毛衣（胸前红色小马标），下摆露出条纹衬衫",
+    "bottom": "米白色宽松短裤",
+    "shoes": "棕色麂皮堆堆西部靴",
+    "accessories": "黑色皮带配银色圆扣（concho）；浅灰罗纹袜露出靴口",
+    "palette": "藏青 · 米白 · 棕 · 浅灰",
+    "brand": "Polo Ralph Lauren（来源写明：封面与画报穿 Polo Ralph Lauren）"
+   },
+   "swatches": [
+    "#1d2440",
+    "#efe9dc",
+    "#8a5a36",
+    "#b8b4ad"
+   ],
+   "point": "学院毛衣配短裤是基本款，换成堆堆西部靴和银扣腰带，立刻多了一点牛仔女孩的野。",
+   "styles": [
+    "preppy"
+   ],
+   "sources": [
+    {
+     "label": "Harper's BAZAAR Korea：A2O LITE의 첫 화보, 아홉 소녀가 하나로 빛나는 순간（2026-11-18）",
+     "url": "https://www.harpersbazaar.co.kr/article/1913190"
+    }
+   ]
+  },
+  {
+   "id": "mg-a2olite-rada",
+   "category": "magazine",
+   "artist": "A2O LITE",
+   "member": "RADA",
+   "title": "Harper's BAZAAR Korea 2026 年 12 月号别册 × Polo Ralph Lauren《NEON AND BEYOND》",
+   "where": "Harper's BAZAAR Korea · 2026 年 12 月号别册（11/21 发行）· 2026-11-18 线上公开",
+   "date": "2026-11-18",
+   "body": "full",
+   "image": {
+    "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/11/17/86095388-908d-46ad-9a22-fd2a94f3d293.jpg",
+    "frame": "contain",
+    "width": 800,
+    "height": 1000,
+    "alt": "A2O LITE RADA 个人封面全身照：深棕色流苏皮夹克、碎花迷你连衣裙和黑色及膝高跟长靴，绿色背景",
+    "credit": "Harper's BAZAAR Korea（官方封面图）"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "深棕色皮夹克，前襟和袖下有长流苏",
+    "bottom": "米棕底碎花迷你连衣裙",
+    "shoes": "黑色及膝粗跟长靴",
+    "accessories": "无明显配饰，黑长直发",
+    "palette": "深棕 · 米棕碎花 · 黑",
+    "brand": "Polo Ralph Lauren（来源写明：封面与画报穿 Polo Ralph Lauren）"
+   },
+   "swatches": [
+    "#3a2418",
+    "#c9a983",
+    "#121114"
+   ],
+   "point": "碎花小裙子外面套一件流苏皮夹克，再配黑长靴，甜的单品被皮和流苏压成了酷的。",
+   "styles": [
+    "dark",
+    "romantic"
+   ],
+   "sources": [
+    {
+     "label": "Harper's BAZAAR Korea：A2O LITE의 첫 화보, 아홉 소녀가 하나로 빛나는 순간（2026-11-18）",
+     "url": "https://www.harpersbazaar.co.kr/article/1913190"
+    }
+   ]
+  },
+  {
+   "id": "mg-giselle-loewe",
+   "category": "magazine",
+   "artist": "aespa",
+   "member": "GISELLE",
+   "title": "ELLE Korea 2026 年 12 月号 × LOEWE",
+   "where": "ELLE Korea · 2026 年 12 月号 · 2026-11-18 线上公开",
+   "date": "2026-11-18",
+   "body": "full",
+   "image": {
+    "src": "https://www.elle.co.kr/resources/online/online_image/2026/11/17/703955b9-59c0-42a0-a780-5f1f5b1754db.jpg",
+    "frame": "contain",
+    "width": 1200,
+    "height": 1500,
+    "alt": "aespa GISELLE ELLE 画报全身照：棕色拼色皮革飞行员夹克、深靛蓝宽腿牛仔裤和浅棕麂皮乐福鞋，双手举高站在白墙前",
+    "credit": "ELLE Korea（官方画报图）"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "棕色拼色皮革短款飞行员夹克，罗纹领口和下摆",
+    "bottom": "深靛蓝宽腿直筒牛仔裤，裤脚堆在鞋面",
+    "shoes": "浅棕色麂皮乐福鞋 / 莫卡辛",
+    "accessories": "头发半扎，几乎无配饰",
+    "palette": "棕 · 深靛蓝 · 浅棕",
+    "brand": "LOEWE（来源写明：画报服装为 LOEWE SS27 女装早春系列）"
+   },
+   "swatches": [
+    "#4a2e22",
+    "#1f2a44",
+    "#b08a62"
+   ],
+   "point": "短皮夹克配超宽牛仔裤和平底麂皮鞋，上短下长、全是大地色，是最好复制的冬日休闲公式。",
+   "styles": [
+    "minimal"
+   ],
+   "sources": [
+    {
+     "label": "ELLE Korea：에스파 지젤과 로에베의 동화 같은 화보 공개（2026-11-18）",
+     "url": "https://www.elle.co.kr/article/1913207"
+    }
+   ]
+  },
+  {
+   "id": "bg-goxnniee-fleece-20261106",
+   "category": "blogger",
+   "artist": "김고은 Kim Goeun（时尚博主，非演员金高银）",
+   "member": "@goxnniee",
+   "title": "酒红格纹抓绒外套配白色百褶短裙",
+   "where": "Harper's BAZAAR Korea 转载 · @goxnniee · 2026-11-06（Instagram 原帖日期转载未注明）",
+   "date": "2026-11-06",
+   "body": "full",
+   "image": {
+    "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/11/05/d1982d40-95ab-4164-af01-ca9965f11f3f.jpg",
+    "frame": "contain",
+    "width": 1200,
+    "height": 1600,
+    "alt": "时尚博主 @goxnniee 坐在黑色皮沙发上的全身照：酒红格纹抓绒拉链外套、白色百褶迷你裙、白色长袜和浅色厚底运动鞋",
+    "credit": "Harper's BAZAAR Korea（转载 @goxnniee）"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "酒红色格纹抓绒（摇粒绒）立领拉链外套",
+    "bottom": "白色百褶迷你裙",
+    "shoes": "浅灰绿 / 银色厚底复古跑鞋",
+    "accessories": "白色罗纹长袜（堆在小腿）",
+    "palette": "酒红 · 白 · 浅灰绿",
+    "brand": null
+   },
+   "swatches": [
+    "#7a2f3a",
+    "#f4f2ee",
+    "#c9cfb8"
+   ],
+   "point": "运动感的抓绒外套配网球裙和堆堆袜，下半身全白，上身一件酒红格纹就够有冬天的温度。",
+   "styles": [
+    "sporty",
+    "preppy"
+   ],
+   "sources": [
+    {
+     "label": "Harper's BAZAAR Korea：플리스도 이렇게 입으면 예쁘다! 셀럽들의 겨울 플리스 코디 5（2026-11-06，图注 @goxnniee）",
+     "url": "https://www.harpersbazaar.co.kr/article/1912611"
+    }
+   ]
+  },
+  {
+   "id": "bg-j876my-bluefur-20260129",
+   "category": "blogger",
+   "artist": "젤라비 Jellabi（时尚博主）",
+   "member": "@j876my",
+   "title": "雾蓝毛绒外套配同色紧身套装",
+   "where": "Harper's BAZAAR Korea 转载 · @j876my · 2026-01-29（Instagram 原帖日期转载未注明）",
+   "date": "2026-01-29",
+   "body": "half",
+   "image": {
+    "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/01/28/240e7989-13ac-4178-8def-9cfef18377bf.jpg",
+    "frame": "contain",
+    "width": 1080,
+    "height": 1440,
+    "alt": "时尚博主 @j876my 雪地半身照：雾蓝色短款毛绒外套、同色拉链上衣和紧身裤、黑色毛绒帽和墨镜",
+    "credit": "Harper's BAZAAR Korea（转载 @j876my）"
+   },
+   "video": null,
+   "breakdown": {
+    "top": "雾蓝色短款长毛毛绒外套，内搭同色立领拉链紧身上衣",
+    "bottom": "同色雾蓝紧身裤（打底裤）",
+    "shoes": "画面只拍到大腿以下一点，鞋子没拍到",
+    "accessories": "黑色毛绒帽；黑色窄框墨镜；黑色手套",
+    "palette": "雾蓝 · 黑",
+    "brand": null
+   },
+   "swatches": [
+    "#8f9cc4",
+    "#121114"
+   ],
+   "point": "一身雾蓝从外套到紧身裤同色到底，再用黑色毛帽和墨镜收住，是雪地里最上镜的「一色穿」。",
+   "styles": [
+    "minimal",
+    "sporty"
+   ],
+   "sources": [
+    {
+     "label": "Harper's BAZAAR Korea：박규영부터 글로벌 인플루언서까지, '컬러 퍼 아우터' 트렌드 룩 5（2026-01-29，图注 @j876my）",
+     "url": "https://www.harpersbazaar.co.kr/article/1896206"
+    }
+   ]
+  },
   {
    "id": "st-chaeryeong-1113",
    "category": "stage",
@@ -774,92 +1115,6 @@
    ]
   },
   {
-   "id": "mg-illit-ginza",
-   "category": "magazine",
-   "artist": "ILLIT",
-   "member": "IROHA & WONHEE",
-   "title": "GINZA 2026 年 11 月号",
-   "where": "GINZA（日本）· 2026 年 11 月号 · 网站 2026-10-27 刊出",
-   "date": "2026-10-27",
-   "body": "half",
-   "image": {
-    "src": "https://api.ginzamag.com/wp-content/uploads/2026/10/illit-interview2611-2-1416x1888.jpg",
-    "frame": "contain",
-    "width": 1416,
-    "height": 1888,
-    "alt": "ILLIT IROHA 与 WONHEE 靠墙坐在地上，灰色尼龙外套配宽松裤，WONHEE 戴毛绒雷锋帽，半身以上",
-    "credit": "GINZA（Magazine House）· Photo Kazuhei Kimura"
-   },
-   "video": null,
-   "breakdown": {
-    "top": "IROHA：灰色尼龙外套 + 藏青色内搭；WONHEE：灰色尼龙外套 + 深色内搭",
-    "bottom": "IROHA：橄榄棕色宽松长裤；WONHEE：藏青色宽松长裤",
-    "shoes": "画面看不清（来源列：IROHA 运动鞋、WONHEE 乐福鞋）",
-    "accessories": "WONHEE：驼色毛绒雷锋帽",
-    "palette": "灰 · 藏青 · 橄榄棕 · 驼色",
-    "brand": "MIU MIU（来源写明：两人外套、上衣、裤子、鞋、帽子均为 Miu Miu 预定价格单品）"
-   },
-   "swatches": [
-    "#5d6066",
-    "#2b2f4a",
-    "#5e5440",
-    "#c99a5c"
-   ],
-   "point": "机能尼龙外套配宽裤，加一顶毛绒帽，运动感一下变成可爱的冬日造型。",
-   "styles": [
-    "sporty"
-   ],
-   "sources": [
-    {
-     "label": "GINZA：ILLIT・WONHEE & IROHAにインタビュー（2026-10-27）",
-     "url": "https://ginzamag.com/categories/interview/604569"
-    }
-   ]
-  },
-  {
-   "id": "st-yunah-1101",
-   "category": "stage",
-   "artist": "ILLIT",
-   "member": "YUNAH",
-   "title": "체포하겠어 (You're Under Arrest)",
-   "where": "SBS 人气歌谣 · 11/01",
-   "date": "2026-11-01",
-   "body": "full",
-   "image": {
-    "src": "https://i.ytimg.com/vi/jlL8a1hiSKA/maxres2.jpg",
-    "frame": "fancam",
-    "width": 1280,
-    "height": 720,
-    "alt": "ILLIT YUNAH《체포하겠어 (You're Under Arrest)》SBS 人气歌谣 直拍画面，全身造型",
-    "credit": "SBSKPOP ZOOM 官方直拍画面"
-   },
-   "video": "jlL8a1hiSKA",
-   "breakdown": {
-    "top": "白色长袖打底 + 黑色印花短款上衣叠穿",
-    "bottom": "紫白格纹直筒长裤",
-    "shoes": "黑色乐福鞋 / 厚底鞋",
-    "accessories": "双麻花辫",
-    "palette": "黑 · 白 · 紫格纹",
-    "brand": null
-   },
-   "swatches": [
-    "#1d1b22",
-    "#f4f2f5",
-    "#8c78b8"
-   ],
-   "point": "格纹长裤配短上衣把腰线提高，叠穿白色长袖让黑色不显沉。",
-   "styles": [
-    "y2k",
-    "preppy"
-   ],
-   "sources": [
-    {
-     "label": "SBSKPOP ZOOM：YUNAH 直拍（SBS 人气歌谣 2026-11-01）",
-     "url": "https://www.youtube.com/watch?v=jlL8a1hiSKA"
-    }
-   ]
-  },
-  {
    "id": "st-wonhee-1107",
    "category": "stage",
    "artist": "ILLIT",
@@ -940,48 +1195,6 @@
     {
      "label": "MBCkpop：MINJU 直拍（MBC 音乐中心 2026-11-07）",
      "url": "https://www.youtube.com/watch?v=IKxSyyICCI8"
-    }
-   ]
-  },
-  {
-   "id": "st-iroha-1101",
-   "category": "stage",
-   "artist": "ILLIT",
-   "member": "IROHA",
-   "title": "체포하겠어 (You're Under Arrest)",
-   "where": "SBS 人气歌谣 · 11/01",
-   "date": "2026-11-01",
-   "body": "full",
-   "image": {
-    "src": "https://i.ytimg.com/vi/4JdwIW7Tyq0/maxres2.jpg",
-    "frame": "fancam",
-    "width": 1280,
-    "height": 720,
-    "alt": "ILLIT IROHA《체포하겠어 (You're Under Arrest)》SBS 人气歌谣 直拍画面，全身造型",
-    "credit": "SBSKPOP ZOOM 官方直拍画面"
-   },
-   "video": "4JdwIW7Tyq0",
-   "breakdown": {
-    "top": "白衬衫 + 灰色印花领带",
-    "bottom": "黑色百褶短裙",
-    "shoes": "黑色厚底鞋 / 短靴",
-    "accessories": "白色及膝袜",
-    "palette": "黑 · 白 · 灰",
-    "brand": null
-   },
-   "swatches": [
-    "#18171b",
-    "#f6f6f6",
-    "#8d8f96"
-   ],
-   "point": "制服感：衬衫 + 领带 + 百褶裙，及膝白袜是学院风关键。",
-   "styles": [
-    "preppy"
-   ],
-   "sources": [
-    {
-     "label": "SBSKPOP ZOOM：IROHA 直拍（SBS 人气歌谣 2026-11-01）",
-     "url": "https://www.youtube.com/watch?v=4JdwIW7Tyq0"
     }
    ]
   },
@@ -1316,47 +1529,6 @@
    ]
   },
   {
-   "id": "st-yujin-1031",
-   "category": "stage",
-   "artist": "IVE",
-   "member": "AN YUJIN",
-   "title": "Looks Can Kill",
-   "where": "MBC 音乐中心 · 10/31",
-   "date": "2026-10-31",
-   "body": "full",
-   "image": {
-    "src": "https://i.ytimg.com/vi/_Iyx2aSnb7M/maxres2.jpg",
-    "frame": "fancam",
-    "width": 1280,
-    "height": 720,
-    "alt": "IVE AN YUJIN《Looks Can Kill》MBC 音乐中心 直拍画面，全身造型",
-    "credit": "MBCkpop 官方直拍画面"
-   },
-   "video": "_Iyx2aSnb7M",
-   "breakdown": {
-    "top": "黑色短款背心",
-    "bottom": "黑色短裤",
-    "shoes": "黑色长靴",
-    "accessories": "黑色护腕",
-    "palette": "全黑",
-    "brand": null
-   },
-   "swatches": [
-    "#121114",
-    "#24222a"
-   ],
-   "point": "背心 + 短裤 + 长靴的全黑组合，护腕增加运动感。",
-   "styles": [
-    "dark"
-   ],
-   "sources": [
-    {
-     "label": "MBCkpop：AN YUJIN 直拍（MBC 音乐中心 2026-10-31）",
-     "url": "https://www.youtube.com/watch?v=_Iyx2aSnb7M"
-    }
-   ]
-  },
-  {
    "id": "mg-anna-red",
    "category": "magazine",
    "artist": "MEOVV",
@@ -1432,48 +1604,6 @@
    "point": "正式外套 + 飘逸长裙，波西米亚风也能穿得利落。",
    "styles": [
     "romantic"
-   ],
-   "sources": [
-    {
-     "label": "Harper's BAZAAR Korea：파리에서 만난 미야오 안나（2026-10-29）",
-     "url": "https://www.harpersbazaar.co.kr/article/1911873"
-    }
-   ]
-  },
-  {
-   "id": "mg-anna-knit",
-   "category": "magazine",
-   "artist": "MEOVV",
-   "member": "ANNA",
-   "title": "Harper's BAZAAR Korea 巴黎画报",
-   "where": "Harper's BAZAAR Korea · 2026-10-29 线上画报",
-   "date": "2026-10-29",
-   "body": "half",
-   "image": {
-    "src": "https://www.harpersbazaar.co.kr/resources/online/online_image/2026/10/23/4826a4b0-694b-44eb-bbe6-1503231a9357.jpg",
-    "frame": "contain",
-    "width": 1200,
-    "height": 1500,
-    "alt": "MEOVV ANNA 穿白色毛线球装饰开衫和条纹衬衫，系马形扣腰带，半身照",
-    "credit": "Harper's BAZAAR Korea"
-   },
-   "video": null,
-   "breakdown": {
-    "top": "白色立体毛线球开衫 + 浅蓝条纹衬衫",
-    "bottom": "黑色皮裤（来源写明；画面中只到腰下）",
-    "shoes": "画面未拍到",
-    "accessories": "马形装饰腰带",
-    "palette": "奶白 · 浅蓝 · 黑 · 彩色小花",
-    "brand": "Chloé（来源写明：开衫、条纹衬衫、皮裤、马形腰带均为 Chloé）"
-   },
-   "swatches": [
-    "#f6f1e8",
-    "#bcd0ea",
-    "#121114"
-   ],
-   "point": "甜的毛线开衫配硬朗皮裤和大扣腰带，一甜一酷。",
-   "styles": [
-    "preppy"
    ],
    "sources": [
     {

@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-22",
+ "lastUpdated": "2026-11-23",
  "timezone": "America/Los_Angeles",
  "priceNotice": "票价为价格快照，不是秒级行情，各条目标注了各自的快照日期与费用口径。官方面价未公布时会明确留空；转售价格均标明来源与查询日期。",
  "distanceNotice": "西雅图区域包括西雅图、塔科马（Tacoma）和 Eastside（贝尔维尤、雷德蒙德、柯克兰等），以及埃弗里特、肯特等周边场馆。已官宣的远期巡演（含 2027 年及更后）都会收录；场馆、开演时刻或开票未公布的会标「待公布」，不会因此跳过，也不会猜测。研究快照没有可靠的距离数据，因此没有伪造公里数或“离你最近”排序。",
@@ -36,8 +36,8 @@
     },
     {
      "label": "转售起售价",
-     "value": "约 $98 起",
-     "note": "转售价（非官方面价），TixScape 比价 2026-11-22 快照（SI Tickets 最低 $98.00）"
+     "value": "约 $86 起",
+     "note": "转售价（非官方面价），TixScape 比价 2026-11-23 快照（TickPick 最低 $85.80）"
     }
    ],
    "onsale": {
@@ -67,11 +67,7 @@
      "url": "https://www.vividseats.com/oneus-tickets/performer/117881"
     },
     {
-     "label": "TixScape 转售比价页（2026-11-22 快照）",
-     "url": "https://tixscape.com/s/e/8272843"
-    },
-    {
-     "label": "TixScape 转售比价页（2026-11-16 快照）",
+     "label": "TixScape 转售比价页（2026-11-23 快照）",
      "url": "https://tixscape.com/s/e/8272843"
     }
    ]
@@ -101,7 +97,7 @@
     {
      "label": "转售起售价",
      "value": "约 $72 起",
-     "note": "转售价（非官方面价），TixScape 比价 2026-11-22 快照（Ticket Network 最低 $72.31）"
+     "note": "转售价（非官方面价），TixScape 比价 2026-11-23 快照（Ticket Network 最低 $72.31）"
     },
     {
      "label": "座位",
@@ -137,7 +133,7 @@
      "url": "https://www.allkpop.com/article/2026/11/wonho-announces-10-us-cities-for-2027-world-tour-noche"
     },
     {
-     "label": "TixScape 转售比价页（2026-11-22 快照）",
+     "label": "TixScape 转售比价页（2026-11-23 快照）",
      "url": "https://tixscape.com/s/e/8364021"
     }
    ]
@@ -168,7 +164,7 @@
     {
      "label": "转售起售价",
      "value": "约 $55 起",
-     "note": "转售价（非官方面价），TixScape 比价 2026-11-22 快照（Ticket Network 最低 $55.34）"
+     "note": "转售价（非官方面价），TixScape 比价 2026-11-23 快照（Ticket Network 最低 $55.34）"
     },
     {
      "label": "年龄",
@@ -195,7 +191,7 @@
      "url": "https://goseeshows.com/seattle/shows/2027-03-31-showbox-at-the-market-hyukoh/"
     },
     {
-     "label": "TixScape 转售比价页（2026-11-22 快照）",
+     "label": "TixScape 转售比价页（2026-11-23 快照）",
      "url": "https://tixscape.com/s/e/8359259"
     }
    ]
@@ -230,7 +226,7 @@
     {
      "label": "开票",
      "value": "待公布",
-     "note": "2026-11-22 复查官方巡演页，场馆、开演时刻和开票时间仍未公布，因此不设开票提醒"
+     "note": "2026-11-23 复查：官方巡演页（动态页面）未抓到新内容；Tacoma Dome 官网活动列表未出现 TXT，KPOPS 巡演页（11/20 查询）也仍写“Tickets not announced”。场馆、开演时刻和开票时间仍未公布，因此不设开票提醒"
     }
    ],
    "search": "TOMORROW X TOGETHER TXT 투모로우바이투게더 STEAL THE WIND Tacoma 塔科马 2027-05-04",
@@ -246,6 +242,10 @@
     {
      "label": "Consequence 报道",
      "url": "https://consequence.net/2026/08/tomorrow-x-together-2026-2027-steal-the-wind-world-tour-dates/"
+    },
+    {
+     "label": "KPOPS 巡演页（2026-11-20 查询）",
+     "url": "https://www.kpops.co/en/artists/txt/topics/steal-the-wind-world-tour-2026-2027"
     }
    ]
   },
@@ -273,8 +273,8 @@
     },
     {
      "label": "转售起售价",
-     "value": "约 $54 起",
-     "note": "转售价（非官方面价），TixScape 比价 2026-11-22 快照（西雅图 Lumen Field，10 家平台最低 $54.45）"
+     "value": "约 $55 起",
+     "note": "转售价（非官方面价），TixScape 比价 2026-11-23 快照（西雅图 Lumen Field，12 家平台，Ticket Network 最低 $55.34）"
     },
     {
      "label": "阵容",
@@ -311,7 +311,7 @@
      "url": "https://news.livenationentertainment.com/news/stray-kids-announce-2027-world-tour-run-it-across-north-america-europe-and-the-uk"
     },
     {
-     "label": "TixScape 转售比价页（2026-11-22 快照）",
+     "label": "TixScape 转售比价页（2026-11-23 快照）",
      "url": "https://tixscape.com/s/e/8361510"
     }
    ]
@@ -349,8 +349,8 @@
     },
     {
      "label": "转售起售价",
-     "value": "待确认",
-     "note": "公开发售已开始；2026-11-22 复查时未查到可靠的转售比价快照，不作猜测。"
+     "value": "下午场约 $110 起 / 晚场约 $92 起",
+     "note": "多平台比价最低含费价（含转售，非官方面价），UPFRONT 比价页 2026-11-23 查询"
     }
    ],
    "onsale": {
@@ -380,6 +380,10 @@
     {
      "label": "Deadline 报道（2026-11-13）",
      "url": "https://deadline.com/2026/11/kpop-demon-hunters-2027-golden-tour-dates-1237222688/"
+    },
+    {
+     "label": "UPFRONT 比价页（2026-11-23 查询）",
+     "url": "https://upfront.tickets/guides/kpop-demon-hunters-golden-world-tour-tickets/"
     }
    ]
   }
